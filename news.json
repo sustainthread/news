@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2025-12-03T06:43:02.581662",
-  "count": 13,
+  "lastUpdated": "2025-12-04T06:42:59.984055",
+  "count": 14,
   "articles": [
+    {
+      "title": "Italian luxury giant Prada buys Versace for $1.38bn",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3e05j9012vo",
+      "date": "03-12-2025",
+      "description": "The deal unites two major Italian fashion houses and expands Prada's line-up of brands as it seeks to compete with the LVMH group.",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fd17/live/acc200c0-d003-11f0-87b3-3f134c906f25.jpg"
+    },
+    {
+      "title": "China’s Lawfare Is Reshaping Sovereignty And Supply Chain Security",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/jillgoldenziel/2025/12/02/chinas-lawfare-is-reshaping-sovereignty-and-supply-chain-security/",
+      "date": "03-12-2025",
+      "description": "China’s legal warfare in the South China Sea is reshaping the regional map—and raising global business risk.",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/692faa70567a7a83ba94d4e9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
     {
       "title": "Fast-fashion firms Shein and Temu face calls for US investigation",
       "source": "BBC News",
@@ -97,14 +113,6 @@
       "date": "21-11-2025",
       "description": "India says it has met a key target of its previous climate action plan, but many say it needs to do more.",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f972/live/ba929fd0-c675-11f0-a674-cf008e1f5535.jpg"
-    },
-    {
-      "title": "Africa hosts its first G20 and urges the rich world to do more against climate disasters",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/articles/africa-hosts-first-g20-urges-044101161.html",
-      "date": "19-11-2025",
-      "description": "In South Africa ’s oldest township, volunteers in wetsuits jump into the thigh-deep water of the polluted Jukskei River to untangle a net that's designed to ...",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1fcvvMZL8vK.jbXvIPNddA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/7361fe330144b90a652f907a3d9a1878"
     }
   ]
 }
