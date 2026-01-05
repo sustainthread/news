@@ -1,6 +1,929 @@
 {
-  "timestamp": "2026-01-04T06:43:22.427021",
+  "timestamp": "2026-01-05T06:52:51.168852",
   "data": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Stephan Shemilt - Chief Cricket Reporter at the Sydney Cricket Ground",
+      "title": "Weather curtails England's strong start in Sydney",
+      "description": "England\u2019s promising start to the fifth Ashes Test against Australia is curtailed by bad light and rain on the opening day in Sydney.",
+      "url": "https://www.bbc.com/sport/cricket/articles/clygvd09g1vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XIbgbeQVlSzLP6c.gecx0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/082916ef96995b243f140f5c9352ea97",
+      "publishedAt": "2026-01-04T06:06:05Z",
+      "content": "Fifth Ashes Test, Sydney Cricket Ground (day one of five)\r\nEngland 211-3: Brook 78*, Root 72*\r\nAustralia: Yet to bat\r\nEngland won the toss\r\nScorecard\r\nEngland's promising start to the fifth Ashes Tes\u2026 [+5118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Rod Gilmour",
+      "title": "'Acne was debilitating for me so I set up a \u00a340m business to help others'",
+      "description": "James Mishreki is the creator behind Skin + Me, providing skin treatment on prescription-grade subscription in a business valued at \u00a3160m.",
+      "url": "https://uk.finance.yahoo.com/news/skin-and-me-skincare-acne-business-james-mishreki-060014176.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZJdoSz90eZH8b06XtOrSqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/5df7fb10-08aa-11ef-8f7d-a1d7631d48e3",
+      "publishedAt": "2026-01-04T06:00:14Z",
+      "content": "James Mishreki started as a professional poker player before turning to health tech.\r\nJames Mishreki suffered from acne as a teenager growing up in Northumberland. A debilitating period which dented \u2026 [+6483 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "BILL BARROW and EMILIE MEGNIEN",
+      "title": "Marjorie Taylor Greene made waves. Her constituents don't agree on whether it was worth it",
+      "description": "President Donald Trump says Rep. Marjorie Taylor Greene is a traitor.  \u201cEvery thought that we had in our minds, she seemed to be very good at verbalizing...",
+      "url": "https://www.yahoo.com/news/articles/marjorie-taylor-greene-made-waves-051127726.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/t8PoPBYLV6Fu93p3R9QZTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/48d1a68814e677b75e425e30d4d2f25e",
+      "publishedAt": "2026-01-04T05:11:27Z",
+      "content": "DALTON, Ga. (AP) President Donald Trump says Rep. Marjorie Taylor Greene is a traitor. But for Jackie Harling, who chairs the local Republican Party in Greenes northwestern corner of Georgia, shes st\u2026 [+6150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Eric Sondheimer",
+      "title": "Prep basketball roundup: Joe Sterling's clutch free throws seal Harvard-Westlake victory",
+      "description": "It took four consecutive free throws by Joe Sterling in the final 21 seconds for Harvard-Westlake to hold on for a 50-46 victory over Rolling Hills Prep.",
+      "url": "https://sports.yahoo.com/articles/prep-basketball-roundup-joe-sterlings-041332548.html",
+      "urlToImage": "https://media.zenfs.com/en/la_times_articles_853/5297f11c241fbba3a3a6cd767535d834",
+      "publishedAt": "2026-01-04T04:13:32Z",
+      "content": "When it's Harvey Kitani versus David Rebibo in a high school basketball coaching matchup, you know it's going to be a defensive grind. They demand defensive production, so Rolling Hills Prep and Harv\u2026 [+2684 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Colin Keane",
+      "title": "Lakers Trade Rumor Shot Down By LeBron James\u2019 Agent",
+      "description": "With the NBA trade deadline looming on February 5, LeBron James is finding himself in whispered trade rumors, but how real are they? At 41 years old, James isn\u2019t what he once was, but he still contributes to winning and is capable of playing at an All-Star le\u2026",
+      "url": "https://sports.yahoo.com/articles/lakers-trade-rumor-shot-down-032400197.html",
+      "urlToImage": "https://media.zenfs.com/en/nesn_articles_905/6b7e7edf1826a2dcf4dac792c3bce2b1",
+      "publishedAt": "2026-01-04T03:24:00Z",
+      "content": "With the NBA trade deadline looming on February 5, LeBron James is finding himself in whispered trade rumors, but how real are they?\r\nAt 41 years old, James isn\u2019t what he once was, but he still contr\u2026 [+1734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Calvin Coffee",
+      "title": "Scientists issue warning about dangerous phenomenon escalating in the Arctic \u2014 here's what's happening",
+      "description": "Global action will be crucial.",
+      "url": "https://www.yahoo.com/news/articles/scientists-issue-warning-dangerous-phenomenon-031500698.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/E08fPsSeFwAFE8PjPHzobQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/429ca205e01bc31ad03b5c9beec61698",
+      "publishedAt": "2026-01-04T03:15:00Z",
+      "content": "The Arctic is undergoing extreme melting as rising temperatures and climate patterns alter the natural cycles of its extreme landscapes.\r\nWhat's happening?\r\nIntensified extreme weather is causing rap\u2026 [+3010 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'A long road ahead': Venezuelans react to Maduro's arrest with hope and worry",
+      "description": "Caracas residents worry about what comes after US intervention in their country amid a tense political climate.",
+      "url": "https://www.bbc.com/news/articles/c86vq753nwpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/293c/live/d5fab210-e8fa-11f0-89f9-41a77807b575.jpg",
+      "publishedAt": "2026-01-04T01:23:56Z",
+      "content": "As the dust settles in Caracas, Venezuelans are reacting to the news of President Nicol\u00e1s Maduro's capture by the US with hope, fear, and uncertainty. \r\nPeople began to emerge in the streets Saturday\u2026 [+4262 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Yahoo Sports Staff",
+      "title": "NFL Week 18 results: Steelers secure final playoff spot with dramatic win over Ravens",
+      "description": "Here's what every game in Week 18 meant for each team.",
+      "url": "https://sports.yahoo.com/nfl/article/nfl-week-18-results-steelers-secure-final-playoff-spot-with-dramatic-win-over-ravens-002308398.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MCtC5ydgAQBpan6_AptgZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-01/b4141da0-e9f2-11f0-bf4f-bc4aeeece6ee",
+      "publishedAt": "2026-01-04T00:23:08Z",
+      "content": "A lot was decided in the final week of the NFL regular season, including four division titles, the No. 1 seeds in the playoffs and the No. 1 pick in the 2026 NFL Draft.\r\nThe regular season finale del\u2026 [+3680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Tsvetana Paraskova",
+      "title": "An Entire Arctic Town Is Being Moved in Europe\u2019s Minerals Expansion",
+      "description": "Sweden\u2019s mining company LKAB is relocating the entire town of Kiruna\u2014including a 113-year-old church\u2014to enable continued iron ore extraction.",
+      "url": "https://finance.yahoo.com/news/entire-arctic-town-being-moved-000000026.html",
+      "urlToImage": "https://media.zenfs.com/en/oilprice.com/6fa5ed4ce9b97a5fbea736282a29120f",
+      "publishedAt": "2026-01-04T00:00:00Z",
+      "content": "Over two days during the short 2025 summer beyond the Arctic Circle, a mining company moved a 113-year-old timber church building in its entirety nearly two miles away, in an engineering feat that ma\u2026 [+4818 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jordan Shusterman",
+      "title": "Blue Jays finally land a Japanese star with Kazuma Okamoto \u2014 but where does he fit on the roster?",
+      "description": "Okamoto's signing is a bold reminder of Toronto\u2019s fresh status as one of baseball\u2019s certified behemoths.",
+      "url": "https://sports.yahoo.com/mlb/article/blue-jays-finally-land-a-japanese-star-with-kazuma-okamoto--but-where-does-he-fit-on-the-roster-235314924.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/G9Tfn0tQEwPM8_ZJSqpglQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-12/2fa7d0a0-e0a8-11f0-a7bb-5e7556eaf4b6",
+      "publishedAt": "2026-01-03T23:53:14Z",
+      "content": "The defending American League champion Toronto Blue Jays, having already spent more in free agency than any other major-league club, have made another big splash to start the new year, signing 29-yea\u2026 [+7927 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "26-year-old mattress chain closing its doors forever",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3d797b33-c367-48c7-8023-58666c12aa3a",
+      "urlToImage": null,
+      "publishedAt": "2026-01-03T23:45:42Z",
+      "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kim LaCapria",
+      "title": "Officials implement total ban on common grocery store item that will force customers to rethink shopping habits: 'We'll get used to it'",
+      "description": "These bans aren't new.",
+      "url": "https://www.yahoo.com/news/articles/officials-implement-total-ban-common-233000638.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wwVk3nWD_GRU94CcgG_IJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njc7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/4bb38fde0a545ec26aafd4dd155bcdf6",
+      "publishedAt": "2026-01-03T23:30:00Z",
+      "content": "A new law in California has yet to officially take effect, but as Sacramento's KXTV reported, some grocery stores started complying early.\r\nSenate Bill 1053, adopted in 2024, is a plastic bag ban, bu\u2026 [+2572 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Rik Sharma",
+      "title": "Barca edge Espanyol as Flick thanks 'unbelievable' goalkeeper Garcia",
+      "description": "Dani Olmo and Robert Lewandowski's late strikes helped Barcelona snatch a 2-0 win at Espanyol on Saturday to move seven points clear at the top of La Liga, with coach Hansi Flick left thanking his goalkeeper Joan Garcia.Elsewhere Villarreal maintained the pre\u2026",
+      "url": "https://sports.yahoo.com/articles/barca-edge-espanyol-flick-thanks-225000122.html",
+      "urlToImage": "https://media.zenfs.com/en/afp.com/ec68544301d126a81a763a8e8f80cf4c",
+      "publishedAt": "2026-01-03T22:50:00Z",
+      "content": "Dani Olmo and Robert Lewandowski's late strikes helped Barcelona snatch a 2-0 win at Espanyol on Saturday to move seven points clear at the top of La Liga, with coach Hansi Flick left thanking his go\u2026 [+4019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AFP",
+      "title": "'Nothing concrete' in Rosenior Chelsea reports",
+      "description": "Strasbourg coach Liam Rosenior said on Saturday that there was \"nothing concrete\" about the reports linking him with the Chelsea job, after his team's 1-1 draw at Nice in Ligue 1.Earlier, Czech Republic forward Pavel Sulc scored twice as Lyon beat Monaco 3-1 \u2026",
+      "url": "https://sports.yahoo.com/articles/nothing-concrete-rosenior-chelsea-reports-224347656.html",
+      "urlToImage": "https://media.zenfs.com/en/afp.com/2bc1feb36fdcfccad3b040dcc28f5c60",
+      "publishedAt": "2026-01-03T22:43:47Z",
+      "content": "Strasbourg coach Liam Rosenior said on Saturday that there was \"nothing concrete\" about the reports linking him with the Chelsea job, after his team's 1-1 draw at Nice in Ligue 1.\r\nEnzo Maresca left \u2026 [+2189 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ivy Grace",
+      "title": "I'm 58 With $1.5M Saved and a Small Mortgage \u2014 Should I Pay It Off Before Retirement?",
+      "description": "Picture this: James is 58 years old. He's built up about $1.5 million in retirement accounts and still has a modest mortgage on his home. He doesn\u2019t love the...",
+      "url": "https://finance.yahoo.com/news/im-58-1-5m-saved-213616516.html",
+      "urlToImage": "https://media.zenfs.com/en/benzinga_79/b4bee1926dce04e84833378bed13ac0d",
+      "publishedAt": "2026-01-03T21:36:16Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nPicture this: James is 58 years old. He's built up about $1.5 million in retirement accounts and \u2026 [+8522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "TIM REYNOLDS",
+      "title": "Miami coach Mario Cristobal dismisses hype around his team as he prepares for Fiesta Bowl",
+      "description": "Mario Cristobal doesn't want to hear any of the incessant \u201cThe U Is Back\u201d stuff. Yes, the Miami Hurricanes are in the College Football Playoff semifinals after being given almost no chance of making the 12-team field after a pair of losses around the midseaso\u2026",
+      "url": "https://sports.yahoo.com/articles/miami-coach-mario-cristobal-dismisses-212647043.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5l6jQqHAUnwkS688kFT2mg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/c6da6443a9a8dcd4acc0523771c6d3c5",
+      "publishedAt": "2026-01-03T21:26:47Z",
+      "content": "CORAL GABLES, Fla. (AP) Mario Cristobal doesn't want to hear any of the incessant The U Is Back stuff.\r\nYes, the Miami Hurricanes are in the College Football Playoff semifinals after being given almo\u2026 [+4192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Venezuela could now define Trump's legacy - and America's place in the world",
+      "description": "Removing a leader and pledging to rebuild a country represents a major shift in Trump's America First vision, writes Anthony Zurcher.",
+      "url": "https://www.bbc.com/news/articles/cx2x70k2q26o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5169/live/64ad6d80-e8d9-11f0-9ca9-bb676ea60a08.jpg",
+      "publishedAt": "2026-01-03T21:11:44Z",
+      "content": "Anthony ZurcherNorth America correspondent\r\nPresident Trump and CIA Director John Ratcliffe watched the US attack on Venezeula from Washington\r\nAfter launching a night of shock and awe in Venezuela, \u2026 [+7237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Vince Golle and Craig Stirling",
+      "title": "Modest US hiring to cap a sluggish year for the job market",
+      "description": "Economists project nearly 60,000 jobs were added for the month, based on the median of a Bloomberg survey ahead of Bureau of Labor Statistics data out Friday...",
+      "url": "https://finance.yahoo.com/news/modest-us-hiring-cap-sluggish-210000946.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sU5prVF_5iHW9DN_87IUKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/a12ca9b4986fd3e03f85532904ff4c17",
+      "publishedAt": "2026-01-03T21:00:00Z",
+      "content": "(Bloomberg) -- US job gains probably remained modest in December, wrapping up one of the weakest years for employment growth since 2009.\r\nEconomists project nearly 60,000 jobs were added for the mont\u2026 [+7494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Amy Canavan - BBC Sport Scotland at Fir Park",
+      "title": "How far can Askou's 'extremely ambitious' Motherwell go?",
+      "description": "After backing up their \"sexy\" result against Celtic with victory against St Mirren, Motherwell manager Jens Berthel Askou batted away talk of their involvement in a title race, but how far can his \"extremely ambitious\" side go?",
+      "url": "https://www.bbc.com/sport/football/articles/c2lg9xywr2vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/14AybATzrIresk1lc8lA2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/d899f86b642a61c96272e6025f2295fa",
+      "publishedAt": "2026-01-03T20:48:47Z",
+      "content": "\"We're not just in it to get a sexy win somewhere, lean back and say, 'well done'. We're here to have a fantastic season.\"\r\nJens Berthel Askou and his side are well on their way to doing just that.\r\n\u2026 [+4842 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Amy Canavan",
+      "title": "How far can Askou's 'extremely ambitious' Motherwell go?",
+      "description": "After backing up their \"sexy\" result against Celtic with victory against St Mirren, Motherwell manager Jens Berthel Askou batted away talk of their involvement in a title race, but how far can his \"extremely ambitious\" side go?",
+      "url": "https://www.bbc.com/sport/football/articles/c2lg9xywr2vo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/adc6/live/06fac390-e8d9-11f0-9ca9-bb676ea60a08.jpg",
+      "publishedAt": "2026-01-03T20:48:43Z",
+      "content": "Perhaps most telling of all, on a bitterly freezing afternoon against St Mirren, more than 7,000 supporters draped in claret and amber turned out.\r\nThey know these are the days of their dreams.\r\nSmil\u2026 [+1142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AFP",
+      "title": "Nice snap losing run on Puel return",
+      "description": "Former Leicester coach Claude Puel guided Nice to a 1-1 draw with Strasbourg in Ligue 1 on Saturday as he started his second spell in charge by ending a six-game losing streak in the league.Earlier, Czech Republic attacker Pavel Sulc scored twice as Lyon beat\u2026",
+      "url": "https://sports.yahoo.com/articles/nice-snap-losing-run-puel-204729471.html",
+      "urlToImage": "https://media.zenfs.com/en/afp.com/f306e47175170bce0c4e74efd3ef6657",
+      "publishedAt": "2026-01-03T20:47:29Z",
+      "content": "Former Leicester coach Claude Puel guided Nice to a 1-1 draw with Strasbourg in Ligue 1 on Saturday as he started his second spell in charge by ending a six-game losing streak in the league.\r\nArgenti\u2026 [+1692 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Adwaidh Rajan - BBC Sport journalist",
+      "title": "'Shocking, pathetic and embarrassing' - can Nuno save West Ham?",
+      "description": "For West Ham and Nuno Espirito Santo, the picture looks bleak. A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality check for the struggling Hammers.",
+      "url": "https://www.bbc.com/sport/football/articles/cy8p75pxyjzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/47307e2fbfadb59ee83dc00b64bedb0c",
+      "publishedAt": "2026-01-03T20:36:01Z",
+      "content": "For West Ham and manager Nuno Espirito Santo, the picture looks bleak. \r\nA hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality check for the Hammers.\r\nThey remain in the drop\u2026 [+6836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Caleb Mutua and Isabelle Lee",
+      "title": "AI Debt Spree Is Fueling a Credit Trading Frenzy: Credit Weekly",
+      "description": "An average of $50 billion in investment-grade and high-yield bonds changed hands each trading day last year, according to Crisil Coalition Greenwich, a...",
+      "url": "https://finance.yahoo.com/news/ai-debt-spree-fueling-credit-200000375.html",
+      "urlToImage": "https://media.zenfs.com/en/bloomberg_holding_pen_162/ea801e6f3c51bcd3d4dea5d101430f7a",
+      "publishedAt": "2026-01-03T20:00:00Z",
+      "content": "Morgan Stanley, JPMorgan, BofA, TD\r\n(Bloomberg) -- Artificial intelligence spending and the growth of the private credit market arent just spurring companies to borrow more, theyre also helping to ge\u2026 [+6991 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "Leinster hammer Connacht for seventh win in a row",
+      "description": "Leinster ensure a clean sweep of their United Rugby Championship festive derbies thanks to a dominant second half performance against Connacht in the Aviva Stadium.",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cvgx041zljko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HbChhMmoBkZO7ndSEq.z7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/8524719c62c2d1932045a6233004a56a",
+      "publishedAt": "2026-01-03T19:37:43Z",
+      "content": "United Rugby Championship, Aviva Stadium\r\nLeinster 52 (19)\r\nTries: Sheehan, Tector 2 , Prendergast, Deeney, O'Brien 2, Kenny Cons: Prendergast 6\r\nConnacht 17 (17)\r\nTries: Tierney-Martin, Bealham Cons\u2026 [+4207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Michael S. Derby",
+      "title": "Fed's Paulson signals another rate cut could take a while",
+      "description": "Jan 3 (Reuters) - Federal Reserve Bank of Philadelphia President Anna Paulson said on Saturday that further central bank rate cuts could be some way off...",
+      "url": "https://finance.yahoo.com/news/feds-paulson-signals-another-rate-193145229.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/4603ad71d531b5084884741858caa0eb",
+      "publishedAt": "2026-01-03T19:31:45Z",
+      "content": "By Michael S. Derby\r\nJan 3 (Reuters) - Federal Reserve Bank of Philadelphia President Anna Paulson said on Saturday that further central bank rate cuts could be some way off while officials take stoc\u2026 [+2217 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "Leinster hammer Connacht for seventh win in a row",
+      "description": "Leinster ensure a clean sweep of their United Rugby Championship festive derbies thanks to a dominant second half performance against Connacht in the Aviva Stadium.",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cvgx041zljko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/31db/live/0cac9380-e8d5-11f0-afd0-e7d4ff442b4b.jpg",
+      "publishedAt": "2026-01-03T19:31:44Z",
+      "content": "Leinster: Frawley; O'Brien, Cooney, Tector, Kenny; Prendergast, Gibson-Park; Boyle, Sheehan (capt), Clarkson, McCarthy, Deeny, Mangan, Connors, Conan.\r\nReplacements: McCarthy, Cahir, Porter, O'Tighea\u2026 [+327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Bibhu Pattnaik",
+      "title": "Cathie Wood's ARK Fintech ETF Defies Industry Downturn, Soaring 30% In 2025",
+      "description": "Cathie Wood\u2019s ARK Blockchain & Fintech Innovation ETF (ARKF) outperformed the industry slump in 2025, delivering a remarkable 29% return The ETF\u2019s impressive...",
+      "url": "https://finance.yahoo.com/news/cathie-woods-ark-fintech-etf-193030955.html",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/7fca738beeaf4cedbbe2bf28de0f4d7f",
+      "publishedAt": "2026-01-03T19:30:30Z",
+      "content": "Cathie Woods\u00a0ARK Blockchain &amp; Fintech Innovation ETF (ARKF) outperformed the industry slump in 2025, delivering a remarkable 29% return\r\nThe ETFs impressive performance is credited to its diverse\u2026 [+2195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "Crues 'thoroughly deserved' win over Swifts - Caddell",
+      "description": "Crusaders boss Declan Caddell says his side \"thoroughly deserved\" their 2-0 win over Dungannon Swifts at Seaview.",
+      "url": "https://www.bbc.com/sport/articles/c9wxry4nkppo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
+      "publishedAt": "2026-01-03T18:37:05Z",
+      "content": "Crusaders boss Declan Caddell said his side \"thoroughly deserved\" their 2-0 win over Dungannon Swifts at Seaview.\r\nGoals from Finley Thorndike and Fraser Bryden helped the hosts extend their unbeaten\u2026 [+1389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Chris Cwik",
+      "title": "Kazuma Okamoto reportedly agrees to deal with Blue Jays",
+      "description": "The Japanese third baseman hit .327/.416/.598 with 15 home runs in just 69 games last season",
+      "url": "https://sports.yahoo.com/mlb/breaking-news/article/kazuma-okamoto-reportedly-agrees-to-deal-with-blue-jays-183559834.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NZnmR1SrFhIa2nCLLeGI7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-12/0d3cc390-d081-11f0-97ed-d8db739a36ee",
+      "publishedAt": "2026-01-03T18:35:59Z",
+      "content": "Nippon Professional Baseball has seen a number of elite pitchers make the transition to the major leagues and experience immediate success. Los Angeles Dodgers star Yoshinobu Yamamoto carried his tea\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Adwaidh Rajan - BBC Sport journalist",
+      "title": "Wolves show fighting spirit in first win of season",
+      "description": "The 3-0 win against West Ham on Saturday was more than just three points for Wolves - it was a statement from Rob Edwards' side that they still have some fight left in their battle to avoid relegation.",
+      "url": "https://www.bbc.com/sport/football/articles/c99krmz180yo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/84fd95356c4a754fdc1adc824acd027c",
+      "publishedAt": "2026-01-03T18:30:11Z",
+      "content": "The 3-0 win against West Ham on Saturday was more than just three points for Wolves - it was a statement from Rob Edwards' side that they still have some fight left in their battle to avoid relegatio\u2026 [+997 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Colin Keane",
+      "title": "Kyle Tucker Free Agency Takes Interesting Turn With This Paul Hembekides Prediction",
+      "description": "Four-time All-Star Kyle Tucker was in line for a $400 million contract this offseason, according to various analysts. Despite Tucker not having his best year in 2025 with the Chicago Cubs, his youth and career production speak to his value. In a relatively we\u2026",
+      "url": "https://sports.yahoo.com/articles/kyle-tucker-free-agency-takes-181105921.html",
+      "urlToImage": "https://media.zenfs.com/en/nesn_articles_905/6dbb8c7a463e7cd3326aebf9a634973b",
+      "publishedAt": "2026-01-03T18:11:05Z",
+      "content": "Four-time All-Star Kyle Tucker was in line for a $400 million contract this offseason, according to various analysts. Despite Tucker not having his best year in 2025 with the Chicago Cubs, his youth \u2026 [+2300 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "Brighton 2-0 Burnley: What Hurzeler and Gross said",
+      "description": "James Milner's appearance means that he has now played a Premier League game in each of the last 25 calendar years since 2002, the longest such run. Only two other players have played in more than 20 separate years in the competition (Ryan Giggs \u2013 24, Gareth \u2026",
+      "url": "https://www.bbc.com/sport/football/articles/crrn9q4px7go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tukfVz0Ox3dVFsV42Bkx5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/8317c754a393baf2120c409819c6ecde",
+      "publishedAt": "2026-01-03T17:32:25Z",
+      "content": "Fabian Hurzeler spoke to Sky Sports after Brighton's victory against Burnley: \"We played a good game. It was not a great game but a good performance. We scored goals, kept a clean sheet, worked quire\u2026 [+1431 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Associated Press",
+      "title": "Shreyas Iyer returns for India\u2019s ODI series against New Zealand",
+      "description": "Shreyas Iyer was provisionally named in India's squad on Saturday for the home one-day international series against New Zealand starting Jan. 11. India will ...",
+      "url": "https://sports.yahoo.com/articles/shreyas-iyer-returns-india-odi-162640207.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7LTPFlOUgTd0IFP7XcbNCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/75ac3adb87f3c73ff61a7943b5270f85",
+      "publishedAt": "2026-01-03T16:26:40Z",
+      "content": "MUMBAI, India (AP) Shreyas Iyer was provisionally named in Indias squad on Saturday for the home one-day international series against New Zealand starting Jan. 11.\r\nIndia will host the Black Caps in \u2026 [+1833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Extra help for homeless as temperatures plummet",
+      "description": "London's severe weather emergency protocol is activated as temperatures drop to freezing and below.",
+      "url": "https://www.bbc.com/news/articles/cx2g80lwyy7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0c14/live/9122eaa0-e8b3-11f0-b883-037c14a72405.jpg",
+      "publishedAt": "2026-01-03T16:07:20Z",
+      "content": "Ayshea Buksh,Dalston, Hackneyand\r\nWarm coats are available for people at Warm Spaces in six Hackney libraries \r\nRough sleepers in London are getting extra help after the capital's severe weather emer\u2026 [+2187 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sean Leahy",
+      "title": "Theo Johnson's appearance at Knicks game raised questions after Giants TE was ruled out with an illness",
+      "description": "The team says Johnson is dealing with a non-contagious infection, which is why he wasn't a risk to others.",
+      "url": "https://sports.yahoo.com/nfl/article/theo-johnsons-appearance-at-knicks-game-raised-questions-after-giants-te-was-ruled-out-with-an-illness-154320258.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pU6XHiLoqCYLymsBsXTM8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-01/ba936880-e8b6-11f0-bfb7-32701fe1ece0",
+      "publishedAt": "2026-01-03T15:43:20Z",
+      "content": "Early Friday afternoon, the New York Giants released their final injury report for Week 18 and tight end Theo Johnson was listed as \"out\" with an illness for Sunday's game against the Dallas Cowboys.\u2026 [+1679 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sean Leahy",
+      "title": "Theo Johnson's appearance at Knicks game raises questions after Giants TE was ruled out of Week 18 with an illness",
+      "description": "The team says Johnson is dealing with a non-contagious infection, which is why he isn't a risk to others.",
+      "url": "https://sports.yahoo.com/nfl/article/theo-johnsons-appearance-at-knicks-game-raises-questions-after-giants-te-was-ruled-out-of-week-18-with-an-illness-154320459.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pU6XHiLoqCYLymsBsXTM8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-01/ba936880-e8b6-11f0-bfb7-32701fe1ece0",
+      "publishedAt": "2026-01-03T15:43:20Z",
+      "content": "Early Friday afternoon, the New York Giants released their final injury report for Week 18 and tight end Theo Johnson was listed as \"out\" with an illness for Sunday's game against the Dallas Cowboys.\u2026 [+1675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Amal El-Hussein",
+      "title": "Sudanese flee across border and back to escape overrun oil town",
+      "description": "When paramilitary fighters closed in on the Sudanese border town and oil field of Heglig, paraplegic Dowa Hamed could only cling to her husband's back as...",
+      "url": "https://www.yahoo.com/news/articles/sudanese-flee-across-border-back-142259717.html",
+      "urlToImage": "https://media.zenfs.com/en/afp.com/2fcd591575bec8aa75b59d766a2bc8ea",
+      "publishedAt": "2026-01-03T14:22:59Z",
+      "content": "When paramilitary fighters closed in on the Sudanese border town and oil field of Heglig, paraplegic Dowa Hamed could only cling to her husband's back as they fled, \"like a child\", she told AFP.\r\nNow\u2026 [+4241 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jake Offenhartz, The Associated Press",
+      "title": "French tourists didn\u2019t believe the young guy on the subway was New York City\u2019s new mayor, so he held up the newspaper to prove it",
+      "description": "Zohran Mamdani also has to move to the mayor's mansion on the Upper East Side before the lease in Queens apartment ends later this month.",
+      "url": "https://www.yahoo.com/news/articles/french-tourists-didn-t-believe-135812840.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pPrgnv1Xx2rO9duceaRncQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/fortune_175/5da5866adcd025bb64d54391679743e5",
+      "publishedAt": "2026-01-03T13:58:12Z",
+      "content": "Less than 24 hours after throngs of ecstatic supporters poured into Manhattan for his\u00a0history-making inauguration, Zohran Mamdani began his first full day of work with a routine familiar to many New \u2026 [+4118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Paul Harloff, Bernard Condon, The Associated Press",
+      "title": "Elon Musk promised a \u2018major rebound\u2019 for Tesla in 2025. Instead it fell behind its biggest rival from China",
+      "description": "It's a stunning reversal for a company whose rise once seemed unstoppable as it overtook traditional carmakers and helped make Musk the world's richest.",
+      "url": "https://finance.yahoo.com/news/elon-musk-promised-major-rebound-134610311.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Qk7H9y9.DuDDVPDWNQhaaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzk-/https://media.zenfs.com/en/fortune_175/f860061893553a8dd65391f70e0ce0fc",
+      "publishedAt": "2026-01-03T13:46:10Z",
+      "content": "Tesla lost its crown as the worlds bestselling electric vehicle maker on Friday as a customer revolt over\u00a0Elon Musks right-wing politics, expiring U.S. tax breaks for buyers and stiff overseas compet\u2026 [+4429 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jamie Stone",
+      "title": "The Asset Bubble No One\u2019s Talking About That\u2019s Making the Rich Insanely Rich",
+      "description": "Discover the hidden asset bubble creating massive wealth for the rich and why most investors are overlooking this lucrative opportunity.",
+      "url": "https://finance.yahoo.com/news/asset-bubble-no-one-talking-225504172.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/spowY0bWCUKB0SgdGJx_OQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/f7a8df16260edef14bb602b2d1fe3ce6",
+      "publishedAt": "2026-01-03T13:02:02Z",
+      "content": "McKinsey Global Institute reports that $600 trillion of wealth rests on productivity or price highlights that much of the rise in value has been driven by asset prices often outpacing underlying econ\u2026 [+4614 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "David Okoya",
+      "title": "Ethereum To $6K In 2026? Analyst Flags Bullish On-Chain Shift",
+      "description": "Ethereum could be on the cusp of a major rally, according to Monad Foundation Head of DeFi Abdul Rehman. \u201cETH validator entry queue is now bigger than the...",
+      "url": "https://finance.yahoo.com/news/ethereum-6k-2026-analyst-flags-130117648.html",
+      "urlToImage": "https://media.zenfs.com/en/benzinga_79/bac59822c36ba632f07db45deae45b47",
+      "publishedAt": "2026-01-03T13:01:17Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nEthereum could be on the cusp of a major rally, according to Monad Foundation Head of DeFi Abdul \u2026 [+2171 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Emily Mason",
+      "title": "Cathie Wood\u2019s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet",
+      "description": "The inclusion of stocks such as artificial intelligence firm Palantir Technologies Inc., up 135% last year, and TV streaming platform Roku Inc., up 46...",
+      "url": "https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/owqaOyBB4CdbVaW7gXB1cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/3cf924dc91490864611a219a18456f06",
+      "publishedAt": "2026-01-03T13:00:00Z",
+      "content": "(Bloomberg) Cathie Woods ARK Blockchain &amp; Fintech Innovation ETF delivered a standout 29% return in 2025, defying an industry downturn by stretching the definition of financial technology.\r\nThe i\u2026 [+4303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Jordan Butler - BBC Sport journalist",
+      "title": "Tottenham v Sunderland: Key stats and talking points",
+      "description": "Tottenham and Sunderland are experiencing contrasting campaigns but the two clubs are only separated by three points in the Premier League table. BBC Sport examines some key talking points ahead of Sunday's game (15:00 GMT). Tottenham's start to 2026 was an a\u2026",
+      "url": "https://www.bbc.com/sport/football/articles/c620rmm3lneo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hueyMxuN7d.UEqHdjRp_7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/860034ebd8c35e7c3a17fc66f7f69649",
+      "publishedAt": "2026-01-03T12:50:33Z",
+      "content": "Tottenham and Sunderland are experiencing contrasting campaigns but the two clubs are only separated by three points in the Premier League table. BBC Sport examines some key talking points ahead of S\u2026 [+2781 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Moneywise",
+      "title": "Mega-rich Americans are ditching stocks and hoarding historic highs of cash. Here\u2019s where their wealth\u2019s going instead",
+      "description": "Get your green before it's gone.",
+      "url": "https://finance.yahoo.com/news/mega-rich-americans-ditching-stocks-124700715.html",
+      "urlToImage": "https://media.zenfs.com/en/moneywise_ecomm_711/e30d8ea6a4ea5cae1b945464f6756820",
+      "publishedAt": "2026-01-03T12:47:00Z",
+      "content": "AlexVog / Envato\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nHigh net worth individuals typically those with $1 million or more in investable \u2026 [+6301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Matthew Hobbs - BBC Sport journalist",
+      "title": "Everton v Brentford: Key stats and talking points",
+      "description": "Everton aim for back-to-back Premier League wins, against a Brentford side that has struggled away from home this season. BBC Sport examines some of the key themes ahead of Sunday's meeting at Hill Dickinson Stadium (15:00 GMT). Manager David Moyes regarded E\u2026",
+      "url": "https://www.bbc.com/sport/football/articles/clymlr0v22ko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Nvhuat1lfpFBKCz8veLN2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/cefbfbe84317a734e978fd4c1a4ebe62",
+      "publishedAt": "2026-01-03T12:44:25Z",
+      "content": "Everton aim for back-to-back Premier League wins, against a Brentford side that has struggled away from home this season.\r\nBBC Sport examines some of the key themes ahead of Sunday's meeting at Hill \u2026 [+3679 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "The Athletic NHL Staff",
+      "title": "Ranking every Olympic hockey team\u2019s jerseys for Milan-Cortina 2026",
+      "description": "By Sean Gentille, Shayna Goldman, Mark Lazerus, Sean McIndoe and Hailey Salvian It\u2019s been 12 years since we last saw NHL players at the Winter Olympics, and while there was still men\u2019s hockey in PyeongChang and Beijing, the tournaments undeniably suffered fro\u2026",
+      "url": "https://sports.yahoo.com/articles/ranking-every-olympic-hockey-team-121604707.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "publishedAt": "2026-01-03T12:16:04Z",
+      "content": "By Sean Gentille, Shayna Goldman, Mark Lazerus, Sean McIndoe and Hailey Salvian\r\nIts been 12 years since we last saw NHL players at the Winter Olympics, and while there was still mens hockey in Pyeon\u2026 [+12501 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Stephan Shemilt - Chief Cricket Reporter in Sydney",
+      "title": "'A lion leading lambs' - Stokes needs England team-mates to step up",
+      "description": "At times during England's Ashes defeat in Australia it has looked like Ben Stokes is a lion leading lambs and his team-mates must step up, writes chief cricket reporter Stephan Shemilt.",
+      "url": "https://www.bbc.com/sport/cricket/articles/crkr4nl7463o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3b2oZ2Skqul2q93ElLtcsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/dc33f6fd52a5f80e0a37fddb5e77678b",
+      "publishedAt": "2026-01-03T12:11:30Z",
+      "content": "Ben Stokes is honest about the toll the Ashes tour has taken on him.\r\n\"No doubt it's been tough,\" said the England captain. \"When you put on the pressure of trying to perform for your country in a hu\u2026 [+5920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Caroline Robinson - Channel Islands",
+      "title": "\u00a31m to be invested into local sport",
+      "description": "Jersey Sport says this was the largest single-year funding commitment in the organisation's history.",
+      "url": "https://www.bbc.com/news/articles/c3wz6z3n7yjo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VhQqKEsLKb3Pkr4y19xMlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/bbff2f34fc0a0dd6b82f16af1f03cae8",
+      "publishedAt": "2026-01-03T12:11:12Z",
+      "content": "A sports charity has said it will invest \u00a31m into local sport in 2026.\r\nJersey Sport said this marked the largest single-year funding commitment in the organisation's history.\r\nDavid Kennedy, ceo of \u2026 [+1608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ghazal Ahmed",
+      "title": "The Trade Desk (TTD) Has Fallen More Than 60% \u2014 but Analysts Are Turning Bullish Again",
+      "description": "The Trade Desk, Inc. (NASDAQ:TTD) is one of the Best AI Stocks to Buy under $50. After peaking in late 2024, the stock has fallen more than 60% over the past...",
+      "url": "https://finance.yahoo.com/news/trade-desk-ttd-fallen-more-120900560.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/de8bmLDFBKEFlAsasy4nWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/9cc3c59c2f8b74ec713355e171995d4d",
+      "publishedAt": "2026-01-03T12:09:00Z",
+      "content": "The Trade Desk, Inc. (NASDAQ:TTD) is one of the Best AI Stocks to Buy under $50. After peaking in late 2024, the stock has fallen more than 60% over the past year. While part of this plunge reflects \u2026 [+1818 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "LA Times",
+      "title": "Letters to Sports: Times are tough for Lincoln Riley and his Trojans",
+      "description": "Readers of the L.A. Times Sports section share their thoughts on USC losing in the Alamo Bowl, Lincoln Riley's coaching job, college bowl games, the Lakers and Bill Plaschke.",
+      "url": "https://sports.yahoo.com/articles/letters-sports-times-tough-lincoln-120000196.html",
+      "urlToImage": "https://media.zenfs.com/en/la_times_articles_853/11c8b5ab34bd13b65de6c7479084df79",
+      "publishedAt": "2026-01-03T12:00:00Z",
+      "content": "It's very obvious to this USC diehard fan, Lincoln Riley is not delivering on his commitment to restore Trojans football to national prominence as head coach.\r\nStop promising better results, hiring n\u2026 [+4239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ghazal Ahmed",
+      "title": "Samsara (IOT): Durable AI-Driven Growth With Room to Run",
+      "description": "Samsara Inc. (NYSE:IOT) is one of the Best AI Stocks to Buy under $50. On December 22, Evercore highlighted Microsoft, Salesforce, and Oracle as its top...",
+      "url": "https://finance.yahoo.com/news/samsara-iot-durable-ai-driven-115238487.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/nGy77w4YZNjkrNAV4MKPlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/4e336df76f5e9eb8bb96d5d3a7cfe65c",
+      "publishedAt": "2026-01-03T11:52:38Z",
+      "content": "Samsara Inc. (NYSE:IOT) is one of the Best AI Stocks to Buy under $50. On December 22, Evercore highlighted Microsoft, Salesforce, and Oracle as its top enterprise software picks for 2026. Besides th\u2026 [+1519 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Former Canada boss John Herdman appointed Indonesia head coach",
+      "description": "Former Canada boss John Herdman has been appointed the new head coach of the Indonesia men\u2019s national team. The appointment marks a return to international coaching for Herdman, 50, who has been out of management since he resigned from his position at Toronto\u2026",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ef242ae2-00b9-45b0-ae35-216c9281d97c",
+      "urlToImage": null,
+      "publishedAt": "2026-01-03T11:31:04Z",
+      "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ali Ahmed",
+      "title": "Is Brazil Potash (GRO) One of the Best New Penny Stocks to Invest In?",
+      "description": "Brazil Potash Corp. (NYSEAMERICAN:GRO) is one of the 10 Best New Penny Stocks to Invest In. On December 16, Cantor Fitzgerald initiated coverage of Brazil...",
+      "url": "https://finance.yahoo.com/news/brazil-potash-gro-one-best-111948725.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/I94CJQMDmD7o35Y_J1xDZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/adc61041d789979da1d171fe0cd1d40f",
+      "publishedAt": "2026-01-03T11:19:48Z",
+      "content": "Brazil Potash Corp. (NYSEAMERICAN:GRO) is one of the 10 Best New Penny Stocks to Invest In. On December 16, Cantor Fitzgerald initiated coverage of Brazil Potash Corp. (NYSEAMERICAN:GRO), assigning t\u2026 [+2313 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ali Ahmed",
+      "title": "Cantor Fitzgerald Sees Post-Quantum Growth, Bullish on SEALSQ (LAES)",
+      "description": "SEALSQ Corp (NASDAQ:LAES) is one of the 10 Best New Penny Stocks to Invest In. On December 18, Cantor Fitzgerald initiated coverage on SEALSQ Corp...",
+      "url": "https://finance.yahoo.com/news/cantor-fitzgerald-sees-post-quantum-111943020.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DMC6vZ3LKhh6rRRUX7ddYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/c2e160765ac4198de15afb3664b8c183",
+      "publishedAt": "2026-01-03T11:19:43Z",
+      "content": "SEALSQ Corp (NASDAQ:LAES) is one of the 10 Best New Penny Stocks to Invest In. On December 18, Cantor Fitzgerald initiated coverage on SEALSQ Corp (NASDAQ:LAES), giving the stock an Overweight rating\u2026 [+2161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sarah Drolet",
+      "title": "Best movers in Bentonville, Ark.",
+      "description": "Need a local mover in Bentonville? We ranked and scored the best movers in the area, based on a custom ranking system utilizing 14 criteria.",
+      "url": "https://local.yahoo.com/moving/article/best-moving-companies-bentonville-arkansas-110030598.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8ZW8M.CAQCg0J1OFjRP1pw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/9c97f160-da8e-11f0-8dff-8a20012f8135",
+      "publishedAt": "2026-01-03T11:00:30Z",
+      "content": "Choosing the right moving company is one of the most important parts of the relocation process. You want to be sure the estimate fits your budget and that the team you hire is capable of handling the\u2026 [+18137 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Badar Shaikh",
+      "title": "Elon Musk Donated Over 210,000 Tesla Shares Worth Almost $100 Million: 'Part Of Year End Tax Planning,' Says Sawyer Merritt",
+      "description": "Tesla Inc. (NASDAQ:TSLA) CEO Elon Musk donated more than 210,000 of the EV giant's shares, according to an SEC filing. Donating Tesla Shares Was A Gift The...",
+      "url": "https://finance.yahoo.com/news/elon-musk-donated-over-210-104556017.html",
+      "urlToImage": "https://media.zenfs.com/en/Benzinga/0f31b8ff0c2d0c535acd99d828652979",
+      "publishedAt": "2026-01-03T10:45:56Z",
+      "content": "Tesla Inc. (NASDAQ:TSLA) CEO Elon Musk donated more than 210,000 of the EV giant's shares, according to an SEC filing.\r\nThe SEC filing, dated December 30, showcased that the billionaire donated over \u2026 [+2112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Tom Phillips in Rio de Janeiro",
+      "title": "Trump claims US has captured Venezuelan dictator and wife",
+      "description": "US president says on social media that operation to capture Nicol\u00e1s Maduro carried out with US law enforcement",
+      "url": "https://uk.news.yahoo.com/explosions-reported-venezuelan-capital-caracas-071013381.html",
+      "urlToImage": "https://media.zenfs.com/en/theguardian_763/959f1db4616133c8e2ed08d72ab6365d",
+      "publishedAt": "2026-01-03T09:39:36Z",
+      "content": "Donald Trump has claimed the US has captured Venezuelas dictator, Nicol\u00e1s Maduro, and his wife, Cilia Flores, and flown them out of the South American country after a pre-dawn assault on Caracas and \u2026 [+5459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "South China Morning Post",
+      "title": "Tech war: China takes confident strides to develop more AI innovation in 2026",
+      "description": "On the last day of 2025, DeepSeek published a new technical paper, with founder and CEO Liang Wenfeng among the 19 co-authors, about \"manifold-constrained...",
+      "url": "https://finance.yahoo.com/news/tech-war-china-takes-confident-093000206.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PeHol2Dz0GRB34_tqq86Kw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/south_china_morning_post_us_228/4a6ae3a2ffe7aee0fcd3552217c65b06",
+      "publishedAt": "2026-01-03T09:30:00Z",
+      "content": "On the last day of 2025, DeepSeek published a new technical paper, with founder and CEO Liang Wenfeng among the 19 co-authors, about \"manifold-constrained hyper-connections\" - a general framework for\u2026 [+10799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "South China Morning Post",
+      "title": "China's Communist Party paper warns of Japanese militarism seeping into culture and sports",
+      "description": "Japanese militarism is infiltrating culture and sports, a key Communist Party publication has warned, spotlighting table tennis star Tomokazu Harimoto and...",
+      "url": "https://www.yahoo.com/news/articles/chinas-communist-party-paper-warns-093000674.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YduGFWIpwOGI1QqzTlescg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTg7Y2Y9d2VicA--/https://media.zenfs.com/en/south_china_morning_post_us_228/68b4443db5e33fb5f6e549675675bba4",
+      "publishedAt": "2026-01-03T09:30:00Z",
+      "content": "Japanese militarism is infiltrating culture and sports, a key Communist Party publication has warned, spotlighting table tennis star Tomokazu Harimoto and others in a pointed commentary.\r\nAccording t\u2026 [+4915 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "South China Morning Post",
+      "title": "China to lead joint naval drills with Brics nations in South African waters",
+      "description": "China will lead a joint naval exercise with Brics nations in South African waters next week - the bloc's first such defence cooperation that is likely to...",
+      "url": "https://www.yahoo.com/news/articles/china-lead-joint-naval-drills-093000195.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "publishedAt": "2026-01-03T09:30:00Z",
+      "content": "China will lead a joint naval exercise with Brics nations in South African waters next week - the bloc's first such defence cooperation that is likely to raise alarm bells in Washington.\r\nThe South A\u2026 [+5214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Work begins to replant urban jungle in restored hot houses",
+      "description": "It is hoped the palm houses in Edinburgh will reopen by September.",
+      "url": "https://www.bbc.com/news/articles/c36z2zy87pxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b5e1/live/d2032530-dcdd-11f0-81cc-998682630b3d.jpg",
+      "publishedAt": "2026-01-03T09:10:26Z",
+      "content": "Angie Brown,Edinburgh and east reporterand\r\nIt is hoped the palm house will be reopen by September\r\nFor almost 200 years the glass houses at the Royal Botanic Garden in Edinburgh have been home to so\u2026 [+2900 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "'In 20 years I've seen leaps in human performance but frightening climate change'",
+      "description": "Ski Sunday presenter Ed Leigh on the changes in women's sport, climate and technology during 20 years with the iconic BBC Sport programme.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e835f988-fe35-4b08-a7af-a7a79afc123d",
+      "urlToImage": null,
+      "publishedAt": "2026-01-03T08:34:29Z",
+      "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "'In 20 years I've seen leaps in human performance but frightening climate change'",
+      "description": "Ski Sunday presenter Ed Leigh on the changes in women's sport, climate and technology during 20 years with the iconic BBC Sport programme.",
+      "url": "https://www.bbc.com/sport/articles/c0ke44yrl7go",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/547f/live/aeea3cc0-e5a0-11f0-8bbe-6935d94eeebc.png",
+      "publishedAt": "2026-01-03T08:34:25Z",
+      "content": "In the past two decades the leap in camera technology and high-speed connections has been spectacular. The idea that drones would be chasing athletes down mountains at 80mph giving us a video-game st\u2026 [+2607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "James Harrison",
+      "title": "What the recycling symbols on your plastic rubbish actually mean",
+      "description": "Big changes are coming to how the UK recycles, but here's what you should know in the meantime.",
+      "url": "https://uk.news.yahoo.com/plastic-recycling-symbols-meaning-081412375.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CUxH.SFlnYPvA.Kq5h1olA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODE7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-08/38ba4430-7ced-11f0-b9ff-8f7b3fb5f890",
+      "publishedAt": "2026-01-03T08:14:12Z",
+      "content": "As British households prepare to put away the Christmas decorations for another year, many will also be thinking about a clear-out ahead of a fresh start for 2026.\r\nAs well as Christmas trees and the\u2026 [+6898 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Daniel Austin - BBC Sport senior journalist",
+      "title": "'I needed them and they were there' - when young players find new homes",
+      "description": "BBC Sport explores how young footballers build bonds with second families when they leave home to sign for a new club on their path to the top.",
+      "url": "https://www.bbc.com/sport/football/articles/cdj80vegz28o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yykpIYhivwvr9NvYa9aZmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/f9ac5da5c9e4109c0a4a6ca81d831105",
+      "publishedAt": "2026-01-03T07:39:16Z",
+      "content": "Shortly after signing for Brentford, teenage forward Michel Boni sustained an adductor injury that left him with difficulty walking and kept him out of action for three months.\r\nHe had moved away fro\u2026 [+7856 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Daniel Austin",
+      "title": "'I needed them and they were there' - when young players find new homes",
+      "description": "BBC Sport explores how young footballers build bonds with second families when they leave home to sign for a new club on their path to the top.",
+      "url": "https://www.bbc.com/sport/football/articles/cdj80vegz28o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/438b/live/74021b60-e568-11f0-b67b-690eb873de1b.jpg",
+      "publishedAt": "2026-01-03T07:39:10Z",
+      "content": "Some clubs eschew the host family approach in favour of a boarding system, in which players live together in dormitories on club property, the most famous being Barcelona's La Masia.\r\n\"There are stre\u2026 [+1625 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Angelica Ballesteros",
+      "title": "T1 Energy (TE) Soars 17% on Tax Credit Compliance Efforts",
+      "description": "We recently published 10 Stocks Powering Into 2026 With Explosive Gains. T1 Energy Inc. (NYSE:TE) is one of the top performers on Friday. T1 Energy kicked...",
+      "url": "https://finance.yahoo.com/news/t1-energy-te-soars-17-073512018.html",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/9c2a3330914a05c8e9d53e1ee5461752",
+      "publishedAt": "2026-01-03T07:35:12Z",
+      "content": "We recently published 10 Stocks Powering Into 2026 With Explosive Gains. T1 Energy Inc. (NYSE:TE) is one of the top performers on Friday.\r\nT1 Energy kicked off the first trading day of the year rally\u2026 [+1855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Talha Qureshi",
+      "title": "Jefferies Initiates a Hold Rating on UWM Holdings Corporation (UWMC)",
+      "description": "UWM Holdings Corporation (NYSE:UWMC) is one of the Best High Volume Penny Stocks to Buy. On December 19, Matthew Hurwitz from Jefferies initiated a Hold...",
+      "url": "https://finance.yahoo.com/news/jefferies-initiates-hold-rating-uwm-073259969.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Tl1aFt8RVlk16RcRnoArmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/0c20a3aaac27cced157736b7936d2a0c",
+      "publishedAt": "2026-01-03T07:32:59Z",
+      "content": "UWM Holdings Corporation (NYSE:UWMC) is one of the Best High Volume Penny Stocks to Buy. On December 19, Matthew Hurwitz from Jefferies initiated a Hold rating on UWM Holdings Corporation (NYSE:UWMC)\u2026 [+1832 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Talha Qureshi",
+      "title": "S&P Global Ratings Reaffirms BB+ Rating on Coty Inc (COTY)",
+      "description": "Coty Inc. (NYSE:COTY) is one of the Best High Volume Penny Stocks to Buy. On December 23, S&P Global Ratings reaffirmed a BB+ issuer credit rating on Coty...",
+      "url": "https://finance.yahoo.com/news/p-global-ratings-reaffirms-bb-073102432.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0kCCZDm6eIX_rnb.Wt4Gzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/e8b86f192c16d133b1d02e6809546347",
+      "publishedAt": "2026-01-03T07:31:02Z",
+      "content": "Coty Inc. (NYSE:COTY) is one of the Best High Volume Penny Stocks to Buy. On December 23, S&amp;P Global Ratings reaffirmed a BB+ issuer credit rating on Coty Inc. (NYSE:COTY). This comes as the comp\u2026 [+2070 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Talha Qureshi",
+      "title": "Here\u2019s What Wall Street Thinks About Baytex Energy (BTE)",
+      "description": "Baytex Energy Corp. (NYSE:BTE) is one of the Best High Volume Penny Stocks to Buy. On December 22, Menno Hulshof from TD Cowen reiterated a Buy rating on...",
+      "url": "https://finance.yahoo.com/news/wall-street-thinks-baytex-energy-072708747.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YsMDCU27EUIQ7E9uY4HzQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/0ac123d151b56ce2322b0b67e9a99345",
+      "publishedAt": "2026-01-03T07:27:08Z",
+      "content": "Baytex Energy Corp. (NYSE:BTE) is one of the Best High Volume Penny Stocks to Buy. On December 22, Menno Hulshof from TD Cowen reiterated a Buy rating on Baytex Energy Corp. (NYSE:BTE) and also raise\u2026 [+1922 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Amanda Gerut",
+      "title": "CEO of $90 billion Waste Management hauled trash and went to 1 a.m. safety briefings\u2014\u2018It\u2019s not always just dollars and cents\u2019",
+      "description": "Jim Fish took his father-in-law\u2019s advice and attended early-morning safety meetings to meet with workers, ride in truck cabs, and talk about whatever was on ...",
+      "url": "https://finance.yahoo.com/news/ceo-90-billion-waste-management-071200219.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2_aDIxwmRLFwmQqgryb1Bw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/fortune_175/9985ad15e8642a3dc01b8f98e47f2c80",
+      "publishedAt": "2026-01-03T07:12:00Z",
+      "content": "For a night owl like Waste Management CEO Jim Fish, waking up for 1 a.m. safety briefings could make for a brutally long day. But Fish did it because his late father-in-law, a union pipefitter, told \u2026 [+6382 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -189,6 +1112,45 @@
         "name": "Yahoo Entertainment"
       },
       "author": "Vardah Gill",
+      "title": "Micron\u2019s (MU) 2026 Outlook Strengthens as Memory Pricing Improves",
+      "description": "Micron Technology, Inc. (NASDAQ:MU) is included among the 20 Best Performing Dividend Stocks in 2025. Micron Technology, Inc. (NASDAQ:MU) operates in a...",
+      "url": "https://finance.yahoo.com/news/micron-mu-2026-outlook-strengthens-004138868.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GFNsOLjc4_3gbqmmkPNSDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/cece14d8df3ff9750f89999715c2f4bb",
+      "publishedAt": "2026-01-03T00:41:38Z",
+      "content": "Micron Technology, Inc. (NASDAQ:MU) is included among the 20 Best Performing Dividend Stocks in 2025.\r\nMicrons (MU) 2026 Outlook Strengthens as Memory Pricing Improves\r\nMicron Technology, Inc. (NASDA\u2026 [+2208 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Vardah Gill",
+      "title": "Electrical and Data Center Demand Power Comfort Systems\u2019 (FIX) Standout Quarter",
+      "description": "Comfort Systems USA, Inc. (NYSE:FIX) is included among the 20 Best Performing Dividend Stocks in 2025. Comfort Systems USA, Inc. (NYSE:FIX)\u2019s third quarter...",
+      "url": "https://finance.yahoo.com/news/electrical-data-center-demand-power-003614902.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TRO.MLf21ZOgCCT.cJSLJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/d65758831478114d8f9db5b451d8ae56",
+      "publishedAt": "2026-01-03T00:36:14Z",
+      "content": "Comfort Systems USA, Inc. (NYSE:FIX) is included among the 20 Best Performing Dividend Stocks in 2025.\r\nElectrical and Data Center Demand Power Comfort Systems (FIX) Standout Quarter\r\nComfort Systems\u2026 [+2331 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Vardah Gill",
+      "title": "Tapestry (TPR) Emerges as a Leading Idea in Telsey\u2019s 2026 Outlook",
+      "description": "Tapestry, Inc. (NYSE:TPR) is included among the 20 Best Performing Dividend Stocks in 2025. On December 17, Telsey Advisory raised its price target on...",
+      "url": "https://finance.yahoo.com/news/tapestry-tpr-emerges-leading-idea-003347496.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gQ3IRV6oCrdbnofeMTGLEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/50321b3b7b677da4e23d38471c56abd0",
+      "publishedAt": "2026-01-03T00:33:47Z",
+      "content": "Tapestry, Inc. (NYSE:TPR) is included among the 20 Best Performing Dividend Stocks in 2025.\r\nTapestry (TPR) Emerges as a Leading Idea in Telseys 2026 Outlook\r\nOn December 17, Telsey Advisory raised i\u2026 [+2319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Vardah Gill",
       "title": "Jefferies Backs Howmet (HWM) Acquisition, Sees EPS Lift into 2026",
       "description": "Howmet Aerospace Inc. (NYSE:HWM) is included among the 20 Best Performing Dividend Stocks in 2025. On December 22, Jefferies analyst Sheila Kahyaoglu said...",
       "url": "https://finance.yahoo.com/news/jefferies-backs-howmet-hwm-acquisition-002337629.html",
@@ -338,968 +1300,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/48OBqE9kLH..MyoT3bXtng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/934e7d24deb567b3c3a28131bfcb722f",
       "publishedAt": "2026-01-02T23:49:55Z",
       "content": "Cardinal Health, Inc. (NYSE:CAH) is included among the 20 Best Performing Dividend Stocks in 2025.\r\nCardinal Health (CAH) Repositions for Growth with Specialty and Services\r\nCardinal Health, Inc. (NY\u2026 [+2147 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Vardah Gill",
-      "title": "C.H. Robinson (CHRW) Gets Target Lift as Stifel Backs High-Quality Transport Names",
-      "description": "C.H. Robinson Worldwide, Inc. (NASDAQ:CHRW) is included among the 20 Best Performing Dividend Stocks in 2025. On December 16, Stifel analyst J. Bruce Chan...",
-      "url": "https://finance.yahoo.com/news/c-h-robinson-chrw-gets-234642399.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0GySv.uV7zucnkC9OWbmlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/cc88fe4a0a16614c80d5e42ac175454e",
-      "publishedAt": "2026-01-02T23:46:42Z",
-      "content": "C.H. Robinson Worldwide, Inc. (NASDAQ:CHRW) is included among the\u00a020 Best Performing Dividend Stocks in 2025.\r\nC.H. Robinson (CHRW) Gets Target Lift as Stifel Backs High-Quality Transport Names\r\nImag\u2026 [+2425 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "JAKE OFFENHARTZ",
-      "title": "Zohran Mamdani's first full day as NYC mayor: subway rides, new offices and backlash from Israel",
-      "description": "Less than 24 hours after throngs of ecstatic supporters poured into Manhattan for his history-making inauguration, Zohran Mamdani began his first full day of...",
-      "url": "https://www.yahoo.com/news/articles/zohran-mamdanis-first-full-day-234548820.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TOI0IZ6hg60kd2VoTCEKFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/5b2ea5c728055c8b95d6656bca0ae581",
-      "publishedAt": "2026-01-02T23:45:48Z",
-      "content": "NEW YORK (AP) Less than 24 hours after throngs of ecstatic supporters poured into Manhattan for his history-making inauguration, Zohran Mamdani began his first full day of work with a routine familia\u2026 [+4081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Truist Sees Long-Term Upside for Home Depot (HD) Amid Tight Housing Supply",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_297e3360-a8b7-4253-9853-5b9f97569f5c",
-      "urlToImage": null,
-      "publishedAt": "2026-01-02T23:38:10Z",
-      "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Vardah Gill",
-      "title": "Piper Sandler Maintains Neutral View on Sysco (SYY) Despite Demand Pressures",
-      "description": "Sysco Corporation (NYSE:SYY) is included among the 12 Best Income Stocks to Buy Now. On December 12, Piper Sandler lowered its price target on Sysco...",
-      "url": "https://finance.yahoo.com/news/piper-sandler-maintains-neutral-view-232636591.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wqyQ1dlBrXZITvxDkoLLKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1338cc013cee8e595bb2e4bd750a5702",
-      "publishedAt": "2026-01-02T23:26:36Z",
-      "content": "Sysco Corporation (NYSE:SYY) is included among the 12 Best Income Stocks to Buy Now.\r\nPiper Sandler Maintains Neutral View on Sysco (SYY) Despite Demand Pressures\r\nOn December 12, Piper Sandler lower\u2026 [+2212 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Vardah Gill",
-      "title": "Utilities Enter \u2018Execution and Defense\u2019 Phase as Barclays Lowers AWK Target",
-      "description": "American Water Works Company, Inc. (NYSE:AWK) is included among the 12 Best Income Stocks to Buy Now. On December 17, Barclays analyst Nicholas Campanella...",
-      "url": "https://finance.yahoo.com/news/utilities-enter-execution-defense-phase-232423168.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3531IoKMwxxg8ZSqv0lupQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/342b5b93af085bd494849492d92168f8",
-      "publishedAt": "2026-01-02T23:24:23Z",
-      "content": "American Water Works Company, Inc. (NYSE:AWK) is included among the 12 Best Income Stocks to Buy Now.\r\nUtilities Enter Execution and Defense Phase as Barclays Lowers AWK Target\r\nOn December 17, Barcl\u2026 [+2367 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Vardah Gill",
-      "title": "Regulatory Delays and Weakening Margins Weigh on Morgan Stanley\u2019s ADM Outlook",
-      "description": "Archer-Daniels-Midland Company (NYSE:ADM) is included among the 12 Best Income Stocks to Buy Now. On December 16, Morgan Stanley analyst Steven Haynes...",
-      "url": "https://finance.yahoo.com/news/regulatory-delays-weakening-margins-weigh-231338941.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/I94CJQMDmD7o35Y_J1xDZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/adc61041d789979da1d171fe0cd1d40f",
-      "publishedAt": "2026-01-02T23:13:38Z",
-      "content": "Archer-Daniels-Midland Company (NYSE:ADM) is included among the 12 Best Income Stocks to Buy Now.\r\nRegulatory Delays and Weakening Margins Weigh on Morgan Stanleys ADM Outlook\r\nOn December 16, Morgan\u2026 [+2219 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Vardah Gill",
-      "title": "Natural Gas Demand Shift Supports JPMorgan\u2019s Higher Target for National Fuel Gas (NFG)",
-      "description": "National Fuel Gas Company (NYSE:NFG) is included among the 12 Best Income Stocks to Buy Now. On December 8, JPMorgan analyst Zach Parham raised the firm\u2019s...",
-      "url": "https://finance.yahoo.com/news/natural-gas-demand-shift-supports-231037054.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NejFs92_TUq3xozo3np_mA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/cc7125f13d652287b9c5a14af62e345a",
-      "publishedAt": "2026-01-02T23:10:37Z",
-      "content": "National Fuel Gas Company (NYSE:NFG) is included among the 12 Best Income Stocks to Buy Now.\r\nNatural Gas Demand Shift Supports JPMorgans Higher Target for National Fuel Gas (NFG)\r\nOn December 8, JPM\u2026 [+2491 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "ALANIS THAMES",
-      "title": "Florida Panthers and New York Rangers bring Miami Vice flair to Winter Classic",
-      "description": "The Florida Panthers arrived in Ferraris, cigars lit, dressed in all-white Miami Vice attire \u2014 and, in true South Florida fashion, fashionably late. The New York Rangers followed suit, stepping into loanDepot Park in their own Miami Vice whites. With that, th\u2026",
-      "url": "https://sports.yahoo.com/articles/florida-panthers-york-rangers-bring-230250003.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4WB91DZyIJMU9vL34Hmv9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/fe2f9dd466ba93aa467121dce1804f19",
-      "publishedAt": "2026-01-02T23:02:50Z",
-      "content": "MIAMI (AP) The Florida Panthers arrived in Ferraris, cigars lit, dressed in all-white Miami Vice attire and, in true South Florida fashion, fashionably late.\r\nThe New York Rangers followed suit, step\u2026 [+1832 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Misty Layne",
-      "title": "Farmers issue urgent warning as rapidly spreading creatures wreak havoc: 'This is a national problem'",
-      "description": "They cause multiple problems.",
-      "url": "https://www.yahoo.com/news/articles/farmers-issue-urgent-warning-rapidly-230000788.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KPkvFSuifIEq6o3VLcj1Yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/2f6f91ec0ec5613a9370f975c6a552f5",
-      "publishedAt": "2026-01-02T23:00:00Z",
-      "content": "Farmers in Western Australia have issued a warning about the drastic increase in rabbit populations and the damage they are causing.\r\nWhat's happening?\r\nAccording to ABC News, the head of the Invasiv\u2026 [+2617 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "How K-beauty went from a viral trend to an economic powerhouse",
-      "description": "Inside the K-beauty industry that has made South Korea a major player in worldwide beauty market.",
-      "url": "https://www.bbc.com/news/articles/cj9y43mv332o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9616/live/48ee9c10-e7fb-11f0-b67b-690eb873de1b.jpg",
-      "publishedAt": "2026-01-02T22:20:53Z",
-      "content": "Suranjana TewariAsia Business Correspondent, Seoul, South Korea\r\nWatch: Korean skincare is a multi-billion dollar industry - what makes it so great?\r\nWho would have thought serums infused with snail \u2026 [+8537 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "AI teachers and cybernetics - what could the world look like in 2050?",
-      "description": "We asked several experts to predict the technology we'll be using by 2050",
-      "url": "https://www.bbc.com/news/articles/c865n800d5jo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d477/live/cd37eb00-e01e-11f0-997b-df531e67f496.jpg",
-      "publishedAt": "2026-01-02T22:15:48Z",
-      "content": "Laura CressTechnology reporter\r\nThe 2000 film Minority Report, set in 2054, imagined potential future technologies like controlling computers by making hand gestures\r\nThe last 25 years has seen some \u2026 [+7532 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Nishant Kumar, Bloomberg",
-      "title": "Bridgewater, D.E. Shaw among top hedge fund gainers of 2025",
-      "description": "Michel Massoud\u2019s event-driven Melqart Opportunities Fund surged 45%, and Citadel\u2019s flagship hedge fund posted a 10.2% increase in 2025.",
-      "url": "https://finance.yahoo.com/news/bridgewater-d-e-shaw-among-221117493.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2Gbvp78Fwxw7Z1qJYlhR9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/9194faff15de07b8a370c3c3ebfe16c6",
-      "publishedAt": "2026-01-02T22:11:17Z",
-      "content": "Bridgewater Associates flagship money pool posted record gains, while D.E. Shaw &amp; Co.s strategies soared as much as 28% to rank among the biggest hedge fund winners of 2025 when tariff-fueled mar\u2026 [+5534 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "George O'Neill - BBC Sport Scotland",
-      "title": "'Nancy leaps to his own defence as he feels Old Firm heat'",
-      "description": "Just over four weeks on from his appointment as Celtic manager, Wilfried Nancy's passionate defence of his reign shows the pressure he is facing before Saturday's Old Firm derby against Rangers.",
-      "url": "https://www.bbc.com/sport/football/articles/czx3dqxl769o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
-      "publishedAt": "2026-01-02T22:00:23Z",
-      "content": "To feel the heat is a given for any Old Firm manager, and Celtic boss Wilfried Nancy has a cauldron bubbling beneath him.\r\nJust over four weeks since he was announced as the permanent successor to Br\u2026 [+5908 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "George O'Neill",
-      "title": "'Nancy leaps to his own defence as he feels Old Firm heat'",
-      "description": "Just over four weeks on from his appointment as Celtic manager, Wilfried Nancy's passionate defence of his reign shows the pressure he is facing before Saturday's Old Firm derby against Rangers.",
-      "url": "https://www.bbc.com/sport/football/articles/czx3dqxl769o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/acae/live/3029ee60-e7fa-11f0-b67b-690eb873de1b.png",
-      "publishedAt": "2026-01-02T22:00:17Z",
-      "content": "To feel the heat is a given for any Old Firm manager, and Celtic boss Wilfried Nancy has a cauldron bubbling beneath him.\r\nJust over four weeks since he was announced as the permanent successor to Br\u2026 [+1733 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "TERESA M. WALKER",
-      "title": "Titans' owner streamlines front office roles; Borgonzi to lead coaching search",
-      "description": "Tennessee controlling owner Amy Adams Strunk has streamlined the roles for her president of football operations and general manager as the Titans prepare to search for a new coach. Strunk said in a message to Titans fans Friday afternoon that Chad Brinker, pr\u2026",
-      "url": "https://sports.yahoo.com/articles/titans-owner-streamlines-front-office-213921609.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fn3QHN1VHbN7PDhPqSssFw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/06065ccc96856408a0cbf86a05a7f990",
-      "publishedAt": "2026-01-02T21:39:21Z",
-      "content": "NASHVILLE, Tenn. (AP) Tennessee controlling owner Amy Adams Strunk has streamlined the roles for her president of football operations and general manager as the Titans prepare to search for a new coa\u2026 [+2048 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Laiba Immad",
-      "title": "Kite Realty Group Trust (KRG)\u2019s Board Approves Special Dividend for January 2026",
-      "description": "We recently compiled a list of the 10 Best Long-Term Investments for Kids. Kite Realty Group Trust is one of the best long-term investments. TheFly reported ...",
-      "url": "https://finance.yahoo.com/news/kite-realty-group-trust-krg-211223785.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qlAZPfoedZ6Btld9wP7fww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/956b27f1954bfbcb767f07539486366d",
-      "publishedAt": "2026-01-02T21:12:23Z",
-      "content": "We recently compiled a list of the 10 Best Long-Term Investments for Kids. Kite Realty Group Trust is one of the best long-term investments.\u00a0\r\nTheFly reported that on December 29, KRG announced that \u2026 [+2019 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Laiba Immad",
-      "title": "SLB N.V. (SLB) Wins Landmark Aramco Contract for Saudi Unconventional Gas Development",
-      "description": "We recently compiled a list of the 10 Best Long-Term Investments for Kids. SLB N.V. stands among the best long-term investments. TheFly reported on December ...",
-      "url": "https://finance.yahoo.com/news/slb-n-v-slb-wins-211203052.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uXE5MKRubyxqcek2Vo5vUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insidermonkey.com/32c46e1285e6521bfd36b52098c19c1d",
-      "publishedAt": "2026-01-02T21:12:03Z",
-      "content": "We recently compiled a list of the 10 Best Long-Term Investments for Kids. SLB N.V. stands among the best long-term investments.\r\nTheFly reported on December 18 that Piper Sandler analyst Derek Podha\u2026 [+1899 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jordan Shusterman",
-      "title": "What to know about Kazuma Okamoto and his chances to succeed as an MLB hitter",
-      "description": "Okamoto has until 5 p.m. ET Sunday to sign with a team before his posting window closes.",
-      "url": "https://sports.yahoo.com/mlb/article/what-to-know-about-kazuma-okamoto-and-his-chances-to-succeed-as-an-mlb-hitter-210120331.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WV6hI_QQ9pqmT9MjOayBHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ED_123025_KazumaSpotlight.jpg",
-      "publishedAt": "2026-01-02T21:01:20Z",
-      "content": "The third and final star to make the jump from Japans NPB to MLB this offseason, third baseman Kazuma Okamoto, must agree to a deal with a major-league club before his posting window closes at 5 p.m.\u2026 [+5735 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jori Epstein",
-      "title": "Steelers\u2019 T.J. Watt scheduled to return vs. Ravens after partial lung collapse: \u2018I\u2019m excited to play\u2019",
-      "description": "After additional practice participation this week, Watt expects to play, he told reporters. \u201cI feel really good. Not sure I could\u2019ve said that a week ago,\u201d Watt said.",
-      "url": "https://sports.yahoo.com/nfl/article/steelers-tj-watt-scheduled-to-return-vs-ravens-after-partial-lung-collapse-im-excited-to-play-203738231.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lhbkS6lUZBVcVBl7xHYYWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-01/7517f23e-fc62-458e-a3b6-6c207edd346f",
-      "publishedAt": "2026-01-02T20:37:38Z",
-      "content": "After three games sidelined while recovering from a partially collapsed lung, Pittsburgh Steelers four-time All-Pro linebacker T.J. Watt is on track to return for the teams last guaranteed game, he c\u2026 [+4221 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Fatima Gulzar",
-      "title": "Stellantis N.V. (STLA) Reaches 1,000 Hires For Windsor, Ontario Plant",
-      "description": "Stellantis N.V. (NYSE:STLA) is among the 9 Best Auto Stocks to Buy Now. Stellantis N.V. (NYSE:STLA) disclosed on December 15, 2025, that it has hired more...",
-      "url": "https://finance.yahoo.com/news/stellantis-n-v-stla-reaches-202851696.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r7CVX8Vc_f.bVWR8IzdOpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/b7ed25e93a81d612d4851d4b4e39d11a",
-      "publishedAt": "2026-01-02T20:28:51Z",
-      "content": "Stellantis N.V. (NYSE:STLA) is among the 9 Best Auto Stocks to Buy Now.\r\nStellantis N.V. (STLA) Reaches 1,000 Hires For Windsor, Ontario Plant\r\nStellantis N.V. (NYSE:STLA) disclosed on December 15, 2\u2026 [+1850 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "Murray appointed as new Morton manager",
-      "description": "Greenock Morton appoint Ian Murray as their new manager, with the former Scotland defender signing an 18-month contract.",
-      "url": "https://www.bbc.com/sport/football/articles/c07xn38krr9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
-      "publishedAt": "2026-01-02T19:41:59Z",
-      "content": "Greenock Morton have appointed Ian Murray as their new manager, with the former Scotland defender signing an 18-month contract.\r\nMurray replaces Dougie Imrie, who left Morton to take charge at fellow\u2026 [+728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC Sport",
-      "title": "Murray appointed as new Morton manager",
-      "description": "Greenock Morton appoint Ian Murray as their new manager, with the former Scotland defender signing an 18-month contract.",
-      "url": "https://www.bbc.com/sport/football/articles/c07xn38krr9o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/920b/live/6ae5ef20-e810-11f0-a8dc-93c15fe68710.jpg",
-      "publishedAt": "2026-01-02T19:41:48Z",
-      "content": "Greenock Morton have appointed Ian Murray as their new manager, with the former Scotland defender signing an 18-month contract.\r\nMurray replaces Dougie Imrie, who left Morton to take charge at fellow\u2026 [+731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Annie Lee",
-      "title": "Aluminum Hits $3,000 on Supply Concern...",
-      "description": "A cap on Chinese smelting capacity and constraints to European production due to higher electricity prices have chipped away at global inventories, while the...",
-      "url": "https://finance.yahoo.com/news/aluminum-hits-3-000-first-093126608.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.vzJw3o.jyFVfGM_i4S6yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/c3cd726ae88012ae27e7fb99f77e5b32",
-      "publishedAt": "2026-01-02T19:31:39Z",
-      "content": "(Bloomberg) -- Aluminum climbed above $3,000 a ton for the first time in more than three years on a tightening supply outlook and long-term demand bets, joining other base metals notching recent mile\u2026 [+1618 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Nishant Kumar",
-      "title": "Bridgewater, D.E. Shaw Among Top Hedge Fund Gainers of 2025",
-      "description": "Bridgewater\u2019s Pure Alpha II macro fund returned 34% last year, its best ever, while the All Weather strategy rose 20%, a person with knowledge of the matter ...",
-      "url": "https://finance.yahoo.com/news/bridgewater-d-e-shaw-among-192657034.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5vuwXNbxtwUB1Oy8gxrrig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/6842db009c4163fcac2832f78bb900e8",
-      "publishedAt": "2026-01-02T19:26:57Z",
-      "content": "Photographer: Michael Nagle/Bloomberg\r\n(Bloomberg) -- Bridgewater Associates flagship money pool posted record gains, while D.E. Shaw &amp; Co.s strategies soared as much as 28% to rank among the big\u2026 [+2414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Matthew Rhys to play 'soft and cowardly' mayor of cursed island",
-      "description": "The Welsh actor will play Tom Loftis, a \"soft and cowardly\" mayor desperate to revive his struggling community.",
-      "url": "https://www.bbc.com/news/articles/c4g09409nl5o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1002/live/881d4460-e7bd-11f0-aae2-2191c0e48a3b.jpg",
-      "publishedAt": "2026-01-02T19:25:32Z",
-      "content": "Emmy Award-winning actor Matthew Rhys will play the mayor of a cursed island town in his latest television show, Widow's Bay.\r\nIn the Apple TV series, Rhys, 52, portrays Tom Loftis, a mayor desperate\u2026 [+1620 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Matthew Hobbs - BBC Sport journalist",
-      "title": "Wolves v West Ham: Key stats and talking points",
-      "description": "Wolves will attempt to win for the first time in the Premier League this season against a West Ham United side who have not won away from home since August. BBC Sport examines some of the key themes going into Saturday's meeting at Molineux. Wolves begin the \u2026",
-      "url": "https://www.bbc.com/sport/football/articles/c8j37xd8dndo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Cn6Y3o2h2HhAzxnciaIu9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/617f055679ad260c311677dcb4495e8d",
-      "publishedAt": "2026-01-02T19:05:47Z",
-      "content": "Wolves will attempt to win for the first time in the Premier League this season against a West Ham United side who have not won away from home since August.\r\nBBC Sport examines some of the key themes\u2026 [+2699 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Jordan Butler - BBC Sport journalist",
-      "title": "Brighton v Burnley: Key stats and talking points",
-      "description": "Two sides in need of a victory meet on the south coast on Saturday as Brighton host Burnley. Brighton fans will be more delighted than most to welcome in the new year and put a dreary December firmly behind them. The much-used idiom certainly applies to 2026 \u2026",
-      "url": "https://www.bbc.com/sport/football/articles/c20dp2nng4ro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1TFOY2mR4kAcjPOnDMpDdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/579f7640707eeceb8ff0b02372c23c43",
-      "publishedAt": "2026-01-02T19:05:23Z",
-      "content": "Two sides in need of a victory meet on the south coast on Saturday as Brighton host Burnley. BBC Sport focuses on some of the key statistics going into this game.\r\nBrighton fans will be more delighte\u2026 [+2747 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Vawn Himmelsbach",
-      "title": "4 hidden Costco finds no one\u2019s talking about, and the major savings you\u2019re probably leaving on the table",
-      "description": "You could save more than $1,000 annually.",
-      "url": "https://finance.yahoo.com/news/4-hidden-costco-finds-no-184500683.html",
-      "urlToImage": "https://media.zenfs.com/en/moneywise_327/59bd06b47ad3ab8ea8c63354fa6b0177",
-      "publishedAt": "2026-01-02T18:45:00Z",
-      "content": "Whether youre already a member or considering joining, buying in bulk at a warehouse club like Costco can lead to significant savings. The key caveat is discipline: to truly save money, you need to k\u2026 [+4694 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "Sutton's predictions v singer-songwriter & Newcastle fan Andrew Cushin",
-      "description": "BBC Sport football expert Chris Sutton takes on singer-songwriter & Newcastle fan Andrew Cushin - and AI - with his predictions for this week's Premier League fixtures.",
-      "url": "https://www.bbc.com/sport/football/articles/cddg40qzqmjo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
-      "publishedAt": "2026-01-02T18:33:04Z",
-      "content": "Will the start of 2026 see a change of fortune for BBC Sport football expert Chris Sutton, whose title hopes are fading fast?\r\nAfter Sutton made a strong start to the season, AI has taken charge of t\u2026 [+16958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Adrian Volenik",
-      "title": "They Tried To Be 'A Good Homeowner For Once' And, After Six Years, Decided To Check On Their Home's Crawl Space. Now They Wish They Hadn't",
-      "description": "After six years of living in their Tacoma, Washington home, a homeowner finally decided to do what many homeowners avoid: check the crawl space. What started...",
-      "url": "https://shopping.yahoo.com/home-garden/home-improvement/articles/tried-good-homeowner-once-six-183110283.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/07A4C22D9164B6B9598481701026EA2BEF4787764129076ECAA4054A9EB37A27/subgraphmysterio/resizefit_w1200;quality_90;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F159ac13d3adc28138a1fd983aef12f7f",
-      "publishedAt": "2026-01-02T18:31:10Z",
-      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nAfter six years of living in their Tacoma, Washington home, a homeowner finally decided to do wha\u2026 [+3760 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "AFP",
-      "title": "USA Olympic squad of NHL stars heavy on Four Nations talent",
-      "description": "USA Hockey unveiled the roster of NHL stars for next month's Winter Olympics on Friday, a 25-man lineup that includes 21 players from last year's emotional Four Nations Face-Off.Sanderson and Faber competed for the US squad in the 2022 Beijing Winter Olympics\u2026",
-      "url": "https://sports.yahoo.com/articles/usa-olympic-squad-nhl-stars-175652003.html",
-      "urlToImage": "https://media.zenfs.com/en/afp.com/939564df437d41558ba536cf48ebbdf6",
-      "publishedAt": "2026-01-02T17:56:52Z",
-      "content": "USA Hockey unveiled the roster of NHL stars for next month's Winter Olympics on Friday, a 25-man lineup that includes 21 players from last year's emotional Four Nations Face-Off.\r\nLast February's NHL\u2026 [+2148 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "ALANIS THAMES",
-      "title": "Troy Aikman to advise Miami Dolphins in search for new GM",
-      "description": "Hall of Fame quarterback Troy Aikman will be advising the Miami Dolphins in their search for a new general manager. Aikman, who led the Dallas Cowboys to three Super Bowl wins and is now an ESPN analyst, isn't expected to remain with the organization beyond t\u2026",
-      "url": "https://sports.yahoo.com/articles/troy-aikman-advise-miami-dolphins-175434939.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YUUAXrT8JVaw3v7aqeSqZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/7e6c1febde98beff3f312ba2750beeca",
-      "publishedAt": "2026-01-02T17:54:34Z",
-      "content": "MIAMI GARDENS, Fla. (AP) Hall of Fame quarterback Troy Aikman will be advising the Miami Dolphins in their search for a new general manager.\r\nAikman, who led the Dallas Cowboys to three Super Bowl wi\u2026 [+1682 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Yahoo Sports Fantasy Staff",
-      "title": "Fantasy Football: These are the biggest lessons we learned from 2025 \u2014 and takeaways for 2026",
-      "description": "It's time to look back at the 2025 fantasy football season and reflect.",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-these-are-the-biggest-lessons-we-learned-from-2025--and-takeaways-for-2026-173950878.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/elJA1fUHklQvtD2iNrJDxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-12/ba09f2e0-e013-11f0-bf5f-2348544b7de2",
-      "publishedAt": "2026-01-02T17:39:50Z",
-      "content": "Yahoos Fantasy football analysts get together to reveal the biggest lessons they learned throughout a raucous 2025 season what will we take with us in 2026?\r\nTalent is the trailer, environment is the\u2026 [+5409 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Sugar Prices Retreat on Higher Sugar Production in India",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_28a018d5-3320-4414-9294-0b2e996093f3",
-      "urlToImage": null,
-      "publishedAt": "2026-01-02T17:25:20Z",
-      "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "US Oil Drilling Activity Ends Down for 2025, But Production Still Near Highs",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b9f0f862-4982-49bc-af74-4a3056f60247",
-      "urlToImage": null,
-      "publishedAt": "2026-01-02T17:19:26Z",
-      "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "UBS Boosts Ciena (CIEN) Price Target After Blowout Earnings",
-      "description": "Ciena Corporation (NYSE:CIEN) ranks among the best AI stocks to buy according to analysts. On December 12, UBS boosted Ciena Corporation (NYSE:CIEN)\u2019s price ...",
-      "url": "https://finance.yahoo.com/news/ubs-boosts-ciena-cien-price-162915151.html",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/fd48421653cbcac247e714b673a596f9",
-      "publishedAt": "2026-01-02T16:29:15Z",
-      "content": "Ciena Corporation (NYSE:CIEN) ranks among the best AI stocks to buy according to analysts. On December 12, UBS boosted Ciena Corporation (NYSE:CIEN)s price target to $230 from $120 while keeping a Ne\u2026 [+1834 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sultan Khalid",
-      "title": "NuScale Power (SMR) Price Target Trimmed by $14",
-      "description": "The share price of NuScale Power Corporation (NYSE:SMR) fell by 10.39% between December 23 and December 30, 2025, putting it among the Energy Stocks that...",
-      "url": "https://finance.yahoo.com/news/nuscale-power-smr-price-target-161830558.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6.nym91rANW8dHgnWhh7Eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/0a9c57a0a1329e42a9ebd9a675e5fd51",
-      "publishedAt": "2026-01-02T16:18:30Z",
-      "content": "The share price of NuScale Power Corporation (NYSE:SMR) fell by 10.39% between December 23 and December 30, 2025, putting it among the Energy Stocks that Lost the Most This Week.\r\nNuScale Power (SMR)\u2026 [+1718 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sultan Khalid",
-      "title": "OKLO \u2013 Among the Energy Stocks that Fell This Week",
-      "description": "The share price of Oklo Inc. (NYSE:OKLO) fell by 12.53% between December 23 and December 30, 2025, putting it among the Energy Stocks that Lost the Most This...",
-      "url": "https://finance.yahoo.com/news/oklo-among-energy-stocks-fell-161828164.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/W6FlkbFFNnnkHk_lsiKLQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTU-/https://media.zenfs.com/en/insidermonkey.com/5fb608dfe08c42a4829b20fc9e55d283",
-      "publishedAt": "2026-01-02T16:18:28Z",
-      "content": "The share price of Oklo Inc. (NYSE:OKLO) fell by 12.53% between December 23 and December 30, 2025, putting it among the Energy Stocks that Lost the Most This Week.\r\nOKLO - Among the Energy Stocks tha\u2026 [+1883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Tom Kool",
-      "title": "Oil Awaits a Catalyst as Brent Treads Water",
-      "description": "Another setback in Russia\u2013Ukraine peace talks and persistent tensions around Venezuela failed to jolt oil markets out of their New Year\u2019s lull.",
-      "url": "https://finance.yahoo.com/news/oil-awaits-catalyst-brent-treads-160000880.html",
-      "urlToImage": "https://media.zenfs.com/en/oilprice.com/0ae03bd1da5cd5e21644f7c2117d0cfe",
-      "publishedAt": "2026-01-02T16:00:00Z",
-      "content": "Another setback in RussiaUkraine peace talks and persistent tensions around Venezuela failed to jolt oil markets out of their New Years lull.\r\n02 January, 2026\r\nAnother round of failed Russia-Ukraine\u2026 [+4892 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "Wave Life Sciences (WVE) Emerges as Obesity Treatment Contender, Oppenheimer Boosts Price Target",
-      "description": "Wave Life Sciences Ltd. (NASDAQ:WVE) ranks among the best stocks under $25 to buy now. On December 16, Oppenheimer boosted its price target for Wave Life...",
-      "url": "https://finance.yahoo.com/news/wave-life-sciences-wve-emerges-155044294.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7b0r1_vGfNZHKiXf31EiMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/784ede8f3979aaba79334aeecd7f7d27",
-      "publishedAt": "2026-01-02T15:50:44Z",
-      "content": "Wave Life Sciences Ltd. (NASDAQ:WVE) ranks among the best stocks under $25 to buy now. On December 16, Oppenheimer boosted its price target for Wave Life Sciences Ltd. (NASDAQ:WVE) to $32 from $24, m\u2026 [+1619 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "FuelCell Energy (FCEL) Outlook Raised by TD Cowen Amid 12% Revenue Growth",
-      "description": "FuelCell Energy, Inc. (NASDAQ:FCEL) ranks among the best hydrogen and fuel cell stocks to buy for 2026. On December 19, TD Cowen boosted its price target for...",
-      "url": "https://finance.yahoo.com/news/fuelcell-energy-fcel-outlook-raised-155032942.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2mWx2FJR9eEBT.wywumkpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insidermonkey.com/293138d34069d99e680c827f55215206",
-      "publishedAt": "2026-01-02T15:50:32Z",
-      "content": "FuelCell Energy, Inc. (NASDAQ:FCEL) ranks among the best hydrogen and fuel cell stocks to buy for 2026. On December 19, TD Cowen boosted its price target for FuelCell Energy, Inc. (NASDAQ:FCEL) to $9\u2026 [+1817 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "Plug Power (PLUG) Expands Green Hydrogen Projects With 5MW Electrolyzer in Namibia",
-      "description": "Plug Power Inc. (NASDAQ:PLUG) ranks among the best hydrogen and fuel cell stocks to buy for 2026. Plug Power Inc. (NASDAQ:PLUG) has commenced significant...",
-      "url": "https://finance.yahoo.com/news/plug-power-plug-expands-green-155030403.html",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/0bf6533d513c7b6de919837648be6b40",
-      "publishedAt": "2026-01-02T15:50:30Z",
-      "content": "Plug Power Inc. (NASDAQ:PLUG) ranks among the best hydrogen and fuel cell stocks to buy for 2026. Plug Power Inc. (NASDAQ:PLUG) has commenced significant projects this month. On December 17, the comp\u2026 [+1636 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "Bernstein Maintains Outperform on Air Products (APD) Following Hydrogen Megaproject Announcements",
-      "description": "Air Products and Chemicals, Inc. (NYSE:APD) ranks among the best hydrogen and fuel cell stocks to buy for 2026. On December 9, Air Products and Chemicals...",
-      "url": "https://finance.yahoo.com/news/bernstein-maintains-outperform-air-products-155025786.html",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/386f0b83353f910f093dca294febd692",
-      "publishedAt": "2026-01-02T15:50:25Z",
-      "content": "Air Products and Chemicals, Inc. (NYSE:APD) ranks among the best hydrogen and fuel cell stocks to buy for 2026. On December 9, Air Products and Chemicals, Inc. (NYSE:APD) stock plummeted 11%, with Be\u2026 [+1643 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "Roth/MKM and UBS Positive on Devon Energy (DVN) After Bakken Capital Efficiency and Cost-Cutting Programs",
-      "description": "Devon Energy Corporation (NYSE:DVN) ranks among the best hydrogen and fuel cell stocks to buy for 2026. On December 31, Roth/MKM reaffirmed its Buy rating on...",
-      "url": "https://finance.yahoo.com/news/roth-mkm-ubs-positive-devon-155022027.html",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/5daafe28df54cb6c264bbfcce9f41104",
-      "publishedAt": "2026-01-02T15:50:22Z",
-      "content": "Devon Energy Corporation (NYSE:DVN) ranks among the best hydrogen and fuel cell stocks to buy for 2026. On December 31, Roth/MKM reaffirmed its Buy rating on Devon Energy Corporation (NYSE:DVN), with\u2026 [+2071 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "Frank 'understands and shares' Spurs' fans frustrations",
-      "description": "Thomas Frank says he understands and shares the frustration of Tottenham fans after he was booed following Thursday's Premier League draw at Brentford.",
-      "url": "https://www.bbc.com/sport/football/articles/cjrz3gzlv1eo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/928bbebef14c1ab9150f584c51b4f379",
-      "publishedAt": "2026-01-02T15:46:32Z",
-      "content": "Thomas Frank says he understands and shares the frustration of Tottenham fans after the head coach was booed following Thursday's draw at Brentford.\r\nFormer Brentford boss Frank received a standing o\u2026 [+2363 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC Sport",
-      "title": "Frank 'understands and shares' Spurs' fans frustrations",
-      "description": "Thomas Frank says he understands and shares the frustration of Tottenham fans after he was booed following Thursday's Premier League draw at Brentford.",
-      "url": "https://www.bbc.com/sport/football/articles/cjrz3gzlv1eo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/463d/live/a0373ce0-e7ef-11f0-83f0-2f5e73d2f960.jpg",
-      "publishedAt": "2026-01-02T15:46:28Z",
-      "content": "Frank was drafted in as Ange Postecoglou's replacement over the summer after Tottenham ended last season in 17th place.\r\nSpurs have already shown signs of recovery in defence, with seven clean sheets\u2026 [+901 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Rob Staton - BBC Radio Sheffield",
-      "title": "Why Wilder hangs up West Brom and Wrexham shirts...",
-      "description": "Sheffield United boss Chris Wilder says he will hang up West Bromwich Albion and Wrexham shirts in the dressing room as a reminder of poor performances.",
-      "url": "https://www.bbc.com/sport/football/articles/czx1g52wdj8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3.n3GMWElQxBX1Pn3HPc4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/c2623b64b2fa2d63173af397d0c0b91a",
-      "publishedAt": "2026-01-02T15:44:46Z",
-      "content": "In modern football we spend a lot of time talking about data and tactics. We don't spend so much time talking about man-management, which is vitally important.\r\nAll the best managers had a way of fin\u2026 [+2023 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Melanie VanDerveer",
-      "title": "NBA Star Shai Gilgeous-Alexander Is Sports Illustrated's 2025 Sportsperson Of The Year",
-      "description": "It's that time of year again when we honor the Sports Illustrated Sportsperson of the Year. This year's award goes to NBA star SGA!",
-      "url": "https://sports.yahoo.com/articles/nba-star-shai-gilgeous-alexander-153031254.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dAsJLcxJtlFV9PGbP4bRgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NTU7Y2Y9d2VicA--/https://media.zenfs.com/en/theblast_73/f8177fae5f094e0daed04ac35093ba53",
-      "publishedAt": "2026-01-02T15:30:31Z",
-      "content": "It's that time of year again when we honor the Sports Illustrated Sportsperson of the Year. This award honors a sports figure who most defined the year in sports through excellence, influence, and cu\u2026 [+5665 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Swiss and Italian teens among those missing after ski resort fire",
-      "description": "Families are appealing for information about children as young as 15 who are thought to have been at the bar.",
-      "url": "https://www.bbc.com/news/articles/c07xn220gdeo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44bd/live/e6b33050-e7e7-11f0-b44a-2d5156cff513.jpg",
-      "publishedAt": "2026-01-02T15:18:56Z",
-      "content": "16-year-old Swiss national Arthur Brodard is among the missing\r\nSwiss and Italian teenagers are thought to be among those missing following a fire at a bar in a ski resort that killed 40 people and i\u2026 [+3066 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Tyrese King - BBC Sport journalist",
-      "title": "Silva on Sessengon fitness, Chelsea job and Liverpool's 'bad run'",
-      "description": "Fulham boss Marco Silva has been speaking to the media before Sunday's Premier League game against Liverpool at Craven Cottage (kick-off 15:00 GMT). Silva said there is a \"big possibility\" midfielder Josh King will miss the game. On being linked with the Chel\u2026",
-      "url": "https://www.bbc.com/sport/football/articles/cql4vp5q7y9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.hqBLAMWDRg5vg5giJdryg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/878260cdbe6cd173d5e646c51fb5eb61",
-      "publishedAt": "2026-01-02T15:08:49Z",
-      "content": "Fulham boss Marco Silva has been speaking to the media before Sunday's Premier League game against Liverpool at Craven Cottage (kick-off 15:00 GMT).<li>Silva said there is a \"big possibility\" midfiel\u2026 [+1438 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "Where is Aegon Ltd. (AEG) Headed According to Wall Street?",
-      "description": "Aegon Ltd. (NYSE:AEG) is one of the top cheap stocks under $20 to buy now. JPMorgan cut the price target on Aegon Ltd. (NYSE:AEG) to EUR 8 from EUR 8.50 on...",
-      "url": "https://finance.yahoo.com/news/where-aegon-ltd-aeg-headed-144427599.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ph6Kq9V6MrqJScey7yOvfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/6836cfa3c88e200359b6398e7e1c0864",
-      "publishedAt": "2026-01-02T14:44:27Z",
-      "content": "Aegon Ltd. (NYSE:AEG) is one of the top\u00a0cheap stocks under $20 to buy now. JPMorgan cut the price target on Aegon Ltd. (NYSE:AEG) to EUR 8 from EUR 8.50 on December 16 while maintaining an Overweight\u2026 [+2108 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "What Does Wall Street Think About Banco Santander (SAN)?",
-      "description": "Banco Santander, S.A. (NYSE:SAN) is one of the top cheap stocks under $20 to buy now. Banco Santander, S.A. (NYSE:SAN) was downgraded to Hold from Buy by DZ ...",
-      "url": "https://finance.yahoo.com/news/does-wall-street-think-banco-144425747.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/b9MdZW__VVrMfsQ8dLWycQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/63845b170c1b45a8e27da7362ec11a4c",
-      "publishedAt": "2026-01-02T14:44:25Z",
-      "content": "Banco Santander, S.A. (NYSE:SAN) is one of the top\u00a0cheap stocks under $20 to buy now. Banco Santander, S.A. (NYSE:SAN) was downgraded to Hold from Buy by DZ Bank on December 19 with a EUR 10 price ta\u2026 [+2188 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "Where is Stellantis N.V. (STLA) Headed According to Analysts?",
-      "description": "Stellantis N.V. (NYSE:STLA) is one of the top cheap stocks under $20 to buy now. Kepler Capital reaffirmed a Buy rating on Stellantis N.V. (NYSE:STLA) on...",
-      "url": "https://finance.yahoo.com/news/where-stellantis-n-v-stla-144422108.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r7CVX8Vc_f.bVWR8IzdOpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/b7ed25e93a81d612d4851d4b4e39d11a",
-      "publishedAt": "2026-01-02T14:44:22Z",
-      "content": "Stellantis N.V. (NYSE:STLA) is one of the top cheap stocks under $20 to buy now. Kepler Capital reaffirmed a Buy rating on Stellantis N.V. (NYSE:STLA) on December 11, setting a price target of 12.00.\u2026 [+2030 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "Where is Petr\u00f3leo Brasileiro S.A. \u2013 Petrobras (PBR) Headed?",
-      "description": "Petr\u00f3leo Brasileiro S.A. \u2013 Petrobras (NYSE:PBR) is one of the top cheap stocks under $20 to buy now. On December 16, Petr\u00f3leo Brasileiro S.A. \u2013 Petrobras...",
-      "url": "https://finance.yahoo.com/news/where-petr-leo-brasileiro-petrobras-144420183.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2cqSjJOD4te0PGhD_ZOWww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/6e8fc6ba2be22ce90f896795270ab88d",
-      "publishedAt": "2026-01-02T14:44:20Z",
-      "content": "Petr\u00f3leo Brasileiro S.A. Petrobras (NYSE:PBR) is one of the top cheap stocks under $20 to buy now. On December 16, Petr\u00f3leo Brasileiro S.A. Petrobras (NYSE:PBR) announced a strategic partnership agre\u2026 [+2152 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "UBS Maintains Neutral Rating on Conagra Brands (CAG)",
-      "description": "Conagra Brands, Inc. (NYSE:CAG) is one of the top cheap stocks under $20 to buy now. UBS analyst Peter Grom cut the price target on Conagra Brands, Inc...",
-      "url": "https://finance.yahoo.com/news/ubs-maintains-neutral-rating-conagra-144419496.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CJeGGJuWpKMVry8p.NDNaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f9710aca41e6f568fe4cc32543b2e2ef",
-      "publishedAt": "2026-01-02T14:44:19Z",
-      "content": "Conagra Brands, Inc. (NYSE:CAG) is one of the top cheap stocks under $20 to buy now. UBS analyst Peter Grom cut the price target on Conagra Brands, Inc. (NYSE:CAG) to $18 from $19 on December 23 and \u2026 [+2270 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "Why is Energy Transfer LP (ET) One of the Top Cheap Stocks Under $20 to Buy Now?",
-      "description": "Energy Transfer LP (NYSE:ET) is one of the top cheap stocks under $20 to buy now. Morgan Stanley analyst Robert Kad reiterated a Hold rating on Energy...",
-      "url": "https://finance.yahoo.com/news/why-energy-transfer-lp-et-144417330.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7unfpBxPKwE.0uHkDX7t9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/a97f111c62451e82df1b503f29d424ac",
-      "publishedAt": "2026-01-02T14:44:17Z",
-      "content": "Energy Transfer LP (NYSE:ET) is one of the top cheap stocks under $20 to buy now. Morgan Stanley analyst Robert Kad reiterated a Hold rating on Energy Transfer LP (NYSE:ET) on December 23 and set a p\u2026 [+2135 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "Where is Vale S.A. (VALE) Headed?",
-      "description": "Vale S.A. (NYSE:VALE) is one of the top cheap stocks under $20 to buy now. Wells Fargo analyst Timna Tanners lifted the price target on Vale S.A. (NYSE:VALE)...",
-      "url": "https://finance.yahoo.com/news/where-vale-vale-headed-144414584.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8yZlYJ5pwUdIbi4mgHqUuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/138281667b035ca43f0f617eac1e4feb",
-      "publishedAt": "2026-01-02T14:44:14Z",
-      "content": "Vale S.A. (NYSE:VALE) is one of the top cheap stocks under $20 to buy now. Wells Fargo analyst Timna Tanners lifted the price target on Vale S.A. (NYSE:VALE) to $13 from $12 on December 23 and mainta\u2026 [+2272 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "What Do Analysts Think About Baxter International Inc. (BAX)?",
-      "description": "Baxter International Inc. (NYSE:BAX) is one of the top cheap stocks under $20 to buy now. On December 12, Wells Fargo analyst Larry Biegelsen reiterated a...",
-      "url": "https://finance.yahoo.com/news/analysts-think-baxter-international-inc-144413699.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ec8Msj.B4pCvcm52MtlNGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f4e4ed5408e666bc914c3ddebf236a1a",
-      "publishedAt": "2026-01-02T14:44:13Z",
-      "content": "Baxter International Inc. (NYSE:BAX) is one of the top cheap stocks under $20 to buy now. On December 12, Wells Fargo analyst Larry Biegelsen reiterated a Hold rating on Baxter International Inc. (NY\u2026 [+2479 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "What Does Wall Street Think About JBS N.V. (JBS)?",
-      "description": "JBS N.V. (NYSE:JBS) is one of the top cheap stocks under $20 to buy now. JBS N.V. (NYSE:JBS) reported on December 12 that JBS Pork Australia officially...",
-      "url": "https://finance.yahoo.com/news/does-wall-street-think-jbs-144411268.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wqyQ1dlBrXZITvxDkoLLKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1338cc013cee8e595bb2e4bd750a5702",
-      "publishedAt": "2026-01-02T14:44:11Z",
-      "content": "JBS N.V. (NYSE:JBS) is one of the top cheap stocks under $20 to buy now. JBS N.V. (NYSE:JBS) reported on December 12 that JBS Pork Australia officially announced the completion of a two-year project \u2026 [+2087 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "What Does Wall Street Think About Cenovus Energy Inc. (CVE)?",
-      "description": "Cenovus Energy Inc. (NYSE:CVE) is one of the top cheap stocks under $20 to buy now. RBC Capital analyst Gregory Pardy reiterated a Buy rating on Cenovus...",
-      "url": "https://finance.yahoo.com/news/does-wall-street-think-cenovus-144410789.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/orf8oY2MQVmfA80h2lQJ6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/fcd10e6820b4d2bb7be1d4aa202cdbcc",
-      "publishedAt": "2026-01-02T14:44:10Z",
-      "content": "Cenovus Energy Inc. (NYSE:CVE) is one of the top cheap stocks under $20 to buy now. RBC Capital analyst Gregory Pardy reiterated a Buy rating on Cenovus Energy Inc. (NYSE:CVE) on December 15 and set \u2026 [+2086 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "Here is What Analysts Think About Huntington Bancshares Incorporated (HBAN)",
-      "description": "Huntington Bancshares Incorporated (NASDAQ:HBAN) is one of the top cheap stocks under $20 to buy now. Huntington Bancshares Incorporated (NASDAQ:HBAN...",
-      "url": "https://finance.yahoo.com/news/analysts-think-huntington-bancshares-incorporated-144408329.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1ujHdDKXgq56RhUg15efqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f84b2d263172133b0f6b9aff2d96da99",
-      "publishedAt": "2026-01-02T14:44:08Z",
-      "content": "Huntington Bancshares Incorporated (NASDAQ:HBAN) is one of the top cheap stocks under $20 to buy now. Huntington Bancshares Incorporated (NASDAQ:HBAN) jointly announced with Cadence Bank on December \u2026 [+2302 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "Is Ford Motor Company (F) One of the Top Cheap Stocks Under $20 to Buy Now?",
-      "description": "Ford Motor Company (NYSE:F) is one of the top cheap stocks under $20 to buy now. On December 22, Evercore ISI lifted the price target on Ford Motor Company (...",
-      "url": "https://finance.yahoo.com/news/ford-motor-company-f-one-144407856.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/f7ObGrjt9svBuNxR.m.cqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/4a2f97ff6459f92034d76ce4fcdedbcc",
-      "publishedAt": "2026-01-02T14:44:07Z",
-      "content": "Ford Motor Company (NYSE:F) is one of the top cheap stocks under $20 to buy now. On December 22, Evercore ISI lifted the price target on Ford Motor Company (NYSE:F) to $14 from $12 while keeping an I\u2026 [+1973 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Noor Ul Ain Rehman",
-      "title": "Where is Graphic Packaging Holding Company (GPK) Headed According to Analysts?",
-      "description": "Graphic Packaging Holding Company (NYSE:GPK) is one of the top cheap stocks under $20 to buy now. On December 22, Truist Financial analyst Michael Roxland...",
-      "url": "https://finance.yahoo.com/news/where-graphic-packaging-holding-company-144405773.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eK3Vj5_Uam.g0H.fmvds_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/a0bf3f01993ac4ecc44ad98ccf5ececc",
-      "publishedAt": "2026-01-02T14:44:05Z",
-      "content": "Graphic Packaging Holding Company (NYSE:GPK) is one of the top cheap stocks under $20 to buy now. On December 22, Truist Financial analyst Michael Roxland reaffirmed a Hold rating on Graphic Packagin\u2026 [+2015 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "STEPHEN WHYNO",
-      "title": "US hockey picks 4 Nations-heavy roster for the Winter Olympics, adding Keller, Thompson and Jones",
-      "description": "Tage Thompson and Clayton Keller helped the U.S. win the world hockey championship for the first time since 1933, while Seth Jones was a key part of the Florida Panthers' second consecutive Stanley Cup run. USA Hockey unveiled its roster Friday on the \u201cToday\u201d\u2026",
-      "url": "https://sports.yahoo.com/articles/us-picks-4-nations-heavy-141748767.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/V4td6SrtlsUya9KRCEP9NA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/cc78a1b3a3e75e62cb7f7cb651ccf2d7",
-      "publishedAt": "2026-01-02T14:17:48Z",
-      "content": "Tage Thompson and Clayton Keller helped the U.S. win the world hockey championship for the first time since 1933, while Seth Jones was a key part of the Florida Panthers' second consecutive Stanley C\u2026 [+2063 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "Askou targets 'signature season' as Sule exits",
-      "description": "Jens Berthel Askou is aiming for \"a signature season\" in his maiden campaign as Motherwell manager. The Fir Park side defeated defending Scottish Premiership champions Celtic 2-0 on Tuesday evening - Motherwell's first win in the fixture since 2015. \"We'll us\u2026",
-      "url": "https://www.bbc.com/sport/articles/cpdyq3x9ggqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9U5pj.5PwO2Y6FpGbXnJCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/76e4bb71b059ecf8d755b1a540e55fb5",
-      "publishedAt": "2026-01-02T14:11:57Z",
-      "content": "Jens Berthel Askou is aiming for \"a signature season\" in his maiden campaign as Motherwell manager.\r\nThe Fir Park side defeated defending Scottish Premiership champions Celtic 2-0 on Tuesday evening \u2026 [+1364 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "Benchmark Boosts Broadcom\u2019s (AVGO) Price Target Amid AI Chip Growth",
-      "description": "Broadcom Inc. (NASDAQ:AVGO) ranks among the best AI stocks to buy according to analysts. Citing robust development in the AI semiconductor industry...",
-      "url": "https://finance.yahoo.com/news/benchmark-boosts-broadcom-avgo-price-141034796.html",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/d6201859a2fb1b6cce79a05902b314fd",
-      "publishedAt": "2026-01-02T14:10:34Z",
-      "content": "Broadcom Inc. (NASDAQ:AVGO) ranks among the best AI stocks to buy according to analysts. Citing robust development in the AI semiconductor industry, Benchmark increased its price target for Broadcom \u2026 [+1940 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "TD Cowen Names Advanced Micro Devices (AMD) One of its Best Ideas for 2026",
-      "description": "Advanced Micro Devices, Inc. (NASDAQ:AMD) ranks among the best AI stocks to buy according to analysts. On December 2, TD Cowen restated its Buy rating and...",
-      "url": "https://finance.yahoo.com/news/td-cowen-names-advanced-micro-141033407.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/S5kCmR9v3Hq85USimKibuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTU-/https://media.zenfs.com/en/insidermonkey.com/1e85b81aa18457637c55df2e7f588803",
-      "publishedAt": "2026-01-02T14:10:33Z",
-      "content": "Advanced Micro Devices, Inc. (NASDAQ:AMD) ranks among the best AI stocks to buy according to analysts. On December 2, TD Cowen restated its Buy rating and $290 price target for Advanced Micro Devices\u2026 [+1909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "Guggenheim Raises ServiceNow (NOW) Rating to Neutral After Stock Slide",
-      "description": "ServiceNow, Inc. (NYSE:NOW) ranks among the best AI stocks to buy according to analysts. Guggenheim upgraded ServiceNow, Inc. (NYSE:NOW) from Sell to Neutral...",
-      "url": "https://finance.yahoo.com/news/guggenheim-raises-servicenow-now-rating-141031600.html",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/7ed647e1f7480b5a9ff6cb9a5be3c107",
-      "publishedAt": "2026-01-02T14:10:31Z",
-      "content": "ServiceNow, Inc. (NYSE:NOW) ranks among the best AI stocks to buy according to analysts. Guggenheim upgraded ServiceNow, Inc. (NYSE:NOW) from Sell to Neutral on December 16, stating that the stocks r\u2026 [+1926 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "Zscaler (ZS) Upgraded to Outperform Amid AI and Zero Trust Growth",
-      "description": "Zscaler Inc. (NASDAQ:ZS) ranks among the best AI stocks to buy according to analysts. On December 16, Mizuho upgraded Zscaler Inc. (NASDAQ:ZS) to Outperform,...",
-      "url": "https://finance.yahoo.com/news/zscaler-zs-upgraded-outperform-amid-141030121.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_w6VxfOD6ajsc7.XmBmZPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://media.zenfs.com/en/insidermonkey.com/ad029e11bc34216c45bbb5ed25d956ab",
-      "publishedAt": "2026-01-02T14:10:30Z",
-      "content": "Zscaler Inc. (NASDAQ:ZS) ranks among the best AI stocks to buy according to analysts. On December 16, Mizuho upgraded Zscaler Inc. (NASDAQ:ZS) to Outperform, noting valuation support despite ongoing \u2026 [+1797 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "BTIG Sees $1.8 Billion Revenue Potential for Monday.com (MNDY) by Fiscal 2027",
-      "description": "Monday.com Ltd. (NASDAQ:MNDY) ranks among the best AI stocks to buy according to analysts. On December 17, BTIG began coverage of Monday.com Ltd...",
-      "url": "https://finance.yahoo.com/news/btig-sees-1-8-billion-141022704.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UCQUgV8Y4oeLVuntUCi16g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/insidermonkey.com/99d3c1a2db557ce7049bdbc10b710862",
-      "publishedAt": "2026-01-02T14:10:22Z",
-      "content": "Monday.com Ltd. (NASDAQ:MNDY) ranks among the best AI stocks to buy according to analysts. On December 17, BTIG began coverage of Monday.com Ltd. (NASDAQ:MNDY) with a $210 price target and a Buy rati\u2026 [+1678 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "Mizuho Reaffirms Oracle (ORCL) Outperform Rating Despite Mixed Fiscal Q2 Results",
-      "description": "Oracle Corporation (NYSE:ORCL) ranks among the best AI stocks to buy according to analysts. Mizuho reaffirmed its Outperform rating and $400 price target for...",
-      "url": "https://finance.yahoo.com/news/mizuho-reaffirms-oracle-orcl-outperform-141020676.html",
-      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/dca33c530c7b6b668679ddac283a0d95",
-      "publishedAt": "2026-01-02T14:10:20Z",
-      "content": "Oracle Corporation (NYSE:ORCL) ranks among the best AI stocks to buy according to analysts. Mizuho reaffirmed its Outperform rating and $400 price target for Oracle Corporation (NYSE:ORCL) on Decembe\u2026 [+1990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "Serve Robotics (SERV) Expands Fleet to 2,000 Delivery Robots Across Multiple U.S. Cities",
-      "description": "Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12...",
-      "url": "https://finance.yahoo.com/news/serve-robotics-serv-expands-fleet-141019909.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hY77k_tfYrR_pyEunFVxDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://media.zenfs.com/en/insidermonkey.com/e1cfcb5952ce556b9509b52f91a431ef",
-      "publishedAt": "2026-01-02T14:10:19Z",
-      "content": "Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by\u2026 [+1763 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sheryar Siddiq",
-      "title": "Wells Fargo Keeps Equal Weight on Venture Global (VG) Amid CP2 and Plaquemines Growth",
-      "description": "Venture Global, Inc. (NYSE:VG) ranks among the best stocks under $25 to buy now. Wells Fargo reduced its price target for Venture Global, Inc. (NYSE:VG) to $...",
-      "url": "https://finance.yahoo.com/news/wells-fargo-keeps-equal-weight-141016226.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3JihLXOQ1OnpQtMDbRmKJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/c38253e62c282cedc086fb8f76728cfc",
-      "publishedAt": "2026-01-02T14:10:16Z",
-      "content": "Venture Global, Inc. (NYSE:VG) ranks among the best stocks under $25 to buy now. Wells Fargo reduced its price target for Venture Global, Inc. (NYSE:VG) to $8 from $11 on December 15, maintaining an \u2026 [+1775 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jing Pan",
-      "title": "The Buffett indicator is flashing red, and investors are \u2018playing with fire\u2019 worse than 1999. Is it time to sell?",
-      "description": "Will 2026 be the year of the crash?",
-      "url": "https://finance.yahoo.com/news/buffett-indicator-flashing-red-investors-140900343.html",
-      "urlToImage": "https://media.zenfs.com/en/moneywise_ecomm_711/a67766c1ea4a1dbdf814b54c9c8cab5e",
-      "publishedAt": "2026-01-02T14:09:00Z",
-      "content": "Paul Morigi / Getty Images\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nMomentum in U.S. stocks just keeps building, with the S&amp;P 500 recen\u2026 [+6595 chars]"
     }
   ]
 }
