@@ -1,6 +1,916 @@
 {
-  "timestamp": "2026-03-25T07:14:59.281095",
+  "timestamp": "2026-03-26T07:23:09.662500",
   "data": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Nick McPheat - BBC Sport Scotland",
+      "title": "Key questions for Clarke in Scotland's final pre-World Cup camp",
+      "description": "What are the key questions facing Steve Clarke as he prepares Scotland for their final pre-World Cup camp?",
+      "url": "https://www.bbc.com/sport/football/articles/czd75vzevl2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/b.8hVRx5K8w7b8I_f.fl.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/749d887fc45bda86c20e9d61c757669e",
+      "publishedAt": "2026-03-25T07:20:13Z",
+      "content": "The last camp before the big one.\r\nSteve Clarke and his Scotland players meet up for the first time since that night against Denmark, but the focus is now firmly on World Cup preparation, with a litt\u2026 [+5367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Lewis Adams",
+      "title": "Gamer to manage football team after FM26 success",
+      "description": "Kendrick Pardoe is preparing to test his tactics in a Suffolk dugout for real.",
+      "url": "https://www.bbc.com/news/articles/cz0er4ev2vgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/os/en/bbc_us_articles_995/8e706c1b804e24b319b66e5791bbe19f",
+      "publishedAt": "2026-03-25T06:45:08Z",
+      "content": "A computer gamer who took a non-league side to Premier League glory online is making a 200-mile (321km) trip to manage the team for real.\r\nKendrick Pardoe, 23, will swap his computer in Hereford for \u2026 [+2085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Book dubbed 'the work of angels' may have been made in the Highlands",
+      "description": "Mystery surrounds the origins of the 1,200-year-old, intricately decorated Book of Kells.",
+      "url": "https://www.bbc.com/news/articles/c8r4jxj0e3jo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bda1/live/73ad9fb0-2788-11f1-a5a1-6ba26a394c65.jpg",
+      "publishedAt": "2026-03-25T06:24:25Z",
+      "content": "\"The footprints of craftworking buildings were found along with evidence for different stages of production, including the creation of vellum, pigments for the pages and glass stud mounts for the cov\u2026 [+26 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'He liked the fear in our eyes', Epstein survivors tell BBC",
+      "description": "In an interview with BBC Newsnight, five survivors of Jeffrey Epstein's abuses spoke about how pervasive the disgraced financier's wrongdoing was and what justice could look like.",
+      "url": "https://www.bbc.com/news/articles/cy81n9wexx6o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/59a9/live/94a98bb0-27b1-11f1-934f-036468834728.jpg",
+      "publishedAt": "2026-03-25T06:00:23Z",
+      "content": "Phillips, a fashion model at the time, also spoke about Epstein's connections to Mountbatten-Windsor and retold a story of her friend, who has not spoken publicly and wants to remain anonymous, alleg\u2026 [+58 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jeff Eisenberg",
+      "title": "After North Carolina's split with Hubert Davis, here are 6 candidates to replace him",
+      "description": "UNC is a primo job, so the school won't have trouble finding suitors. But the right fit will be tricky.",
+      "url": "https://sports.yahoo.com/mens-college-basketball/article/after-north-carolinas-split-with-hubert-davis-here-are-6-candidates-to-replace-him-041534128.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9XNP5kR21fV_oyO9i74wQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-03/97022490-01af-11f0-bedf-2291ab9c7240",
+      "publishedAt": "2026-03-25T04:15:34Z",
+      "content": "So much for this being a quiet college basketball coaching carousel.\r\nOne of the sports most coveted jobs opened Tuesday night when North Carolina fired Hubert Davis less than a week after the Tar He\u2026 [+7978 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jason Owens",
+      "title": "Hubert Davis out as North Carolina's head coach",
+      "description": "Hubert Davis is out as North Carolina's head coach after five seasons.",
+      "url": "https://sports.yahoo.com/mens-college-basketball/breaking-news/article/hubert-davis-out-as-north-carolinas-head-coach-010045394.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KXOLURzm_SaQd75NMucP5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-03/fb0a367d-1247-484e-92d3-dc5da3c952b3",
+      "publishedAt": "2026-03-25T01:00:45Z",
+      "content": "Hubert Davis is out as the head basketball coach at North Carolina, the school announced late Tuesday.\r\nDavis exit ends a five-year run for the former North Carolina shooting guard as the head coach \u2026 [+3461 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jay Busbee",
+      "title": "Tiger Woods returns to competitive golf, but his team loses TGL championship",
+      "description": "Tiger Woods returned to competitive golf on Tuesday night, but his future remains uncertain.",
+      "url": "https://sports.yahoo.com/golf/article/tiger-woods-returns-to-competitive-golf-but-his-team-loses-tgl-championship-003240156.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/b.sPp1DWqMV52yeLThuZEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njc7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-03/265df65a-fb67-4ff6-b017-e41333c455e1",
+      "publishedAt": "2026-03-25T00:32:40Z",
+      "content": "Let the record show that Tiger Woods first competitive golf shot in more than a year was a 25-foot birdie putt that came up just a bit short. Yes, it was on a hydraulic green in a Palm Beach Gardens \u2026 [+2292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Drake Riggs",
+      "title": "Francis Ngannou opens up on 'weird' PFL split, Jake Paul feud and Jon Jones' UFC troubles: 'I know the tactic'",
+      "description": "The former UFC heavyweight champion makes his MMA return on the Ronda Rousey-led Netflix event, continuing his run of finding greener pastures in his post-UFC career.",
+      "url": "https://sports.yahoo.com/mma/article/francis-ngannou-opens-up-on-weird-pfl-split-jake-paul-feud-and-jon-jones-ufc-troubles-i-know-the-tactic-001250737.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XFziyfMhuoyCuLtSsTu3ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTk7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-03/91c03880-27df-11f1-91dd-3e06de06d520",
+      "publishedAt": "2026-03-25T00:12:50Z",
+      "content": "Francis Ngannou continues to find greener pastures in his post-UFC fight career.\r\nJust days before Ngannou's MMA return was announced against Philipe Lins for the May 16 MVP event on Netflix, news br\u2026 [+5620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Frank Schwab",
+      "title": "NFL power rankings: Who's having best offseason so far? Vikings' Kyler Murray signing might not be the elixir it seems",
+      "description": "Yes, Murray comes cheap to Minnesota, but any optimism about him turning things around is based on potential rather than r\u00e9sum\u00e9. The Vikings haven't had a good offseason. The vibes are much different elsewhere, like in Vegas, Denver and Los Angeles.",
+      "url": "https://sports.yahoo.com/nfl/article/nfl-power-rankings-whos-having-best-offseason-so-far-vikings-kyler-murray-signing-might-not-be-the-elixir-it-seems-231106820.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ucOH88ed9V7WAvNLxxHQhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed_032426_powerrankings.jpg",
+      "publishedAt": "2026-03-24T23:11:06Z",
+      "content": "The Arizona Cardinals had no backup plan at quarterback this offseason. They had a choice: Make it work with Kyler Murray, or take a $54.7 million dead cap hit just to be rid of him forever, without \u2026 [+19263 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jake Mintz",
+      "title": "MLB Opening Day 2026: Top 50 people who will impact the MLB season, starting with Nos. 50-26",
+      "description": "From Zack Wheeler and Jacob Misiorowski to Pete Alonso and Mookie Betts, these are the main characters for the season ahead.",
+      "url": "https://sports.yahoo.com/mlb/article/mlb-opening-day-2026-top-50-people-who-will-impact-the-mlb-season-starting-with-nos-50-26-225538171.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q2X6xDoJE6JBRJzg4kCLNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed_032326_top-50-people-who-will-impact-the-mlb-season_50-26mod.jpg",
+      "publishedAt": "2026-03-24T22:55:38Z",
+      "content": "What is a baseball season, if not a series of cascading stories, unfurling one after another? October is its own grand beast, but the marathon regular season is a stage all its own. The singular leng\u2026 [+23962 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Associated Press",
+      "title": "IPL champion Royal Challengers Bengaluru to be bought by consortium in deal worth nearly $1.8B",
+      "description": "Royal Challengers Bengaluru, the current Indian Premier League cricket champion, has agreed to be bought by a conglomerate of investors from India and the United States in a deal valuing the franchise at nearly $1.8 billion. RCB's new owners will be a consort\u2026",
+      "url": "https://sports.yahoo.com/articles/ipl-champion-royal-challengers-bengaluru-224333078.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/enZKIxNMcmCB6GPzzfHzMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/427e0786a4b5071a5e8ba24112ce2071",
+      "publishedAt": "2026-03-24T22:43:33Z",
+      "content": "BENGALURU, India (AP) Royal Challengers Bengaluru, the current Indian Premier League cricket champion, has agreed to be bought by a conglomerate of investors from India and the United States in a dea\u2026 [+748 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "IPL champion Royal Challengers Bengaluru to be bought by consortium in deal worth nearly $1.8B",
+      "description": "Royal Challengers Bengaluru, the current Indian Premier League cricket champion, has agreed to be bought by a conglomerate of investors from India and the United States in a deal valuing the franchise at nearly $1.8 billion. RCB's new owners will be a consort\u2026",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_47298ecf-ae31-4cc7-9988-a6defdfc37ff",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T22:43:33Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Southern California town that rejected In-N-Out sees famous burger chain return for second try",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4247847d-af2a-4aef-a503-ceeb33521c26",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T21:10:43Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Lasses Match Review: Three Points and a Clean Sheet!",
+      "description": "Sunderland Women earned a fantastic three points and a clean sheet over the weekend away at Pompey - another fantastic victory for a mackem team!",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bc8803c5-7fa8-4baf-b142-4c1f16d505e4",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T20:29:27Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "ERIC OLSON",
+      "title": "In land of tall corn, is it a tall order to ask Cyclones and Hawkeyes fans to unite for Sweet 16?",
+      "description": "It\u2019s a cornucopia of basketball this week in the state that produces the most corn. All Iowans can agree, however, that having two of the last 16 teams standing is pretty cool and that fans of both will be tuned in when the Hawkeyes play border rival Nebraska\u2026",
+      "url": "https://sports.yahoo.com/articles/land-tall-corn-tall-order-195613492.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/35rG9fA8m0.YsV.Pqm5sig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/9e267bc49b8bc6571535a70f75e07db3",
+      "publishedAt": "2026-03-24T19:56:13Z",
+      "content": "Its a cornucopia of basketball this week in the state that produces the most corn.\r\nFor the first time, the Iowa State Cyclones and Iowa Hawkeyes advanced to the Sweet 16 of the men's NCAA Tournament\u2026 [+5559 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Andy Burke - BBC Sport Scotland Senior Reporter",
+      "title": "'No pity parties at Edinburgh but we must be better' - Lawrie",
+      "description": "Edinburgh have failed to establish an identity as they battle to avoid another disappointing season, according to forwards coach Stevie Lawrie. Edinburgh have won just four of their 13 league matches this campaign. \"You need to produce a performance and game \u2026",
+      "url": "https://www.bbc.com/sport/articles/cew7x19qlkvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/os/en/bbc_us_articles_995/9d26c3b03d1b67d65f67a42532ee67a1",
+      "publishedAt": "2026-03-24T19:19:45Z",
+      "content": "Edinburgh have failed to establish an identity as they battle to avoid another disappointing season, according to forwards coach Stevie Lawrie.\r\nThe capital side succumbed to a dismal 54-17 defeat to\u2026 [+1603 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ben Fowlkes",
+      "title": "'This has made me a better person': How a UFC veteran found hope in the MS diagnosis that ended his career",
+      "description": "A diagnosis of multiple sclerosis in his mid-thirties brought Alberto Crane's MMA career to an abrupt halt. It also came with important lessons he now wants to share with others.",
+      "url": "https://sports.yahoo.com/mma/article/this-has-made-me-a-better-person-how-ufc-veteran-alberto-crane-found-hope-in-the-ms-diagnosis-that-ended-his-career-185939202.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/v9oSGsY0dK4YuirBvewJKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTk7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-03/ec1a4590-27b3-11f1-bdf2-3fe1f9b794c8",
+      "publishedAt": "2026-03-24T18:59:39Z",
+      "content": "He was four years removed from his last fight in the UFC when they first told Alberto Crane there was a problem with his medicals. He was in his mid-thirties. He thought maybe they were just being pi\u2026 [+7391 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "DAN GELSTON",
+      "title": "76ers' Paul George apologizes for flunking drug test, ready to return for late-season playoff push",
+      "description": "Paul George declined to get into the specifics of his failed drug test that landed him a 25-game suspension but says he is mentally and physically ready to help the Philadelphia 76ers with their playoff push over the last 10 games of the season. George will p\u2026",
+      "url": "https://sports.yahoo.com/articles/76ers-paul-george-apologizes-flunking-183424033.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VrwiKbSiafI7Vn8VCJTWFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/e8c251d37dfc483ea7faaa0f7fb91f61",
+      "publishedAt": "2026-03-24T18:34:24Z",
+      "content": "CAMDEN, N.J. (AP) Paul George declined to get into the specifics of his failed drug test that landed him a 25-game suspension but says he is mentally and physically ready to help the Philadelphia 76e\u2026 [+3311 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Is\u00a0Tractor Supply Company (TSCO)\u00a0A Good Stock To Buy Now?",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f7437e1e-2c3b-4b5f-a0c4-2ef388d5bd03",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T18:17:16Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ricardo Pillai",
+      "title": "Is\u00a0Oscar Health, Inc. (OSCR)\u00a0A Good Stock\u00a0To\u00a0Buy Now?",
+      "description": "Is OSCR a good stock to buy? We came across a bullish thesis on Oscar Health, Inc. on FJ Research\u2019s Substack. In this article, we will summarize the bulls...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oscar-health-inc-oscr-good-181508593.html",
+      "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/4c499c731cc9ea90f95144d23f6a7357",
+      "publishedAt": "2026-03-24T18:15:08Z",
+      "content": "Is\u00a0OSCR\u00a0a good stock to buy?\u00a0We came across a bullish\u00a0thesis on\u00a0Oscar Health, Inc.\u00a0on\u00a0FJ Researchs Substack. In this article,\u00a0we will summarize the\u00a0bulls\u00a0thesis on\u00a0OSCR.\u00a0Oscar Health, Inc.'s\u00a0share wa\u2026 [+2956 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "74-year-old restaurant chain abruptly exits market after closure",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d4970240-d884-49a5-a31f-f715289da308",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T17:33:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Ministers confirm heat pump targets as climate plan unveiled",
+      "description": "The Scottish government says that it intends to wait until 2035 before ramping up the roll-out of the technology.",
+      "url": "https://www.bbc.com/news/articles/c8jky42l3gwo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8f67/live/fadd3250-2785-11f1-a79a-77e93010d956.jpg",
+      "publishedAt": "2026-03-24T17:30:10Z",
+      "content": "Ministers say heating will be decarbonised by 2045 and that their plan will create jobs, lower bills and leave people less exposed to volatile fossil fuel prices - but figures show that the bulk of r\u2026 [+65 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Plus-size fashion chain Torrid to shutter a third of its stores",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_628c1b72-6c5f-4c98-9042-9096fffbb3ec",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T17:24:27Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Sophie Brown, Umir Irfan",
+      "title": "Does running more in a game actually make a difference?",
+      "description": "Tottenham significantly outran Nottingham Forest on Sunday but still ended up losing 3-0, so does running more make a difference?",
+      "url": "https://www.bbc.com/sport/football/articles/ce84xvm2r8vo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bc8b/live/1dd2bb80-279b-11f1-ac4d-5987f4dee3ad.jpg",
+      "publishedAt": "2026-03-24T17:22:30Z",
+      "content": "In May of last year, former Chelsea boss Enzo Maresca said: \"We are not good enough for transition games. If you see our worst moments of the season, or games we struggled, they were all games where \u2026 [+1004 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Where every Big 12 football team ranks in returning production",
+      "description": "The Big 12 Conference sees significant roster changes for 2026. See which teams return the most production.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f774d9d2-ceed-4015-afe3-74f0267f1f65",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T17:14:35Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Alex Myers",
+      "title": "Matt Fitzpatrick\u2019s fantastic bounceback, Charley Hull\u2019s cheeky birthday bash and the wildest WD interview ever",
+      "description": "From an impressive redemption story to a gutsy Q&A, The Grind has the entire week in golf covered.",
+      "url": "https://sports.yahoo.com/articles/matt-fitzpatrick-fantastic-bounceback-charley-163553019.html",
+      "urlToImage": "https://s.yimg.com/os/en/golf_digest_articles_737/88468db2379ca970ed96e05ec31479f3",
+      "publishedAt": "2026-03-24T16:35:53Z",
+      "content": "Welcome to another edition of The Grind, where we miss the March Madness of our youth. Sorry to go all old man on you, but it really was better back in the day. You knew the players because they were\u2026 [+10990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Phil McNulty - Chief football writer",
+      "title": "Keep Tudor? Go for De Zerbi, Mason or Redknapp? Where do Spurs go next?",
+      "description": "BBC Sport chief football writer Phil McNulty asks what Spurs should do next with uncertainty surrounding the future of interim head coach Igor Tudor.",
+      "url": "https://www.bbc.com/sport/football/articles/cevkgj30xw3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0gScZMSRcEjpYvX932IBBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/3f6ea570f29fd2164bf5aa8155689bd6",
+      "publishedAt": "2026-03-24T16:07:14Z",
+      "content": "Tottenham Hotspur's hierarchy face another defining decision as uncertainty surrounds the future of interim head coach Igor Tudor.\r\nTudor's failure to rescue a season spiralling into crisis was broug\u2026 [+6849 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Operational optimisation and project expansions to drive Australia\u2019s lithium supply in 2026",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_90addae5-a048-40ab-a1f3-4304bbbb7c61",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T15:37:55Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Women\u2019s March Madness 2026 title odds: UConn, UCLA lead but SEC teams rise after Iowa loss",
+      "description": "All four top seeds won both games in blowout fashion. The first and third days of the tournament produced zero upsets by seeding in any matchup. Virginia\u2019s shocking upset over No. 2 seed Iowa to become the first women\u2019s First Four team to make the Sweet 16 wa\u2026",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4c6e70d3-b9a9-41c5-abd0-fee5e85d9a9b",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T15:31:05Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Justin Boone",
+      "title": "Fantasy Football: Early look at the best values at each position based on ADP in redraft leagues",
+      "description": "Fantasy football analyst Justin Boone shares some early value picks at each position in redraft leagues for 2026.",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-early-look-at-the-best-values-at-each-position-based-on-adp-in-redraft-leagues-150809166.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bTukBIAK4qOj7DWzeRWc7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTY7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-01/87add790-f430-11f0-bdeb-1bab50d05892",
+      "publishedAt": "2026-03-24T15:08:09Z",
+      "content": "We still have a long way to go in the NFL offseason with some lingering free agents yet to sign and the 2026 NFL Draft waiting to shake up the fantasy football landscape at the end of April.\r\nEven wi\u2026 [+8602 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Report: What \u2018sources close to\u2019 Xabi Alonso have now indicated about prospective coaching return",
+      "description": "A fresh report has indicated that Xabi Alonso is \u2018ready\u2019 to get back into management, amid ongoing speculation over potentially replacing Arne Slot at Liverpool.DOWNLOAD THE OFFICIAL EMPIRE OF THE...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6dbc5d6d-af21-496d-a9de-3d4de491f5e4",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T15:05:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Yahoo Sports Fantasy Staff",
+      "title": "Bold fantasy baseball predictions for the 2026 MLB season: Which will come true?",
+      "description": "Which of these predictions will come to pass for fantasy baseball?",
+      "url": "https://sports.yahoo.com/fantasy/article/bold-fantasy-baseball-predictions-for-the-2026-mlb-season-which-will-come-true-145305032.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pS230.nY8DZmElWZCdUCSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-03/44cb07cb-27bf-464a-8255-8fb6d4094087",
+      "publishedAt": "2026-03-24T14:53:05Z",
+      "content": "Its about that time. The Yahoo Fantasy baseball analysts Scott Pianowski, Fred Zinkie and Corbin Young share their boldest takes yet, ahead of Opening Day.\r\nDraft your Yahoo Fantasy Baseball team for\u2026 [+3996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Why HC Wainwright Sees Uranium Energy Well Positioned for a Bigger Production Ramp",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e63cda46-2fc0-45bb-b74a-1a98fdc97c16",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T14:40:58Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Why enCore Energy\u2019s 2025 Production Gains Matter for Its Contract-Delivery Strategy",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7fdbe565-c347-4423-9cd3-d3362e2642a5",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T14:40:55Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "ESPN ranks Georgia football's returning production",
+      "description": "The Georgia Bulldogs will have a plethora of starters from the 2025 campaign returning to Athens next season.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_228bdda2-4600-49a2-aa66-0245e9d6be2a",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T14:35:22Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Maria Eloisa Capurro and Miles J. Herszenhorn",
+      "title": "Investors Are Betting on an Interest Rate Hike That\u2019s Really Not That Likely",
+      "description": "(Bloomberg) -- Investors have lifted odds that the Federal Reserve is on the verge of raising interest rates, but lingering labor-market fragility and the...",
+      "url": "https://finance.yahoo.com/economy/policy/articles/investors-betting-interest-rate-hike-143229070.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tFDSEPqAYYSd7QAsfBbXgg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njg-/https://media.zenfs.com/en/bloomberg_holding_pen_162/a97b6603c662106fe36100e09c783619",
+      "publishedAt": "2026-03-24T14:32:29Z",
+      "content": "(Bloomberg) Investors have lifted odds that the Federal Reserve is on the verge of raising interest rates, but lingering labor-market fragility and the risks to growth from surging oil prices make th\u2026 [+5171 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "How Oklo\u2019s DOE Milestone Advanced Its Push Into Domestic Isotope Production",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0737a9c9-45e8-4fe6-b267-d10b91b24db5",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T14:27:48Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Sami Mokbel - Senior football correspondent",
+      "title": "Williams aims to step out of shadows of Welsh icons",
+      "description": "As Wales look to secure qualification for the World Cup, Neco Williams describes how following in the footsteps of Welsh icons can be an inspiration and a burden.",
+      "url": "https://www.bbc.com/sport/football/articles/cy41n44jz7do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/os/en/bbc_us_articles_995/4190598c89cdab805ae47b7b111b16d2",
+      "publishedAt": "2026-03-24T14:18:44Z",
+      "content": "Neco Williams is in awe of what came before him. The names of Gareth Bale, Aaron Ramsey and Craig Bellamy revered as everlasting icons of Welsh football.\r\nBut is walking in their footsteps a gift or \u2026 [+7231 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Sami Mokbel",
+      "title": "Williams aims to step out of shadows of Welsh icons",
+      "description": "As Wales look to secure qualification for the World Cup, Neco Williams describes how following in the footsteps of Welsh icons can be an inspiration and a burden.",
+      "url": "https://www.bbc.com/sport/football/articles/cy41n44jz7do",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ca49/live/0a8aa220-2784-11f1-9fd3-710deb20c3fa.jpg",
+      "publishedAt": "2026-03-24T14:18:38Z",
+      "content": "Neco Williams is in awe of what came before him. The names of Gareth Bale, Aaron Ramsey and Craig Bellamy revered as everlasting icons of Welsh football.\r\nBut is walking in their footsteps a gift or \u2026 [+2771 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Philippines declares energy emergency over Iran conflict",
+      "description": "The war has caused \"imminent danger\" to the country's energy supplies, President Ferdinand Marcos Jr says.",
+      "url": "https://www.bbc.com/news/articles/c3ex8ez3717o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c572/live/376f3b50-278b-11f1-8c03-f7b8fcd8cabf.jpg",
+      "publishedAt": "2026-03-24T14:11:39Z",
+      "content": "He added that a committee had been formed to ensure the orderly movement, supply, distribution and availability of fuel, food, medicines and other essential goods."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Island will not escape 'significant' fuel price rises",
+      "description": "The Chief Minister says conflict in the Middle East will lead to price rises in the coming days.",
+      "url": "https://www.bbc.com/news/articles/cj94nm47vg2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dcad/live/edf90790-277a-11f1-82f7-f757ccb9d4bd.jpg",
+      "publishedAt": "2026-03-24T13:59:23Z",
+      "content": "\"Since the start of the war, the Island has been relatively shielded due to the infrequent way our supplies arrive,\" he said, but the \"upward pressure affecting international fuel markets is now feed\u2026 [+42 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ryan Vlastelica and Carmen Reinicke",
+      "title": "Memory Is Wall Street\u2019s Favorite Tech Trade as Mag 7 Disappoints",
+      "description": "(Bloomberg) -- In the stock market\u2019s volatile and uncertain start to the year, one trade has held strong: go long memory and storage.Companies like Sandisk...",
+      "url": "https://finance.yahoo.com/news/memory-wall-street-favorite-tech-104758723.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rvQn.J9Dc5ttYXUv340p3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/76aa958478ec1140e63a62382c622616",
+      "publishedAt": "2026-03-24T13:48:36Z",
+      "content": "(Bloomberg) -- In the stock markets volatile and uncertain start to the year, one trade has held strong: go long memory and storage.\r\nCompanies like Sandisk Corp., Western Digital Corp., and Seagate \u2026 [+5407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Where Oregon Ducks rank among Big Ten schools for returning production",
+      "description": "A look at where the Oregon Ducks rank among the Big Ten teams in terms of returning production going into the 2026 season.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e473b31f-aa2b-4a53-bfca-e239e00b1324",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T13:45:29Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brian Sozzi",
+      "title": "'Property Brothers' Jonathan Scott: AI could unleash housing market prosperity",
+      "description": "Jonathan Scott of HGTV's 'Property Brothers' makes the case for using AI to help with the ailing housing market.",
+      "url": "https://finance.yahoo.com/news/property-brothers-jonathan-scott-ai-could-unleash-housing-market-prosperity-133657613.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MQ1srNWxg5jBRCaHrgxnmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/cb0cd400-2211-11f1-af7f-c2e83c147026",
+      "publishedAt": "2026-03-24T13:36:57Z",
+      "content": "It's time to unleash AI on the ailing US housing market.\r\n\"If AI could shorten the permit timeline, that alone seems logical,\" Property Brothers' Jonathan Scott said on Yahoo Finance's Opening Bid (v\u2026 [+2497 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Aniket Verma",
+      "title": "Elon Musk's X Money To Power 7721% Dogecoin Rally? Top Analyst Says 'May Be,' But Would Wait For A Dip To This Level To Enter",
+      "description": "A widely followed cryptocurrency analyst hinted at a potential 200% rally for Dogecoin on Sunday, advising followers to buy the dip. DOGE Ready For Parabolic...",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musks-x-money-power-133111057.html",
+      "urlToImage": "https://s.yimg.com/os/en/benzinga_79/cc66de95e68dd3a1ea24480ce3c308e5",
+      "publishedAt": "2026-03-24T13:31:11Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nA widely followed cryptocurrency analyst hinted at a potential 200% rally for Dogecoin on Sunday,\u2026 [+11066 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Coca-Cola invests again in Fairlife production",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3b5e0a09-a465-4a9f-9d0b-8f20d1a51f98",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T13:29:32Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Coca-Cola invests again in Fairlife production",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f32ad795-d565-4691-9d8a-3961f52de56d",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T13:29:32Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "JAMES ELLINGWORTH",
+      "title": "Ilia Malinin and Amber Glenn chase figure skating world titles after Olympic disappointment",
+      "description": "Ilia Malinin and Amber Glenn stood out for how they handled their Olympic disappointment. Now they get a chance at a different gold medal. The world figure skating championships in Prague from Wednesday offer a chance for Malinin and Glenn to end the season o\u2026",
+      "url": "https://sports.yahoo.com/articles/ilia-malinin-amber-glenn-chase-131436859.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5aEZjvIwOC5ZD4ys8qEk0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/1f16f8dfa29618e3e38375ca90a8b632",
+      "publishedAt": "2026-03-24T13:14:36Z",
+      "content": "Ilia Malinin and Amber Glenn stood out for how they handled their Olympic disappointment. Now they get a chance at a different gold medal.\r\nThe world figure skating championships in Prague from Wedne\u2026 [+3800 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Alaska and Wyoming Lawmakers Say Emissions Rules Are Stranding Truck Drivers in Freezing Conditions",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3c552520-5dd2-486d-be69-fb70ef1a0502",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T13:00:54Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Alastair Telfer - BBC Sport journalist",
+      "title": "Revamped Crucible to host World Championship until 2045",
+      "description": "The World Snooker Championship will remain at the Crucible in Sheffield until 2045, with the venue set to be refurbished to add up to 500 additional seats.",
+      "url": "https://www.bbc.com/sport/snooker/articles/cy71drmdn10o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/os/en/bbc_us_articles_995/3127d3ee00a07383202f21d86a1b3374",
+      "publishedAt": "2026-03-24T13:00:12Z",
+      "content": "The World Snooker Championship will remain at the Crucible in Sheffield until 2045, with the venue set to be refurbished to add up to 500 additional seats.\r\nThe new long-term deal at the 980-capacity\u2026 [+1731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Alastair Telfer",
+      "title": "Revamped Crucible to host World Championship until 2045",
+      "description": "The World Snooker Championship will remain at the Crucible in Sheffield until 2045, with the venue set to be refurbished to add up to 500 additional seats.",
+      "url": "https://www.bbc.com/sport/snooker/articles/cy71drmdn10o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fedb/live/4cbcb080-2774-11f1-82f7-f757ccb9d4bd.jpg",
+      "publishedAt": "2026-03-24T13:00:06Z",
+      "content": "The World Snooker Championship will remain at the Crucible in Sheffield until 2045, with the venue set to be refurbished to add up to 500 additional seats.\r\nThe new long-term deal at the 980-capacity\u2026 [+1668 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Sandy Armour - Fan writer",
+      "title": "McCann winning over the fans as Killie build momentum",
+      "description": "Killie head into the international break in good spirits having completed back-to-back victories over Hearts and basement-dwelling Livingston. The key to those wins is a much more stable defence - two clean sheets on the bounce has been the foundation for acc\u2026",
+      "url": "https://www.bbc.com/sport/articles/c4gxpg0y49do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FhK8N8ftHEJLSof.CYtO7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/1399786cb6ed84f92de3fdf6e34b6115",
+      "publishedAt": "2026-03-24T12:34:19Z",
+      "content": "Killie head into the international break in good spirits having completed back-to-back victories over Hearts and basement-dwelling Livingston.\r\nThe key to those wins is a much more stable defence - t\u2026 [+947 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Abacus Global Management posts record origination, gains in 2025",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_626dea8e-be4c-4875-956a-82b8d17fb2cd",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T12:33:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Inlyte Energy, Ervin Industries ink deal to strengthen US battery storage supply chain",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_578d1d72-8357-4767-8ed2-e5d827526791",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T12:21:45Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jack Vita",
+      "title": "AL West preview: Seattle Mariners looking for their first World Series title",
+      "description": "The Seattle Mariners appear to have solidified themselves atop the AL West, with the Houston Astros trying to find the formula that made them a mainstay atop the division.",
+      "url": "https://sports.yahoo.com/articles/al-west-preview-seattle-mariners-120000671.html",
+      "urlToImage": "https://s.yimg.com/os/en/la_times_articles_853/29d606046f77c5871e413d2e2ceaf707",
+      "publishedAt": "2026-03-24T12:00:00Z",
+      "content": "The Astros had been a mainstay atop the AL West for eight years claiming seven division titles during that time but now the division appears to be under new management.\r\nLast season, the upstart Mari\u2026 [+4251 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Oil prices rise as Iran denies US talks, supply fears grow",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e6ddd87e-f7d6-4543-8236-f302cc9ca98f",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T11:40:36Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "H&M Foundation toolkit to turn textile industry insight into action",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_783708b7-dc1b-44fe-8ec0-f856f549113b",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T11:22:56Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Colorado football lands mid-tier in ESPN's returning production metric",
+      "description": "Colorado ranks near the middle of the FBS in returning production, balancing transfer portal additions with a few key returning pieces.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1eeebe43-9a7a-4c61-bfd7-9d23e0060447",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T11:03:58Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Parshwa Turakhiya",
+      "title": "Franklin Templeton Says XRP Will Boom When Companies Actually Start Using It",
+      "description": "XRP institutional adoption hinges on companies actually using the network to solve business problems, with Franklin Templeton\u2019s Roger Bayston predicting the ...",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/franklin-templeton-says-xrp-boom-110111253.html",
+      "urlToImage": "https://s.yimg.com/os/en/benzinga_79/5734abf08bcead8a4214cecd77b30690",
+      "publishedAt": "2026-03-24T11:01:11Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nXRP institutional adoption hinges on companies actually using the network to solve business probl\u2026 [+12445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Lily Mae Lazarus",
+      "title": "Exclusive: Cambridge Mobile Telematics secures $350 million from TPG, Allianz to make driving safer",
+      "description": "The investment highlights how insurers are using real-time driving data and AI to price risk, prevent accidents, and improve road safety at scale.",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-cambridge-mobile-telematics-secures-110000171.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/N_Q6cp36qe1P5GCnEj_U4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/55be84cbf057e3566a2edf2ab677d96e",
+      "publishedAt": "2026-03-24T11:00:00Z",
+      "content": "Cambridge Mobile Telematics has quietly become one of the most important companies youve never heard of in the race to make driving saferand now some of the worlds biggest insurers are doubling down \u2026 [+5214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Hank Tucker, Forbes Staff",
+      "title": "The Highest-Paid MLB Players 2026",
+      "description": "The 10 highest-paid MLB players, featuring Shohei Ohtani and Aaron Judge, are set to make $537 million. See the ranking, counting both their salaries and endorsements.",
+      "url": "https://www.forbes.com/sites/hanktucker/2026/03/24/the-highest-paid-mlb-players-2026/",
+      "urlToImage": "https://s.yimg.com/os/en/forbes_staff_375/f38a580a1df907a8c2f7b6a21dc3289b",
+      "publishedAt": "2026-03-24T10:30:00Z",
+      "content": "After solidifying his status as the Babe Ruth of the 21st century with a second straight World Series ring and yet another MVPbecoming only the second MLB player ever to win the award three years in \u2026 [+13244 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "ACCA urges FCA to prepare companies for tougher sustainability reporting",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5fe277b9-1a15-434c-ae36-5ff8e0ce24b2",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T10:26:46Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Jurgen Klopp hints at comeback: \u2018I\u2019m not at the end yet\u2019 as Real Madrid and Germany links grow",
+      "description": "Jurgen Klopp has said he remains open to returning to management in the near future.The formerLiverpool manager has not coached since leaving Anfield at the end of the 2023-24 campaign, with the Germa...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_712b00bc-f055-4fc4-bd70-9efb0aa80bb6",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T09:50:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "Team, not manager to blame for Gills' slump - Dack",
+      "description": "Gillingham's Bradley Dack believes the players, rather than manager Gareth Ainsworth, must shoulder the blame for the collapse of their League Two season.",
+      "url": "https://www.bbc.com/sport/football/articles/cq8wvn98yy3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XKPgKQxFeV3lvfuxWqMsyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/2bb85ab3a809dfe34ef7dcc3dc1d9ea9",
+      "publishedAt": "2026-03-24T09:38:37Z",
+      "content": "Gillingham's Bradley Dack believes the players, rather than manager Gareth Ainsworth, must shoulder the blame for the collapse of their League Two season.\r\nThe Gills, who topped the table in Septembe\u2026 [+1455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Winnie Hsu",
+      "title": "Trump\u2019s Delay Fails to Calm Jitters Over War as Funds Trim Risk",
+      "description": "(Bloomberg) -- President Donald Trump set off a rebound across markets by delaying planned air strikes against Iran\u2019s energy assets, but many investors say...",
+      "url": "https://finance.yahoo.com/markets/articles/trump-delay-fails-calm-jitters-085155764.html",
+      "urlToImage": "https://s.yimg.com/os/en/bloomberg_holding_pen_162/6f012b01b88652be944ce7afd125c461",
+      "publishedAt": "2026-03-24T08:51:55Z",
+      "content": "(Bloomberg) President Donald Trump set off a rebound across markets by delaying planned air strikes against Irans energy assets, but many investors say the latest unpredictability just confirms their\u2026 [+3765 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Venture Global Secures 5-Year LNG Supply Deal With Vitol",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f17dcc23-c2f4-49f0-b994-b4f951985a2b",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T08:45:35Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Jamie Hailstone, Contributor",
+      "title": "Will Extreme Heat Impact This Summer\u2019s FIFA Soccer World Cup?",
+      "description": "Dr. Donal Mullan from Queen\u2019s University Belfast, has warned there is still major concern the timing of some soccer fixtures could result in exposure to extreme heat.",
+      "url": "https://www.forbes.com/sites/jamiehailstone/2026/03/24/will-extreme-heat-impact-this-summers-fifa-soccer-world-cup/",
+      "urlToImage": "https://s.yimg.com/os/en/forbes_contributor_845/93dd5bfe0698ea2b88dcfd3d2b8acea3",
+      "publishedAt": "2026-03-24T08:20:42Z",
+      "content": "As preparations continue for the 2026 FIFA World Cup, which will be held this summer in the U.S, Canada and Mexico, there are still concerns about how extreme heat will impact both players and fans a\u2026 [+3935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "Has Newey Aston Martin team boss project failed? F1 Q&A",
+      "description": "BBC Sport F1 correspondent Andrew Benson answers your questions before the Japanese Grand Prix.",
+      "url": "https://www.bbc.com/sport/formula1/articles/c62k4g1dmz5o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mYVxDnCDNroWwPIoLCgjkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/cdf23ea89b31b36196a60d17f04702e4",
+      "publishedAt": "2026-03-24T08:10:49Z",
+      "content": "Mercedes will be looking to maintain their strong start to 2026 at the third round of the season in Japan this weekend.\r\nGeorge Russell won in Melbourne and the Shanghai sprint, before 19-year-old te\u2026 [+10764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "Has Newey Aston Martin team boss project failed? F1 Q&A",
+      "description": "BBC Sport F1 correspondent Andrew Benson answers your questions before the Japanese Grand Prix.",
+      "url": "https://www.bbc.com/sport/formula1/articles/c62k4g1dmz5o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cf79/live/e10ff9a0-2755-11f1-8c91-ade014b07da0.jpg",
+      "publishedAt": "2026-03-24T08:08:31Z",
+      "content": "The simple answer is that the top management of Aston Martin and Audi have felt things were not working at various junctures and decided to act.\r\nAs far as Audi is concerned, it was clear some time a\u2026 [+2548 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "'Northern Ireland have nothing to fear but everything to gain'",
+      "description": "In a column for BBC Sport NI, Stuart Dallas says Northern Ireland \"have nothing to fear but everything to gain\" in their World Cup play-off in Italy.",
+      "url": "https://www.bbc.com/sport/football/articles/cew7l1qxd08o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/z5AiI83.uYvGie8yDPgTkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/8b3f96c239562148e8a99b7935cba994",
+      "publishedAt": "2026-03-24T07:15:09Z",
+      "content": "Former Northern Ireland and Leeds United wide man Stuart Dallas is part of BBC Sport NI's coverage of Thursday's World Cup play-off in Italy.\r\nNorthern Ireland's World Cup play-off semi-final in Ital\u2026 [+5110 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -108,6 +1018,19 @@
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Beloved burger chain shutters 100 locations as CEO aims at remaining competitive",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f4f84af5-e26c-49b8-9b73-c9060261c4c8",
+      "urlToImage": null,
+      "publishedAt": "2026-03-24T00:06:44Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "BBC News"
       },
       "author": "BBC Sport",
@@ -199,6 +1122,19 @@
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Oil & Gas 360",
+      "title": "Energy markets whipsaw on war and talks: by Oil & Gas 360",
+      "description": "(By Oil & Gas 360) \u2013 Global energy markets are sending mixed signals as war-driven disruptions collide with sudden diplomatic [\u2026]",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/energy-markets-whipsaw-war-talks-213023694.html",
+      "urlToImage": "https://s.yimg.com/os/en/oil_and_gas_360_817/820739f03d2e79f9f97f04a6c2ab7324",
+      "publishedAt": "2026-03-23T21:30:23Z",
+      "content": "(By Oil &amp; Gas 360) Global energy markets are sending mixed signals as war-driven disruptions collide with sudden diplomatic momentum, leaving oil and gas prices caught between physical shortages \u2026 [+3145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "BBC News"
       },
       "author": "BBC",
@@ -234,6 +1170,32 @@
       "urlToImage": null,
       "publishedAt": "2026-03-23T20:54:25Z",
       "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Forefront Analytics Expands iShares ESG Aware MSCI EM ETF Stake to $16 Million",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_64b83422-6d6d-48e3-81ef-859315c795f9",
+      "urlToImage": null,
+      "publishedAt": "2026-03-23T20:49:24Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Cronos Group Conference: CEO Eyes Supply Expansion, Spinach Innovation, Stays Wary on U.S. Reform",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1be21b9a-8cd1-4c00-9db0-b18fb12d7d01",
+      "urlToImage": null,
+      "publishedAt": "2026-03-23T20:33:30Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
     },
     {
       "source": {
@@ -338,968 +1300,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Pr_94avDNzdXX2eHrq5lIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/nbcsports.com/fcd21267fa0866af2c7c2e2489b55921",
       "publishedAt": "2026-03-23T19:18:52Z",
       "content": "Spring training has wound to a close, but there are still a couple of days left to sneak in a fantasy baseball draft. If you, like me, are one of those people who are planning to draft until the bitt\u2026 [+19107 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Mould found on children's cancer ward at Edinburgh hospital",
-      "description": "NHS Lothian said no patients are unwell as a result of the mould found and patients and families have been made aware of the ongoing situation.",
-      "url": "https://www.bbc.com/news/articles/c80mlxvdz2jo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4ebf/live/2f3e38a0-26e1-11f1-a79a-77e93010d956.png",
-      "publishedAt": "2026-03-23T18:54:10Z",
-      "content": "An expert incident management team, made up of infection control, microbiological and clinical teams, has been established to oversee and direct the urgent programme of investigation and remedial wor\u2026 [+1 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Wisconsin Football in Bottom Half of Big Ten in Key 2026 Metric",
-      "description": "Bill Connelly released his 2026 returning production rankings, and Wisconsin falls into the bottom half of the Big Ten.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_42fd6639-4da5-4057-9d22-6d6980458883",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T18:40:05Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jeff Eisenberg,Dan Wolken",
-      "title": "NCAA tournament: If Cinderella is dead, who's to blame? Here are the biggest culprits",
-      "description": "All 16 teams that advanced to the second week of this year\u2019s NCAA tournament hail from one of the five power conferences. We are entering a new era where Cinderella just can't compete with the big boys.",
-      "url": "https://sports.yahoo.com/mens-college-basketball/article/ncaa-tournament-if-cinderella-is-dead-whos-to-blame-here-are-the-biggest-culprits-183114993.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uPzYLKem4dM1mvPViDOW0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-03/096c471a-90fb-4dc8-8e17-6cf9c4318065",
-      "publishedAt": "2026-03-23T18:31:14Z",
-      "content": "Midnight came early again for Cinderella.\r\nAll 16 teams that advanced to the second week of this years NCAA tournament hail from one of the five power conferences.\r\nThe only double-digit-seeded upsta\u2026 [+12303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "GdS: Spalletti willing to axe eight Juventus players next summer",
-      "description": "Juventus head coach Luciano Spalletti is seeking reinforcement in the next summer transfer campaign, but the management will first have to offload some of their own.While the likes of Weston McKennie,...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c3a57468-a4a1-480a-a624-7ca2177f9499",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T18:30:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Bob Karr",
-      "title": "Jefferies Lowers PT on Alibaba Group Holding Limited (BABA) Stock",
-      "description": "Alibaba Group Holding Limited (NYSE:BABA) is one of the Top Wide Moat Stocks to Buy for Long Term Growth. On March 19, Jefferies reduced its price objective ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-lowers-pt-alibaba-group-182744017.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ais1rNV3bcX2FF6pRB_w9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/090170be12ef840f77e8d544392228a0",
-      "publishedAt": "2026-03-23T18:27:44Z",
-      "content": "Alibaba Group Holding Limited (NYSE:BABA) is one of the Top Wide Moat Stocks to Buy for Long Term Growth. On March 19, Jefferies reduced its price objective on the companys stock to $212 from $225 an\u2026 [+1487 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Chris Cwik",
-      "title": "Travis Kelce reportedly signs 3-year, $54.7 million deal to return to Chiefs, but it comes with a catch",
-      "description": "Travis Kelce signed a long-term deal to stay in Kansas City, but it's not what it seems.",
-      "url": "https://sports.yahoo.com/nfl/breaking-news/article/travis-kelce-reportedly-signs-3-year-547-million-deal-to-return-to-chiefs-but-it-comes-with-a-catch-182426268.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aDbOSPtJuW4U_gBF.9P0Lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-03/a8767823-c7b1-4738-bda3-ee6a0c5c89f0",
-      "publishedAt": "2026-03-23T18:24:26Z",
-      "content": "For a few weeks this offseason, it seemed possible that Kansas City Chiefs tight end Travis Kelce could retire from the NFL. But Kelce put those rumors to rest in mid-March, as reports emerged that h\u2026 [+2395 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "JD.com (JD) Launches Joybuy Marketplace in Europe, Acquires Ceconomy to Challenge Amazon",
-      "description": "JD.com Inc. (NASDAQ:JD) is one of the best NASDAQ stocks under $30 to buy. On March 16, Reuters reported that JD.com officially launched its Joybuy online...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jd-com-jd-launches-joybuy-181223161.html",
-      "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/7a7d804f03a04074b56a27476710c1da",
-      "publishedAt": "2026-03-23T18:12:23Z",
-      "content": "JD.com Inc. (NASDAQ:JD) is one of the best NASDAQ stocks under $30 to buy. On March 16, Reuters reported that JD.com officially launched its Joybuy online marketplace in the UK, Germany, France, the \u2026 [+2128 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "Dundee lose \u00a31.8m but expect continued improvement",
-      "description": "Dundee lost \u00a31.8m in the last financial year, but that was \u00a31m less than the previous season and the Scottish Premiership club's majority shareholder promised to continue to make up the shortfall. \"These projections have been drawn up on the basis of conserva\u2026",
-      "url": "https://www.bbc.com/sport/articles/c4gl2vp36nyo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/os/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
-      "publishedAt": "2026-03-23T18:01:18Z",
-      "content": "Dundee lost \u00a31.8m in the last financial year, but that was \u00a31m less than the previous season and the Scottish Premiership club's majority shareholder promised to continue to make up the shortfall.\r\nT\u2026 [+1588 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Where does OU rank in returning production, according to ESPN?",
-      "description": "Where do the Oklahoma Sooners find themselves on ESPN's list of teams with the most returning production?",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7adbd429-fa7f-450d-9935-44b8a59af4e7",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T18:00:44Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sourcing Journal"
-      },
-      "author": "Jennifer Bringle",
-      "title": "Report: Companies Maintaining Sustainability Budgets Despite Trade Disruptions",
-      "description": "EiQ assessed data on corporate sustainability budgets across a number of sectors, including transport and supply chain management.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/eiq-companies-maintaining-sustainability-budgets-despite-trade-disruptions-1234817794/",
-      "urlToImage": "https://s.yimg.com/os/en/sourcing_journal_735/d36e40ebea4b9a41a2edf3a5f337dc33",
-      "publishedAt": "2026-03-23T18:00:00Z",
-      "content": "Despite the pressures of tariffs and other supply chain disruptions, many companies are holding firm on their sustainability goals. Thats according to a new report from risk management and supply cha\u2026 [+3919 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Darshan Desai",
-      "title": "Teenage women's boxer Isis Sio in medically induced coma after vicious knockout loss",
-      "description": "19-year-old Isis Sio is in a medically induced coma following a brutal knockout loss Saturday night.",
-      "url": "https://sports.yahoo.com/boxing/article/teenage-womens-boxer-isis-sio-in-medically-induced-coma-after-vicious-knockout-loss-175453277.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YhvN4WMTlClqVWdvhaa4EA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-03/891ecbf0-26e1-11f1-be8f-1cfa641b3438",
-      "publishedAt": "2026-03-23T17:54:53Z",
-      "content": "Isis Sio, 19, has been placed into a medically induced coma following a brutal knockout she suffered on Saturday night.\r\nSio was stopped by Jocelyn Camarillo just 78 seconds into their four-round lig\u2026 [+1652 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Chuck Schilken",
-      "title": "Ohtani. Yamamoto. Sasaki. A 12-story 'cultural bridge' between L.A. and Japan to debut in Torrance",
-      "description": "Artist Robert Vargas will unveil his 12-story mural featuring the Dodgers' three Japanese stars \u2014 Shohei Ohtani, Yoshinobu Yamamoto and Roki Sasaki \u2014 Tuesday in Torrance.",
-      "url": "https://sports.yahoo.com/articles/ohtani-yamamoto-sasaki-12-story-174754767.html",
-      "urlToImage": "https://s.yimg.com/os/en/la_times_articles_853/dbd3aee95765c768d60b766b00dc1978",
-      "publishedAt": "2026-03-23T17:47:54Z",
-      "content": "Robert Vargas is in a bit of a time crunch.\r\nThe Los Angeles-based artist has embarked on one of his most ambitious murals. Titled \"Samurai of the Diamond,\" it features the Dodgers' trio of Japanese \u2026 [+9059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Nizaar Kinsella - Football reporter",
-      "title": "Have Chelsea progressed under Rosenior? Analysing his Blues tenure",
-      "description": "Liam Rosenior is facing criticism for his early tenure as Chelsea manager - but is it fair, and are his players on board ahead of the climax to the season?",
-      "url": "https://www.bbc.com/sport/football/articles/cg547vpj31zo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/os/en/bbc_us_articles_995/521e9fbfda066ed607aaac7247587f8c",
-      "publishedAt": "2026-03-23T17:27:07Z",
-      "content": "Liam Rosenior is facing criticism for his early tenure as Chelsea manager - but is it fair, and are his players on board ahead of the climax to the season?\r\nSaturday's 3-0 defeat at Everton meant Che\u2026 [+6959 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ben Rohrbach",
-      "title": "NBA MVP rankings: Luka Don\u010di\u0107 is rising, but can anyone take the trophy from Shai Gilgeous-Alexander?",
-      "description": "With three weeks to go in the regular season, it is high time for another look at this year's MVP candidates.",
-      "url": "https://sports.yahoo.com/nba/article/nba-mvp-rankings-luka-doncic-is-rising-but-can-anyone-take-the-trophy-from-shai-gilgeous-alexander-164929283.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/e1ivOkDntetqcnqipp54sA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed_032225_nba-mvp-rankings.jpg",
-      "publishedAt": "2026-03-23T16:49:29Z",
-      "content": "We have examined the NBA's MVP race in greatdetail over the last few weeks, but now it is high time for another look at this years candidates.\r\nThe list is not so dissimilar to our top candidates sin\u2026 [+7530 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "\u30103\u670824\u65e5\u3011\u770b\u8ecd\u805e\u5b78\u82f1\u8a9e",
-      "description": "\u25a0\u6797\u570b\u8cd3 \u539f\u6587\uff1a Ukraine has officially launched Mission Control, a national digital system for managing all drone operations within the military ecosystem DELTA. The launch was announced by Ukraine\u2019s Minister of Defence Mykhailo Fedorov, who confirmed that the offic\u2026",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8bf59b6c-054d-4181-8291-bb5af4edac83",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T16:30:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Oracle Corporation (ORCL) Delivered A \u201cclean\u201d Third Quarter, Says Mizuho",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a4c95149-6acc-414f-b7c5-e1742e6d53fc",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T16:02:08Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Rameen Kasana",
-      "title": "What Street Thinks About Broadcom Inc. (AVGO)",
-      "description": "Broadcom Inc. (NASDAQ:AVGO) is among the 5 Tech Stocks with Best Earnings Growth in 2026. On March 5, Cantor Fitzgerald maintained an Overweight rating on...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/street-thinks-broadcom-inc-avgo-160201760.html",
-      "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/faddaf2f17f7d4089e4ea027acd784e1",
-      "publishedAt": "2026-03-23T16:02:01Z",
-      "content": "Broadcom Inc. (NASDAQ:AVGO) is among the 5 Tech Stocks with Best Earnings Growth in 2026. On March 5, Cantor Fitzgerald maintained an Overweight rating on Broadcom Inc. (NASDAQ:AVGO) with a price tar\u2026 [+1844 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "UK government announces \u00a39m Mossmorran investment",
-      "description": "The chemical plant in Fife ended production after 40 years and is expected to be fully decommissioned by 2028.",
-      "url": "https://www.bbc.com/news/articles/c70541ngkk9o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c53c/live/3c53bd50-26d0-11f1-81a2-116adc639d06.jpg",
-      "publishedAt": "2026-03-23T15:52:30Z",
-      "content": "Production at the chemical works in Fife ended last month after more than 40 years of operation, with 400 jobs at risk."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Dortmund appoints second-division dealmaker as sporting director to 'shape the future'",
-      "description": "Borussia Dortmund has dipped into the German second division to appoint a new sporting director who won praise for making impactful transfers on a budget. \u201cIn our conversations we soon noticed that Ole has an extremely great hunger for success, high ambitions\u2026",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f40cb539-1084-4773-9418-332aaf192c3f",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T15:43:19Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Zak Hanshew",
-      "title": "Fantasy Basketball Waiver Wire: Daniss Jenkins delivers in fantasy semifinals",
-      "description": "Daniss Jenkins has stepped up in a big way with Cade Cunningham sidelined, and he can help fantasy managers win their semifinal matchups.",
-      "url": "https://sports.yahoo.com/articles/fantasy-basketball-waiver-wire-daniss-153545088.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Mjl_tiaVDXp3LAFh4hpCHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/nbcsports.com/b77a3443347beaf3e894f69e4a985545",
-      "publishedAt": "2026-03-23T15:35:45Z",
-      "content": "Managers in Yahoo! default leagues have reached the fantasy semifinals. Its win-or-go-home with a trip to the fantasy championship on the line, and navigating the waiver wire is more treacherous than\u2026 [+5059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "OMP",
-      "title": "\u5728 2026 \u5e74 Gartner\u00ae\u300a\u4f9b\u61c9\u93c8\u898f\u5283\u89e3\u6c7a\u65b9\u6848\uff1a\u6d41\u7a0b\u5de5\u696d\u300b\u9b54\u529b\u8c61\u9650\u2122 \u5831\u544a\u4e2d\uff0cOMP \u5728\u300c\u9858\u666f\u5b8c\u6574\u6027\u300d\u8207\u300c\u57f7\u884c\u80fd\u529b\u300d\u5169\u5927\u6307\u6a19\u4e0a\u5747\u4f4d\u5c45\u9996\u4f4d",
-      "description": "OMP, a global leader in AI-powered supply chain planning solutions, has been named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Supply Chain Planning Solutions: Process Industries, positioned highest for both \"Completeness of Vision\" ...",
-      "url": "https://tw.stock.yahoo.com/news/%E5%9C%A8-2026-%E5%B9%B4-gartner-%E4%BE%9B%E6%87%89%E9%8F%88%E8%A6%8F%E5%8A%83%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88-151500209.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bw10pnH.GXJAL8H7J5z0YQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0zNjk-/https://media.zenfs.com/en/accesswire_taiwan_847/b5c6d5401246ed0bd077878a1821ec1c",
-      "publishedAt": "2026-03-23T15:15:00Z",
-      "content": "OMP, a global leader in AI-powered supply chain planning solutions, has been named a Leader in the 2026 Gartner&amp;reg; Magic Quadrant&amp;trade; for Supply Chain Planning Solutions: Process Industr\u2026 [+853 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Mandeep Sanghera - BBC Sport journalist",
-      "title": "Sunderland not very good compared with Newcastle - Gordon",
-      "description": "Anthony Gordon says Newcastle United's defeat by rivals Sunderland is \"not good enough\" because the Black Cats are \"not very good\" compared with the Magpies.",
-      "url": "https://www.bbc.com/sport/football/articles/czx9ry2r0j2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vbA9jCmKm2dYo3p4WsrRaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/d3d7c91fddbcdc9e777c53ae00390516",
-      "publishedAt": "2026-03-23T15:10:36Z",
-      "content": "Anthony Gordon says Newcastle United's defeat by rivals Sunderland is \"not good enough\" because the Black Cats are \"not very good\" compared with the Magpies.\r\nSunderland completed a league double ove\u2026 [+2502 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Mandeep Sanghera",
-      "title": "Sunderland not very good compared with Newcastle - Gordon",
-      "description": "Anthony Gordon says Newcastle United's defeat by rivals Sunderland is \"not good enough\" because the Black Cats are \"not very good\" compared with the Magpies.",
-      "url": "https://www.bbc.com/sport/football/articles/czx9ry2r0j2o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/834b/live/1a308f90-26cc-11f1-90ee-412ebf5fb2dd.jpg",
-      "publishedAt": "2026-03-23T15:08:36Z",
-      "content": "The win for Sunderland, managed by Regis le Bris, moved them into 11th place in the Premier League on 43 points - one point and a place above Newcastle - after 31 games.\r\nThe Black Cats have won 11, \u2026 [+916 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Rob Carpenter",
-      "title": "Not all maintenance violations are the same",
-      "description": "The difference between what a driver should catch on the pre-trip and what a PM program should catch before the truck ever leaves the shop tells two...",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/not-maintenance-violations-same-144700521.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/atsjyJSzC.K8eNRHVESKfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/freightwaves_373/0ebe8f8e5550f1fd16e3d4fc67c271e8",
-      "publishedAt": "2026-03-23T14:47:00Z",
-      "content": "A commercial vehicle inspection generates a violation. That violation hits the carriers vehicle maintenance BASIC in FMCSAs Safety Measurement System. The fleet safety manager sees the percentile mov\u2026 [+7954 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "5 MLB rookies to keep your eyes on in 2026",
-      "description": "The MLB season begins on Wednesday. The 2026 season will be another big year for MLB, and five specific rookies will provide great production for their respective teams. Many will help their clubs make playoff pushes, and the others will\u2026",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0ffc00f-4ce6-4455-afc3-e1d211767857",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T14:43:19Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Joe Bradshaw",
-      "title": "What is Russo's best position?",
-      "description": "Arsenal's Alessia Russo has excelled as a number nine and a number 10 this season, but where is she most effective?",
-      "url": "https://www.bbc.com/sport/football/articles/c9qdgd92w97o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f0a4/live/70440200-268f-11f1-934f-036468834728.jpg",
-      "publishedAt": "2026-03-23T13:51:57Z",
-      "content": "Boasting two assists in her eight Champions League matches, Russo has a goal contribution per game figure of 1.13, behind only Klara Buhl of Bayern Munich (1.5) and Barcelona's double Ballon d'Or win\u2026 [+1247 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "'We will put in 120% after the international break'",
-      "description": "Goalscorer Beto spoke to BBC Radio Merseyside after Everton's victory against Chelsea: \"It feels amazing to help the team to win a must-win game and to keep a clean sheet so we are all happy.\" If I do this well the team can be more confident and create more c\u2026",
-      "url": "https://www.bbc.com/sport/football/articles/c2d8l0x631no?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/os/en/bbc_us_articles_995/441359aefa4e65c51ff35928fdbef156",
-      "publishedAt": "2026-03-23T13:38:02Z",
-      "content": "Goalscorer Beto spoke to BBC Radio Merseyside after Everton's victory against Chelsea: \"It feels amazing to help the team to win a must-win game and to keep a clean sheet so we are all happy.\"\r\nOn hi\u2026 [+492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Eve Nowell",
-      "title": "Dealer Drops Corvette Z06 During Routine Service\u2014What Happened Next Raises Bigger Questions for Owners",
-      "description": "What should have been a simple oil change turned into every performance car owner\u2019s nightmare. A nearly new 2024 Corvette Z06, with just over 3,000 miles on ...",
-      "url": "https://autos.yahoo.com/ownership/articles/dealer-drops-corvette-z06-during-133000493.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/A9DEFC7E5F711A8354D7F8C9963D22BEB17C3AADE9A87AE065A6A46334B50185/subgraphmysterio/resizefit_w1200;quality_90;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fen%2Fbackfire_news_articles_769%2Fb021deccb9fbdb9f95692e89ed34ac51",
-      "publishedAt": "2026-03-23T13:30:00Z",
-      "content": "What should have been a simple oil change turned into every performance car owners nightmare. A nearly new 2024 Corvette Z06, with just over 3,000 miles on the clock, was severely damaged after slipp\u2026 [+5768 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Tony Blengino, Contributor",
-      "title": "Mariners Starting Pitching Depth Makes Them AL West Favorite",
-      "description": "Every club but the Angels has playoff aspirations. The Astro dynasty is on life support, the Rangers await Wyatt Langford's breakthrough, and the A's nucleus is exciting.",
-      "url": "https://www.forbes.com/sites/tonyblengino/2026/03/23/mariners-starting-pitching-depth-makes-them-al-west-favorite/",
-      "urlToImage": "https://s.yimg.com/os/en/forbes_contributor_845/2df83b453db0fd2f510b6fd117538da8",
-      "publishedAt": "2026-03-23T13:25:30Z",
-      "content": "Over the last two weeks, Ive taken a look at the Opening Day true-talent rankings of the 30 MLB clubs on a division-by-division basis. While the rankings are based on actual 2025 batted-ball data, of\u2026 [+3574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Moneywise",
-      "title": "A Reddit investor grew a $2.26M portfolio with just 2 dividend ETFs. Here\u2019s what they used, and how you can follow along",
-      "description": "Reddit contains a wealth of personal investing stories and strategies.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-investor-grew-2-26m-132300948.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/87vhdJQ4B7L6Lcr3kjSbGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_ecomm_711/93bca8dbafe7dc680e8797a8a79c4ffe",
-      "publishedAt": "2026-03-23T13:23:00Z",
-      "content": "Whether you wish to stick to dividend income or pivot to growth stocks, however, there are tools that can help.\r\nPlatforms like Robinhood are designed to make investing simpler and more approachable.\u2026 [+8723 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Oldham keeper Hudson eyes clean sheet record",
-      "description": "Oldham Athletic goalkeeper Mathew Hudson says he is aiming to set a new club record following his seventh shut out in eight league games.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_21ec8da1-9d85-47d3-bdf0-8409eafc370d",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T13:12:36Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Rebecca Holland",
-      "title": "My unemployed husband lost $30K on trading cards and I don\u2019t earn enough to support our family. What should we do?",
-      "description": "Riding a slippery slope from passionate investing to financial deceit.",
-      "url": "https://finance.yahoo.com/markets/options/articles/unemployed-husband-lost-30k-trading-131000285.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MIZC6RVjt0hDULOcdGbAJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/moneywise_327/e5c9211dc2c8d11bf8d426ff600ce0cb",
-      "publishedAt": "2026-03-23T13:10:00Z",
-      "content": "Financial infidelity is surprisingly prevalent, and the costs both emotional and financial can be devastating.\r\nData from the National Endowment for Financial Education, featuring over a decade of re\u2026 [+6234 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Elliott Investment Management takes multibillion-dollar stake in Synopsys, plans engagement",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3914e131-6593-4ede-9c94-22c41f9c816c",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T13:02:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Canvaloop raises $1.4m, eyes tenfold increase in textile production",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a3224487-1728-4eb4-a018-012af36d37d3",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T11:55:17Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Soumya Eswaran",
-      "title": "HubSpot (HUBS) Fell on Investors\u2019 Concerns",
-      "description": "Brown Advisory, an investment management company, released its \u201cBrown Advisory Mid-Cap Growth Strategy\u201d fourth-quarter 2025 investor letter. A copy of the...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hubspot-hubs-fell-investors-concerns-115255685.html",
-      "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/8dead4822353b54ea74ae5df011d4d36",
-      "publishedAt": "2026-03-23T11:52:55Z",
-      "content": "Brown Advisory, an investment management company, released its Brown Advisory Mid-Cap Growth Strategy fourth-quarter 2025 investor letter.\u00a0A copy of the letter can be downloaded here. The Strategy la\u2026 [+2496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "'Encouraging signs for Foxes'",
-      "description": "BBC Radio Leicester summariser Matt Fryatt reflects on Leicester City's draw at Watford on the When You're Smiling podcast.",
-      "url": "https://www.bbc.com/sport/football/articles/cp861my71l7o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/os/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
-      "publishedAt": "2026-03-23T11:44:09Z",
-      "content": "After 30 matches without a Championship clean sheet, Leicester have now kept two in the past three games, but the Foxes had to settle for a point in a stalemate at Watford on Saturday.\r\nFormer Foxes \u2026 [+950 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Patriots draft target: Don\u2019t be fooled by Oscar Delp\u2019s lack of production",
-      "description": "The Georgia product is a fast-rising tight end prospect.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f914814e-76af-4c18-a54e-fab1adf3511c",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T11:40:07Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ccb7c724-d2dc-40d8-bd0e-014a7a84552c",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T11:30:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ava Wallace and Charlie Eccleshare",
-      "title": "Why the Miami Open\u2019s tennis court on Hard Rock Stadium\u2019s football field has a rain problem",
-      "description": "Welcome back to the Monday Tennis Briefing, where The Athletic will explain the stories behind the stories from the past week on court. This week, the Miami Open took center stage. Building a tennis court on a football stadium caused some issues, the tennis i\u2026",
-      "url": "https://sports.yahoo.com/articles/why-miami-open-tennis-court-111606413.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
-      "publishedAt": "2026-03-23T11:16:06Z",
-      "content": "Welcome back to the Monday Tennis Briefing, where The Athletic\u00a0will explain the stories behind the stories from the past week on court.\r\nThis week, the Miami Open took center stage. Building a tennis\u2026 [+9037 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Reuters",
-      "title": "Dollar scarcity in Venezuela forces small firms to raise prices, turn to crypto",
-      "description": "In central Venezuela, the owner of a mid-size pharmaceutical factory scrambles to obtain dollars to import chemicals and other ingredients for his headache...",
-      "url": "https://finance.yahoo.com/economy/policy/articles/dollar-scarcity-venezuela-forces-small-111044956.html",
-      "urlToImage": "https://s.yimg.com/os/en/reuters-finance.com/5879e8ae177909eab586d4961b8bd184",
-      "publishedAt": "2026-03-23T11:10:44Z",
-      "content": "March 23 (Reuters) - In central Venezuela, the owner of a mid-size pharmaceutical factory scrambles to obtain dollars to import chemicals and other ingredients for his headache and fever remedies.\r\nB\u2026 [+4786 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Caroline Petrow-Cohen",
-      "title": "As many shoppers and retailers struggle, California's Ross Dress for Less is booming",
-      "description": "The company behind Ross Dress for Less and other bargain retailers are thriving as consumers look to save money.",
-      "url": "https://finance.yahoo.com/economy/articles/many-shoppers-retailers-struggle-californias-110827680.html",
-      "urlToImage": "https://s.yimg.com/os/en/la_times_articles_853/dad66f7f5884890df1e36a4dd7382c4a",
-      "publishedAt": "2026-03-23T11:08:27Z",
-      "content": "People arrive to shop at a newly opened Ross store on 600 E. Valley Blvd. (Jason Armond / Los Angeles Times)\r\nAs big malls and department stores close, bargain chains like Ross Dress for Less are rol\u2026 [+5908 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Chris Branch",
-      "title": "A No. 1 seed falls, plus a pop star\u2019s soccer feud",
-      "description": "Good morning! I believe in you. Inside: Men\u2019s Sweet 16 is set \ufe0f Beautiful coaching moment  MJ\u2019s new dominance Madness, Cont.: Iowa headlines a dizzying day All weekend, I kept thinking about the volume of the NCAA Tournament. Not the noise \u2014 the literal\u2026",
-      "url": "https://sports.yahoo.com/articles/no-1-seed-falls-plus-103105506.html",
-      "urlToImage": "https://s.yimg.com/os/en/the_athletic_articles_169/5a54151a1b0c7e6c6ac58036bc151938",
-      "publishedAt": "2026-03-23T10:31:05Z",
-      "content": "Good morning! I believe in you. Inside:\u00a0\r\nMens Sweet 16 is set\r\n Beautiful coaching moment\r\n MJs new dominance\r\nAll weekend, I kept thinking about the volume of the NCAA Tournament. Not the noise the\u2026 [+6864 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "Hearts 'keep believing', Celtic 'toothless', Aberdeen 'in serious trouble' - your views",
-      "description": "A selection of your messages on the weekend action in the Scottish Premiership.",
-      "url": "https://www.bbc.com/sport/articles/cnv8jy16gjqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VJDusw1p_zn6HV14sezf1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/63be61254bfa991787c28767643f50f8",
-      "publishedAt": "2026-03-23T10:12:58Z",
-      "content": "Scottish Premiership leaders Hearts grind out another 1-0 at home and Rangers are up to second as Celtic falter.\r\nMeanwhile, at the other end of the table, Aberdeen fans are worried.\r\nHere are a sele\u2026 [+15141 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jeff Rueter",
-      "title": "MLS weekend wrap: a St Louis golazo and a free-scoring Englishman",
-      "description": "Sam Surridge\u2019s excellent form could attract interest from the Premier League, while Marc Dos Santos\u2019s excellent start at LAFC continues",
-      "url": "https://sports.yahoo.com/articles/mls-weekend-wrap-st-louis-100047751.html",
-      "urlToImage": "https://s.yimg.com/os/en/the_guardian_765/e8604597c8e22db7748cbb4bed30949f",
-      "publishedAt": "2026-03-23T10:00:47Z",
-      "content": "If St Louis had built Energizer Park as an indoor venue, then Marcel Hartels worldie would have surely blown the roof right off.\r\nAfter shocking MLS in their 2023 debut by winning the West, St Louis \u2026 [+7989 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Epiroc to supply electric mining rigs in Africa",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fc98fcb8-78a8-4375-8805-530bd2c973fd",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T09:57:18Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "'I was just a batter': All-rounder Hardik Pandya hails MI scouting system",
-      "description": "Hardik Pandya revealed his journey from a dedicated batter to a top white-ball all-rounder, crediting Mumbai Indians' sharp scouting and his own relentless hard work. He emphasised the importance of adapting and body management for aspiring cricketers. Pandya\u2026",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_deced929-a0ce-4c1d-8fb9-53687f09e82c",
-      "urlToImage": null,
-      "publishedAt": "2026-03-23T08:37:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "Tottenham 0-3 Nottingham Forest - the fans' verdict",
-      "description": "Pat: After the impressive win over Atletico Madrid, one would have thought a braver line-up and style of football would have been the better choice. If Forest can have four managers in a season and then they come up with Sunday's performance, three for Spurs \u2026",
-      "url": "https://www.bbc.com/sport/football/articles/c9wqkwl4w5wo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3CVLg0hFmi8XckgLeZLIYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/595416ba4c40868666b38de3e8360784",
-      "publishedAt": "2026-03-23T08:23:18Z",
-      "content": "We asked for your thoughts after Sunday's Premier League game between Tottenham and Nottingham Forest.\r\nHere are some of your comments:\r\nSpurs fans\r\nRaj: Every time you think you cannot be let down b\u2026 [+2976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Deputy calls for an end to Guernsey overseas aid",
-      "description": "A Guernsey Deputy says there is strong support for scrapping the island\u2019s \u00a35.6m aid spending.",
-      "url": "https://www.bbc.com/news/articles/c1kr33demrko",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/767a/live/de5a9380-2469-11f1-b187-ed35b97acec8.jpg",
-      "publishedAt": "2026-03-23T06:39:46Z",
-      "content": "She pointed to projects including maternity facilities, clean water systems and education programmes, and said the work reflected Guernsey's values as well as its role internationally."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Poop Patrol: 'We're trying to clean up our town - one scoop at a time'",
-      "description": "Locals in Maybole, South Ayrshire, got so tired of dog fouling on their streets that they decided to clean it up themselves.",
-      "url": "https://www.bbc.com/news/articles/cdr2rdk2ml0o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/261c/live/8d9cba30-2384-11f1-b5b5-fbc403579701.jpg",
-      "publishedAt": "2026-03-23T06:20:35Z",
-      "content": "Emily Devine is the group's founder, organiser and driving force. A bubbly and cheerful optimist who moved to Maybole about eight years ago with her husband, she is the proud owner of a lurcher calle\u2026 [+7 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Bird's-eye view of London seen in 280-year-old map",
-      "description": "John Rocque's map provided a view of the capital that was unprecedented in its detail.",
-      "url": "https://www.bbc.com/news/articles/cpqwrqp3yzxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6bb6/live/4db75a20-23c4-11f1-9c2a-e916056a72f7.jpg",
-      "publishedAt": "2026-03-23T05:55:46Z",
-      "content": "\"A chain, 66ft long, a surveyor's wheel and a notebook, and they would go over, for example, a field, and they would measure it on all its sides, and they would draw that as accurately as they could."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jake Lloyd-Smith",
-      "title": "Goldman raises oil forecasts on largest-ever supply shock",
-      "description": "Brent is expected to average $85 a barrel in 2026, up from an earlier forecast of $77, analysts including Daan Struyven said in a note.  The full-year...",
-      "url": "https://finance.yahoo.com/news/goldman-raises-oil-forecasts-largest-045537332.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/76LuVyhBtUceWSC79z9djQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/a6fe107aafdc1c85a572b8a88d811b9a",
-      "publishedAt": "2026-03-23T04:55:37Z",
-      "content": "(Bloomberg) Goldman Sachs Group Inc. raised its oil price forecasts for 2026 due to the prolonged disruption of flows through the Strait of Hormuz, which it described as the largest-ever supply shock\u2026 [+2070 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ryan Young",
-      "title": "Alabama rolls into another Sweet 16 with blowout win over Texas Tech, setting up battle with No. 1 Michigan",
-      "description": "After back-to-back blowouts for Alabama, the Crimson Tide will have a much better challenge ahead of them next weekend.",
-      "url": "https://sports.yahoo.com/mens-college-basketball/article/alabama-rolls-into-another-sweet-16-with-blowout-win-over-texas-tech-setting-up-battle-with-no-1-michigan-041822547.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/APl51NyT80NtXdvXJiviOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-03/29f505d8-b5aa-4e23-9d58-ec247141900a",
-      "publishedAt": "2026-03-23T04:18:22Z",
-      "content": "Alabama strolled into the Sweet 16 on Sunday night without any issues.\r\nThe Crimson Tide cruised to a blowout 90-65 win over Texas Tech to officially wrap up the second round of the NCAA tournament o\u2026 [+2170 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "UN issues new climate warning as El Ni\u00f1o looms",
-      "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
-      "url": "https://www.bbc.com/news/articles/c203rdxkezwo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
-      "publishedAt": "2026-03-23T04:06:22Z",
-      "content": "In response to the report, UN Secretary General Ant\u00f3nio Guterres reiterated his call for countries to move away from fossil fuels to renewable energy to \"deliver climate security, energy security and\u2026 [+19 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Trey Mangum",
-      "title": "Jalen Williams On Why Off-Court Sneakers Matter More Than Ever in Basketball Culture",
-      "description": "For NBA and WNBA players, what they wear off the court is becoming just as important as what they wear during games.",
-      "url": "https://sports.yahoo.com/articles/jalen-williams-why-off-court-024610953.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XXWZMJrKd0Z5gpSEEmu8pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTE7Y2Y9d2VicA--/https://media.zenfs.com/en/blavity_articles_483/375fbf7b60327b51706ff733c9be6551",
-      "publishedAt": "2026-03-23T02:46:10Z",
-      "content": "For NBA and WNBA players, what they wear off the court is becoming just as important as what they wear during games.\r\nFrom recovery to personal style, footwear now plays a bigger role in how athletes\u2026 [+2680 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jill Painter Lopez",
-      "title": "Nelly Korda makes run at Founders Cup, but this Korean star held on to win her eighth LPGA title",
-      "description": "Hyo Joo Kim had a five-shot lead erased after 10 holes, but still won despite making bogeys on two of the last three holes to shoot 73",
-      "url": "https://sports.yahoo.com/articles/nelly-korda-makes-run-founders-023719669.html",
-      "urlToImage": "https://s.yimg.com/os/en/golf_digest_articles_737/88468db2379ca970ed96e05ec31479f3",
-      "publishedAt": "2026-03-23T02:37:19Z",
-      "content": "World No. 8 Hyo Joo Kim won the Fortinet Founders Cup in wire-to-wire fashion after a big third-round lead.\r\nNo problem, right? Wrong.\r\nIt was a testy, gusty, performance by the Korean star because s\u2026 [+3192 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Australia\u2019s 8-month cricket season set to end with a 150th anniversary MCG test under lights",
-      "description": "Australia\u2019s next international cricket season will start in August and conclude with the 150th anniversary test against England under lights at the Melbourne Cricket Ground in March, 2027. Cricket Australia announced a home international schedule on Monday th\u2026",
-      "url": "https://sports.yahoo.com/articles/australia-8-month-cricket-season-013400339.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
-      "publishedAt": "2026-03-23T01:34:00Z",
-      "content": "BRISBANE, Australia (AP) Australias next international cricket season will start in August and conclude with the 150th anniversary test against England under lights at the Melbourne Cricket Ground in\u2026 [+1519 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Steven Goff",
-      "title": "USMNT roundup: Matt Freese tested by Lionel Messi before camp opens in Atlanta",
-      "description": "Mauricio Pochettino's 27-man roster heads to Atlanta this week after a busy weekend of club action across Europe and MLS.",
-      "url": "https://sports.yahoo.com/soccer/article/usmnt-roundup-matt-freese-tested-by-lionel-messi-before-camp-opens-in-atlanta-010807273.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0tVvj_zehPOsUUtDGjDIuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-03/ef50bb1b-2d41-4bd3-a151-028d86ddb9a2",
-      "publishedAt": "2026-03-23T01:08:07Z",
-      "content": "U.S. players from across Europe and Major League Soccer began arriving in Greater Atlanta on Sunday for the first training camp of the year and final soiree before Mauricio Pochettino announces his W\u2026 [+7698 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Kansas basketball\u2019s NCAA tournament run ends in heartbreaking fashion",
-      "description": "Kansas basketball won\u2019t be advancing to the Sweet 16. The Jayhawks just lost against St. John\u2019s, and have seen their season come to an end.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_40866e95-9f0c-43a1-8ff2-918679cb553c",
-      "urlToImage": null,
-      "publishedAt": "2026-03-22T23:47:51Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "yahoo news",
-      "title": "March 27 looks like make-or-break day for travelers...",
-      "description": "Bianco's unusual probe drew a sharp rebuke from California Atty. Gen. Rob Bonta, who said it 'sets a dangerous precedent and will only sow distrust in our...",
-      "url": "https://www.yahoo.com/news/articles/riverside-county-sheriff-chad-bianco-194518156.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-      "publishedAt": "2026-03-22T23:00:13Z",
-      "content": "Riverside County Sheriff Chad Bianco, a leading Republican candidate for governor, has seized more than 650,000 ballots from last November's election to determine, he says, whether they were fraudule\u2026 [+7723 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Dan Wolken",
-      "title": "After Kentucky's embarrassing NCAA tournament exit, Mark Pope is now on the clock",
-      "description": "Kentucky\u2019s season ended with a helpless loss to Iowa State, and Pope\u2019s job status heading into 2026-27 is going to be the most high-wattage topic in college basketball.",
-      "url": "https://sports.yahoo.com/mens-college-basketball/article/after-kentuckys-embarrassing-ncaa-tournament-exit-mark-pope-is-now-on-the-clock-225645156.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ayy7d1p.6Uw7MneNwMm_0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-03/b0c56996-f2a3-4f2b-8541-32b71becc144",
-      "publishedAt": "2026-03-22T22:56:45Z",
-      "content": "As Kentucky fans watched their season end in emphatic fashion Sunday with an 82-63 loss to Iowa State, they saw a team that plays the way many of them probably wish the Wildcats did with an unflinchi\u2026 [+6051 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Alex Howell - Arsenal reporter",
-      "title": "Why Arteta continued to play Kepa",
-      "description": "For Mikel Arteta, it did not enter his mind to not play Kepa Arrizabalaga on Sunday. The Arsenal manager said it would have been \"very unfair\" if he had not stuck with the Spain international, who had played every round of the cup competition before the final\u2026",
-      "url": "https://www.bbc.com/sport/football/articles/cwyk54l91njo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/os/en/bbc_us_articles_995/6ca538040dfa4256ecdd34a9c65c4520",
-      "publishedAt": "2026-03-22T21:50:48Z",
-      "content": "For Mikel Arteta, it did not enter his mind to not play Kepa Arrizabalaga on Sunday.\r\nThe Arsenal manager said it would have been \"very unfair\" if he had not stuck with the Spain international, who h\u2026 [+2777 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Alex Howell",
-      "title": "The 'sentimental' goalkeeping call that cost Arsenal",
-      "description": "There is no hiding place for a manager when your decisions go wrong, and Mikel Arteta's call to stick by cup goalkeeper Kepa Arrizabalaga will haunt him.",
-      "url": "https://www.bbc.com/sport/football/articles/cg73g9g7j5ko",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e075/live/2e6c6160-262b-11f1-aad6-2d605a562384.jpg",
-      "publishedAt": "2026-03-22T21:12:53Z",
-      "content": "For Arteta, it did not enter his mind to not play Kepa in the final.\r\nThe Arsenal manager said it would have been \"very unfair\" if he had not stuck with the Spain international, who had played every \u2026 [+2722 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Seattle's Andrew Thomas, Minnesota United's Drake Callender duel to 0-0 draw",
-      "description": "Seattle's Andrew Thomas finished with two saves and Drake Callender did likewise as the Sounders and Minnesota United played to a scoreless draw on Sunday. It was the third straight and fourth shutout in five starts this season for Thomas. The 27-year-old too\u2026",
-      "url": "https://sports.yahoo.com/articles/seattles-andrew-thomas-minnesota-uniteds-210600298.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
-      "publishedAt": "2026-03-22T21:06:00Z",
-      "content": "ST. PAUL, Minn. (AP) Seattle's Andrew Thomas finished with two saves and Drake Callender did likewise as the Sounders and Minnesota United played to a scoreless draw on Sunday.\r\nIt was the third stra\u2026 [+1473 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "FSU baseball blows out NC State to take series",
-      "description": "The FSU Seminoles hammered the NC State Wolfpack on Sunday to win the series in dominant fashion.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3f27bc2b-6043-447c-806a-dbb052ec2610",
-      "urlToImage": null,
-      "publishedAt": "2026-03-22T20:02:28Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Harry Poole - BBC Sport journalist",
-      "title": "Hodgkinson wins first world indoor title",
-      "description": "Keely Hodgkinson captures her first world indoor title in commanding fashion as she claims 800m gold with a championship record in Poland.",
-      "url": "https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/os/en/bbc_us_articles_995/13f6182a0d2db11becfa5d0e4f4ff67d",
-      "publishedAt": "2026-03-22T19:27:20Z",
-      "content": "Keely Hodgkinson captured her first world indoor title in commanding fashion as she claimed 800m gold in a championship record time in Poland.\r\nThe Olympic gold medallist became Great Britain's first\u2026 [+837 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "Wales boosted by trio as South Africans go on charge",
-      "description": "Taulupe Faletau, Jac Morgan and Elliot Dee return on tough weekend for Welsh sides and strong one for South Africans in United Rugby Championship.",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c20d6wn4j1xo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vxoZasqVFt7_4aaxb0s_RA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/5a46b084c046b72a587b3231f9a7e2be",
-      "publishedAt": "2026-03-22T19:19:04Z",
-      "content": "The positivity continued for Steve Tandy a week after the end of the Six Nations with the return of three experienced Wales players.\r\nThere were green shoots for Welsh rugby and a long-awaited win at\u2026 [+5698 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Harry Poole",
-      "title": "Hodgkinson wins first world indoor title",
-      "description": "Keely Hodgkinson captures her first world indoor title in commanding fashion as she claims 800m gold with a championship record in Poland.",
-      "url": "https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cd8b/live/b3d704c0-2623-11f1-a79a-77e93010d956.jpg",
-      "publishedAt": "2026-03-22T19:15:43Z",
-      "content": "Keely Hodgkinson captured her first world indoor title in commanding fashion as she claimed 800m gold in a championship record time in Poland.\r\nThe Olympic gold medallist became Great Britain's first\u2026 [+837 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Detroit Lions TE Calls Out Jared Goff Critics",
-      "description": "Detroit Lions TE Tyler Conklin defends Jared Goff, saying the veteran QB gets far too much criticism despite elite production.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a767b5a4-d5f4-4ddd-9e69-7bc62ddf4ac0",
-      "urlToImage": null,
-      "publishedAt": "2026-03-22T18:59:31Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Opportunity meets production as Collin Gillespie nears Suns\u2019 3-point record",
-      "description": "PHOENIX \u2014 Collin Gillespie\u2019s rise within the Phoenix Suns organization has been steady, and now, the guard is on the verge of etching his name into franchise history. Gillespie enters the final stretch of the season just 13 3-pointers shy of the Suns\u2019 single-\u2026",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_87124f29-8e3b-4ef7-b71e-e08178c4ae4a",
-      "urlToImage": null,
-      "publishedAt": "2026-03-22T18:48:16Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Discount chain closes over 75 stores and raises prices",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3de39747-75f1-4973-8d84-18d049af990a",
-      "urlToImage": null,
-      "publishedAt": "2026-03-22T17:37:30Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Bloomberg News",
-      "title": "Savvy to buy ByteDance studio Moonton for $6 billion",
-      "description": "The transaction is expected to be finalized in the near future, Moonton Chief Executive Officer Zhang Yunfan said in an internal memo reviewed by Bloomberg...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/savvy-buy-bytedance-studio-moonton-172603792.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/i9lnhxoH7QW1dAwfvrCKSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/66cf6478626753e000f29cac8a7c4b60",
-      "publishedAt": "2026-03-22T17:26:03Z",
-      "content": "(Bloomberg) Savvy Games Group has agreed to buy the Moonton studio from ByteDance Ltd. as the Saudi Arabian firm builds up its mobile gaming assets.\r\nThe deal values Moonton at $6 billion, people fam\u2026 [+2287 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "The Best 3 Renewable Energy Stocks to Buy and Hold for Decades",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c074f910-5109-4983-a3cf-93788848022d",
-      "urlToImage": null,
-      "publishedAt": "2026-03-22T17:23:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Chris Adam",
-      "title": "I\u2019m a Financial Advisor: These Are the 5 Questions I Wish New Clients Asked",
-      "description": "Financial advisors reveal some key questions on fees, investing philosophy, taxes and retirement planning that they want new clients to ask. Find out more.",
-      "url": "https://finance.yahoo.com/markets/articles/m-financial-advisor-5-questions-172215070.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/e8p4_RXF3K7QUKFFFUgQBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/ebcb002d44852093e01394118423a55c",
-      "publishedAt": "2026-03-22T17:22:15Z",
-      "content": "When you first meet with a financial advisor to see if theyre a good fit, you likely have at least some idea of the questions you want to ask.\r\nRead More: Im a Financial Advisor 4 Investing Rules My \u2026 [+2364 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Eve Nowell",
-      "title": "Chevy Just Broke the Supercar Rulebook: 1,000+ ZR1s Flood the Market \u2014 What This Means for Exotic Car Prices",
-      "description": "Chevrolet didn\u2019t just build a supercar. It may have just disrupted the entire idea of what a supercar is supposed to be. With more than 1,000 Corvette ZR1s...",
-      "url": "https://autos.yahoo.com/new-vehicles-and-reviews/articles/chevy-just-broke-supercar-rulebook-165911629.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/BDA533BAD95855E84BFE7E49A726EC2D17BDE8DAF62D50FE17795269C7F99ED6/subgraphmysterio/resizefit_w1200;quality_90;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fen%2Fthe_auto_wire_articles_747%2F49ca3fa8a04f828332278503d5a894d5",
-      "publishedAt": "2026-03-22T16:59:11Z",
-      "content": "Chevrolet didnt just build a supercar. It may have just disrupted the entire idea of what a supercar is supposed to be. With more than 1,000 Corvette ZR1s already produced for 2026, the brand is doin\u2026 [+5399 chars]"
     }
   ]
 }
