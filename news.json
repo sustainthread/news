@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-05-13T08:55:13.359421",
-  "count": 21,
+  "lastUpdated": "2026-05-14T08:48:38.781230",
+  "count": 19,
   "articles": [
+    {
+      "title": "How air pollution is being monitored",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdxpl4w5027o",
+      "date": "13-05-2026",
+      "description": "The main source of pollution is local emissions, created by things like traffic and manufacturing.",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1791/live/954f59f0-4e03-11f1-aa37-6b8846c2f74e.jpg"
+    },
     {
       "title": "Renewable energy hub planned for Scottish coal museum",
       "source": "BBC News",
@@ -145,30 +153,6 @@
       "date": "30-04-2026",
       "description": "The Office for Environmental Protection said existing regulations are insufficient to deliver necessary water quality improvements.",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d433/live/f076b700-43f0-11f1-9113-1988573e8ff7.jpg"
-    },
-    {
-      "title": "Arizona baseball loses at GCU in walkoff fashion",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6780595c-acb8-45b1-94a9-9b7334ed8272",
-      "date": "29-04-2026",
-      "description": "PHOENIX – In a season where very little has gone right for Arizona baseball, the Wildcats’ Tuesday night loss at GCU serves as a microcosm for the past two months. Arizona overcame a sluggish start offensively to take a 4-run lead into the bottom of the ninth…",
-      "image": null
-    },
-    {
-      "title": "'Important' Man City 'listened' to possible ticket price increase",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpjdywxwwo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "date": "29-04-2026",
-      "description": "For a third consecutive campaign, Manchester City will not increase ticket prices. Official Supporters Club representative Kevin Parker told BBC Sport's Manchester City reporter, Shamoon Hafez that \"putting prices up in this in the current climate is an absol…",
-      "image": "https://s.yimg.com/os/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7"
-    },
-    {
-      "title": "Fashion, billionaires and jokes: Inside the White House state dinner for the King and Queen",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr7pr1e3p1do",
-      "date": "29-04-2026",
-      "description": "The night was filled with designer fashion, luscious bouquets, billionaire guests and joke-filled speeches.",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e0c0/live/919acb90-437d-11f1-bd52-e755d604ece4.jpg"
     }
   ]
 }
