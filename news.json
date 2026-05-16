@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-05-15T09:21:34.859024",
+  "lastUpdated": "2026-05-16T08:14:35.530446",
   "count": 22,
   "articles": [
+    {
+      "title": "A woolly solution to NI's peatland problems?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm2p7prl47jo",
+      "date": "15-05-2026",
+      "description": "Could locally-sourced wool restore peatlands and reduce the carbon cost of conservation?",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8115/live/626001d0-4ad3-11f1-b55d-0f258dce1735.jpg"
+    },
     {
       "title": "A quarter of World Cup games risk searing heat: scientists",
       "source": "Yahoo Entertainment",
@@ -169,14 +177,6 @@
       "date": "02-05-2026",
       "description": "Buffalo eliminated Boston from the NHL Stanley Cup Playoffs on Friday.",
       "image": null
-    },
-    {
-      "title": "Vintage fashion theft hit as shoplifting booms",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g0qgl2p28o",
-      "date": "01-05-2026",
-      "description": "Organised criminals are targeting vintage fashion shops, as sales in the second-hand market soar.",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4c84/live/6f871210-43c4-11f1-a0e9-f392511be4c3.png"
     }
   ]
 }
