@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-06-15T12:35:59.555693",
-  "count": 26,
+  "lastUpdated": "2026-06-16T11:28:18.811295",
+  "count": 25,
   "articles": [
+    {
+      "title": "New microplastics research examines River Thames",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq81qvdknv3o",
+      "date": "15-06-2026",
+      "description": "Water samples are assessed for pollution levels and any impact climate pressures may be having on the river system.",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2262/live/48a42940-65b5-11f1-9fd1-0b44a7e33c3f.jpg"
+    },
     {
       "title": "Group D Standings Tracker: USMNT, Australia With Three Points Each Ahead of June 19 Showdown",
       "source": "Yahoo Entertainment",
@@ -193,22 +201,6 @@
       "date": "02-06-2026",
       "description": "Oklahoma State junior Preston Stout claimed his eighth college victory in dramatic fashion, while UCLA and Stanford reach final eight in a playoff",
       "image": "https://s.yimg.com/os/en/golf_digest_articles_737/bd51cdb8ae3ade16116bc46c7d7afb44"
-    },
-    {
-      "title": "Egypt and China’s Cloud Chain plot $2bn ‘carbon-neutral’ textile city",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ea1370cf-e7de-4fe8-ad00-47918c4123dd",
-      "date": "01-06-2026",
-      "description": null,
-      "image": null
-    },
-    {
-      "title": "Fever Pitch As World Cup Heats Up To $8 Billion Spending Spree",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/katehardcastle/2026/06/01/fever-pitch-as-world-cup-heats-up-to-8-billion-spending-spree/",
-      "date": "01-06-2026",
-      "description": "How the 2026 FIFA World Cup is driving luxury travel, fashion, aviation and hospitality, creating a global spending boom far beyond the matches themselves.",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1c9b2b9b71ed5e1a3f16ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
     }
   ]
 }
