@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-07-11T08:07:59.503074",
+  "lastUpdated": "2026-07-12T08:29:15.349156",
   "count": 23,
   "articles": [
+    {
+      "title": "How can Jersey adapt to a changing climate?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c892kj08qezo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "date": "11-07-2026",
+      "description": "This year has already had three heatwaves and record temperatures, with warnings of more to come.",
+      "image": "https://s.yimg.com/lo/mysterio/api/b5617baa385f3ac583d721fd005d82ffea83fe326efe3c1f349af35c2141ae6a/lightyear_networkapi/resizefill_w1000_h563;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F59cabd5c09625a659c8c5db0b39d5663"
+    },
     {
       "title": "Investors Find a Fashion Faux-Pas in Levi’s Upbeat Earnings",
       "source": "Yahoo Entertainment",
@@ -177,14 +185,6 @@
       "date": "28-06-2026",
       "description": null,
       "image": null
-    },
-    {
-      "title": "‘The Devil Wears Prada 2’ Arrives On Streaming This Week After $677 Million Box Office Run",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/timlammers/2026/06/27/the-devil-wears-prada-2-arrives-on-streaming-this-week-after-677-million-box-office-run/",
-      "date": "27-06-2026",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci’s fashion comedy “The Devil Wears Prada 2” is new on digital streaming this week following its blockbuster run in theaters.",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a3f52f53f48ede558eb06b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
     }
   ]
 }
