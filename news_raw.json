@@ -1,6 +1,903 @@
 {
-  "timestamp": "2026-08-23T06:54:09.581033",
+  "timestamp": "2026-08-24T07:13:12.328653",
   "data": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "'Power to block nimby protests' and Meghan 'deal could be off'",
+      "description": "New mayoral powers and continued reporting on the Duchess of Sussex's television role lead Sunday's papers.",
+      "url": "https://www.bbc.com/news/articles/cy070jv944po?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b7b27465b7d245bcd9f156d55695bdd85703537593801e8845d5bc60c7fc6d02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F19d6aaf4a63a5cf75db9451302429e83.png",
+      "publishedAt": "2026-08-23T05:07:29Z",
+      "content": "The Sun on Sunday continues reporting on Prince Harry and Meghan's return to the UK. It says an apparent deal for the duchess to star in Netflix series The Gentlemen is worth \u00a31m but the \"big deal co\u2026 [+3149 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Buc-ee\u2019s chain draws outcry in Ohio for launching fight over a mini mart's beaver logo",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_89f9b26f-4bd1-482c-9d70-475545ffbb0e",
+      "urlToImage": null,
+      "publishedAt": "2026-08-23T05:00:39Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "RJ Ochoa",
+      "title": "Cowboys 34, Cardinals 13: Joe Milton shines in win",
+      "description": "The Cowboys won on Saturday night, largely thanks to Joe Milton taking a step in the QB2 battle",
+      "url": "https://sports.yahoo.com/articles/cowboys-34-cardinals-13-joe-milton-shines-in-win-045208319.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e8bff0454f08b5d910d2257cb2682eeb897d97e010e85b6a28feabb5c64206b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fd2112200-c291-45a3-9b67-a4e360e2ac12",
+      "publishedAt": "2026-08-23T04:52:08Z",
+      "content": "The Dallas Cowboys are 2-0 in the preseason for the first time in almost 20 years. since 2007 to be exact.\r\nSaturday night, as late as it went, was a very impressive outing for the team. Joe Milton s\u2026 [+5434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "PHUOC NGUYEN",
+      "title": "Sophia Wilson's goal gives the Portland Thorns a 1-0 win over the Denver Summit",
+      "description": "In other action across the National Women\u2019s Soccer League, the North Carolina Courage topped the Boston Legacy 2-1; and the Kansas City Current played to a 1-1 draw with the Seattle Reign. Wilson finished in the 44th minute after a through ball from Thorns mi\u2026",
+      "url": "https://sports.yahoo.com/articles/sophia-wilsons-goal-gives-portland-044835768.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b833fc726f1dc3e0a556f360653d55d41376290b5a4da722dca3b0f50d8af129/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3c10c7ecd116eb7f33283fe85b20f1e9.jpg",
+      "publishedAt": "2026-08-23T04:48:35Z",
+      "content": "Sophia Wilson scored her 10th goal of the season and the Portland Thorns downed the Denver Summit 1-0 on Saturday night.\r\nIn other action across the National Women's Soccer League, the North Carolina\u2026 [+1583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "ANDREW DESTIN",
+      "title": "Mariners\u2019 Kade Anderson signs autographs, takes it all in before impressing in big league debut",
+      "description": "Well before Kade Anderson threw his first MLB pitch, the Seattle Mariners\u2019 prized left-hander took some time to make a few fans\u2019 days. The 22-year-old Anderson got done with his warmup routine on Saturday quicker than usual before his much-ballyhooed big leag\u2026",
+      "url": "https://sports.yahoo.com/articles/mariners-kade-anderson-signs-autographs-035832482.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/02e205d7d5ae88408722184a45ba5ee2abf26302fc7ecf75ce98969f179b39db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fbd60e821234d215c8d50ee8aab7c13dc.jpg",
+      "publishedAt": "2026-08-23T03:58:32Z",
+      "content": "SEATTLE (AP) Well before Kade Anderson threw his first MLB pitch, the Seattle Mariners' prized left-hander took some time to make a few fans' days.\r\nThe 22-year-old Anderson got done with his warmup \u2026 [+3635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jeff Cain",
+      "title": "Gregory Rodrigues decisions Anthony Hernandez in UFC Sacramento main event",
+      "description": "A middleweight match between contenders headlined Saturday's UFC Fight Night 285 event at Golden 1 Center in Sacramento, Calif.",
+      "url": "https://sports.yahoo.com/articles/gregory-rodrigues-decisions-anthony-hernandez-025814543.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/eb2464521f2c380d5adebf561bc430dbc5b04e8aeb376eeee2ac3ac106faf8c0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmmaweekly.com%2F3d25719bb66ec8f6da007631717f78d9.jpg",
+      "publishedAt": "2026-08-23T02:58:14Z",
+      "content": "A middleweight match between contenders headlined Saturday's UFC Fight Night 285 event at Golden 1 Center in Sacramento, Calif. The fight card was headlined by a middleweight match between No. 7 rank\u2026 [+4047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "The Associated Press",
+      "title": "Tommy DeVito throws 69-yard TD as Patriots beat Eagles 24-21",
+      "description": "Patriots backup quarterback Tommy DeVito tossed a 69-yard touchdown pass to Kyle Williams and New England beat Philadelphia 24-21 in a preseason game Saturday night in which Eagles running back Ja\u2019Quinden Jackson was taken off the field in an ambulance. Jacks\u2026",
+      "url": "https://sports.yahoo.com/articles/tommy-devito-throws-69-yard-025115657.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/17f1938dd7db0563dc313977a2aeb1dfa69280ed24938b16a70abb42013c32bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9286e63f61d3c6050e787b3d30ee43fa.jpg",
+      "publishedAt": "2026-08-23T02:51:15Z",
+      "content": "FOXBOROUGH, Mass. (AP) Patriots backup quarterback Tommy DeVito tossed a 69-yard touchdown pass to Kyle Williams and New England beat Philadelphia 24-21 in a preseason game Saturday night in which Ea\u2026 [+10050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Associated Press",
+      "title": "Union for Boston Symphony Orchestra musicians authorizes first strike in ensemble's 145-year history",
+      "description": "The union for Boston Symphony Orchestra musicians authorized the first strike in the ensemble's 145-year history on Saturday.  The Boston Musicians' Associat...",
+      "url": "https://www.yahoo.com/news/us/articles/union-boston-symphony-orchestra-musicians-024904097.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cd17747e3d7a5bf84fdcfa97ac79fb7f1f894683d1bf3a068c046fd2a5d3c742/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F146c0fc2e5edc2dafdea52916cb23622.jpg",
+      "publishedAt": "2026-08-23T02:49:04Z",
+      "content": "LENOX, Mass. (AP) The union for Boston Symphony Orchestra musicians authorized the first strike in the ensemble's 145-year history on Saturday.\r\nThe Boston Musicians' Association issued a statement a\u2026 [+1098 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "JAY MORRISON",
+      "title": "40-year-old journeyman QB Josh Johnson leads Bengals to 27-9 preseason victory over Bears",
+      "description": "With Joe Burrow, Joe Flacco and the rest of Cincinnati's starters and key backups watching in street clothes, 40-year-old journeyman Josh Johnson led the Bengals to a 27-9 preseason victory over the Chicago Bears on Saturday night. After directing a 14-play, \u2026",
+      "url": "https://sports.yahoo.com/articles/40-old-journeyman-qb-josh-022845246.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/402d7f43d79dca4b9afef0f45a1f83d607fc40e63422c842d0b60bf227b22cc4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa950a0733f25c037e2b360df8a683430.jpg",
+      "publishedAt": "2026-08-23T02:28:45Z",
+      "content": "CINCINNATI (AP) With Joe Burrow, Joe Flacco and the rest of Cincinnati's starters and key backups watching in street clothes, 40-year-old journeyman Josh Johnson led the Bengals to a 27-9 preseason v\u2026 [+2219 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "yahoo finance",
+      "title": "ANTHROPIC market debut could break SPACEX IPO record...",
+      "description": "The market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.Anthrop...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-market-debut-could-break-124722679.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/AF7CA7AB80963F61F258C76C0BF92D30918171E06A09D91656E5D443B6C9A363/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F9969d8a72cdd47e6cf58524e5454bf84.jpg",
+      "publishedAt": "2026-08-23T02:00:13Z",
+      "content": "Anthropic is the maker of the Claude articial intelligence models (Nicolas TUCAT)\r\nThe market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set \u2026 [+2055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Jim Cramer Wasn\u2019t Happy About Chevron Corporation (NYSE:CVX) Price Target Cut",
+      "description": "Oil major Chevron Corporation (NYSE:CVX)\u2019s shares are up by 29% over the past year and by 31% year-to-date. It is one of Cramer\u2019s top stocks in the sector, a...",
+      "url": "https://finance.yahoo.com/energy/articles/jim-cramer-wasn-t-happy-002542783.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E1018B8304F44FC182CACFDB1F6CADBE8B72B32A2EE3AF82A78A1EBFDD36EC70/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "publishedAt": "2026-08-23T00:25:42Z",
+      "content": "Oil major Chevron Corporation (NYSE:CVX)'s shares are up by 29% over the past year and by 31% year-to-date. It is one of Cramer's top stocks in the sector, as in several appearances, the CNBC TV host\u2026 [+2669 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Jim Cramer Said NVIDIA Corp. (NASDAQ:NVDA) Doesn\u2019t Need Anyone But Elon Musk",
+      "description": "Even though NVIDIA Corp. (NASDAQ:NVDA)\u2019s shares have remained lukewarm in 2026 and are up by 13.7% year-to-date, Cramer continues to be a believer. The CNBC...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-nvidia-corp-002234481.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E1018B8304F44FC182CACFDB1F6CADBE8B72B32A2EE3AF82A78A1EBFDD36EC70/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "publishedAt": "2026-08-23T00:22:34Z",
+      "content": "Even though NVIDIA Corp. (NASDAQ:NVDA)'s shares have remained lukewarm in 2026 and are up by 13.7% year-to-date, Cramer continues to be a believer. The CNBC TV host continues to believe that the comp\u2026 [+3432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Jim Cramer Argued It\u2019s A New World For Palo Alto Networks & CrowdStrike Holdings",
+      "description": "Cybersecurity firms Palo Alto Networks, Inc. (NASDAQ:PANW) and CrowdStrike Holdings, Inc. (NASDAQ:CRWD) are among the stocks that Jim Cramer has consistently...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-argued-world-palo-001602176.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E1018B8304F44FC182CACFDB1F6CADBE8B72B32A2EE3AF82A78A1EBFDD36EC70/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "publishedAt": "2026-08-23T00:16:02Z",
+      "content": "Cybersecurity firms Palo Alto Networks, Inc. (NASDAQ:PANW) and CrowdStrike Holdings, Inc. (NASDAQ:CRWD) are among the stocks that Jim Cramer has consistently advocated over the past couple of months.\u2026 [+4730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Jim Cramer Dismissed Market Reaction To Cisco Systems, Inc. (NASDAQ:CSCO) Following Earnings",
+      "description": "Networking equipment provider Cisco Systems, Inc. (NASDAQ:CSCO)\u2019s shares are up by more than 60% over the past year and by more than 40% year-to-date. With t...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-dismissed-market-reaction-001240299.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E1018B8304F44FC182CACFDB1F6CADBE8B72B32A2EE3AF82A78A1EBFDD36EC70/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "publishedAt": "2026-08-23T00:12:40Z",
+      "content": "Networking equipment provider Cisco Systems, Inc. (NASDAQ:CSCO)'s shares are up by more than 60% over the past year and by more than 40% year-to-date. With the AI buildout in full swing, the firm has\u2026 [+3198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Jim Cramer Doesn\u2019t Think Home Depot Is Expensive Enough To Be Avoided",
+      "description": "Home improvement retailers The Home Depot, Inc. (NYSE:HD) and Lowe\u2019s Companies, Inc. (NYSE:LOW)\u2019s shares are down by more than 14% over the past year. The ho...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doesn-t-think-000711550.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E1018B8304F44FC182CACFDB1F6CADBE8B72B32A2EE3AF82A78A1EBFDD36EC70/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "publishedAt": "2026-08-23T00:07:11Z",
+      "content": "Home improvement retailers The Home Depot, Inc. (NYSE:HD) and Lowe's Companies, Inc. (NYSE:LOW)'s shares are down by more than 14% over the past year. The housing market continues to undergo a period\u2026 [+4042 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Jim Cramer Advised Being Patient & Buying Walmart Inc. (NASDAQ:WMT)\u2019s Shares",
+      "description": "Retailers\u2019 Walmart Inc. (NASDAQ:WMT) and Target Corporation (NYSE:TGT)\u2019s shares are on two opposite spectrums when it comes to year-to-date performance. The...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-advised-being-patient-000533730.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E1018B8304F44FC182CACFDB1F6CADBE8B72B32A2EE3AF82A78A1EBFDD36EC70/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "publishedAt": "2026-08-23T00:05:33Z",
+      "content": "Retailers' Walmart Inc. (NASDAQ:WMT) and Target Corporation (NYSE:TGT)'s shares are on two opposite spectrums when it comes to year-to-date performance. The latter's stock is down by 8% whole the lat\u2026 [+4347 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "NIKE, Inc. (NYSE:NKE) Vs On Holding (NYSE:ONON) \u2013 Here\u2019s What Jim Cramer Thinks",
+      "description": "NIKE, Inc. (NYSE:NKE) and On Holding (NYSE:ONON) are two firms competing with each other in a David versus Goliath scenario. Both the stocks are down by more...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-inc-nyse-nke-vs-000128165.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E1018B8304F44FC182CACFDB1F6CADBE8B72B32A2EE3AF82A78A1EBFDD36EC70/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "publishedAt": "2026-08-23T00:01:28Z",
+      "content": "NIKE, Inc. (NYSE:NKE) and On Holding (NYSE:ONON) are two firms competing with each other in a David versus Goliath scenario. Both the stocks are down by more than 35% year-to-date. Starting from the \u2026 [+4228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Jim Cramer Continued To Complain About JPMorgan Chase & Co. (NYSE:JPM) & Wells Fargo\u2019s Multiple",
+      "description": "Banking giants JPMorgan Chase & Co. (NYSE:JPM) and Wells Fargo & Company (NYSE:WFC) have appeared multiple times on Jim Cramer\u2019s radar in 2026. For JPMorgan,...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-continued-complain-jpmorgan-000039380.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E1018B8304F44FC182CACFDB1F6CADBE8B72B32A2EE3AF82A78A1EBFDD36EC70/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "publishedAt": "2026-08-23T00:00:39Z",
+      "content": "Banking giants JPMorgan Chase &amp; Co. (NYSE:JPM) and Wells Fargo &amp; Company (NYSE:WFC) have appeared multiple times on Jim Cramer's radar in 2026. For JPMorgan, Cramer has insisted on multiple o\u2026 [+4474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Here\u2019s What You Should Buy Over PayPal Holdings, Inc. (NASDAQ:PYPL) According To Jim Cramer",
+      "description": "Financial technology firms\u2019 SoFi Technologies, Inc. (NASDAQ:SOFI) and PayPal Holdings, Inc. (NASDAQ:PYPL)\u2019s shares have diverged in performance in 2026. SOFI...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-over-paypal-holdings-inc-235243531.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E1018B8304F44FC182CACFDB1F6CADBE8B72B32A2EE3AF82A78A1EBFDD36EC70/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F3fe61364b95991c98978f250ba7bea2c.png",
+      "publishedAt": "2026-08-22T23:52:43Z",
+      "content": "Financial technology firms' SoFi Technologies, Inc. (NASDAQ:SOFI) and PayPal Holdings, Inc. (NASDAQ:PYPL)'s shares have diverged in performance in 2026. SOFI is down by 31% year-to-date while PYPL is\u2026 [+4238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Dr. Sai Balasubramanian, M.D., J.D., Contributor, \n Dr. Sai Balasubramanian, M.D., J.D., Contributor\n https://www.forbes.com/sites/saibala/",
+      "title": "Beyond The Honeymoon Period: Ambient AI And The Next Frontier",
+      "description": "Ambient scribing technology can significantly improve operational efficiency and physician workloads.",
+      "url": "https://www.forbes.com/sites/saibala/2026/08/22/beyond-the-honeymoon-period-ambient-ai-and-the-next-frontier/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/658a0d69a3d97320c059dac2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-22T23:14:20Z",
+      "content": "Ambient scribing technology can significantly improve operational efficiency and physician workloads.\r\ngetty\r\nFor the past few years, ambient AI tools have received a largely warm reception in health\u2026 [+3611 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AFP",
+      "title": "Inter thrash Monza to launch Serie A title defence",
+      "description": "Inter Milan kicked off the defence of their Serie A title in emphatic fashion on Saturday, cruising to a 4-1 home victory over promoted Monza.Monza, back in the top flight after a season in Serie B, levelled through Gustavo Varela in the 29th minute.",
+      "url": "https://sports.yahoo.com/articles/inter-thrash-monza-to-launch-serie-a-title-defence-210323279.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3d6328fd44ccb296d74b9100337d0658a42872f210d97a0b6aee390d7911ab4f/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F8fcb25c27c71cb5bd9100546bcd50053.jpg",
+      "publishedAt": "2026-08-22T22:15:49Z",
+      "content": "InterMilan kicked off the defence of their Serie A title in emphatic fashion on Saturday, cruising to a 4-1 home victory over promoted Monza.\r\nThe reigning Italian champions needed just six minutes t\u2026 [+2280 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Badar Shaikh",
+      "title": "JPMorgan Says Tesla Is Confident of Scaling Cybercab Operations, Touts Future Models Based on Platform\u2014FSD V15 a \u2018Step-Change\u2019 From Previous Versions",
+      "description": "Investment bank JPMorgan Chase & Co. on Wednesday said that Tesla Inc. appears to be prioritizing the Cybercab over further scaling its Model Y robotaxi flee...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-says-tesla-confident-scaling-213147223.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/60CFDC48BDA5CC3E71EEEA9277153921C182C8A97D7179F6C4A5FC5BEDC900D8/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Ff1587ad4cb4edf491723db19f58e94ed.jpg",
+      "publishedAt": "2026-08-22T21:31:47Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nInvestment bank JPMorgan Chase &amp; Co. on Wednesday said that Tesla Inc. appears to be prioriti\u2026 [+5494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Michael Kern",
+      "title": "The Gas Turbine Shortage Just Became AI\u2019s Biggest Constraint",
+      "description": "Gas turbine order books now stretch to 2031, leaving the AI data center buildout running on power plans the equipment cannot deliver.",
+      "url": "https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/D3FC9DDF21D76DFE5917738BF37DF9D5CBC225902535FC987217EE2EAC2198C0/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F1685794754ec3a5c6097ee5d78bdd572.jpg",
+      "publishedAt": "2026-08-22T21:00:00Z",
+      "content": "Order a heavy-duty gas turbine from GE Vernova today and it won't arrive until 2031. That's the company's actual production schedule, confirmed on its July 22 earnings call, and it's the fact sitting\u2026 [+11404 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "WSBTV.com News Staff",
+      "title": "Falcons dominate in preseason play against Indianapolis",
+      "description": "The Atlanta Falcons defeated the Indianapolis Colts in preseason play Saturday in Indianapolis in decisive fashion. The final score was Atlanta 34, Indianapolis 6.",
+      "url": "https://sports.yahoo.com/articles/falcons-dominate-preseason-play-against-204936750.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cf614ea3e3a8a6f90498c3486deeae6f49b279ead341d6280e2aa61faaa20cf2/lightyear_networkapi/resizefill_w300_h200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsb_cox_articles_232%2F017f8fb97f7e38f6226556874b5b4580.jpg",
+      "publishedAt": "2026-08-22T20:49:36Z",
+      "content": "The Atlanta Falcons defeated the Indianapolis Colts in preseason play Saturday in Indianapolis in decisive fashion. The final score was Atlanta 34, Indianapolis 6.\r\nThe teams started out the first qu\u2026 [+688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Mary Whitfill Roeloffs, Forbes Staff, \n Mary Whitfill Roeloffs, Forbes Staff\n https://www.forbes.com/sites/maryroeloffs/",
+      "title": "\u2018Stars And Stripes\u2019 Editor Says He\u2019s Worried About Military Censorship After Fires Him For \u2018Insubordination\u2019",
+      "description": "\u201cStars And Stripes\u201d played a major role in breaking stories about living conditions aboard the USS Abraham Lincoln earlier this summer.",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/22/stars-and-stripes-editor-says-hes-worried-about-military-censorship-after-fires-him-for-insubordination/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a8a051e097cc6379bcaa4f5/0x0.jpg?format=jpg&crop=1450,815,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-22T20:48:41Z",
+      "content": "Erik Slavin, the editor-in-chief of military newspaper Stars and Stripes, told the BBC on Saturday that he's worried about censorship in the Pentagon after he was fired by the Department of Defense f\u2026 [+4056 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Keifer MacDonald - Football reporter at Hill Dickinson Stadium",
+      "title": "Is Barry emerging as frontman Everton can finally count on?",
+      "description": "After finding the back of the net in Everton's 2-0 win over Crystal Palace, is Thierno Barry on course to become Everton's main man up front?",
+      "url": "https://www.bbc.com/sport/football/articles/c39e9vpjg1do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a98ec3a691d2481c2fcecbd161dda5d422bdf16ae725dd58f7283ea61913d52d/lightyear_networkapi/resizefill_w971_h546%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F15e655f530be18b9d8958b85ffaf8bbc.jpg",
+      "publishedAt": "2026-08-22T20:43:41Z",
+      "content": "There were fewer than 15 minutes remaining in Everton's Premier League opening-game win over Crystal Palace when supporters had one final reason to rise to their feet.\r\nThe stadium announcer at Hill \u2026 [+4346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Radhika Anilkumar Nadig",
+      "title": "Thomas Massie Says Every American Is Paying $4,000 a Year in Debt Interest, Blames Primary Loss on Fighting Policies Behind $40 Trillion Debt",
+      "description": "Rep. Thomas Massie (R-Ky.) said Wednesday that the growing burden of interest payments on the national debt is the direct result of policies he opposed in Co...",
+      "url": "https://finance.yahoo.com/economy/policy/articles/thomas-massie-says-every-american-203004521.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/78522532333800498A4206B26C4A0C7472D71242F8BE4B7DAE5DDB01724C9121/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F03a982430a4b5ca127b85b66fcda9632.jpg",
+      "publishedAt": "2026-08-22T20:30:04Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nRep. Thomas Massie \u00a0(R-Ky.) said Wednesday that the growing burden of interest payments on the na\u2026 [+5401 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jeannine Mancini",
+      "title": "Kevin O'Leary Says If You\u2019re Dating, You\u2019ll Want to Talk About Money on the 3rd Date \u2014 That\u2019s How You\u2019ll Know If There\u2019s a Future",
+      "description": "First dates are for figuring out whether there\u2019s chemistry. The second can reveal whether the conversation survives dinner. By the third, \"Shark Tank\" invest...",
+      "url": "https://finance.yahoo.com/small-business/articles/kevin-oleary-says-dating-ll-200102445.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8BC0EF7699B153BFE1D71157BBAA4A8457367201133C317E1D3DEADBD7482E86/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F2e7f8142f00b4132e98e8f411f409825.jpg",
+      "publishedAt": "2026-08-22T20:01:02Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nFirst dates are for figuring out whether there's chemistry. The second can reveal whether the con\u2026 [+7810 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jorgelina do Rosario and Zoe Schneeweiss",
+      "title": "Warsh to Make First Jackson Hole Speech as Fed Chair",
+      "description": "Investors are looking for Kevin Warsh to clarify his views on how the US central bank should react to stubborn inflation when the Federal Reserve chair speak...",
+      "url": "https://finance.yahoo.com/economy/policy/articles/warsh-first-jackson-hole-speech-200000444.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/95F82BB093EA247831200B1048C108C2E082F2AF0C663A9B6504A51F0E318592/subgraphmysterio/resizefill_w1200_h758;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fa3cfb295c67e9942c5cde1aa932a5d8c.jpg",
+      "publishedAt": "2026-08-22T20:00:00Z",
+      "content": "(Bloomberg) -- Investors are looking for Kevin Warsh to clarify his views on how the US central bank should react to stubborn inflation when the Federal Reserve chair speaks on Friday at the annual g\u2026 [+9466 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "LARRY FLEISHER",
+      "title": "Blue Jays ace Dylan Cease loses a no-hit bid against the Yankees in seventh inning",
+      "description": "Toronto Blue Jays ace Dylan Cease lost a no-hit bid with two outs in the seventh inning against the New York Yankees on Saturday when he allowed a clean single to Jazz Chisholm Jr. On his 106th pitch, Cease gave up a single to right field on a 97.1 mph fastba\u2026",
+      "url": "https://sports.yahoo.com/articles/blue-jays-ace-dylan-cease-195504248.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1b0f1c2732395b90218e07b30fa9d6f9b823a72c412cd918f9ad766738f0ff16/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7fc2103854594bd44c3f45adeaaee53a.jpg",
+      "publishedAt": "2026-08-22T19:55:04Z",
+      "content": "NEW YORK (AP) Toronto Blue Jays ace Dylan Cease lost a no-hit bid with two outs in the seventh inning against the New York Yankees on Saturday when he allowed a clean single to Jazz Chisholm Jr.\r\nOn \u2026 [+1330 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ghazal Ahmed",
+      "title": "Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?",
+      "description": "Snowflake (NYSE:SNOW) is heading into its September 2 earnings report with a strong growth narrative. Prior to earnings, on August 20, TD Cowen raised its pr...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-stock-ai-growth-194107701.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4AB49EE3C0EECE2255DA16390004F66D9E3066E091865F7671BA8AFCE2C597FE/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fcbdf6dc7ecbd474b1d895b7b486304a7.jpg",
+      "publishedAt": "2026-08-22T19:41:07Z",
+      "content": "Snowflake (NYSE:SNOW) is heading into its September 2 earnings report with a strong growth narrative. Prior to earnings, on August 20, TD Cowen raised its price target on the stock to $370 from $300 \u2026 [+3743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ian Casselberry",
+      "title": "Diamondbacks' Ketel Marte seen at casino during Friday's game amid questions of unexplained absence and IL stint",
+      "description": "D-Backs manager Torey Lovullo explained that injured players are not required to be with the team, but learned of Marte's casino appearance after Friday's game.",
+      "url": "https://sports.yahoo.com/mlb/article/diamondbacks-ketel-marte-seen-at-casino-during-fridays-game-amid-questions-of-unexplained-absence-and-il-stint-190537663.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ab3f1c4b3f62a4039e57a49de1490e46090bbd873f82ed97ecf09d54d9ef1c53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F7ffb61cd-2d10-4092-9234-b2c5691de54e",
+      "publishedAt": "2026-08-22T19:05:37Z",
+      "content": "The Ketel Marte drama with the Arizona Diamondbacks added another chapter on Friday when the All-Star second baseman was seen at a casino during the team's 9-0 win over the Cincinnati Reds.\r\nSeveral \u2026 [+2622 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jeannine Mancini",
+      "title": "Grant Cardone Says If He Were Down to His Last $5K, He\u2019d Flip It Into $200,000 and Live Rent-Free for a Year With One Purchase",
+      "description": "Five thousand dollars isn\u2019t exactly the kind of money that usually inspires a real estate empire. For most people, it\u2019s an emergency fund, a car repair or a...",
+      "url": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-were-down-190016389.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/D07D7AC27A9EBB7413F701ADC4CBF858C13D8E8D656A7AA373FE0E64FE5D3A1D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fb4f8e2cd7575fed328b5811a68f5692b.jpg",
+      "publishedAt": "2026-08-22T19:00:16Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nFive thousand dollars isn't exactly the kind of money that usually inspires a real estate empire.\u2026 [+8075 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Haley Zaremba",
+      "title": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
+      "description": "U.S. battery storage has hit 52 GW and is set to double again by 2030 as clean energy investment races toward a record $180 billion.",
+      "url": "https://finance.yahoo.com/energy/articles/clean-energy-spending-tracking-toward-190000970.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/593536D09DDAB6F96894F7F2EBEA6AFA83E563511410E45A38764594C076B79D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F2df5b41d05a41399afecc5a47e595415.jpg",
+      "publishedAt": "2026-08-22T19:00:00Z",
+      "content": "Donald Trump is accidentally overseeing a massive buildout of the country's renewable energy capacity and infrastructure. Not only are investments in renewable technologies soaring to new highs, the \u2026 [+4499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Iconic fast-food fried chicken chain closes over 300 restaurants",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8c769ce8-d218-41d5-bcc0-582891b9630c",
+      "urlToImage": null,
+      "publishedAt": "2026-08-22T18:47:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AFP",
+      "title": "Inter thrash Monza to launch Serie A title defence",
+      "description": "Inter Milan kicked off the defence of their Serie A title in emphatic fashion on Saturday, cruising to a 4-1 home victory over promoted Monza.Monza, back in the top flight after a season in Serie B, levelled through Gustavo Varela in the 29th minute.",
+      "url": "https://sports.yahoo.com/articles/inter-thrash-monza-launch-serie-184345279.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0c781348c1754d949daa897637de95a6d47f4330c0c1c4b8d3e2769ef7fd3646/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F8d17538a047e07ac73afd8c1a5fc005b.jpg",
+      "publishedAt": "2026-08-22T18:43:45Z",
+      "content": "InterMilan kicked off the defence of their Serie A title in emphatic fashion on Saturday, cruising to a 4-1 home victory over promoted Monza.\r\nThe Italian champions needed just six minutes to break t\u2026 [+1122 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "Peixoto happy as Wolves end long wait for away win",
+      "description": "The Wolves boss declared himself pleased with his side's performance in their 3-1 win over Preston.",
+      "url": "https://www.bbc.com/sport/football/articles/c78g89p1ve3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/24bb0a52598789cf3b8e7b18b076fc7472173c8c1e7fb39f33058c020dc4ab7f/lightyear_networkapi/resizefill_w820_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8f8c19eae864749134ef25e60a2acada.jpg",
+      "publishedAt": "2026-08-22T18:34:18Z",
+      "content": "Wolves boss Cesar Peixoto declared himself pleased with his side's performance as they earned their first league win of the season.\r\nFer Lopez's double and a goal from substitute Adam Armstrong saw W\u2026 [+865 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "TipRanks",
+      "title": "Citi Predicts Up to 410% Rally for These 2 \u2018Strong Buy\u2019 Stocks",
+      "description": "With the third quarter well underway and most second-quarter earnings now in the rearview mirror, investors are starting to look ahead to the rest of 2026 an...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-predicts-410-rally-2-180500861.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8DC5B915A4B3DF211094FCD89606065FC80CEDCA83C88477F1DD38A755E0EE8B/subgraphmysterio/resizefill_w1200_h640;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftipranks_452%2F44e6b82fb2fbfb7a8c4bff3b58820706.png",
+      "publishedAt": "2026-08-22T18:05:00Z",
+      "content": "With the third quarter well underway and most second-quarter earnings now in the rearview mirror, investors are starting to look ahead to the rest of 2026 and how best to position their portfolios.\r\n\u2026 [+9945 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Shomik Sen Bhattacharjee",
+      "title": "Elon Musk Says China Is \u2018By Far\u2019 Strongest AI Competitor, Echoing 2011 Warning as SPCX Faces New Rocket Rival",
+      "description": "Elon Musk said China is \"by far\" the strongest competitor in artificial intelligence, extending a warning he made 15 years ago that Beijing would ultimately...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-china-far-180108378.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/318287E6CAC4654DAF702377F8412CDD7142BD407CECCACDFE67726B0F59B614/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F343eb7ed8db3fbeca9453331c32bffb1.jpg",
+      "publishedAt": "2026-08-22T18:01:08Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nElon Musk said China is \"by far\" the strongest competitor in artificial intelligence, extending a\u2026 [+5813 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Associated Press",
+      "title": "Tyler Reddick edges Josh Berry for NASCAR Cup pole position at New Hampshire",
+      "description": "Trying to snap a two-month slump in the NASCAR Cup Series, Tyler Reddick rebounded from a poor practice session to qualify first Saturday at New Hampshire Motor Speedway. The 23XI Racing driver turned a 29.054-second lap (131.094 mph) in his No. 45 Toyota to \u2026",
+      "url": "https://sports.yahoo.com/articles/tyler-reddick-edges-josh-berry-175438055.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4a5bf7f71a009034aef7949b7d401672d3c306407c5ae5b71b21cf2f60d38a06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F0416cf28229f5c580524cd9147ec71cb.jpg",
+      "publishedAt": "2026-08-22T17:54:38Z",
+      "content": "LOUDON, N.H. (AP) Trying to snap a two-month slump in the NASCAR Cup Series, Tyler Reddick rebounded from a poor practice session to qualify first Saturday at New Hampshire Motor Speedway.\r\nThe 23XI \u2026 [+1957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Anthony DeMarco, Senior Contributor",
+      "title": "An MLB Player May Have Made History Wearing A Mechanical Watch During A Game",
+      "description": "Lawrence Butler wore a Norqain Wild ONE Skeleton Gecko during Friday night\u2019s game against the Houston Astros in Houston. MLB plans to offer the watch at a charity auction",
+      "url": "https://www.forbes.com/sites/anthonydemarco/2026/08/22/an-mlb-player-may-have-made-history-wearing-a-mechanical-watch-during-a-game/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7579b6d1f2d14c60954502586743927a10c02f240f315d5ffac70d27a1f842c5/lightyear_networkapi/resizefill_w960_h640%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Ff1e9ee9febfb22ae8dc41333fa4cb55a.jpg",
+      "publishedAt": "2026-08-22T17:01:03Z",
+      "content": "Athletics right fielder Lawrence Butler may be the first player in Major League Baseball history to wear a mechanical watch during a game.\r\nButler wore a Norqain Wild ONE Skeleton Gecko during Friday\u2026 [+3323 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Associated Press",
+      "title": "Tropical Storm Moke advances toward Hawaii as winds strengthen",
+      "description": "Tropical Storm Moke advanced toward Hawaii Saturday, likely bringing more heavy rainfall and strong gusts to the Big Island, where residents are still dealin...",
+      "url": "https://www.yahoo.com/news/weather-news/articles/tropical-storm-moke-advances-toward-165725045.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c1edbde6c615358be90687431146502d6d8d6efe5dc5fef54a4522d456362a2d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb9abe02af203e0035d883ef885ec9d3f.jpg",
+      "publishedAt": "2026-08-22T16:57:25Z",
+      "content": "HONOLULU (AP) Tropical Storm Moke advanced toward Hawaii Saturday, likely bringing more heavy rainfall and strong gusts to the Big Island, where residents are still dealing with the aftermath of heav\u2026 [+2433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "John Koetsier, Senior Contributor, \n John Koetsier, Senior Contributor\n https://www.forbes.com/sites/johnkoetsier/",
+      "title": "8 Experts Weigh In On The FCC Foreign Robot Ban: Good Or Bad?",
+      "description": "Will the FCC foreign robot ban help the American robotic industry or hurt it? And, will it explode domestic robot prices up 3X? 8 experts weigh in ...",
+      "url": "https://www.forbes.com/sites/johnkoetsier/2026/08/22/8-experts-weigh-in-on-the-fcc-foreign-robot-ban-good-or-bad/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6937747c047dd55d391174f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-22T16:47:51Z",
+      "content": "Will the FCC ban of foreign robots help or hurt America's robotics industry?\r\nAFP via Getty Images\r\nOn July 28, 2026, the FCC added \"advanced robotic devices\" to its Covered List, the roster of techn\u2026 [+27744 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Emma Petrie - East Yorkshire and Lincolnshire",
+      "title": "Protesters say watercourses are 'choked' with weed",
+      "description": "Canal & River Trust says the warmer climate is providing ideal conditions for fast-growing weed.",
+      "url": "https://www.bbc.com/news/articles/c39e9npkp7do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6bd96f94ff85299a6cd51226f0febf763b8740698fd05a9157e2f12ec7e2c900/lightyear_networkapi/resizefill_w1195_h672%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fced2f2979fbc4f84b9bc9eacaa62afd5.jpg",
+      "publishedAt": "2026-08-22T16:39:29Z",
+      "content": "Boaters and anglers have gathered in Lincoln to object to the condition of two waterways.\r\nMembers of Burton Waters Boat Club, which organised the gathering at the Brayford Pool on Saturday, say the \u2026 [+1849 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Emlyn Begley - BBC Sport journalist",
+      "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
+      "description": "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
+      "url": "https://www.bbc.com/sport/football/articles/c62x2z0k0p6o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ecc4f244e47c3224451a7aa25fc0725af367d2e672de655e200fd840be6f80cb/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd4f740566915192618739944adb3cda8.jpg",
+      "publishedAt": "2026-08-22T16:17:23Z",
+      "content": "\"We are trying to prove people wrong.\"\r\nHull City certainly managed to support their manager Sergej Jakirovic's desire as they shocked Manchester United - and many neutral observers - with a 2-0 win \u2026 [+5351 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters",
+      "title": "France agrees to accelerate air defence deliveries to Ukraine, Zelenskiy says",
+      "description": "KYIV, Aug 22 (Reuters) - French President Emmanuel Macron has promised to accelerate the delivery of new French equipment to Ukraine, Ukrainian President Vol...",
+      "url": "https://www.yahoo.com/news/articles/ukraines-zelenskiy-says-macron-agreed-133945381.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/bbc79043243ad231cdac2569457f7cf6485f29b79d294c6836c2bfcf8a73dd83/lightyear_networkapi/resizefill_w800_h535%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3fa2ec034c3eabf21d45d08d23a90793.jpg",
+      "publishedAt": "2026-08-22T16:05:39Z",
+      "content": "KYIV, Aug 22 (Reuters) - French President Emmanuel Macron has promised to accelerate the delivery of new French equipment to Ukraine, Ukrainian President Volodymyr Zelenskiy said on Saturday, followi\u2026 [+3344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Steven GRIFFITHS",
+      "title": "Carrick keeps calm despite Man Utd misery, Sage beaten in first game as Palace boss",
+      "description": "Michael Carrick insisted he would not blast his Manchester United's flops despite a dismal 2-0 defeat at Hull in their opening game of the Premier League season, while Crystal Palace boss Pierre Sage suffered a debut loss against Everton.Sage, Palace's new Fr\u2026",
+      "url": "https://sports.yahoo.com/articles/carrick-keeps-calm-despite-man-160424638.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/13fbd66d9372753305a48e1f3f72093bad92838496338834a6622c42d917419f/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fdb19a75c6187e1d3c9774dab61bbe53a.jpg",
+      "publishedAt": "2026-08-22T16:04:24Z",
+      "content": "Michael Carrick insisted he would not blast his Manchester United's flops despite a dismal 2-0 defeat at Hull in their opening game of the Premier League season, while Crystal Palace boss Pierre Sage\u2026 [+3343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Adrian Volenik",
+      "title": "Suze Orman Says Owning a Car or Two May Be Unavoidable, but There's a $7K Mistake When Trading in Your Car",
+      "description": "Buying a new car is expensive enough without bringing thousands of dollars of debt from your old one along for the ride. Yet that\u2019s exactly what a growing nu...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/suze-orman-says-owning-car-160008652.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1E372999B5732C1F4D0960F309B0A7A7DC5DB009314F49BCC7A1D6FAD0E5FDDE/subgraphmysterio/resizefill_w1200_h844;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fce5bf76dfd22184dd6f509c205e8b588.jpg",
+      "publishedAt": "2026-08-22T16:00:08Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nBuying a new car is expensive enough without bringing thousands of dollars of debt from your old \u2026 [+7629 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "ROB GILLIES",
+      "title": "A trade war between Canada and the US deepens rupture in what had been a close and durable alliance",
+      "description": "For decades, Canada built much of its prosperity on privileged access to the United States.  Now, after the collapse of trade talks, one of the world\u2019s close...",
+      "url": "https://www.yahoo.com/news/us/articles/trade-war-between-canada-us-150715636.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7523879de615d4364f35e0de9d993914f8cbf80d833b2979ecc48053c20f433e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3b782db47e964ff602f4f463076b684d.jpg",
+      "publishedAt": "2026-08-22T15:07:15Z",
+      "content": "TORONTO (AP) For decades, Canada built much of its prosperity on privileged access to the United States. Now, after the collapse of trade talks, one of the world's closest and most durable alliances \u2026 [+6838 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Moneywise",
+      "title": "When he dies, Warren Buffett wants 90% of wife\u2019s inheritance put into 1 investment. Here\u2019s what it is, and how to get it",
+      "description": "And you don't need to be a billionaire to do it.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dies-warren-buffett-wants-90-150500152.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/43E2AC847FCED3F8D9E606A631420C67F7767356ED4388625AE53B0CEFF95EDD/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F480d7bd443a2ceabbf9a8c388f2cb0f8.jpg",
+      "publishedAt": "2026-08-22T15:05:00Z",
+      "content": "Johannes Eisele / Getty Images\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nLegendary investor Warren Buffett has generated substantial returns\u2026 [+6681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brooke DiPalma",
+      "title": "Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.",
+      "description": "Companies are using tariff refunds to lower prices, cushion their margins, and, to a very small extent, return the money straight to the customer.",
+      "url": "https://finance.yahoo.com/markets/article/tariff-refunds-are-hitting-retailers-wallets-heres-what-theyre-doing-with-the-money-142951738.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/B3E1C6012B8218DF0AA7201574CEBB77129D325CFF696F7E13C3A81D9D3ABC85/subgraphmysterio/resizefill_w1200_h830;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F3b795395-f798-46e1-8fd3-a3691f57f37b",
+      "publishedAt": "2026-08-22T14:29:51Z",
+      "content": "America's biggest retailers are now sitting on tariff refund checks from the federal government. How they plan to spend the billions of dollars in returns is up to them.\r\nThe retailers, including Ama\u2026 [+4360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Gladys Louise Tyler, Contributor, \n Gladys Louise Tyler, Contributor\n https://www.forbes.com/sites/gladyslouisetyler/",
+      "title": "NFL 2026 Week 1 DFS: DraftKings Week 1 Early Look From The Defense",
+      "description": "NFL 2026 DFS early look at the DraftKings main slate from the defensive side of the ball. Cleveland Browns, Jacksonville Jaguars and Las Vegas Raiders will impact you.",
+      "url": "https://www.forbes.com/sites/gladyslouisetyler/2026/08/22/nfl-2026-week-1-dfs-draftkings-week-1-early-look-from-the-defense/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a89aa9a097cc6379bcaa4e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-22T14:09:12Z",
+      "content": "LAS VEGAS, NEVADA - NOVEMBER 26: Patrick Mahomes #15 of the Kansas City Chiefs throws a pass over Maxx Crosby #98 of the Las Vegas Raiders during the third quarter at Allegiant Stadium on November 26\u2026 [+13455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ivy Grace",
+      "title": "My Wife Wants to Give Our Daughter $60,000 for a House. I\u2019m 61 and Refuse to Take on More Debt",
+      "description": "A 58-year-old retired teacher wants to give her daughter $60,000 toward a down payment on her first home, money she had planned to pull from the roughly $400...",
+      "url": "https://finance.yahoo.com/real-estate/articles/wife-wants-daughter-60-000-140121466.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9C679C605487699B98193110E1B3A7A5847F66FA476B7236AC82E056A7F7D56E/subgraphmysterio/resizefill_w1200_h802;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F669eb9e5a9362324c3d1fe561fc2a651.jpg",
+      "publishedAt": "2026-08-22T14:01:21Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nA 58-year-old retired teacher wants to give her daughter $60,000 toward a down payment on her fir\u2026 [+8757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "James Francisco Turner Lazaro",
+      "title": "I helped turn a California bank into one of America\u2019s fastest-growing. Now I\u2019m building a company to serve the people that banking has failed",
+      "description": "The financial system was built for a world where everyone had one employer and a paycheck that landed every two weeks. That world is disappearing.",
+      "url": "https://finance.yahoo.com/small-business/articles/helped-turn-california-bank-one-123000315.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/DD2CDBDD055AA4D7CEE7C99D23EA52CFA0302FF3C60FF7CECFA8BC947696EA59/subgraphmysterio/resizefill_w1200_h1063;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Fbbd1cf76fda6c2593a8edc12d05193b6.png",
+      "publishedAt": "2026-08-22T12:30:00Z",
+      "content": "I came of age in finance in investment banking in the U.S. during the boom and bust of dotcom era. I continued in finance by shifting into private equity, working for a multibillion-dollar fund, and \u2026 [+7473 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Twm Owen",
+      "title": "Torfaen becomes global hotspot for carbon emissions after wildfires",
+      "description": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
+      "url": "https://www.bbc.com/news/articles/cp9e9rg255vo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/93b6/live/b1859b10-9e0e-11f1-95e0-53a570c83624.jpg",
+      "publishedAt": "2026-08-22T11:39:16Z",
+      "content": "Melanie Simmonds, head of Save the Children Wales, said: \"In Wales and across the world, children are breathing in smoke from wildfires, coping with extreme heat and losing the freedom to play outdoo\u2026 [+36 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Aditi Ganguly",
+      "title": "S&P 500 dividend yield hits record low near 1% and it has some retirees rethinking their strategies",
+      "description": "S&P 500 dividend yields are running just above 1%, the lowest reading on record. The payouts haven't shrunk \u2014 but stock prices are outrunning them.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dividend-yield-hits-113500363.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/D3CF9E3CD440BFE2EF3E01B8BEB5E74A8EBE0746B02B27EAF482633BC101B004/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fdf834c590208fccd5b8947cc6a8f2272.jpg",
+      "publishedAt": "2026-08-22T11:35:00Z",
+      "content": "shutterstock.com\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nRetirees have long depended on dividend stocks for a reason: The payouts show up \u2026 [+9771 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Peter Chawaga, Contributor",
+      "title": "Dodgers\u2019 Mookie Betts Sends Kyle Tucker Contract Message As Concerns Mount",
+      "description": "The Los Angeles Dodgers\u2019 star shortstop offered a \u201ctough\u201d response on his teammate\u2019s slump after signing a $240 million deal.",
+      "url": "https://www.forbes.com/sites/peterchawaga/2026/08/22/dodgers-mookie-betts-sends-kyle-tucker-contract-message-as-concerns-mount/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3f16667b3e86cba026e1029a70f43175ac6ee4ffb3ac68a8fbeb009af898dafe/lightyear_networkapi/resizefill_w958_h540%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F93c439f025dfcd270fb4fb6f183b87f4.jpg",
+      "publishedAt": "2026-08-22T11:30:00Z",
+      "content": "The Los Angeles Dodgers expected Kyle Tucker to be one of the biggest offensive additions in baseball this season. Instead, the 29-year-old outfielder has endured the most difficult season of his car\u2026 [+3135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Pablo Marcelo Barreiro",
+      "title": "America has a $172 billion child care problem. Investors are overlooking part of the solution",
+      "description": "America has spent years debating the cost of child care while millions of families continue competing for a limited number of seats.",
+      "url": "https://finance.yahoo.com/real-estate/articles/america-172-billion-child-care-111500662.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/C0905EDB150FA655CEB875911CE639E05607EA8DB18D3298B22AA71525071822/subgraphmysterio/resizefill_w1200_h769;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F9bc35b2d763d74eb69378753aa12cf6f.jpg",
+      "publishedAt": "2026-08-22T11:15:00Z",
+      "content": "America's child care crisis costs the economy an estimated $172 billion each year in lost earnings, productivity and tax revenue. Nearly half of young children in the United States live in communitie\u2026 [+4829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Moneywise",
+      "title": "\u2018I\u2019m really disgusted\u2019: Ohio pair worth $40M want a lake house HELOC \u2014 Dave Ramsey says to change their advisor instead",
+      "description": "It\u2019s important to know when you're being led astray.",
+      "url": "https://finance.yahoo.com/small-business/articles/m-really-disgusted-ohio-pair-111000109.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/B151B3E903DB36C3082DA921DDB2D7ECAA1134C2224444707495B721E0EFF5D7/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fae2ed663286da0d96baeb4ce705cb549.png",
+      "publishedAt": "2026-08-22T11:10:00Z",
+      "content": "Photo by The Ramsey Show\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nIf you own a home and need money, a home equity line of credit (HELOC) al\u2026 [+6746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Sam Leveridge, Contributor, \n Sam Leveridge, Contributor\n https://www.forbes.com/sites/samleveridge/",
+      "title": "What Does Success Look Like For Real Madrid Under Jos\u00e9 Mourinho?",
+      "description": "Jos\u00e9 Mourinho makes his competitive return to Real Madrid after 13 years, facing immense pressure to deliver silverware following the club's two-season trophy drought.",
+      "url": "https://www.forbes.com/sites/samleveridge/2026/08/22/what-does-success-look-like-for-real-madrid-under-jos-mourinho/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a8980b7d8f8a78c7d63d306/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-22T11:07:29Z",
+      "content": "MADRID, SPAIN - 2026/08/21: Jose Mourinho, the head coach of Real Madrid CF, attends a press conference at Ciudad Real Madrid, on the eve of the LaLiga EA Sports 2026/2027 week 2 football match betwe\u2026 [+6456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "James Broughel, Contributor, \n James Broughel, Contributor\n https://www.forbes.com/sites/jamesbroughel/",
+      "title": "Treasury Is Buying Its Own Bonds. Where Is The Money Coming From?",
+      "description": "Treasury's doubled buyback program is funded by selling short-term bills. That creates no new money, but it shortens the debt and puts a fiscal hand on long-term rates.",
+      "url": "https://www.forbes.com/sites/jamesbroughel/2026/08/22/treasury-is-buying-its-own-bonds-where-is-the-money-coming-from/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a897cff7e4a8a8ba7b36733/0x0.jpg?format=jpg&crop=2258,1206,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-22T11:02:59Z",
+      "content": "Treasury Secretary Scott Bessent moved on August 19 to at least double Treasury's buybacks of long-dated government bonds. The purchases will be paid for by new borrowing.\r\nGetty Images\r\nBy James Bro\u2026 [+11262 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Venkatesh",
+      "title": "Airbnb Just Hit a Four-Year High. The Downgrade Says That\u2019s the Problem.",
+      "description": "Airbnb, Inc. (NASDAQ:ABNB) did everything bulls wanted. The company\u2019s Q2 revenue, reported on August 6, 2026, highlighted a 17% rise in revenue to $3.6 billi...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-just-hit-four-high-110129364.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/065446AF91095BD462CB858F35DC26AFCC083D9BE45D649F8F418BE35D06828B/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Faa6f77ef6baa39224174238128ceb76c.jpg",
+      "publishedAt": "2026-08-22T11:01:29Z",
+      "content": "Airbnb, Inc. (NASDAQ:ABNB) did everything bulls wanted. The company's Q2 revenue, reported on August 6, 2026, highlighted a 17% rise in revenue to $3.6 billion, a 16% increase in gross booking value \u2026 [+2617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Matthew Henry - BBC Sport Journalist",
+      "title": "'We're not Brendon and Ben' - Root's calmness praised",
+      "description": "Joe Root is praised for his calmness on his return as captain by interim coach Marcus Trescothick, who says the pair \"are not\" Ben Stokes and Brendon McCullu...",
+      "url": "https://www.bbc.com/sport/cricket/articles/cly9yzrgp21o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5e41140bb3d85ec98b6751f12cf60534c842de171d593f9ce02c76c97d9e39e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2886b40034c687f709240226549a6d48.jpg",
+      "publishedAt": "2026-08-22T11:00:08Z",
+      "content": "Interim coach Marcus Trescothick praised Joe Root's calming influence on his return as England's Test captain in the first-Test win over Pakistan.\r\nRoot's second stint as Test skipper was given the i\u2026 [+2875 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Nick Lichtenberg",
+      "title": "This CEO was out to dinner when he caught his AI agent wasting $1,000 in tokens. He says \u2018insecurity\u2019 is a bigger problem",
+      "description": "\"A thousand is not that much, I would say, but for one weekend, it's pretty annoying,\" Maxio CEO Branden Jenkins told Fortune.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ceo-dinner-caught-ai-agent-110000990.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5792F54AB636985756890BEE01043C807725CE8C50A0D2D8D04E55719AC0D0AC/subgraphmysterio/resizefill_w1200_h930;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Fc84cfdaf0a629914d1f8884bd3376bae.png",
+      "publishedAt": "2026-08-22T11:00:00Z",
+      "content": "Branden Jenkins was out to dinner when he pulled out his phone, glanced at his AI usage dashboard, and realized his weekend coding session had just cost him $1,000 charged automatically, in $1,000 in\u2026 [+9326 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Paul Kim",
+      "title": "A stolen wallet gives thieves access to your identity and finances \u2014 here's what to do before the damage spreads",
+      "description": "Here\u2019s how to protect yourself: It starts with knowing what\u2019s in your wallet, and leaving unnecessary stuff at home.",
+      "url": "https://finance.yahoo.com/markets/articles/stolen-wallet-gives-thieves-access-100000938.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9B8F782847D057F891A1D55099F8725D358D4BC493D5F64535E448BC8EBA7477/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fdc14648fbfff4af293988fb47f31c44a.jpg",
+      "publishedAt": "2026-08-22T10:00:00Z",
+      "content": "StockLab/Shutterstock\r\nIn April 2026, wallets, purses, and other belongings started disappearing out of cars parked around fitness centers across Fairfax County in Alexandria, Virginia, according to \u2026 [+5229 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Aniket Verma",
+      "title": "Trump's Crypto Comments Cheered: Robinhood CEO Stresses 'Broad Ownership' At White House Event, Binance Founder Says, 'We're So Back'",
+      "description": "President Donald Trump repeated his commitment to secure U.S. leadership in cryptocurrency and emerging technologies, sparking widespread reactions from indu...",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/trumps-crypto-comments-cheered-robinhood-094524088.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6AF18D9FD69856E9D1C20448813A0DE9D4A7EAE200BC4FFA5BE6CD6413B2EB05/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F9287cd0e9197922535e9f8d9975f59f7.jpg",
+      "publishedAt": "2026-08-22T09:45:24Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nPresident Donald Trump repeated his commitment to secure U.S. leadership in cryptocurrency and em\u2026 [+7233 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Harry Sekulich",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "description": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
+      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d5713fea28188a12c04c7ee455451ac94a4a169f9278ffdd88ae0faaac0fe8fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F44bc5ba308356cb437e0a1da7d9680e9.jpg",
+      "publishedAt": "2026-08-22T07:56:49Z",
+      "content": "One week out from the world-renowned Sydney Marathon, organisers face questions about whether designers etched the wrong city's stadium on the participation medal.\r\nThe medal appears to feature a sta\u2026 [+1915 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Elizabeth Conway - Spanish football reporter",
+      "title": "The ex-Blackburn winger facing Mourinho and Madrid",
+      "description": "Tyrhys Dolan, who played for Blackburn Rovers for five years before joining Espanyol last summer, says he is ready to take on one of the biggest tests of his career against Real Madrid on Saturday.",
+      "url": "https://www.bbc.com/sport/football/articles/c4g3nr57kdlo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fc905e5f43e10331f6765c922f0ae1b45e49148437c74ce8a98a420faf38c4d3/lightyear_networkapi/resizefill_w910_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1fe215d66d6f427cca4524c644cc6558.jpg",
+      "publishedAt": "2026-08-22T07:48:08Z",
+      "content": "Tyrhys Dolan, who played for Blackburn Rovers for five years before joining Espanyol last summer, says he is ready to take on one of the biggest tests of his career when Real Madrid visit the RCDE St\u2026 [+3942 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Paul Battison - BBC Sport journalist",
+      "title": "'If I can make it out, you can too,' says Dyer before UFC fight",
+      "description": "Shanelle Dyer is using her UFC platform to show young people they can \"make it out too\" after growing up in a neighbourhood affected by knife crime in west London.",
+      "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/c86nzzjvjl4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4e40ec5133bcecf6134cf56a73a0635fe73f28ee9438b97db01e4edcf50925f6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9b08a0f5ca2b85455602dcd9a67b8089.jpg",
+      "publishedAt": "2026-08-22T07:04:04Z",
+      "content": "Shanelle Dyer's parents always encouraged her to play sports because they were worried about what the alternative could be.\r\nIn March, the Londoner introduced herself on the world stage as she knocke\u2026 [+3625 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -13,6 +910,19 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a8934b45df52b3b4a1e9a30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2026-08-22T06:43:47Z",
       "content": "The risk of loosing your baby when pregnant is increased by the effects of climate change and pollution.(Photo illustration by Daniel Berehulak/Getty Images)\r\nGetty Images\r\nExtreme heat and air pollu\u2026 [+15398 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "SAM McNEIL",
+      "title": "European wildfires reveal a hidden danger: buried bombs and mines from WWI and WWII",
+      "description": "The wildfires burning across Europe this summer have exposed a potentially deadly threat lurking beneath the blackened landscape: rusty bombs and mines from...",
+      "url": "https://www.yahoo.com/news/world/articles/european-wildfires-reveal-hidden-danger-060943252.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/dc2fbea8cf2870ee26701cdafb9f6b22fc1b41ed8a0b1328e65ad090d6a6719b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F599658a2ffcf7bcf298f6e0dbfef1920.jpg",
+      "publishedAt": "2026-08-22T06:09:43Z",
+      "content": "ELSENBORN, Belgium (AP) The wildfires burning across Europe this summer have exposed a potentially deadly threat lurking beneath the blackened landscape: rusty bombs and mines from World War I and II\u2026 [+5388 chars]"
     },
     {
       "source": {
@@ -58,6 +968,32 @@
         "id": null,
         "name": "Yahoo Entertainment"
       },
+      "author": "Snigdha Gairola",
+      "title": "Nikki Haley Warns Social Security Could 'Go Bankrupt' in 5 Years as US Debt Surges Past $40 Trillion: 'Past a Crisis Situation'",
+      "description": "Former UN Ambassador Nikki Haley warned that Social Security faces a looming funding crisis as the U.S. national debt surpassed $40 trillion, intensifying co...",
+      "url": "https://finance.yahoo.com/economy/policy/articles/nikki-haley-warns-social-security-033101398.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/BD757AD7B1F0A6E7E2A4F9F55CF4788CCE695A1E907C1CBFBDACEB810C2EB5FD/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F0051b0017a6f1a5181c488cfb1ebe4ef.jpg",
+      "publishedAt": "2026-08-22T03:31:01Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nFormer UN Ambassador Nikki Haley warned that Social Security faces a looming funding crisis as th\u2026 [+6716 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Aniket Verma",
+      "title": "Trump Says US is the 'Hottest Country' and CLARITY Act Will Keep it Ahead Of China \u2014 Bitcoin Purchase 'Been Talked About'",
+      "description": "President Donald Trump reiterated on Wednesday his commitment to preserve the U.S. leadership in Bitcoin, cryptocurrency and prediction markets. Trump Asks C...",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-says-us-hottest-country-023156530.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/92A5461668F778E075B6013AE1C5BF5DC0C61E108264F1D52F1AED3AC3EA8650/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F07153bf58fc534a6e9f6179b302e9864.jpg",
+      "publishedAt": "2026-08-22T02:31:56Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nPresident\u00a0Donald Trump\u00a0reiterated on Wednesday his commitment to preserve the U.S. leadership in \u2026 [+6696 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
       "author": "Ian Casselberry",
       "title": "Diamondbacks manager Torey Lovullo said he 'felt betrayed' after Ketel Marte's unexplained absence",
       "description": "Lovullo went on to sympathize with the emotions athletes experience through competition, but he still seeks answers from Marte.",
@@ -91,6 +1027,19 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/de00a0bf44b86a114437fc4e6b2439e5f137fbaa12207d577edc0b2c899f8197/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fcec5b76b-bfd7-4d65-851d-9a8d570f98c4",
       "publishedAt": "2026-08-22T01:05:30Z",
       "content": "What started as an offensive line rankings article has morphed into an \"offensive line arbitrary tiers\" article. To be completely transparent: It was really hard for me to parse between the ranking o\u2026 [+20018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jeff Lewis",
+      "title": "Lufax (LU) Narrowed Its Loss 86%. Was the Improvement Mostly Tax-Driven?",
+      "description": "Lufax Holding Ltd (NYSE:LU) narrowed its second-quarter net loss by 86.2% to RMB82 million from RMB594 million a year earlier. The headline improvement, howe...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lufax-lu-narrowed-loss-86-010120939.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/FC6EE8642B564E504787EBF7F5777E5BC4D9C43373343FE48339ACF2AD5095EB/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fa05340603f80c391078627219192ac2d.jpg",
+      "publishedAt": "2026-08-22T01:01:20Z",
+      "content": "Lufax Holding Ltd (NYSE:LU) narrowed its second-quarter net loss by 86.2% to RMB82 million from RMB594 million a year earlier. The headline improvement, however, came primarily from taxes. Pretax pro\u2026 [+4011 chars]"
     },
     {
       "source": {
@@ -156,6 +1105,19 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/60A4096594B77AE88375946387CB13B4BE47C55F8A8984CC7A812CB258E220DC/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F2e7c73a6ce7472302628cfbb8b747c0e.jpg",
       "publishedAt": "2026-08-21T23:36:13Z",
       "content": "Hesai Group (NASDAQ:HSAI) reported second-quarter revenue of RMB860.8 million, up 21.9%, as total LiDAR shipments increased 78.4% to 628,275 units. Net income rose 60% to RMB70.6 million, marking a f\u2026 [+4714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Chris Katje",
+      "title": "Elon Musk Is No Longer a Trillionaire, but He Could Still Give Every Person on Earth $69.420 and Stay the World's Richest",
+      "description": "Earlier this year, Elon Musk became the first person to ever have a net worth of $1 trillion thanks to a strong market debut for his space company SpaceX. Wh...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-no-longer-trillionaire-233204052.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5B34560AD4E785BF14FB3746E16925BC2273E540DEE22F1D675764F9A33B77A8/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F7b8a42f3731522982293578abf0fd095.jpg",
+      "publishedAt": "2026-08-21T23:32:04Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nEarlier this year, Elon Musk became the first person to ever have a net worth of $1 trillion than\u2026 [+7069 chars]"
     },
     {
       "source": {
@@ -338,968 +1300,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/FEEDBB66F799297A46D6C6B55D53934F6328F8A690B2463BAA9AF42A4CEA4028/subgraphmysterio/resizefill_w1200_h1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc7b4d0e05ca5b213d76cce5001de89ba.jpg",
       "publishedAt": "2026-08-21T21:56:07Z",
       "content": "BitFuFu Inc. (NASDAQ:FUFU) reported a quarter that exposed the difference between producing more Bitcoin and making more money from it. Second-quarter revenue fell 62.9% year over year to $42.8 milli\u2026 [+4496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "Tapestry (TPR) Delivers On Its Boldest Promise Early",
-      "description": "On August 13, Tapestry (NYSE:TPR) reported fiscal 2026 results that beat the three-year targets management set at its Investor Day, and did so two years ahea...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tapestry-tpr-delivers-boldest-promise-215429793.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E3193C9DFCC4D007DFF571B298B24DE377B04B55A270B193BDDBBCEDCECF9EB1/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F391b35cf2fa0b933db9ca36afb1bdd22.jpg",
-      "publishedAt": "2026-08-21T21:54:29Z",
-      "content": "On August 13, Tapestry (NYSE:TPR) reported fiscal 2026 results that beat the three-year targets management set at its Investor Day, and did so two years ahead of schedule. Revenue climbed to $8 billi\u2026 [+4453 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "Ascendis Pharma (ASND): Three New Drugs Are Turning This Biotech Into A Growth Machine",
-      "description": "On August 13, Ascendis Pharma (NASDAQ:ASND) reported second-quarter results that showed how far its rare disease portfolio has come. Total product revenue ro...",
-      "url": "https://finance.yahoo.com/healthcare/articles/ascendis-pharma-asnd-three-drugs-214640196.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/80DF2F204A730B38541818290C2732E974A5B2F2CC2939DA9324226950E44E2F/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fd0157436f26e60629a2b5489c642c752.jpg",
-      "publishedAt": "2026-08-21T21:46:40Z",
-      "content": "On August 13, Ascendis Pharma (NASDAQ:ASND) reported second-quarter results that showed how far its rare disease portfolio has come. Total product revenue roughly doubled from a year earlier to 315 m\u2026 [+4295 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jeff Lewis",
-      "title": "H World (HTHT) Approved a $2.5 Billion Return Plan. Is Growth Being Sacrificed?",
-      "description": "Shares of H World Group Limited (NASDAQ:HTHT) jumped 11.3% to $46.61 on August 17 after second-quarter results combined continued growth, a higher outlook, a...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/h-world-htht-approved-2-213802135.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/51F6AF08673FE2CBC552E7EEFBCA354B39BB44E9E33690D291123156053BE27E/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F60b4963780a885985fcf335d662f0f4c.jpg",
-      "publishedAt": "2026-08-21T21:38:02Z",
-      "content": "Shares of H World Group Limited (NASDAQ:HTHT) jumped 11.3% to $46.61 on August 17 after second-quarter results combined continued growth, a higher outlook, and an aggressive capital-return program. H\u2026 [+4428 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "High Growth, High Cash Burn: Decoding the Split Narrative on Ondas (ONDS)",
-      "description": "On August 13, Ondas (NASDAQ:ONDS) held its second-quarter earnings call, and the numbers explain why the stock has been getting attention. Revenue hit $83.8...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/high-growth-high-cash-burn-213535172.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1ECC2220069B743E0C606DE45B43D53B5991A0C655FC9B4B9927FA88630B9EF0/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F008b51716befc751679d285a5cac6374.jpg",
-      "publishedAt": "2026-08-21T21:35:35Z",
-      "content": "On August 13, Ondas (NASDAQ:ONDS) held its second-quarter earnings call, and the numbers explain why the stock has been getting attention. Revenue hit $83.8 million, more than thirteen times what the\u2026 [+5713 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "Karyopharm\u2019s (KPTI) Big Cancer Bet Faces A Ticking Clock",
-      "description": "On August 13, Karyopharm Therapeutics (NASDAQ:KPTI) held its second-quarter earnings call, and the story split cleanly in two. The company laid out a myelofi...",
-      "url": "https://finance.yahoo.com/healthcare/articles/karyopharm-kpti-big-cancer-bet-212040461.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/A45BE64BD010712B76E373F3D73F538FAD062E2BF8A68B6D0EA59F09F03C0D92/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F09fedc569fae406244246c0b0bb2813d.jpg",
-      "publishedAt": "2026-08-21T21:20:40Z",
-      "content": "On August 13, Karyopharm Therapeutics (NASDAQ:KPTI) held its second-quarter earnings call, and the story split cleanly in two. The company laid out a myelofibrosis combination therapy with data stron\u2026 [+4681 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Joshua Dudley, Contributor, \n Joshua Dudley, Contributor\n https://www.forbes.com/sites/joshuadudley/",
-      "title": "How Bobby Bones Authenticity Built A $100 Million Dollar Radio Empire",
-      "description": "How Bobby Bones authenticity plays out in every facet of his public life and ultimately led to his success in radio as the youngest person in the radio hall of fame.",
-      "url": "https://www.forbes.com/sites/joshuadudley/2026/08/21/how-bobby-bones-authenticity-built-a-100-million-dollar-radio-empire/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a88bef1e55d019fb84d23c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-21T21:17:17Z",
-      "content": "The BobbyCast starring Bobby Bones\r\niHeart\r\nWhen youre called the most powerful man in country music\r\n, served as a mentor on American Idol, competed on Dancing with the Stars, and now have a multi-m\u2026 [+8821 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Matthew Cresswell - BBC Sport England",
-      "title": "Leigh thump Bradford to move closer to play-offs",
-      "description": "Leigh Leopards take a step closer to securing a place in the Super League play-offs by comfortably sweeping aside rock-bottom Bradford Bulls.",
-      "url": "https://www.bbc.com/sport/rugby-league/articles/cjrvwnd24pxo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-      "publishedAt": "2026-08-21T21:16:09Z",
-      "content": "Betfred Super League\r\nLeigh (14) 62\r\nTries: Mulhern, Brogan, Senior 2, Lam 2, Cook 2, Hanley, Ofahengaue Goals: Cook 11\r\nBradford (4) 10\r\nTries: Blake, Peposhi Goals: Atkin\r\nLeigh Leopards took a ste\u2026 [+2940 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "Cellebrite (CLBT): CEO Shift and Guidance Cuts Contrast With Surging AI and FedRAMP Gains",
-      "description": "On August 13, Cellebrite (NASDAQ:CLBT) named a new chief executive and trimmed its full-year outlook on the same morning. Shiven Ramji stepped in as CEO effe...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cellebrite-clbt-ceo-shift-guidance-211211480.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7EC27897B246FA520A2C62FD6A1C6EAD5E01986560A0B8F0ED30F25632AE1CEB/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Feed5c1d341e86f6a4c82a2806353c5e1.jpg",
-      "publishedAt": "2026-08-21T21:12:11Z",
-      "content": "On August 13, Cellebrite (NASDAQ:CLBT) named a new chief executive and trimmed its full-year outlook on the same morning. Shiven Ramji stepped in as CEO effective that day, replacing Tom Hogan, while\u2026 [+4637 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Fatima Gulzar",
-      "title": "Taiwan Semiconductor (TSM) Sales Just Jumped 45%. Why is the Chip Sector Still Selling Off?",
-      "description": "The world\u2019s largest chipmaker, Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) reported July revenue of NT$467.58 billion, or about $14.5 billi...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-sales-just-205844477.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5724C5DE6A91713A7D51CBDD60F8E042AC53F16F803D9C31DF152F545866852E/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff90919c411d1aa5d89e5e74b1fb5e45e.jpg",
-      "publishedAt": "2026-08-21T20:58:44Z",
-      "content": "The world's largest chipmaker, Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) reported July revenue of NT$467.58 billion, or about $14.5 billion, up by 45% from a year earlier. That's \u2026 [+2775 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Bruce Martin, Contributor",
-      "title": "How FOX Sports Will Showcase IndyCar In The Freedom 250 Grand Prix",
-      "description": "FOX Sports will showcase all the grandeur and spectacle of the Freedom 250 Grand Prix of Washington DC. It's the first ever major auto race at the National Mall.",
-      "url": "https://www.forbes.com/sites/brucemartin/2026/08/21/how-fox-sports-will-showcase-indycar-in-the-freedom-250-grand-prix/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7cb2f5ed1d169c9b6a01e0ad8c75a9411dd1323361742d87133749f3cd341067/lightyear_networkapi/resizefill_w958_h638%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F10525c090012b2e6dd100c95690f6ba0.jpg",
-      "publishedAt": "2026-08-21T20:56:06Z",
-      "content": "The Freedom 250 Grand Prix of Washington DC will give IndyCar some of its greatest exposure in history. It may also produce its largest television audience for any IndyCar race other than an Indianap\u2026 [+13400 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Alex Howell - Football reporter at Emirates Stadium",
-      "title": "Tzolis shines on Premier League debut - Arsenal v Coventry player ratings",
-      "description": "How Arsenal and Coventry's players rated following their Premier League match.",
-      "url": "https://www.bbc.com/sport/football/articles/crl7g4e4pdno?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/98d3afbe2e1c48a63a7abd6b6df1890d49377689e7d6cb2647677e9c7c6ca83d/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd38edc60ee0ee0c277c0a5a1dcdeed68.jpg",
-      "publishedAt": "2026-08-21T20:52:37Z",
-      "content": "Arsenal started the defence of their Premier League title with a comfortable 3-0 win over Coventry.\r\nHere are my player ratings and you can also see how you scored them at the bottom.\r\nDavid Raya: Th\u2026 [+4062 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Fatima Gulzar",
-      "title": "Alphabet (GOOGL): Google\u2019s AI Boss Just Stepped Back. Is DeepMind Falling Apart?",
-      "description": "Demis Hassabis, the Nobel Prize-winning co-founder of Google DeepMind, is stepping down from running the AI lab day-to-day. He\u2019s becoming DeepMind\u2019s chairman...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-google-ai-boss-205228358.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6D12F97E68896EB7E26548A0DD8A2E5D82EA6140CDA46BE05C5F78F98EC81976/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fddded06c9301164bc21c334085fab02f.jpg",
-      "publishedAt": "2026-08-21T20:52:28Z",
-      "content": "Demis Hassabis, the Nobel Prize-winning co-founder of Google DeepMind, is stepping down from running the AI lab day-to-day. He's becoming DeepMind's chairman and taking on a new role as Alphabet Inc.\u2026 [+3748 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Kari Anderson",
-      "title": "DeMar DeRozan reportedly signing with the Nuggets on 1-year, $3.9 million deal",
-      "description": "DeRozan is a free agent after 2 seasons with the Kings.",
-      "url": "https://sports.yahoo.com/nba/article/demar-derozan-reportedly-signing-with-the-nuggets-on-1-year-39-million-deal-204045448.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/04488d688436ebdebf613020f2210eb0fb491abcbd6777dff4131e8b0ce065a3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F84efb06c-a3a7-4ca6-9990-e981050220b0",
-      "publishedAt": "2026-08-21T20:40:45Z",
-      "content": "DeMar DeRozan reportedly has his sights set on his next home, with the free agent forward signing with the Denver Nuggets, per multiple reports. DeRozan, a six-time All-Star, will join Denver on a on\u2026 [+330 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "YETI\u2019s (YETI) Brand Machine Keeps Growing, But Cash Is Draining Fast",
-      "description": "On August 13, 2026, YETI Holdings (NYSE:YETI) reported second-quarter fiscal 2026 results that showed broad-based top-line expansion and operational progress...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/yeti-yeti-brand-machine-keeps-204027909.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8C7AB9ACC988575BD94D22AA9F63C54B6322F280C6C1C4FDEEB9E5C53C3FB230/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F128725bb7c4862b0ecf646e467ebe7ac.jpg",
-      "publishedAt": "2026-08-21T20:40:27Z",
-      "content": "On August 13, 2026, YETI Holdings (NYSE:YETI) reported second-quarter fiscal 2026 results that showed broad-based top-line expansion and operational progress. Sales climbed 9% year over year to rough\u2026 [+4975 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Fatima Gulzar",
-      "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It\u2019s Not Worried",
-      "description": "NVIDIA Corporation (NASDAQ:NVDA) is weighing a step that would have seemed unthinkable a year ago: shipping its next-generation Rubin Ultra GPU with less mem...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/51604193A5E81600DA0C687FFC86F94EA6013250E24CE74039DC5EF4506A7F44/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Faa94e059977d3251b8b0630718e013fc.jpg",
-      "publishedAt": "2026-08-21T20:40:25Z",
-      "content": "NVIDIA Corporation (NASDAQ:NVDA) is weighing a step that would have seemed unthinkable a year ago: shipping its next-generation Rubin Ultra GPU with less memory than originally promised. According to\u2026 [+4548 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "AFP",
-      "title": "Mavericks buy out Thompson, now reportedly bound for Heat",
-      "description": "Klay Thompson had his NBA contract bought out by the Dallas Mavericks, the team announced on Friday, and will sign with the Miami Heat according to multiple reports.The 36-year-old American guard, a four-time NBA champion with the Golden State Warriors, joine\u2026",
-      "url": "https://sports.yahoo.com/articles/mavericks-buy-thompson-now-reportedly-203452761.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/069ce3cf326fdd24f6202db8ea087541303a260acad4104530e5a4ff668e74fd/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fde9bd44ec443930580fc4fbb83d5d539.jpg",
-      "publishedAt": "2026-08-21T20:34:52Z",
-      "content": "Klay Thompson had his NBA contract bought out by the Dallas Mavericks, the team announced on Friday, and will sign with the Miami Heat according to multiple reports.\r\nThe 36-year-old American guard, \u2026 [+1181 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "John Kingston",
-      "title": "The list grows: 2 more cases proceeding on broker liability",
-      "description": "Two other cases can be added to the list of litigation on the question of broker liability. The post The list grows: 2 more cases proceeding on broker liabil...",
-      "url": "https://finance.yahoo.com/small-business/articles/list-grows-2-more-cases-203222952.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/CD70173D9FD3EC87186C90C1F9E16B5CC5818AD8145183484E5985578040E6D7/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F4810e1404bfe0740505425f891952b75.jpg",
-      "publishedAt": "2026-08-21T20:32:22Z",
-      "content": "Two cases making their way through the federal court system on the issue of broker liability have been added to the pool of litigation closely watched by the 3PL industry following the Supreme Court'\u2026 [+7317 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "By Jonathan Stempel",
-      "title": "US appeals court throws out California, Giffords 'ghost guns' challenge",
-      "description": "By Jonathan Stempel Aug 21 (Reuters) - A federal appeals court threw out on Friday a lawsuit by California and the Giffords gun control advocacy group claimi...",
-      "url": "https://www.yahoo.com/news/politics/articles/us-appeals-court-throws-california-202848104.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e67391aa8400b0fec766e3da6a2610126ec3c0fc6981ea3f724bded449ca738d/lightyear_networkapi/resizefill_w800_h564%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1efaf4efd38443d04f1d690f226a4428.jpg",
-      "publishedAt": "2026-08-21T20:29:42Z",
-      "content": "By Jonathan Stempel\r\nAug 21 (Reuters) - A federal appeals court threw out on Friday a lawsuit by California and the Giffords gun control advocacy group claiming that a Biden administration-era rule t\u2026 [+2425 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Fatima Gulzar",
-      "title": "e.l.f. Beauty (ELF) & Ulta Beauty (ULTA): Rhode Is Carrying e.l.f. Beauty. Ulta Is Winning on Rich Shoppers Instead",
-      "description": "e.l.f. Beauty, Inc. (NYSE:ELF)\u2019s growth story right now has a very famous face behind it. Rhode, the skincare and makeup brand founded by Hailey Bieber, was...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-elf-202928491.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9A2030A5C1DFB0554628E701CB04394ED86F846E711846BF35C251C0DA8F1C22/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F6a0033d6542601f6c514c2be9e94e544.jpg",
-      "publishedAt": "2026-08-21T20:29:28Z",
-      "content": "e.l.f. Beauty, Inc. (NYSE:ELF)'s growth story right now has a very famous face behind it. Rhode, the skincare and makeup brand founded by Hailey Bieber, was bought by e.l.f. for $1 billion a year ago\u2026 [+5030 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jonathan Stempel",
-      "title": "SEC charges former Bank of America investment banker with insider trading",
-      "description": "The U.S. Securities and Exchange Commission on Friday charged a former senior Bank of America investment banker with insider trading, \u200calleging he tipped a l...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sec-charges-former-bank-america-202413058.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/83C26DF06AFF32AE87190BB9481E837D3ECEDD731BEC28A88309491170370097/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Fa16b5034c9f26279715a22af14999458.jpg",
-      "publishedAt": "2026-08-21T20:24:13Z",
-      "content": "By Jonathan Stempel\r\nNEW YORK, Aug 21 (Reuters) - The U.S. Securities and Exchange Commission on Friday charged a former senior Bank of America investment banker with insider trading, alleging he tip\u2026 [+2312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "\u81ea\u7acb\u665a\u5831",
-      "title": "\u81fa\u5317\u5ee3\u64ad\u96fb\u81fa\u7372\u300c2026 \u82f1\u570b FADA \u672a\u4f86\u85dd\u8853\u8207\u8a2d\u8a08\u734e\u300d",
-      "description": "\u3010\u8a18\u8005\u5353\u7fbd\u699b\u81fa\u5317\u5831\u5c0e\u3011\u81fa\u5317\u5ee3\u64ad\u96fb\u81fa\u300c\u900f\u904e\u80fd\u6e90\u7ba1\u7406\u7cfb\u7d71\u8207\u7a7a\u9593\u512a\u5316\u5efa\u69cb\u9ad8\u97cc\u6027\u5ee3\u64ad\u767c\u5c04\u7ad9\u300d\uff08Building High-Resilience Broadcast Stations via EMS and S...",
-      "url": "https://tw.news.yahoo.com/%E8%87%BA%E5%8C%97%E5%BB%A3%E6%92%AD%E9%9B%BB%E8%87%BA%E7%8D%B2-2026-%E8%8B%B1%E5%9C%8B-fada-%E6%9C%AA%E4%BE%86%E8%97%9D%E8%A1%93%E8%88%87%E8%A8%AD%E8%A8%88%E7%8D%8E-201802350.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f5a64d46e33e1da6a3f4a181f3cb2fbf500d6c2e95c49639dfe5f3329cfe284f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fidn.com.tw%2F881b0100cb2df86d7dab2e6da1849fe2.jpg",
-      "publishedAt": "2026-08-21T20:18:02Z",
-      "content": "Building High-Resilience Broadcast Stations via EMS and Space Optimization 2026 Future Art &amp; Design Award UK, FADAGold Prize\r\nESG\r\n15% 15"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Dina Bass",
-      "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware",
-      "description": "Anthropic PBC has hired Amir Salek, a founder of the custom chip program at Alphabet Inc.\u2019s Google, as the AI lab lays the groundwork for a push into making...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-taps-google-chip-veteran-195955567.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E690F83A2A3C274FA902A151E0AF24E71AB7158961DB4E11B46CE6F297CB6114/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fd3cf1ba512f487975a5ee5e18a255665.jpg",
-      "publishedAt": "2026-08-21T19:59:55Z",
-      "content": "(Bloomberg) -- Anthropic PBC has hired Amir Salek, a founder of the custom chip program at Alphabet Inc.'s Google, as the AI lab lays the groundwork for a push into making its own semiconductors.\r\nMo\u2026 [+1738 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Doyle Rice and Dinah Voyles Pulver, USA TODAY",
-      "title": "Hurricane forecasters watch 'unusual' activity in Atlantic",
-      "description": "A tropical storm could soon form near Portugal, in the northeastern Atlantic. It's an odd location, experts say.",
-      "url": "https://www.yahoo.com/news/weather-news/articles/hurricane-forecasters-watch-unusual-activity-in-atlantic-195805836.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f71060c569954326ca981c967c890492a2ae27943955c5e3bcf0907b491d59a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F586b88ab05e8f524fd058d194b0849e6.png",
-      "publishedAt": "2026-08-21T19:58:05Z",
-      "content": "While most of the tropical storm attention this summer has been in the Pacific, there is still some activity in the Atlantic. This includes the northeastern Atlantic near Europe, which could actually\u2026 [+4451 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Justin Boone",
-      "title": "Fantasy Football: Justin Boone's deep (and super deep) sleepers at each position for 2026",
-      "description": "Fantasy football analyst Justin Boone takes you through some of his sleepers (and deep sleepers) for 2026.",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-justin-boones-deep-and-super-deep-sleepers-at-each-position-for-2026-195545769.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/11c825fd4cd2fc548fa02164c0e046a322db4131562f60efd46a2b3917092c0c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F8af5fb6c-a839-42b9-b44e-6b496a13f7ca",
-      "publishedAt": "2026-08-21T19:55:45Z",
-      "content": "Hopefully you've already checked out my main sleepers going over some of the late-round targets who could drastically outproduce their ADP in 2026.\r\nNow, we're diving even deeper into players with av\u2026 [+11136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Fatima Gulzar",
-      "title": "Meta Platforms (META) Pitches AI for Everyone While Apple (AAPL) Quietly Turns to China",
-      "description": "Meta Platforms, Inc. (NASDAQ:META) CEO Mark Zuckerberg published a lengthy letter on August 10 making the case that artificial intelligence should be spread...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-pitches-ai-195454070.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E2DD0ED4D7FAA962BB479CB5D20FE4C6CF1EFBFBB793A178734DFA7E422F7146/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F61c363b6d566f2e9989d12b08155c301.jpg",
-      "publishedAt": "2026-08-21T19:54:54Z",
-      "content": "Meta Platforms, Inc. (NASDAQ:META) CEO Mark Zuckerberg published a lengthy letter on August 10 making the case that artificial intelligence should be spread broadly rather than controlled by a handfu\u2026 [+4039 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Fatima Gulzar",
-      "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk\u2019s NVIDIA (NVDA) Pledge Sinks the Stock",
-      "description": "Advanced Micro Devices, Inc. (NASDAQ:AMD) delivered exactly the quarter investors ask for: record sales and a healthy beat, but the stock fell more than 8%....",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-posts-194827905.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/FB7C88370980CC4FF281AC5710C5648D50C0A688B3505C69F8F06AEDA44841E8/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F78ee81d4d8cbe53924c848faf9b29aa4.jpg",
-      "publishedAt": "2026-08-21T19:48:27Z",
-      "content": "Advanced Micro Devices, Inc. (NASDAQ:AMD) delivered exactly the quarter investors ask for: record sales and a healthy beat, but the stock fell more than 8%. The reason behind it: SpaceX CEO Elon Musk\u2026 [+4110 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Fatima Gulzar",
-      "title": "ConocoPhillips (COP) Beats Earnings and Names New CEO While Exxon Mobil (XOM)\u2019s Record Profit Falls Short",
-      "description": "ConocoPhillips (NYSE:COP) picked a good week to hand over the keys. On August 6, the company said that CEO Ryan Lance will retire after 14 years, with CFO An...",
-      "url": "https://finance.yahoo.com/energy/articles/conocophillips-cop-beats-earnings-names-193428889.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9600A767A6C04BD9BB7B25EE386E63BD4C97410F660330A3B87142BD12CCBCEF/subgraphmysterio/resizefill_w1200_h815;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb27d71333f90530a814ef0875ff05920.jpg",
-      "publishedAt": "2026-08-21T19:34:28Z",
-      "content": "ConocoPhillips (NYSE:COP) picked a good week to hand over the keys. On August 6, the company said that CEO Ryan Lance will retire after 14 years, with CFO Andy O'Brien stepping in on September 1, rig\u2026 [+3871 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Fatima Gulzar",
-      "title": "Bristol-Myers Squibb (BMY) Bets $2.3 Billion on Texas While Eli Lilly (LLY) Wins in the UK",
-      "description": "Drugmaker Bristol-Myers Squibb Company (NYSE:BMY) is putting real money behind its confidence in American manufacturing. On August 10, the company said it wi...",
-      "url": "https://finance.yahoo.com/healthcare/articles/bristol-myers-squibb-bmy-bets-192802764.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7D209CAE4CBC95D28B8193A0DFA1FD47C364FFF54D3B831C3A0382E6784AEAE5/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F4da437b7638100421dc4d0ddd5060036.jpg",
-      "publishedAt": "2026-08-21T19:28:02Z",
-      "content": "Drugmaker Bristol-Myers Squibb Company (NYSE:BMY) is putting real money behind its confidence in American manufacturing. On August 10, the company said it will spend about $2.3 billion on a new plant\u2026 [+3898 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Camila Grigera Na\u00f3n",
-      "title": "Bitcoin soars to nearly $80,000\u2014but crypto\u2019s new favorite coin, Hyperliquid, is stealing its thunder",
-      "description": "Bitcoin\u2019s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto pric...",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-soars-nearly-80-000-192618067.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9E896DCCE95DACEE4EE173184CC56B2B7E3F56FA719242FBA3991C8803AD339D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F023238de0f4b4ceac5cfd67604d1dbae.jpg",
-      "publishedAt": "2026-08-21T19:26:18Z",
-      "content": "Bitcoin is surging again. The cryptocurrency climbed above $78,200 on Friday for the first time since May. But it wasn't the only crypto asset posting big gains. Hyperliquid, the decentralized perpet\u2026 [+2861 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Fatima Gulzar",
-      "title": "HSBC Holdings plc (HSBC) vs. UBS Group AG (UBS): Two European Banking Giants, Two Very Different Stories This Quarter",
-      "description": "HSBC Holdings plc (NYSE:HSBC) posted a stronger-than-expected first-half profit this week and resumed its share buyback program. UBS Group AG (NYSE:UBS) post...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-holdings-plc-hsbc-vs-191318513.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5A190330BFAC5C65AFBD680F78CEE219216704FC17B4A0D85D92E2E06578AB9B/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F66e12449a83ea3ca2b82427f46ea3e8a.jpg",
-      "publishedAt": "2026-08-21T19:13:18Z",
-      "content": "HSBC Holdings plc (NYSE:HSBC) posted a stronger-than-expected first-half profit this week and resumed its share buyback program. UBS Group AG (NYSE:UBS) posted its own profit beat, but it's facing a \u2026 [+4555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Kendall Little",
-      "title": "U.S. Bank Business Shield Visa review: Solid 0% APR offer, but little long-term rewards value",
-      "description": "While it offers minimal rewards, this 0% APR card can help business owners pay down debt or finance an upcoming purchase.",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/us-bank-business-shield-visa-card-185336564.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5680C334A910BC8196A8AE1883BF3E2D8EEF669497E34F7B6EF9FE9D1EE0457D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F247db21f-51af-489e-987e-6c9f5f268676",
-      "publishedAt": "2026-08-21T18:53:36Z",
-      "content": "The U.S. Bank Business Shield Visa\u00ae Card is a 0% APR card with no annual fee. If you're a business owner who wants to lower interest charges, you can use this card to transfer an existing debt balanc\u2026 [+7595 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Eric Froton",
-      "title": "College Fantasy Football: Proceed with caution on these overvalued names for 2026 \u2014 Here's Eric Froton's All-Fade Team",
-      "description": "Eric Froton goes over players he's avoiding in College Fantasy Football for the 2026 season.",
-      "url": "https://sports.yahoo.com/fantasy/article/college-fantasy-football-proceed-with-caution-on-these-overvalued-names-for-2026--heres-eric-frotons-all-fade-team-185239089.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e791a9324e7fba7d4f7632e07e5d126a34dfe1870d4e8e02f3b5bcbf2430fbb4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F097834fa-6116-44d2-ad96-70b1eb42c59d",
-      "publishedAt": "2026-08-21T18:52:39Z",
-      "content": "When reading this \"Busts\" column, it is important to point out that I perceive these players to be overvalued at their current draft position, not that they are outright \"off-my-board\" unless otherwi\u2026 [+6204 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "John Lloyd",
-      "title": "Max Verstappen Will Wear This Suit One Last Time at Zandvoort, Then It's Someone Else's",
-      "description": "Somewhere in a Red Bull Racing kit room this week sits a race suit that hadn't been worn until this Dutch Grand Prix weekend. Max Verstappen pulls it on for a session at Zandvoort, signs it, and hands it off to F1 Authentics, the sport's official memorabilia \u2026",
-      "url": "https://sports.yahoo.com/articles/max-verstappen-wear-suit-one-184755108.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/371dfc7a388d23202a12a4ff463fe0c26e5f2b3b214dd5db630809055903b65a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbackfire_news_articles_769%2F1e6caa57dea44128f7c481f3998ba436.jpg",
-      "publishedAt": "2026-08-21T18:47:55Z",
-      "content": "Somewhere in a Red Bull Racing kit room this week sits a race suit that hadn't been worn until this Dutch Grand Prix weekend. Max Verstappen pulls it on for a session at Zandvoort, signs it, and hand\u2026 [+6738 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Conor Murray, Forbes Staff, \n Conor Murray, Forbes Staff\n https://www.forbes.com/sites/conormurray/",
-      "title": "Meghan Markle In Talks To Join Netflix\u2019s \u2018The Gentlemen,\u2019 Reports Say",
-      "description": "Multiple reports have claimed Meghan Markle is in talks to join Netflix\u2019s \u201cThe Gentlemen,\u201d marking a return to acting.",
-      "url": "https://www.forbes.com/sites/conormurray/2026/08/21/meghan-markle-in-talks-to-join-netflixs-the-gentlemen-reports-say/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67c746f49db6f6c1d9322763/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-21T18:44:27Z",
-      "content": "Meghan Markle, the actress-turned-British royal family member who is moving back to the United Kingdom after a stint in California, is reportedly in talks to return to acting with a role in the Netfl\u2026 [+3349 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Coatue Management Bought 9.72 Million Shares of Hut 8 in Q2. How to Play HUT Stock Now.",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6f9f92b0-d620-4c76-87a3-1a3affd1d41b",
-      "urlToImage": null,
-      "publishedAt": "2026-08-21T18:33:07Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Reuters",
-      "title": "US HHS launches initiative to improve response to missing autistic individuals",
-      "description": "Aug 21 (Reuters) - U.S. Health Secretary Robert F. Kennedy Jr. on Friday launched an initiative to improve preparedness and response when autistic individual...",
-      "url": "https://www.yahoo.com/news/us/articles/us-hhs-launches-initiative-improve-181918846.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/57c9a1c87b58220cdc525962e2ca20112398f6bef7f068933149062133b578c2/lightyear_networkapi/resizefill_w800_h533%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F14e05e988ae287705a4e96a3c8bcc918.jpg",
-      "publishedAt": "2026-08-21T18:19:18Z",
-      "content": "Aug 21 (Reuters) - U.S. Health Secretary Robert F. Kennedy Jr. on Friday launched an initiative to improve preparedness and response when autistic individuals are reported missing.\r\nHere are more det\u2026 [+1175 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Paul Birch - BBC Sport journalist",
-      "title": "Brentford v Tottenham: Key stats and talking points",
-      "description": "After a traumatic season in which they narrowly avoided relegation, Tottenham look to start 2026-27 in better fashion against a Brentford side that are looking to build on an excellent campaign under Keith Andrews. BBC Sport takes a look at some of the key th\u2026",
-      "url": "https://www.bbc.com/sport/football/articles/cgje36e4186o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/be41824aaf73f792c91f7f18716669e555b6d3e785536cd96017f2cc62ff4953/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2f82eae75021f03cc68d0f0d2a372faf.png",
-      "publishedAt": "2026-08-21T18:09:52Z",
-      "content": "After a traumatic season in which they narrowly avoided relegation, Tottenham look to start 2026-27 in better fashion against a Brentford side that are looking to build on an excellent campaign under\u2026 [+2812 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Nick Mashiter - Football reporter",
-      "title": "Villa lose another key player",
-      "description": "Ezri Konsa's departure to Arsenal is the latest high-profile exit at Villa Park this summer as Unai Emery's squad undergoes drastic change. Like many, Villa are a selling club, mainly due to necessity, and have been for a number of years. The Premier League's\u2026",
-      "url": "https://www.bbc.com/sport/football/articles/cvg9251v106o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b36cca14585424b9ea4611823cee15d2a12437cb363225082941da2e9c23eb57/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F80597faefa09f943c315dd1cbd2f3b6d.jpg",
-      "publishedAt": "2026-08-21T18:08:47Z",
-      "content": "Ezri Konsa's departure to Arsenal is the latest high-profile exit at Villa Park this summer as Unai Emery's squad undergoes drastic change.\r\nLike many, Villa are a selling club, mainly due to necessi\u2026 [+1701 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Lewis Watson",
-      "title": "Teofimo Lopez, Rolly Romero, Amanda Serrano and more on a loaded boxing weekend: 5 things to watch",
-      "description": "Between Lopez vs. Romero in Sin City and Serrano's big rollout on TikTok, there's plenty to sink your teeth into this weekend in the sweet science.",
-      "url": "https://sports.yahoo.com/boxing/article/teofimo-lopez-rolly-romero-amanda-serrano-and-more-on-a-loaded-boxing-weekend-5-things-to-watch-180643440.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d88e00e768c1dc2aa6570646872bb674827842be9cc919316e0ad5b512d7783a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fa8634596-2575-4719-a694-b97cd9cf5840",
-      "publishedAt": "2026-08-21T18:06:43Z",
-      "content": "Congrats guys, you made it to the freakin' weekend!\r\nAnd what's a weekend without an appointment with the sweet science? Despite August trickling by slowly, things are looking up over the next few da\u2026 [+4504 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jing Pan",
-      "title": "Trump makes surprise move to \u2018substantially\u2019 drop beef prices for US families \u2014 vows 25% discount on 300,000 metric tons",
-      "description": "Trump is trying to put cheaper beef back on the menu, but his plan is already getting grilled by America\u2019s cattle producers.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-makes-surprise-move-substantially-175000247.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8F800060DFC5460D48BA769A5B68B8D4062EAC0076EB08A7222815BEB4B1BF26/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Ffe9457b49362315a5755129f2e7eebf0.jpg",
-      "publishedAt": "2026-08-21T17:50:00Z",
-      "content": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nGround beef has become one of the clearest symbols of America's affordability crisis and President \u2026 [+11313 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Tom Layberger, Contributor, \n Tom Layberger, Contributor\n https://www.forbes.com/sites/tomlayberger/",
-      "title": "10 Power Conference Players To Watch In 2026",
-      "description": "The top 10 power conference players to watch in 2026? Here is a list of game-breakers who are to lead their teams into the national championship conversation.",
-      "url": "https://www.forbes.com/sites/tomlayberger/2026/08/21/10-power-conference-players-to-watch-in-2026/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a85d7ea423f54629f41e15e/0x0.jpg?format=jpg&crop=3589,2020,x0,y55,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-21T17:29:49Z",
-      "content": "SEATTLE: Dante Moore of the Oregon Ducks gestures after a touchdown during the fourth quarter of the game against the Washington Huskies at Husky Stadium on November 29, 2025 in Seattle, Washington. \u2026 [+7605 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Philanthropist Nancy Kissinger, wife of former Secretary of State Henry Kissinger, dies at 92",
-      "description": "Philanthropist Nancy Kissinger, onetime foreign policy researcher and wife of former Secretary of State Henry Kissinger, has died.  Johnson said she will be...",
-      "url": "https://www.yahoo.com/news/us/articles/philanthropist-nancy-kissinger-wife-former-172409424.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e643c32cba7c33f13dbd1de636b033196bf67c2537f7047daab32aa1eda63aa0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7723724d9d6bdaee794c0b45b6ead5e7.jpg",
-      "publishedAt": "2026-08-21T17:24:09Z",
-      "content": "NEW YORK (AP) Philanthropist Nancy Kissinger, onetime foreign policy researcher and wife of former Secretary of State Henry Kissinger, has died. She was 92.\r\nShe died Thursday at her home in Kent, Co\u2026 [+2953 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Popular men\u2019s fashion retail chain files Chapter 11 bankruptcy",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d54e944e-c068-4251-9d43-2f9dc3960d71",
-      "urlToImage": null,
-      "publishedAt": "2026-08-21T17:17:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Julianne Geiger",
-      "title": "US Oil Drillers See Pullback as Oil Prices Rise",
-      "description": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday",
-      "url": "https://finance.yahoo.com/energy/articles/us-oil-drillers-see-pullback-171600604.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/FD2A1EB8A63A65FE3E9E464A3097C2EF233DF1356486DDF853B993279F40D636/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F646cfd03287ec8455243908c636ac2b5.jpg",
-      "publishedAt": "2026-08-21T17:16:00Z",
-      "content": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US falling t\u2026 [+1793 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "ALI SWENSON",
-      "title": "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers",
-      "description": "Nearly 200 activists in Health Secretary Robert F. Kennedy Jr.'s \u201cMake America Healthy Again\u201d movement are criticizing President Donald Trump's promotion of...",
-      "url": "https://www.yahoo.com/news/politics/articles/maha-activists-criticize-trump-promoting-171115617.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/dbec0bd977073df5a4f44ab27a4e0b17f40730efeda893b0ef7220ad746c026b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9222bc274564e735cb19148493db8f7f.jpg",
-      "publishedAt": "2026-08-21T17:11:15Z",
-      "content": "NEW YORK (AP) Nearly 200 activists in Health Secretary Robert F. Kennedy Jr.'s \"Make America Healthy Again\" movement are criticizing President Donald Trump's promotion of coal to fuel the rise of art\u2026 [+4696 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Kurt Busch shares emotional last moments with late brother Kyle Busch in 'Today' interview",
-      "description": "NASCAR Hall of Famer Kurt Busch wiped tears from his eyes in recalling the final day he spent at his younger brother\u2019s hospital bedside in his first public comments about Kyle Busch\u2019s death. The interview marked Busch\u2019s first comments since Kyle Busch died on\u2026",
-      "url": "https://sports.yahoo.com/articles/kurt-busch-shares-emotional-last-165241167.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3045f6abba48f469a178aa42e6e3a74f099fef6ee8964657374a19ddb527ec57/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F425f5267329c0ebea6908fd3229f559f.jpg",
-      "publishedAt": "2026-08-21T16:52:41Z",
-      "content": "NEW YORK (AP) NASCAR Hall of Famer Kurt Busch wiped tears from his eyes in recalling the final day he spent at his younger brother's hospital bedside in his first public comments about Kyle Busch's d\u2026 [+2495 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "Intuitive Machines (LUNR) Hits Record $1.8B Backlog as Spending Scales Up",
-      "description": "On August 20, Intuitive Machines (NASDAQ:LUNR) reported second-quarter revenue of $206 million, more than four times what it brought in a year earlier, and c...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-hits-record-165051224.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/722CBA247B1FD89B6B4B975486ABE059D30BEB59A8F6CA4FF146E1BF3925A7CB/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe1794e2cabb65e764e737b7181da738a.jpg",
-      "publishedAt": "2026-08-21T16:50:51Z",
-      "content": "On August 20, Intuitive Machines (NASDAQ:LUNR) reported second-quarter revenue of $206 million, more than four times what it brought in a year earlier, and closed the quarter with a record $1.8 billi\u2026 [+4319 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Exec-Edge",
-      "title": "Einride AB Reports Growth Acceleration & Fleet Scale Moves Towards 2028 \u2013 Quarterly Update Report",
-      "description": "Download the Complete Report Here Einride AB (ENRD) Signed Demand Starts Converting; 2H26 Growth Acceleration and Fleet Scale Advance Path to 2028 Cash Flow...",
-      "url": "https://finance.yahoo.com/technology/articles/einride-ab-reports-growth-acceleration-164314486.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/E8EAD1964887C360DBB35B3C2BFFA442B6B0AEC9F19101AB2C6C32BDAB997A1E/subgraphmysterio/resizefill_w1200_h4659;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fexec_edge_220%2F14069b7104dcdfeb9aafe01515250aae.png",
-      "publishedAt": "2026-08-21T16:43:14Z",
-      "content": "<li>Amazon is becoming both a meaningful deployment driver and a strong validation point for ENRD's enterprise customer-acquisition model. Following an initial pilot, ENRD secured a deployment of 75 \u2026 [+16747 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "Figure Technologies (FIGR) Leverages Blockchain Infrastructure for Accelerated Growth",
-      "description": "On August 13, Figure Technology Solutions (NASDAQ:FIGR) reported second quarter 2026 results that leaned hard into the story it has been telling investors si...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/figure-technologies-figr-leverages-blockchain-164103050.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/332F2DAEF1FB9628042533109B34B45BE6521B3B73BA96BEF9785E95840C01ED/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F37fef960b8d4bce669dcf86c6b29ef55.jpg",
-      "publishedAt": "2026-08-21T16:41:03Z",
-      "content": "On August 13, Figure Technology Solutions (NASDAQ:FIGR) reported second quarter 2026 results that leaned hard into the story it has been telling investors since its IPO. Consumer loan marketplace vol\u2026 [+4838 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Charles Kennedy",
-      "title": "U.S. Billionaires Are Piling Into Argentina\u2019s Vaca Muerta Shale",
-      "description": "U.S. shale billionaire Harold Hamm is making a multibillion-dollar bet on Argentina\u2019s Vaca Muerta, becoming the latest high-profile American investor to targ...",
-      "url": "https://finance.yahoo.com/energy/articles/u-billionaires-piling-argentina-vaca-164010172.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/C18227B91F000E94B3A6CF8F55EBF99FB46CDEB2FADFCE90F52E078D38086669/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F00fa8db195f944659d9017906012e209.jpg",
-      "publishedAt": "2026-08-21T16:40:10Z",
-      "content": "U.S. shale billionaire Harold Hamm is making a multibillion-dollar bet on Argentina's Vaca Muerta, becoming the latest high-profile American investor to target the rapidly expanding shale basin.\r\nHam\u2026 [+2595 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "A Landmark Power Deal Puts Fermi\u2019s (FRMI) Big Bet to the Test",
-      "description": "On August 13, Fermi Inc. (NASDAQ:FRMI) held its second-quarter earnings call and delivered exactly the kind of update a young power developer needs: proof th...",
-      "url": "https://finance.yahoo.com/energy/articles/landmark-power-deal-puts-fermi-162120325.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/722CBA247B1FD89B6B4B975486ABE059D30BEB59A8F6CA4FF146E1BF3925A7CB/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe1794e2cabb65e764e737b7181da738a.jpg",
-      "publishedAt": "2026-08-21T16:21:20Z",
-      "content": "On August 13, Fermi Inc. (NASDAQ:FRMI) held its second-quarter earnings call and delivered exactly the kind of update a young power developer needs: proof that its plans are turning into contracts. C\u2026 [+5412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Catherine Brock",
-      "title": "Silver prices today, Friday, August 21, 2026: Silver pushes higher on weaker dollar",
-      "description": "Silver (SI=F) September futures opened at $68.20 per ounce on Friday, August 21, 2026, up 0.1% from Thursday's closing price.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-august-21-2026-silver-pushes-higher-on-weaker-dollar-161325787.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0702B06E317DCDF991F86AF88F8B45B320F419D79761EF906092017BBB9D590B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F4d950ec0-03eb-414b-bfd3-9fb69d35cb32",
-      "publishedAt": "2026-08-21T16:13:25Z",
-      "content": "Silver (SI=F) September futures opened at $68.20 per ounce on Friday, August 21, 2026, up 0.1% from Thursday's closing price. The silver price moved higher this morning, reaching $69.49 as of 9 a.m. \u2026 [+3144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "Abeona\u2019s (ABEO) Gene Therapy Launch Hits A Pivotal Reimbursement Milestone",
-      "description": "On August 13, Abeona Therapeutics (NASDAQ:ABEO) reported second-quarter results that captured a company scaling a genuinely new kind of medicine while workin...",
-      "url": "https://finance.yahoo.com/healthcare/articles/abeona-abeo-gene-therapy-launch-154235589.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/C16A8EB1C529FCF994DD3AB0BFA303F82A821B440EFD78D4DB485B63833552FF/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F503ddb793f98dc373d0b99a425313e6a.jpg",
-      "publishedAt": "2026-08-21T15:42:35Z",
-      "content": "On August 13, Abeona Therapeutics (NASDAQ:ABEO) reported second-quarter results that captured a company scaling a genuinely new kind of medicine while working through the bumps that come with it. ZEV\u2026 [+4861 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "KEN MAGUIRE",
-      "title": "Wrexham not alone: Birmingham eyes Premier League push as promotion buzz builds in Second City",
-      "description": "Birmingham fan Paul Ellis wants the big games against the big teams. \"Last season was more of a building season to get regular players in and to establish a firm base so we could progress onto being in the Premiership,\u201d he said. \u201cThe expectation, really, is t\u2026",
-      "url": "https://sports.yahoo.com/articles/wrexham-not-alone-birmingham-eyes-153834365.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/27b0fc96dde16c6d48f98de032677ccc21af61bea1568f0f96015a4d711971c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa52f94ff5c094fb1604e747a7598125a.jpg",
-      "publishedAt": "2026-08-21T15:38:34Z",
-      "content": "BIRMINGHAM, England (AP) Birmingham fan Paul Ellis wants the big games against the big teams.\r\nBack in the Premier League.\r\n\"Last season was more of a building season to get regular players in and to\u2026 [+4554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "Golar LNG (GLNG) Just Locked In The World\u2019s Scarcest LNG Capacity",
-      "description": "On August 13, Golar LNG (NASDAQ:GLNG) used its second-quarter earnings call to announce a fourth floating LNG unit, an order signed just hours before the cal...",
-      "url": "https://finance.yahoo.com/energy/articles/golar-lng-glng-just-locked-153353596.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/80DF2F204A730B38541818290C2732E974A5B2F2CC2939DA9324226950E44E2F/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fd0157436f26e60629a2b5489c642c752.jpg",
-      "publishedAt": "2026-08-21T15:33:53Z",
-      "content": "On August 13, Golar LNG (NASDAQ:GLNG) used its second-quarter earnings call to announce a fourth floating LNG unit, an order signed just hours before the call began. The Mark II vessel will be built \u2026 [+4529 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Jude Winter - BBC Sport journalist; Flora Snelson - BBC Sport journalist",
-      "title": "'Hungry to win' - Villa's Konsa joins Arsenal in \u00a351m deal",
-      "description": "Arsenal complete the \u00a350m-plus signing of England defender Ezri Konsa from Aston Villa.",
-      "url": "https://www.bbc.com/sport/football/articles/ckg97jpkkego?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b39d1fc5e08403826d1125d5af995468fe3fbcafdeb1d03915f1cf9b2e6fbc93/lightyear_networkapi/resizefill_w1015_h571%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fdfd8c6fe7beeac5dab406a0bf6129d7e.jpg",
-      "publishedAt": "2026-08-21T15:22:55Z",
-      "content": "Ezri Konsa says he is proud to play for \"one of the best teams in the world\" as he completed his \u00a351m move to Arsenal.\r\nThe 28-year-old England defender joins the Premier League champions from Aston \u2026 [+5462 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Makuochi Okafor - BBC Africa; Ruth Comerford",
-      "title": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
-      "description": "The overloaded boat was taking people, including many children, to farms to harvest rice.",
-      "url": "https://www.bbc.com/news/articles/cj035jg256no?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/646c8c885052e1ffa763fbb1b30b9216a5cc3b6b131a349197dc5e4b13b05c1f/lightyear_networkapi/resizefill_w1056_h594%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F33cbd8c3482c6f6326419a4ea9ed8a9f.png",
-      "publishedAt": "2026-08-21T15:20:04Z",
-      "content": "At least 48 people have died in Nigeria after an overloaded boat with an estimated 70 passengers capsized on a river in a remote area of north-western Sokoto state.\r\n\"We are devastated at the moment,\u2026 [+3507 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Darren Cooper, Contributor",
-      "title": "Betting On The National Championship Contenders Outside The Top 5",
-      "description": "College football betting odds reveal which teams outside the preseason top five are favored to make a run at the national title.",
-      "url": "https://www.forbes.com/sites/darren-cooper/2026/08/21/betting-on-the-national-championship-contenders-outside-the-top-5/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/508e055e1c044224bd78a387e8e31f5ff03ab74dbd2a2c26ab124088dd4b84dc/lightyear_networkapi/resizefill_w958_h638%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Ff30ab092456920415478e2df623088d0.jpg",
-      "publishedAt": "2026-08-21T15:17:48Z",
-      "content": "There are days until the college season kicks off. As in other sports, every fan base enters certain levels of delusion this time of year. No offense.\r\n\"We're going undefeated and making noise in the\u2026 [+6376 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Tom Kool",
-      "title": "Oil Nears $100 as Trump\u2019s \u2018Economic D-Day\u2019 Raises the Stakes",
-      "description": "Hormuz traffic remains near a standstill as Trump\u2019s \u2018Economic D-Day\u2019 campaign pushes Brent closer to $100.",
-      "url": "https://finance.yahoo.com/energy/articles/oil-nears-100-trump-economic-150115760.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8014D917F1A411467304CD105662A13400F29DCCCB965E4DC67DF79919DD619B/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Fdaacec9416459f820397ddab6bb11829.jpg",
-      "publishedAt": "2026-08-21T15:01:15Z",
-      "content": "Hormuz traffic remains near a standstill as Trump's 'Economic D-Day' campaign pushes Brent closer to $100.\r\nFriday, August 21, 2026\r\nTransits through the Strait of Hormuz have been in single digits t\u2026 [+5539 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Matt Okada",
-      "title": "Fantasy Football: Don't put these players in the 'never draft again' pile \u2014 they're set to rebound in 2026",
-      "description": "Fantasy football analyst Matt Okada believes these 8 players are primed to bounce back in 2026.",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-dont-put-these-players-in-the-never-draft-again-pile--theyre-set-to-rebound-in-2026-145752672.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2f1a9229de36b676e5fd5ab0f9b876b0097de619dfcf63dc77c9d5d413c14be3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F90c5dc3b-a386-4ee8-a9de-89494f959bcd",
-      "publishedAt": "2026-08-21T14:57:52Z",
-      "content": "You know them. We all have them. Those players that we'll \"never draft again\" in fantasy football, because they were \"a waste of a first-round pick\" or \"got injured when we needed them most.\" And in \u2026 [+10195 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Matt Jacob",
-      "title": "2026 NFL playoff, divisional odds: Why the New England Patriots to miss the playoffs is among my 5 favorite futures bets",
-      "description": "Our NFL handicapper gives five futures wagers that he likes this preseason, including New England to miss the playoffs.",
-      "url": "https://sports.yahoo.com/nfl/betting/article/2026-nfl-playoff-divisional-odds-why-the-new-england-patriots-to-miss-the-playoffs-is-among-my-5-favorite-futures-bets-145325947.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9ed1fcf5e624030f9f2dc480626ee87a1346aa62f11b6752b42ed31fb30c9082/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F16011810-08a8-443b-bf1a-8ad976ee1b4d",
-      "publishedAt": "2026-08-21T14:53:25Z",
-      "content": "Getting involved in the 2026 NFL playoff and division odds markets is like driving a sports car at top speed: It's simultaneously very fun and very precarious.\r\nLook no further than last year.\u00a0\r\nWho \u2026 [+8585 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Todd Maiden",
-      "title": "RoadOne expands Port of Charleston operations with acquisition",
-      "description": "RoadOne IntermodaLogistics has expanded its intermodal footprint with the acquisition of Higgins Transport Service, a drayage provider based in Charleston, S...",
-      "url": "https://finance.yahoo.com/small-business/articles/roadone-expands-port-charleston-operations-144056971.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/A5FD1310A8F835C9CF524D85A70D7F633E2AE6DF5A482B30973A06030E19D0F1/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2Fa7a0078a0ed8e3cf8cfe6e0f5ae5bc92.jpg",
-      "publishedAt": "2026-08-21T14:40:56Z",
-      "content": "RoadOne IntermodaLogistics announced it has acquired Higgins Transport Service, a Charleston, South Carolina-based provider of port drayage and intermodal transportation services.\r\nThe deal adds 15 d\u2026 [+1919 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Eric Esposito",
-      "title": "Florida real estate mogul says your home is \u2018a terrible investment\u2019 \u2014 and he\u2019d put $100K somewhere else. Is he right?",
-      "description": "If you\u2019re serious about building wealth, Todd Nepola believes buying a house is \"the stupidest investment you could make.\u201d",
-      "url": "https://finance.yahoo.com/real-estate/articles/florida-real-estate-mogul-says-144000147.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/A35446ECE72B8CC4EC593ED8A5DED46405F5D7988A8B2D015922C9EBFB422DD4/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fd7e7aa99afd662040316a45f6111de38.jpg",
-      "publishedAt": "2026-08-21T14:40:00Z",
-      "content": "John Lamparski/Getty Images for Empire State Realty Trust\r\nSouth Florida real estate broker Todd Nepola has harsh words for anyone who believes buying a home is a smart investment.\r\nIn a recent TikTo\u2026 [+4769 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sasha Rogelberg",
-      "title": "\u2018Damage from the chaotic tariff regime cannot be refunded\u2019: The $100 billion in refunds have wiped out revenue the import taxes brought in since May",
-      "description": "In June, the Trump administration saw a more than $25 billion loss in net customs revenue as a result of tariff refunds outpacing revenue.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/damage-chaotic-tariff-regime-cannot-143733492.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6457118DF4051C316ACEAF50CD331E5500E824DED16190122162F82A57824ECE/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Fb7f5158fe361658589a2effeb5734228.jpg",
-      "publishedAt": "2026-08-21T14:37:33Z",
-      "content": "The magnitude of tariff refunds the Trump administration must dole out is now outpacing how much money it's bringing in through the import taxes, and it's dealing a new blow of damage to the U.S. eco\u2026 [+4596 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Cleanup underway after tornadoes touch down in Delaware and New York's Long Island",
-      "description": "Cleanup efforts and damage assessment were underway Friday in Delaware's capital and on Long Island, New York, after tornadoes touched down during storms tha...",
-      "url": "https://www.yahoo.com/news/weather-news/articles/cleanup-underway-tornadoes-touch-down-143355788.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d913886462407640507cc4b444311f0e5a1732c8db33dca8cf5b770ef082fc55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6a0030774a7080092571626b48bd47d7.jpg",
-      "publishedAt": "2026-08-21T14:33:55Z",
-      "content": "NEW YORK (AP) Cleanup efforts and damage assessment were underway Friday in Delaware's capital and on Long Island, New York, after tornadoes touched down during storms that battered the Northeast wit\u2026 [+1907 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Pamela N. Danziger, Senior Contributor, \n Pamela N. Danziger, Senior Contributor\n https://www.forbes.com/sites/pamdanziger/",
-      "title": "Target Is Winning Back Shoppers As Store Traffic Builds And Its Turnaround Takes Hold",
-      "description": "After a second quarter of positive growth, Target is executing a turnaround strategy focused on merchandising, guest experience, tech acceleration, and store operations.",
-      "url": "https://www.forbes.com/sites/pamdanziger/2026/08/21/target-is-winning-back-shoppers-as-store-traffic-builds-and-its-turnaround-takes-hold/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68838246ac51a76f891a4fda/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-21T14:25:44Z",
-      "content": "NEW YORK, NY - JUNE 24: People walk past the Target store on 42nd Street in Times Square on June 24, 2025, in New York City. (Photo by Gary Hershorn/Getty Images)\r\nGetty Images\r\nFor the second quarte\u2026 [+9512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "William A. Haseltine, Contributor, \n William A. Haseltine, Contributor\n https://www.forbes.com/sites/williamhaseltine/",
-      "title": "What We Can Learn From Taiwan And Egypt About Ending Endemic Disease",
-      "description": "Taiwan and Egypt show how universal screening, same-visit testing, affordable antivirals, and local care can put hepatitis C elimination within reach.",
-      "url": "https://www.forbes.com/sites/williamhaseltine/2026/08/21/what-we-can-learn-from-taiwan-and-egypt-about-ending-endemic-disease/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a885e85404a8569055bd692/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-21T14:22:10Z",
-      "content": "Taiwan and Egypt show that hepatitis C elimination is achievable when governments connect universal screening, confirmatory testing, affordable antivirals, and local treatment into one continuous pat\u2026 [+5250 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Andrew Dawkins - West Midlands",
-      "title": "Solar farm 'supplied whole hospital site over summer'",
-      "description": "The site also provided 75% of New Cross Hospital's electricity between April 2025 and March.",
-      "url": "https://www.bbc.com/news/articles/clyx4z721evo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ffbfed8ed96382689e367bcce3c6277c1beb442f1c73a552b743fc2a26a619c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fb826b46db05c786a11dc96a4a165b9ac.png",
-      "publishedAt": "2026-08-21T13:46:57Z",
-      "content": "A solar farm has supplied an entire hospital site with energy since April on account of the recent sunshine, trust bosses have said.\r\nBowman's Harbour Solar Farm in Wednesfield - which opened in 2024\u2026 [+1787 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Maham Fatima",
-      "title": "Applied Industrial\u2019s (AIT) Record Quarter Reignites The Growth Story",
-      "description": "On August 13, Applied Industrial Technologies (NYSE:AIT) held its fiscal fourth-quarter earnings call, and the numbers surprised even the company\u2019s own leade...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-industrial-ait-record-quarter-133259038.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7EC27897B246FA520A2C62FD6A1C6EAD5E01986560A0B8F0ED30F25632AE1CEB/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Feed5c1d341e86f6a4c82a2806353c5e1.jpg",
-      "publishedAt": "2026-08-21T13:32:59Z",
-      "content": "On August 13, Applied Industrial Technologies (NYSE:AIT) held its fiscal fourth-quarter earnings call, and the numbers surprised even the company's own leadership. Organic sales grew 9.7%, the fastes\u2026 [+4676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ian Casselberry",
-      "title": "10 college football teams poised to disappoint this season",
-      "description": "These 10 programs could fall short of expectations this season, whether in contending for a CFP berth, winning their conferences or settling for a bowl game.",
-      "url": "https://sports.yahoo.com/college-football/article/10-college-football-teams-poised-to-disappoint-this-season-133120069.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/126378a1c3083bead09af326b335ce0b2f753f2386734c5a458c3473b3a5d750/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F918eb7d4-ff4b-4183-af96-de8ba23a99ac",
-      "publishedAt": "2026-08-21T13:31:20Z",
-      "content": "Last year's college football season included several surprises, headlined by James Madison qualifying for the College Football Playoff. Texas A&amp;M, Houston and Navy also had resurgent seasons that\u2026 [+6630 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Bill Holmes, Forbes Books Author, \n Bill Holmes, Forbes Books Author\n https://www.forbes.com/sites/forbesbooksauthors/people/billholmes/",
-      "title": "Never Blame The Market For Underperformance",
-      "description": "Underperformance usually means the team isn't good enough. Leaders should be spending their time recruiting, developing talent, and exiting poor performers.",
-      "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/08/21/never-blame-the-market-for-underperformance/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a870334609454d59cbaea66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-21T13:30:00Z",
-      "content": "Good leaders always have stronger management teams backing them.\r\ngetty\r\nAs soon as I hear one of my leaders in a sales review trying to blame the market for not meeting their budget numbers, the ala\u2026 [+3882 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Nick Bromberg",
-      "title": "Yahoo Sports' Preseason College Football Top 25: Can No. 1 Oregon continue the Big Ten's College Football Playoff streak?",
-      "description": "Three different Big Ten teams have won the national title in each of the past three seasons.",
-      "url": "https://sports.yahoo.com/college-football/article/yahoo-sports-preseason-college-football-top-25-can-no-1-oregon-continue-the-big-tens-college-football-playoff-streak-132101907.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/868c19cd85f5840abd6c9084fa931437a8326456313e3601b7e23affe1024f3c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F5f1048de-6c54-4bf8-9d90-5e15d499b6f5",
-      "publishedAt": "2026-08-21T13:21:01Z",
-      "content": "College football officially begins this month.\r\nNow that it's mid-August, there are just days to go until Week Zero, and since the season is quickly approaching, we're rolling out our preseason top 2\u2026 [+6845 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "'Lot more to come' from Celtic - Sinisalo's ominous warning",
-      "description": "Celtic have won four out of four this season, scoring 13 goals and conceding just one - but goalkeeper Viljami Sinisalo has warned \"we can do so much better\". LASK had two goals disallowed and a glut of chances but were swept away by an impressive attacking p\u2026",
-      "url": "https://www.bbc.com/sport/articles/cp8e34n13mgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-      "publishedAt": "2026-08-21T13:18:00Z",
-      "content": "Celtic have won four out of four this season, scoring 13 goals and conceding just one - but goalkeeper Viljami Sinisalo has warned \"we can do so much better\".\r\nLASK had two goals disallowed and a glu\u2026 [+1725 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "South African cyclist S\u2019annara Grove provisionally suspended for failed doping test",
-      "description": "South African cyclist S\u2019annara Grove has been provisionally suspended because of a failed doping test, the International Testing Agency said Friday. Grove's sample collected on July 28 at the Commonwealth Games in Glasgow returned an \u201cadverse analytical findi\u2026",
-      "url": "https://sports.yahoo.com/articles/south-african-cyclist-annara-grove-130608490.html",
-      "urlToImage": null,
-      "publishedAt": "2026-08-21T13:06:08Z",
-      "content": "LAUSANNE, Switzerland (AP) South African cyclist S'annara Grove has been provisionally suspended because of a failed doping test, the International Testing Agency said Friday.\r\nGrove's sample collect\u2026 [+943 chars]"
     }
   ]
 }
