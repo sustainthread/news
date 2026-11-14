@@ -1,6 +1,812 @@
 {
-  "timestamp": "2026-11-13T14:26:06.973470",
+  "timestamp": "2026-11-14T13:21:56.287851",
   "data": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Associated Press",
+      "title": "McIlroy shares lead with Hatton at season-ending World Tour Championship on European tour",
+      "description": "DUBAI, United Arab Emirates (AP) \u2014 Rory McIlroy recovered from a back-nine wobble to birdie No. 18 and share the 36-hole lead at the season-ending World Tour Championship on Friday, leaving him well-placed to win a record-tying eighth Race to Dubai golf title.",
+      "url": "https://sports.yahoo.com/articles/mcilroy-shares-lead-hatton-season-130814487.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7a6bb20858bc55fbef4e5657818159f0e5e8869c6da027710a2cec28597303d8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F651091f6da7ae373222e165d6cc537d9.jpg",
+      "publishedAt": "2026-11-13T13:08:14Z",
+      "content": "DUBAI, United Arab Emirates (AP) Rory McIlroy recovered from a back-nine wobble to birdie No. 18 and share the 36-hole lead at the season-ending World Tour Championship on Friday, leaving him well-pl\u2026 [+2174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Angelo Guinhawa",
+      "title": "Brittany Mahomes Reacts to Kansas City Chiefs\u2019 Josh Downs Trade",
+      "description": "Brittany Mahomes reacted with clapping emojis after the Kansas City Chiefs announced their decision to acquire wide receiver Josh Downs from the Indianapolis Colts. The social media response followed a trade that gives quarterback Patrick Mahomes another rece\u2026",
+      "url": "https://sports.yahoo.com/articles/brittany-mahomes-reacts-kansas-city-124535527.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/24bc31bb398beac6990260488f49ba7eb23228478e89901e7ce334611d5de7c9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F0cb4dbe244ae0ee301ff55189d5616e4.jpg",
+      "publishedAt": "2026-11-13T12:45:35Z",
+      "content": "Brittany Mahomes reacted with clapping emojis after the Kansas City Chiefs announced their decision to acquire wide receiver Josh Downs from the Indianapolis Colts. The social media response followed\u2026 [+2859 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Angelo Guinhawa",
+      "title": "San Francisco 49ers New No.1 Team in Power Rankings",
+      "description": "The San Francisco 49ers claimed the No. 1 spot in the NFL\u2019s Week 10 power rankings after delivering a dominant performance against the Las Vegas Raiders. The victory showcased their defensive strength, highlighted the return of key players and reinforced thei\u2026",
+      "url": "https://sports.yahoo.com/articles/san-francisco-49ers-no-1-124214346.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d78178f6043dd1b5394c82fbb816398110186089ffce022549479334165cba34/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F81d458a96ead9edb2d18739dd6460a52.jpg",
+      "publishedAt": "2026-11-13T12:42:14Z",
+      "content": "The San Francisco 49ers claimed the No. 1 spot in the NFL's Week 10 power rankings after delivering a dominant performance against the Las Vegas Raiders. The victory showcased their defensive strengt\u2026 [+3297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kendall Baker and Jeff Tracy and Neil Paine and Dylan Dittrich,Kendall Baker,Jeff Tracy",
+      "title": "\u26be\ufe0f Y! Sports AM: Two paths to MVP",
+      "description": "Pete Crow-Armstrong was an all-around stud. Yordan \u00c1lvarez simply mashed.",
+      "url": "https://sports.yahoo.com/articles/y-sports-am-two-paths-123937342.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/caa40d418e1bc87ef970b138c839995fedbd3a26a003bba4b0ed84f5dd8efc81/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fyahoo_sports_am_newsletters_819%2F9756d06f21769451e7ba142c884c41fa.jpg",
+      "publishedAt": "2026-11-13T12:39:37Z",
+      "content": "Yahoo Sports AM is our daily newsletter that keeps you up to date on all things sports. Sign up here to get it every weekday morning.\r\nFarewell, Poch: Mauricio Pochettino is officially leaving the US\u2026 [+14492 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Angelo Guinhawa",
+      "title": "Green Bay Packers Rise to No. 8 in NFL Power Rankings",
+      "description": "The Green Bay Packers climbed to eighth in the NFL\u2019s Week 10 power rankings after delivering a dominant victory over the New England Patriots. While Jordan Love\u2019s improving form and the offense\u2019s production have drawn attention, Green Bay\u2019s defensive resurgen\u2026",
+      "url": "https://sports.yahoo.com/articles/green-bay-packers-rise-no-123433747.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/071a79e481fa673f7f238feb526d34cf7488c231a7b32104dccdca1bdb280ecd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F746a51953195a62503b47181e3917cc5.jpg",
+      "publishedAt": "2026-11-13T12:34:33Z",
+      "content": "The Green Bay Packers climbed to eighth in the NFL's Week 10 power rankings after delivering a dominant victory over the New England Patriots. While Jordan Love's improving form and the offense's pro\u2026 [+3313 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Angelo Guinhawa",
+      "title": "Kansas City Chiefs\u2019 Grade for Josh Downs\u2019 NFL Trade Revealed",
+      "description": "The Kansas City Chiefs received an A grade for acquiring wide receiver Josh Downs from the Indianapolis Colts before the NFL trade deadline. The move addressed an important offensive need while giving quarterback Patrick Mahomes another receiving option for t\u2026",
+      "url": "https://sports.yahoo.com/articles/kansas-city-chiefs-grade-josh-123150090.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0083ad03f6ae0d84a62caadbef9d00334c834863cd3bd4426830387eeba20adc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F4464901894cb7e46d912070354af098f.jpg",
+      "publishedAt": "2026-11-13T12:31:50Z",
+      "content": "The Kansas City Chiefs received an A grade for acquiring wide receiver Josh Downs from the Indianapolis Colts before the NFL trade deadline. The move addressed an important offensive need while givin\u2026 [+3278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Matthew Henry - BBC Sport Journalist",
+      "title": "Surfing speedster Beardman gives Australia a glimpse of Ashes future",
+      "description": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth.",
+      "url": "https://www.bbc.com/sport/cricket/articles/c6vg2dkyxp00o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c5f3a88cb3932a248cc30c24350af2bb689836c2dcbef8c6b48ad846136ba71f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F4d0d204ca7deb9af00b5451f4815490a.jpg",
+      "publishedAt": "2026-11-13T11:41:26Z",
+      "content": "How would you celebrate after posting record bowling figures on debut aged just 21?\r\nIf you're Mahli Beardman, now the most exciting fast bowler in Australian cricket, it's easy: \"Try and get down to\u2026 [+5793 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Justin Jefferson breaks down exactly how Kirk Cousins\u2019 return will help elevate his game",
+      "description": "With Kirk Cousins returning for the Minnesota Vikings, Justin Jefferson has explained why this should work out well for his production. One of the biggest issues with the Minnesota Vikings has been the lack of service to Justin Jefferson thanks to their issue\u2026",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5336f17a-90d4-467d-bf16-110b1a79bbb4",
+      "urlToImage": null,
+      "publishedAt": "2026-11-13T11:40:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 253 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Peter Chawaga, Contributor",
+      "title": "Phillies Boss Sends Brandon Marsh Warning After Trade Reports",
+      "description": "Philadelphia Phillies executive Dave Dombrowski offered a six-word response on the All-Star outfielder after a sudden downturn.",
+      "url": "https://www.forbes.com/sites/peterchawaga/2026/11/13/phillies-boss-sends-brandon-marsh-warning-after-trade-reports/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a26f01156385376c62e2b23c5958862819c66c9a5c772818491a1e1199fdc571/lightyear_networkapi/resizefill_w958_h539%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F6c3689476f2254c5e587e55dbb91c815.jpg",
+      "publishedAt": "2026-11-13T11:30:00Z",
+      "content": "After another disappointing postseason exit, Philadelphia Phillies president of baseball operations Dave Dombrowski has indicated that the organization intends to explore changes while addressing sev\u2026 [+2902 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Nathan Yasis",
+      "title": "Packers\u2019 Matt LaFleur says Jordan Love is playing like the NFL\u2019s best",
+      "description": "Jordan Love\u2019s recent form has strengthened the Green Bay Packers\u2018 case as a team capable of challenging the league\u2019s top contenders. His consistent production has helped fuel the offense, create momentum and bring out the best in those around him, making him \u2026",
+      "url": "https://sports.yahoo.com/articles/packers-matt-lafleur-says-jordan-110033903.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fe2d6812ec21f0c588d4b66233e4bc5514d06411b988b5b5115eb34d9a0c66eb/lightyear_networkapi/resizefill_w900_h600%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwi_sports_heroics_971%2F7a4ec19c0083ca0e8ed127765cd478d7.jpg",
+      "publishedAt": "2026-11-13T11:00:33Z",
+      "content": "Jordan Love's recent form has strengthened the Green Bay Packers' case as a team capable of challenging the league's top contenders. His consistent production has helped fuel the offense, create mome\u2026 [+2214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Gareth Griffiths - BBC Sport Wales",
+      "title": "Ospreys say report shows Wales must not cut teams",
+      "description": "An Ospreys-commissioned report by experts at Sheffield Hallam University concludes Wales should retain four professional teams.",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/c67429l4lyrjo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3d887e0e4b6b71b2bc91cbe83808abfe1a82ec354eb359f818f30b46427e707f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fda2fa47985f1eb2edeb1e9966c9ddb3b.jpg",
+      "publishedAt": "2026-11-13T09:58:39Z",
+      "content": "Ospreys says a report they commissioned into Welsh rugby concludes that the proposed cut of four professional clubs to three should not happen.\r\nThe Welsh Rugby Union (WRU) has said it intends to dro\u2026 [+7413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Umir Irfan - Football tactics correspondent",
+      "title": "Will Ferguson-inspired Pochettino succeed where Carrick failed at Man Utd?",
+      "description": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
+      "url": "https://www.bbc.com/sport/football/articles/cm2kljzkw77ko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/eb64faff94c1d5c2eb042cef6ed1d697326f037609489af89d3f8f6beba3ec00/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fbb367b0ad2112a3e6bc4c2455a82672e.jpg",
+      "publishedAt": "2026-11-13T09:24:48Z",
+      "content": "When Mauricio Pochettino was asked the three Premier League managers he would have loved to have played for, he was unequivocal.\r\n\"Sir Alex Ferguson, Sir Alex Ferguson, Sir Alex Ferguson,\" replied Po\u2026 [+8424 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "Who makes your Northern Ireland XI against Ukraine?",
+      "description": "Ahead of Northern Ireland's Nations League outing with Ukraine in Belfast, who would you pick in your starting team at Windsor Park?",
+      "url": "https://www.bbc.com/sport/football/articles/c5y4jlplner0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+      "publishedAt": "2026-11-13T08:21:45Z",
+      "content": "After an impressive quadruple-header to kick off the Nations League, Northern Ireland are back in action and it's time for you to be the boss.\r\nMichael O'Neill's young side did not concede a goal as \u2026 [+3245 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Dafydd Pritchard - BBC Sport Wales",
+      "title": "How do you stop Haaland? Wales show how it's done",
+      "description": "Erling Haaland can seem unstoppable - but Wales managed it a month ago. In Norway on Saturday, they hope the plan will work again.",
+      "url": "https://www.bbc.com/sport/football/articles/c3y0e0z0r8kzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/249f723d4a94081cf4aa1ba5625910391364aa03ee9a5a3cc17dc7090d7d4b19/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa9e09f8ae2a96af68d317cc7eee4f0e7.jpg",
+      "publishedAt": "2026-11-13T08:17:54Z",
+      "content": "It is a question many have asked but only a few have answered successfully. How do you stop Erling Haaland?\r\nWales will be faced with that daunting task when they travel to Oslo on Saturday to face N\u2026 [+5882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "From postcards to texts, the different ways a manager gets the sack - Pulis",
+      "description": "BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned.",
+      "url": "https://www.bbc.com/sport/football/articles/cve8716dg46xo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f449c03a4efeac33fe407af6f226813dd18f9ae7e4c034e29c97f3c3e9a4303d/lightyear_networkapi/resizefill_w800_h450%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9eba8d35379381c3e0be69af0a9da2a9.jpg",
+      "publishedAt": "2026-11-13T08:13:25Z",
+      "content": "When you hear about a manager parting company with a club, he has usually either been sacked or has resigned, but there are actually lots of different ways you can leave.\r\nOver the years I spent work\u2026 [+8778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Raj Prashad",
+      "title": "Inside AEW\u2019s most ambitious story: Swerve Strickland on 'Hangman' Adam Page, the New Level and Full Gear",
+      "description": "Ahead of Saturday's Trios Championship Texas Death Match at Full Gear, Strickland reflects on a multi-year rivalry with Page, the early Samoa Joe nod of approval and why the unpredictability is keeping fans locked in.",
+      "url": "https://sports.yahoo.com/wrestling/article/inside-aews-most-ambitious-story-swerve-strickland-on-hangman-adam-page-the-new-level-and-full-gear-064902195.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a3bc270e0bb3f35629973e60f6ef8e0834515e26a0173465495ff05a8def3fcd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F01-trios-roulette-royale-08-30-2026-62_0112.jpg",
+      "publishedAt": "2026-11-13T06:49:02Z",
+      "content": "Almost instantly, Swerve Strickland knew he and \"Hangman\" Adam Page had something special. But sometimes, especially in today's age of social media, it's hard to block out the noise and filter what's\u2026 [+5585 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Gayle Falkenthal, Boxing Editor",
+      "title": "Jhon Orobio Roars With Knockout Win Thursday",
+      "description": "Jhon Orobio isn't one of the best prospects in boxing anymore. He's a serious contender.",
+      "url": "https://sports.yahoo.com/articles/jhon-orobio-roars-knockout-win-064855384.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b932dfb3bbbad81967402357245a3995c5f4229d06f7d678f366329851cc1bc7/lightyear_networkapi/resizefill_w1024_h966%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_fights_228%2F5e11b666b8691e3e034275c3483b6f57.jpg",
+      "publishedAt": "2026-11-13T06:48:55Z",
+      "content": "<ul><li>Super lightweight Jhon \"El Tigre\" Orobio graduated from prospect to contender with a big win in his first main event from Montreal on Thursday.\r\n</li><li>Orobio stopped undefeated contender H\u2026 [+5410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AFP",
+      "title": "Commanders beat Giants 24-21 with late Diggs touchdown",
+      "description": "Stefon Diggs' late touchdown secured a tense 24-21 Washington Commanders win over the New York Giants after Cam Skattebo had rushed for two touchdowns Thursday.But after a poor Giants punt with under two minutes remaining, the Commanders scored the winning to\u2026",
+      "url": "https://sports.yahoo.com/articles/commanders-beat-giants-24-21-045605903.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b48b15bfe9fdf476fed59451b929c1baae6c7f63ac9bf21e5d511106c7e1b790/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F904a844b46ad978d10f1e40930cd1d6f.jpg",
+      "publishedAt": "2026-11-13T04:56:05Z",
+      "content": "Stefon Diggs' late touchdown secured a tense 24-21 Washington Commanders win over the New York Giants after Cam Skattebo had rushed for two touchdowns Thursday.\r\nCommanders QB Jayden Daniels, who had\u2026 [+3177 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brian Dabbs",
+      "title": "Singapore's Megaspeed lawyers up with U.S. firm as Nvidia scandal broadens",
+      "description": "SINGAPORE \u2014 A Singapore-based company at the center of the emerging scandal engulfing AI chipmaker Nvidia said Thursday that it has hired a U.S. law firm for what is likely to be a wave of intense legal and congressional scrutiny.Megaspeed, a cloud provider t\u2026",
+      "url": "https://www.yahoo.com/news/us/articles/megaspeed-lawyers-us-firm-nvidia-031513488.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/67cef9417c164f0b1735af6922731a32b3ff0b21542818cd95dae67ece0c314d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F3a4e66ed-83a0-4ecd-8479-4eb95acc334d",
+      "publishedAt": "2026-11-13T03:15:13Z",
+      "content": "SINGAPORE A Singapore-based company at the center of the emerging scandal engulfing AI chipmaker Nvidia said Thursday that it has hired a U.S. law firm for what is likely to be a wave of intense lega\u2026 [+3273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Angelo Guinhawa",
+      "title": "Skip Bayless Reacts to Buffalo Bills Win Vs. Arizona Cardinals",
+      "description": "Skip Bayless questioned how much the Buffalo Bills\u2019 victory over the Minnesota Vikings revealed about the team\u2019s championship potential, despite his confidence in their ability to win the AFC. The sports commentator suggested the outcome could have been diffe\u2026",
+      "url": "https://sports.yahoo.com/articles/skip-bayless-reacts-buffalo-bills-030004829.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ac0ea31cf216a92e781d6adae3cd176397948f9ad4e60e2cab5bba4c28e5d04f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fa245f7199ba204b4a8c09e4103d26dcd.jpg",
+      "publishedAt": "2026-11-13T03:00:04Z",
+      "content": "Skip Bayless questioned how much the Buffalo Bills' victory over the Minnesota Vikings revealed about the team's championship potential, despite his confidence in their ability to win the AFC. The sp\u2026 [+3034 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Glenn Erby , Eagles Wire",
+      "title": "Report: Philadelphia Eagles to release Hollywood Brown",
+      "description": "The Eagles are waiving Marquise \u201cHollywood\u201d Brown, according to Jordan Schultz, giving the veteran receiver a chance to join a playoff contender",
+      "url": "https://sports.yahoo.com/articles/report-philadelphia-eagles-waive-hollywood-024219367.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/64d7bc8a2bfccaa1f026deb78b580d2cc79296bc026f467b8406e19b39772837/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fphiladelphia_eagles_wire_usa_today_sports_articles_352%2Fca16bba73bc3b24433490a7a6aafce9b.jpg",
+      "publishedAt": "2026-11-13T02:42:19Z",
+      "content": "The Eagles are moving on from another veteran during their bye week.\r\nPhiladelphia is waiving wide receiver Marquise \"Hollywood\" Brown, according to Jordan Schultz, who reported that both sides agree\u2026 [+2229 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Anne Erickson",
+      "title": "Knicks Talk: 3 Takeaways from New York\u2019s 6-5 Season Start",
+      "description": "The New York Knicks haven't exactly looked like a championship team during the opening stretch of the 2026-27 season. After Wednesday night's home loss to the Cleveland Cavaliers, New York sits at 6-5, a somewhat underwhelming record for a team coming off a c\u2026",
+      "url": "https://sports.yahoo.com/articles/knicks-talk-3-takeaways-york-021611923.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ff8241f3c866dec2661e8f1d85809df289613ae254c695e0c2b853d0800ef567/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F0bd5b3cc481485c14822cfcb093a7dd0.jpg",
+      "publishedAt": "2026-11-13T02:16:11Z",
+      "content": "The New York Knicks haven't exactly looked like a championship team during the opening stretch of the 2026-27 season. After Wednesday night's home loss to the Cleveland Cavaliers, New York sits at 6-\u2026 [+4293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Benjamin, Editor",
+      "title": "Hornets Projected Be Sellers This Year After Poor Start, Naz Reid Among Players Who May Be on Move What Could They Receive in Return",
+      "description": "The Charlotte Hornets surprisingly made wholesale changes to their roster after producing their best season in a decade. But the Hornets have gone through their fair share of adversity early on and currently sit ninth in the East with a 4-7 record. Injuries h\u2026",
+      "url": "https://sports.yahoo.com/articles/hornets-projected-sellers-poor-start-014403174.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b1c79fa3612b569326385df050ea3313408a76b5565fc1192e093422c7d9e745/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2Fd7285ec9030f06875c296a0d82b56860.jpg",
+      "publishedAt": "2026-11-13T01:44:03Z",
+      "content": "The Charlotte Hornets surprisingly made wholesale changes to their roster after producing their best season in a decade. But the Hornets have gone through their fair share of adversity early on and c\u2026 [+9939 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ian Casselberry",
+      "title": "No. 2 UConn defeats No. 17 Ohio State in Columbus with Sarah Strong scoring 25 points in 87-55 win",
+      "description": "Strong scored 20 points in the second half  for the Huskies after sitting out the entire second quarter with foul trouble.",
+      "url": "https://sports.yahoo.com/womens-college-basketball/article/no-2-uconn-defeats-no-17-ohio-state-in-columbus-with-sarah-strong-scoring-25-points-in-87-55-win-013059897.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3c2689447a845297f53d0da03d13d6fd6cee355c8344a33fd8f7af42237764d2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F3c167fbb-7ac8-426f-85c5-16bc3a5b2394",
+      "publishedAt": "2026-11-13T01:30:59Z",
+      "content": "The UConn women's basketball team has won two consecutive games versus Big Ten competition since losing at Michigan a week ago.\r\nVisiting Columbus, the Huskies defeated No. 17 Ohio State 87-55 on Thu\u2026 [+2553 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Drake Bennett and Ian King",
+      "title": "How Jensen Huang spent his last hours as Nvidia CEO",
+      "description": "(Bloomberg) -- At the end, Jensen Huang looked broken and shattered, his legendary energy depleted. After weeks spent denying the allegations of infidelity\u00a0and fighting to remain in his job as Nvidia Corp.\u2019s chief executive officer, his\u00a0surrender\u00a0late Wednesd\u2026",
+      "url": "https://finance.yahoo.com/technology/ai/articles/m-piece-sh-jensen-huang-005649526.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a8c305f6e5bd51a2901e10add1d8021cd3e0893a8ca9e56670f6ce4351e9c625/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fd58aa375155447b151af89f3c43ff84b.jpg",
+      "publishedAt": "2026-11-13T00:56:49Z",
+      "content": "(Bloomberg) -- At the end, Jensen Huang looked broken and shattered, his legendary energy depleted. After weeks spent denying the allegations of infidelity and fighting to remain in his job as Nvidia\u2026 [+5918 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Tyler Courtney",
+      "title": "Yordan Alvarez Takes Home American League MVP Award",
+      "description": "The American League was full of elite talent in 2026, but the Yordan Alvarez MVP season stood head and shoulders above the rest. The Houston Astros star hitter secured the American League Most Valuable Player award in a competitive race. Runner-up Junior Cami\u2026",
+      "url": "https://sports.yahoo.com/articles/yordan-alvarez-takes-home-american-004747246.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c9bade43f3eb83e1666e8cd5efa1de08c868bdcd8ba16a7929e89f01cc5f8ab0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2Fe1bec2a533dc775d4586bddc1c83456a.jpg",
+      "publishedAt": "2026-11-13T00:47:47Z",
+      "content": "The American League was full of elite talent in 2026, but the Yordan Alvarez MVP season stood head and shoulders above the rest. The Houston Astros star hitter secured the American League Most Valuab\u2026 [+3997 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "EL Puckett",
+      "title": "Red Bull Teammates Turned Rivals: Bryce Menzies and Christopher Polvoorde Prepare for an Epic Baja 1000 Showdown",
+      "description": "Bryce Menzies and Christopher Polvoorde won the Baja 1000 together. Now Polvoorde has pole and Menzies starts sixth. The post Red Bull Teammates Turned Rivals: Bryce Menzies and Christopher Polvoorde Prepare for an Epic Baja 1000 Showdown appeared first on Ba\u2026",
+      "url": "https://sports.yahoo.com/articles/red-bull-teammates-turned-rivals-003606302.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fd312097f93fb92cb2ee6d7d86498598942a871a117d570225082cc11b73f9b1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbackfire_racing_653%2F36d0e7a559b173159fe71b8498e19262.png",
+      "publishedAt": "2026-11-13T00:36:06Z",
+      "content": "One starts on pole. The other starts sixth, after a qualifying run in which his truck went up on two wheels with trees dead ahead. Red Bull athletes Christopher Polvoorde and Bryce Menzies won the Ba\u2026 [+15362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Angelo Guinhawa",
+      "title": "Los Angeles Chargers Ranked Worst NFL Team After Week 9",
+      "description": "The Los Angeles Chargers fell to No. 32 in the NFL\u2019s Week 10 power rankings after another disappointing performance left their season in serious trouble. Their latest defeat exposed continued offensive struggles, with a touchdown by wide receiver Quentin John\u2026",
+      "url": "https://sports.yahoo.com/articles/los-angeles-chargers-ranked-worst-003549640.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4908c252d31e215d0800f9a3ccebe8390aaf9f2b929b27ef428ca907bf5b8b26/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F34e94438b453591d7e838cfa6f44d055.jpg",
+      "publishedAt": "2026-11-13T00:35:49Z",
+      "content": "The Los Angeles Chargers fell to No. 32 in the NFL's Week 10 power rankings after another disappointing performance left their season in serious trouble. Their latest defeat exposed continued offensi\u2026 [+3130 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Angelo Guinhawa",
+      "title": "Kansas City Chiefs Reacts to George Karlaftis\u2019 Defensive Performance Against New York Jets",
+      "description": "The Kansas City Chiefs celebrated George Karlaftis\u2019 standout defensive performance after their 35-12 victory over the New York Jets, highlighting the edge rusher\u2019s impact on social media. The team\u2019s enthusiastic reaction followed a game in which its pass rush\u2026",
+      "url": "https://sports.yahoo.com/articles/kansas-city-chiefs-reacts-george-003521167.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3721485934d9fa9d57d0d16f748fb4877728f79b07d595a7894f00213fd22c2e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Ffedfac78561e8facc8f3fa7f5cd71ed5.jpg",
+      "publishedAt": "2026-11-13T00:35:21Z",
+      "content": "The Kansas City Chiefs celebrated George Karlaftis' standout defensive performance after their 35-12 victory over the New York Jets, highlighting the edge rusher's impact on social media. The team's \u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Angelo Guinhawa",
+      "title": "NFL Announces Josh Allen and James Cook\u2019s Milestones After Bills Game",
+      "description": "Josh Allen and James Cook reached historic individual career milestones during the Buffalo Bills\u2019 23-6 victory over the Minnesota Vikings on Monday night. They became the first quarterback and running back teammates in NFL history to surpass 5,000 career rush\u2026",
+      "url": "https://sports.yahoo.com/articles/nfl-announces-josh-allen-james-003338065.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ac00d082fc9feb81edd362f1d86407e802f82f56a226e94d670a3721ff74af89/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fc3c1d400a2ce67fd8af79691631297ac.jpg",
+      "publishedAt": "2026-11-13T00:33:38Z",
+      "content": "Josh Allen and James Cook reached historic individual career milestones during the Buffalo Bills' 23-6 victory over the Minnesota Vikings on Monday night. They became the first quarterback and runnin\u2026 [+2582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "EL Puckett",
+      "title": "Red Bull's Bryce Menzies and Christopher Polvoorde Go From Baja 1000 Teammates to Rivals",
+      "description": "A year after winning the Baja 1000 together, Bryce Menzies and Christopher Polvoorde are racing each other for it. Polvoorde starts on pole. Menzies starts sixth, after a qualifying run that nearly put his truck over. Both talked to Backfire Racing before Fri\u2026",
+      "url": "https://sports.yahoo.com/articles/red-bulls-bryce-menzies-christopher-002920498.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-13T00:29:20Z",
+      "content": "A year after winning the Baja 1000 together, Bryce Menzies and Christopher Polvoorde are racing each other for it. Polvoorde starts on pole. Menzies starts sixth, after a qualifying run that nearly p\u2026 [+8788 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jordan Shusterman",
+      "title": "Yordan Alvarez has been one of MLB's elite hitters for years. Now he finally has an MVP to solidify it",
+      "description": "Alvarez has routinely been in the AL MVP conversation since he stormed into the big leagues with the Astros in 2019. He finally broke through in his eighth season.",
+      "url": "https://sports.yahoo.com/mlb/article/yordan-alvarez-has-been-one-of-mlbs-elite-hitters-for-years-now-he-finally-has-an-mvp-to-solidify-it-002738245.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d57ef43dc20c15c3ea9e62672433522a98a522f118e23f49077382cde5067782/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2983e424-49e0-4d28-ba51-cfd620fe9920",
+      "publishedAt": "2026-11-13T00:27:38Z",
+      "content": "Yordan Alvarez didn't really have much to prove.\r\nThe hulking Houston Astros slugger had already spent the better part of the past decade establishing himself as one of the best hitters of his genera\u2026 [+8188 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ben Fowlkes",
+      "title": "Does Usman Nurmagomedov's hotel brawl make him less \u2014 or perhaps even more \u2014 desirable to the UFC?",
+      "description": "Usman Nurmagomedov was one of several arrested for his role in this week's brawl in an Abu Dhabi hotel after an attack on Merab Dvalishvili, but how will it affect his employment prospects as an MMA free agent?",
+      "url": "https://sports.yahoo.com/mma/article/does-usman-nurmagomedovs-hotel-brawl-make-him-less--or-perhaps-even-more--desirable-to-the-ufc-235822868.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/214da0e39bfcbc923acf7e1adf866b3a4badfb2759b97501b82c5c21305162aa/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F7304f6ea-8a57-4bca-a27d-0258ec2cf747",
+      "publishedAt": "2026-11-12T23:58:22Z",
+      "content": "The Abu Dhabi hotel brawl set off by Usman Nurmagomedov's attack on Merab Dvalishvili made major headlines this week, but will it affect anyone's future employment prospects?\r\nPlus, now that TKO empl\u2026 [+6795 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Eric Froton",
+      "title": "Week 11 College Fantasy Football Start 'Em, Sit 'Em: Eric Froton's lineup advice",
+      "description": "Eric Froton offers some start/sit advice for your college fantasy football lineups in Week 11.",
+      "url": "https://sports.yahoo.com/fantasy/article/week-11-college-fantasy-football-start-em-sit-em-eric-frotons-lineup-advice-230539529.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b068479909e44660d26c568729a011d43a55ec7812b1d84f6b33c2e3e4322a22/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F9140069d-e7eb-4d20-b80c-25c6106088e6",
+      "publishedAt": "2026-11-12T23:05:39Z",
+      "content": "It's Week 11 of the college fantasy football season and chances are this is your last opportunity to make it into the playoffs if you aren't already. Eric Froton offers some lineup help with his star\u2026 [+12686 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Olamilekan Ajayi",
+      "title": "Texas HC Steve Sarkisian reveals Longhorns\u2019 identity before first trip to LSU since 1953",
+      "description": "The Texas Longhorns play at the LSU Tigers on Saturday for the first time since 1953, a 7:30 p.m. ET kickoff at Tiger Stadium with playoff hopes on both sidelines. Texas comes in at 7-2 and No. 6 in the College Football Playoff rankings, with four wins over r\u2026",
+      "url": "https://sports.yahoo.com/articles/texas-hc-steve-sarkisian-reveals-223917530.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2e57de4f5a233eef2499859adc89f313745ae52e35240769ad20e9992b84bd29/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fcb13040b6acca2d69ece16354990c9e8.jpg",
+      "publishedAt": "2026-11-12T22:39:17Z",
+      "content": "The Texas Longhorns play at the LSU Tigers on Saturday for the first time since 1953, a 7:30 p.m. ET kickoff at Tiger Stadium with playoff hopes on both sidelines. Texas comes in at 7-2 and No. 6 in \u2026 [+3718 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Paolo Songco",
+      "title": "NFL Makes Personal Comment About Chiefs QB Patrick Mahomes",
+      "description": "Patrick Mahomes is one of the best quarterbacks in the NFL today. However, he is more proud of being a great husband and father. The league made a personal comment about the Kansas City Chiefs star on Instagram on Wednesday. Mahomes and her wife, Brittany, an\u2026",
+      "url": "https://sports.yahoo.com/articles/nfl-makes-personal-chiefs-qb-221859294.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/da24859ba5225f4a0a65bec179f28bb1a50c8b1dbd11d52c8c0f007f0ec0335f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fcaa0e996e28bb3e87d7851af0f1d6119.jpg",
+      "publishedAt": "2026-11-12T22:18:59Z",
+      "content": "Patrick Mahomes is one of the best quarterbacks in the NFL today. However, he is more proud of being a great husband and father. The league made a personal comment about the Kansas City Chiefs star o\u2026 [+2147 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Andy Hammel",
+      "title": "Betr Promo Code YAHOOBONUS: Up to $210 in Betr Bucks for Thursday Night Football",
+      "description": "New players can sign up with Betr promo code YAHOOBONUS, deposit $10, and claim four No Sweat tokens worth up to $200 in Betr Bucks, plus a free $10 pick. It's a great deal for players looking to pick Thursday Night Football.",
+      "url": "https://sports.yahoo.com/betting/promos/article/betr-promo-code-yahoobonus-up-to-210-in-betr-bucks-for-thursday-night-football-220000358.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9f597e9e9cbb73af1554b3b7b735b1fe3bbb910c904cc74ceb01db4ecf467a1f/lightyear_networkapi/resizefill_w960_h540%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fyahoo-feature-images-betr-picks-welcome-bonus_0591.jpg",
+      "publishedAt": "2026-11-12T22:00:00Z",
+      "content": "New players can sign up now with Betr promo code YAHOOBONUS, deposit $10, and claim up to $210 in Betr Bucks four No Sweat tokens worth up to $200 plus a free $10 pick. It's a great deal for players \u2026 [+5048 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Dan Titus",
+      "title": "How early-season shot selection shifts are impacting fantasy basketball value",
+      "description": "Dan Titus examines shot selection trends and what it's doing to the fantasy basketball value for some key players.",
+      "url": "https://sports.yahoo.com/fantasy/article/how-early-season-shot-selection-shifts-are-impacting-fantasy-basketball-value-202116660.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/74cfde13ae4410d1dcee556a5f0863a7330f460cf6d170d78bc752414f60fc8a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F9a843188-348e-44cb-ab2b-105535a35824",
+      "publishedAt": "2026-11-12T20:21:16Z",
+      "content": "We're far enough into the season to notice something useful, as long as we're careful about what we're measuring. Scoring averages and shooting percentages can swing a lot over the first few weeks. W\u2026 [+11519 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kyle Matthews",
+      "title": "Dodge Is Back in NASCAR After 14 Years. Owner Points Just Became the Part That Matters on a Rainy Saturday",
+      "description": "The No. 25 Ram 1500 Stewart will drive at Talladega. (Image: Kaulig Racing/Ram) Six days, three announcements. Dodge is coming back to the Cup Series with Kaulig Racing. Ryan Preece is The post Dodge Is Back in NASCAR After 14 Years. Owner Points Just Became \u2026",
+      "url": "https://sports.yahoo.com/articles/dodge-back-nascar-14-years-201500209.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/95be75a1f5a7cef16b5e8b3b6f014c8df94ec1e35c2efea2ccde7ef35b712e3e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbackfire_racing_653%2Fc904ecb4074180a979fdde6843fc9020.png",
+      "publishedAt": "2026-11-12T20:15:00Z",
+      "content": "Six days, three announcements. Dodge is coming back to the Cup Series with Kaulig Racing. Ryan Preece is moving to RFK Racing's No. 6 Ford. And NASCAR is dumping its rainy-day qualifying formula in f\u2026 [+5748 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "EL Puckett",
+      "title": "Polvoorde Has Baja 1000 Pole, but Menzies Is Only Two Seconds From Third",
+      "description": "A Baja 1000 race truck on the malec\u00f3n during the 2023 race (representative image; not the 2026 course). Photo: Andy Blackledge via Wikimedia Commons, CC BY 2.0 Polvoorde takes Baja 1000 pole, but Menzies sits just 2.019 seconds off third. What qualifying mean\u2026",
+      "url": "https://sports.yahoo.com/articles/polvoorde-baja-1000-pole-menzies-195339191.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/603db15bc312624bcde1ea79b2626fbbf06ff597dd4528fee1570317f931c73d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbackfire_racing_653%2F4f67cefab3fbceaff9fbb7fa752fd971.png",
+      "publishedAt": "2026-11-12T19:53:39Z",
+      "content": "Christopher Polvoorde will leave the line first in Friday's 59th SCORE Baja 1000 after a 2:34.868 qualifying lap in the No. 94 Trophy Truck. Bryce Menzies, who co-drove that same No. 94 to last year'\u2026 [+5169 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ian Casselberry",
+      "title": "Joel Embiid scores 20 in 76ers' win over Raptors after knee injury scare; LeBron James sat out for back management",
+      "description": "Both James and Embiid have missed two of the 76ers' 12 games this season.",
+      "url": "https://sports.yahoo.com/nba/article/joel-embiid-scores-20-in-76ers-win-over-raptors-after-knee-injury-scare-lebron-james-sat-out-for-back-management-030112849.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/97ee6d6e38b542148f981d43bde7c98db2e127306dec440c2bfe13bb45e24613/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2a0e9bb5-c2c2-4bf0-9cc8-523f7193f619",
+      "publishedAt": "2026-11-12T19:36:18Z",
+      "content": "After being listed as questionable up until game time, Joel Embiid scored 20 points in the Philadelphia 76ers' 123-112 win over the Toronto Raptors on Thursday.\r\nEmbiid also avoided what initially ap\u2026 [+3176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ian Casselberry",
+      "title": "LeBron James sitting out 76ers' matchup vs. Raptors due to back management; Joel Embiid available after being questionable to play",
+      "description": "Both James and Embiid have missed two of the 76ers' 12 games this season.",
+      "url": "https://sports.yahoo.com/nba/article/lebron-james-sitting-out-76ers-matchup-vs-raptors-due-to-back-management-joel-embiid-available-after-being-questionable-to-play-234316640.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6d4bdd3728c2af43a8e760f926efac18bd7001b174f2c9c500c428dc1cacca21/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fa90f5e73-cbd1-4bcb-976d-0c6f24642b72",
+      "publishedAt": "2026-11-12T19:36:18Z",
+      "content": "LeBron James will sit out his third game of the early 2026-27 season for the Philadelphia 76ers' matchup with the Toronto Raptors on Thursday.\r\nJames is listed on the Sixers' injury report as out wit\u2026 [+1939 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ian Casselberry",
+      "title": "Joel Embiid questionable for 76ers' matchup vs. Raptors with foot condition, LeBron James sitting out due to back management",
+      "description": "Both James and Embiid have missed two of the 76ers' 12 games played in the early season.",
+      "url": "https://sports.yahoo.com/nba/article/joel-embiid-questionable-for-76ers-matchup-vs-raptors-with-foot-condition-lebron-james-sitting-out-due-to-back-management-193648795.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6d4bdd3728c2af43a8e760f926efac18bd7001b174f2c9c500c428dc1cacca21/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fa90f5e73-cbd1-4bcb-976d-0c6f24642b72",
+      "publishedAt": "2026-11-12T19:36:18Z",
+      "content": "LeBron James will sit out his third game of the early 2026-27 season for the Philadelphia 76ers' matchup with the Toronto Raptors on Thursday.\r\nJames is listed on the Sixers' injury report as out wit\u2026 [+1088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kelly Iko",
+      "title": "Can Warriors survive without Stephen Curry with tough stretch ahead?",
+      "description": "Off to a surprising start, Golden State must now deal with the loss of its leader in the short term.",
+      "url": "https://sports.yahoo.com/nba/article/can-warriors-survive-without-stephen-curry-with-tough-stretch-ahead-192852877.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1b509b2c4dfa92041e27af605f1a03b66c95f3c0fbb2a53cb93321ec05565127/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F34c58c2e-ed33-4e0b-b7b1-649d93f97330",
+      "publishedAt": "2026-11-12T19:28:52Z",
+      "content": "On Thursday, the Golden State Warriors announced that star guard Steph Curry was diagnosed with an oblique abdominal tear and will be shelved for at least the next two weeks. The 38-year-old suffered\u2026 [+4578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Harrison Goldstein",
+      "title": "Tyshawn Archie Gives Texas A&M an Overlooked 3rd Guard",
+      "description": "Texas A&M is giving Tyshawn Archie a real opportunity to establish himself as a key piece of the Aggie roster. Although PJ Haggerty and Jordan Pope lead the Aggie offense, Archie has opened the season with three consecutive double-figure scoring performances \u2026",
+      "url": "https://sports.yahoo.com/articles/tyshawn-archie-gives-texas-m-184247252.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/33710a34c824b2464ec9674dc656c3b7509ad5ce2039b37ab2ff88a831f892b6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F32922f900c0b4f02a7caede9a36a9361.jpg",
+      "publishedAt": "2026-11-12T18:42:47Z",
+      "content": "Texas A&amp;M is giving Tyshawn Archie a real opportunity to establish himself as a key piece of the Aggie roster. Although PJ Haggerty and Jordan Pope lead the Aggie offense, Archie has opened the s\u2026 [+3834 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hayden Winks",
+      "title": "Fantasy Football Rankings: Hayden Winks' QB/TE/DEF/K Blueprint for Week 10",
+      "description": "Fantasy football analyst Hayden Winks lays out the blueprint for the onesies \u2014 QB, TE, DEF and K \u2014 for Week 10.",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-qbtedefk-blueprint-for-week-10-183903588.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/736029bac76f6c6a3a096f7e7c8cc6b86870f0a4ec63d7ab9100717985840cbe/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fbc3476b5-95de-473c-9e42-d2ce8bf8762f",
+      "publishedAt": "2026-11-12T18:39:03Z",
+      "content": "The Blueprint is my weekly column and basically everything that I use to build out the most accurate rankings I can. There will be a WR column, an RB column and this combination column on the onesie \u2026 [+11292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Evan Massey",
+      "title": "Detroit Lions Named Potential Suitor for Blockbuster Offseason Move",
+      "description": "The Detroit Lions have been close to being a Super Bowl caliber team over the last few seasons. Even though they missed the playoffs last year, they still put together an incredibly talented roster. Dan Campbell and company have been searching to get over the\u2026",
+      "url": "https://sports.yahoo.com/articles/detroit-lions-named-potential-suitor-183513879.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/445e85f6c1878535e31364f94c4edd230136ada18ce7870368604f280cce528d/lightyear_networkapi/resizefill_w900_h600%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F1afa2eeec41dd217029bfa7a34736482.jpg",
+      "publishedAt": "2026-11-12T18:35:13Z",
+      "content": "The Detroit Lions have been close to being a Super Bowl caliber team over the last few seasons. Even though they missed the playoffs last year, they still put together an incredibly talented roster.\r\u2026 [+2866 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "LeBron James ruled out for 76ers game against Toronto with low back management",
+      "description": "PHILADEPLHIA (AP) \u2014 Philadelphia 76ers star LeBron James will sit out Thursday night against Toronto because of low back/sciatica management.Sixers center Joel Embiid remained questionable with right foot plantar fascia injury management.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_eb30b3b8-5979-467d-9d5b-bbb0c48e10dd",
+      "urlToImage": null,
+      "publishedAt": "2026-11-12T18:29:52Z",
+      "content": "If you click 'Accept all', we and our partners, including 253 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hayden Winks",
+      "title": "Fantasy Football Rankings: Hayden Winks' WR Blueprint for Week 10",
+      "description": "Fantasy football analyst Hayden Winks lays out the blueprint for the WR position for Week 10.",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-wr-blueprint-for-week-10-181400793.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a0332636e0a9d707b749d314d36b78a0dc75e3a3f5d0702c579e5939a0c865c2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F6512c2bc-e8e6-4ac8-89df-8fb88501046c",
+      "publishedAt": "2026-11-12T17:36:44Z",
+      "content": "The Blueprint is my weekly column and basically everything that I use to build out the most accurate rankings I can. There will be this WR column, an RB column and a combination column on the onesie \u2026 [+27295 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kyle Matthews",
+      "title": "Toyota Didn\u2019t Just Revive the Celica for WRC 2027. It Built a Two-Car Experiment",
+      "description": "1979 Toyota Celica 2000GT RA45 Group 4. Image credit: TTTNIS/Wikimedia Commons (CC0) Toyota's GR Celica and GR Yaris race as equals in WRC 2027. The two-team split matters more than the badge. The post Toyota Didn\u2019t Just Revive the Celica for WRC 2027. It Bui\u2026",
+      "url": "https://sports.yahoo.com/articles/toyota-didn-t-just-revive-170000471.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e32800950fa81f99c6c7a8edba10dc08ad7d2082169ad4d50a2fd99a97eb70a6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbackfire_racing_653%2F39fdb5e8d7766e0c20af5628f635906a.png",
+      "publishedAt": "2026-11-12T17:00:00Z",
+      "content": "Everyone will write about the badge. Fair enough: the Celica name, which carried Carlos Sainz to world titles in 1990 and 1992, is back on a Rally1 car for 2027. But the nameplate is the least intere\u2026 [+5077 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "COREY WILLIAMS",
+      "title": "Black voters view Scott Colom's U.S. Senate win through lens of Mississippi's racial legacy",
+      "description": "It's been nearly 150 years since a Black man has represented Deep South and deep red Mississippi in the U.S. Senate.\n That changed Wednesday evening as Democrat Scott Colom was declared the winner over Republican incumbent Cindy Hyde-Smith, who had been endor\u2026",
+      "url": "https://www.yahoo.com/news/us/articles/black-voters-view-scott-coloms-165712981.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/dab723ed88141d1796f47b48acc137ada5e581d122c2443efb291b3c5c767455/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff083c541ee6da09cf9489e0bbfd142ca.jpg",
+      "publishedAt": "2026-11-12T16:57:12Z",
+      "content": "It's been nearly 150 years since a Black man has represented Deep South and deep red Mississippi in the U.S. Senate.\r\nThat changed Wednesday evening as Democrat Scott Colom was declared the winner ov\u2026 [+6916 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters",
+      "title": "Home Sales Plummet to 16-Year Low...",
+      "description": "WASHINGTON, Nov 12 () - US existing home sales fell to the lowest level in more than 16 years in October as rising mortgage rates and still-elevated house pr...",
+      "url": "https://finance.yahoo.com/real-estate/articles/us-existing-home-sales-slump-150246718.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/99ef0ccd10a5e056a3b558197eb7a93dcd253042a87f648ed6176d29e09f3ee2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fad7e85d1c071cd66296934de045c3386.jpg",
+      "publishedAt": "2026-11-12T16:43:36Z",
+      "content": "WASHINGTON, Nov 12 (Reuters) - US existing home sales fell to the lowest level in more than 16 years in October as rising mortgage rates and still-elevated house prices pushed potential buyers to the\u2026 [+2191 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AFP",
+      "title": "Chinese university bought advanced Nvidia chips despite US curbs...",
+      "description": "Chinese university bought advanced Nvidia chips despite US curbs...\r\n\n \n \n \n (Top headline, 4th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Spectacular rise and fall of Jensen Huang...\r\nResignation puts AI boom in jeopardy...\r\n'Spy' at Center of Firestorm Now i\u2026",
+      "url": "https://www.yahoo.com/news/world/articles/chinese-university-bought-advanced-nvidia-052401552.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1788ac74d1ee424f0d0ac1fe5e7c378b4d56299960b20f98e68069fee8228db9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F21138996390bc687f8c93a47a2d641ff.jpg",
+      "publishedAt": "2026-11-12T16:43:36Z",
+      "content": "A Chinese university with close ties to the country's defence bodies recently bought advanced AI chips made by tech giant Nvidia, procurement notices show, despite stringent US controls.\r\nChina and t\u2026 [+2423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Lauren Miller",
+      "title": "Ugochukwu\u2019s F2 Move Is Built on What He\u2019s Not Changing",
+      "description": "Ugo Ugochukwu in the Prema Formula 3 car at Imola in 2025, a year before his title with Campos. Image: Jen_ross83/Wikimedia Commons (CC BY 4.0) Ugo Ugochukwu will race in Formula 2 with Campos Racing in 2027, and the headline writes itself: reigning The post \u2026",
+      "url": "https://sports.yahoo.com/articles/ugochukwu-f2-move-built-not-163000199.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a09ee195082a8988f2fb15a4acf3643f2741c4ca843c681e9f21c458fd678aa0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbackfire_racing_653%2F9c541bb05366243ad455b0ea44bde6d9.png",
+      "publishedAt": "2026-11-12T16:30:00Z",
+      "content": "Ugo Ugochukwu will race in Formula 2 with Campos Racing in 2027, and the headline writes itself: reigning F3 champion steps up. The more useful reading is about what isn't changing. In a year when F2\u2026 [+3610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Frank Schwab",
+      "title": "NFL Thursday Night Football preview: Commanders try to put previous nightmare vs. Giants behind them",
+      "description": "The Commanders and Giants had a memorable tie in their first meeting.",
+      "url": "https://sports.yahoo.com/nfl/article/nfl-thursday-night-football-preview-commanders-try-to-put-previous-nightmare-vs-giants-behind-them-163400629.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7ad5a5d2fc2a75ecb9838bbef9999adcaf46a18d949fcf2fec91c3eee64af820/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2401e4bb-3152-41be-b152-c29b27793b5b",
+      "publishedAt": "2026-11-12T16:20:54Z",
+      "content": "The Washington Commanders should have had a win over the New York Giants this season. Or at least a field-goal attempt for the win.\r\nThe last time the Commanders and Giants played, it ended with one \u2026 [+4788 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Frank Schwab",
+      "title": "NFL Thursday Night Football preview: Commanders try to put previous nightmare vs. Giants behind",
+      "description": "The Commanders and Giants had a memorable tie in their first meeting.",
+      "url": "https://sports.yahoo.com/nfl/article/nfl-thursday-night-football-preview-commanders-try-to-put-previous-nightmare-vs-giants-behind-162054731.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7ad5a5d2fc2a75ecb9838bbef9999adcaf46a18d949fcf2fec91c3eee64af820/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2401e4bb-3152-41be-b152-c29b27793b5b",
+      "publishedAt": "2026-11-12T16:20:54Z",
+      "content": "The Washington Commanders should have had a win over the New York Giants this season. Or at least a field-goal attempt for the win.\r\nThe last time the Commanders and Giants played, it ended with one \u2026 [+4788 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "Goalkeeper Martin returns to West Ham as coach",
+      "description": "David Martin is named West Ham's head of academy goalkeeping.",
+      "url": "https://www.bbc.com/sport/football/articles/cky86000y21zo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3daa1567e1209b5b651bd3e6ceacf068f7bf4ca9196799955081547d473b2cfc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa8941cd63a87e6df4202c83522d1e6d8.jpg",
+      "publishedAt": "2026-11-12T16:05:04Z",
+      "content": "Former West Ham United goalkeeper David Martin has returned to the Championship club to head-up their academy and under-21s goalkeeper coaching department.\r\nThe 40-year-old, who is the son of former \u2026 [+444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kanu Chika Emmanuel",
+      "title": "2026/27 Premier League Title Race: Three Reasons Arsenal Will Win Back-to-Back Titles",
+      "description": "After 10 games, the 2026/27 Premier League title race is beginning to point towards one obvious winner: Arsenal. While several of the traditional big six clubs are navigating transitional periods under new managers, Mikel Arteta\u2019s side have the advantage of c\u2026",
+      "url": "https://sports.yahoo.com/articles/2026-27-premier-league-title-154152045.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/183cebfaa81af9deceab2f3cde82393c04ce0b19978c07beb70a5be561cf4abc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fextra_time_talk_185%2Fda32c070cd810ec65dd6c5a2780b3277",
+      "publishedAt": "2026-11-12T15:41:52Z",
+      "content": "After 10 games, the 2026/27 Premier League title race is beginning to point towards one obvious winner: Arsenal. While several of the traditional big six clubs are navigating transitional periods und\u2026 [+9282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Steen Kirby",
+      "title": "Five of the World\u2019s Slowest Football Leagues Are in the Americas And That is Not a Criticism",
+      "description": "Five of the world\u2019s ten slowest football leagues in a recent CIES study are in the Americas. Ecuador, Peru, Colombia, Mexico and Paraguay all made the list, which probably won\u2019t surprise anyone who spends their weekends watching South American or Liga MX foot\u2026",
+      "url": "https://sports.yahoo.com/articles/five-world-slowest-football-leagues-153035043.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c20785a22f3618ca04fa3e8d93e085d1e5358fc9b71a3117d122e9e189f1c736/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fextra_time_talk_185%2F8c2c0c27ff528534662a61117516f6bb",
+      "publishedAt": "2026-11-12T15:30:35Z",
+      "content": "Five of the world's ten slowest football leagues in a recent CIES study are in the Americas. Ecuador, Peru, Colombia, Mexico and Paraguay all made the list, which probably won't surprise anyone who s\u2026 [+17972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Scott Pianowski",
+      "title": "Week 10 Fantasy Football Sleepers: Puka Nacua injury opens up opportunity for Konata Mumpfield",
+      "description": "Scott Pianowski shares some underrated fantasy football options for your lineup off the waiver wire for Week 10.",
+      "url": "https://sports.yahoo.com/fantasy/article/week-10-fantasy-football-sleepers-puka-nacua-injury-opens-up-opportunity-for-konata-mumpfield-151749386.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9454d396fa453904d3e0db35d8ea59010eb715f2a7a20d22e426817fd37f76a4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F47980936-717a-401a-bb44-927c0354b629",
+      "publishedAt": "2026-11-12T15:17:49Z",
+      "content": "DeMario Douglas was the lone hit on the sleeper page last week, while Adonai Mitchell drove us batty (seven targets, tons of air yards, no catches). We're onto Week 10. Let's see what undervalued opt\u2026 [+2572 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jared Daigle",
+      "title": "BetVictor Alberta Review: App, Features & Markets November 2026",
+      "description": "Read our expert BetVictor Alberta review for November 2026. Discover app features, withdrawal speeds, and AGLC regulatory details for local bettors 18+.",
+      "url": "https://sports.yahoo.com/betting/canada/article/betvictor-alberta-review-144625576.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/dcf612a0fc6954a000b151251f93a33b3e07e2dcca8653c3953b4c7b32a833b3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbetvictor-alberta-review_8365.jpg",
+      "publishedAt": "2026-11-12T14:46:25Z",
+      "content": "Our BetVictor Alberta review covers the sportsbook's app, website, betting markets, and banking options, with the pros and cons as we see them. BetVictor entered the province when Alberta opened its \u2026 [+12512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Lori Bennett",
+      "title": "NHL Rumours: Montreal Canadiens Hoping to Sell High On Oliver Kapanen",
+      "description": "NHL rumours continue to knock on the door of the Montreal Canadiens, with the latest revolving around players who may be moved as regular roster players return to health. According to one pundit, the Habs have identified the player they would like to sell hig\u2026",
+      "url": "https://sports.yahoo.com/articles/nhl-rumours-montreal-canadiens-hoping-144231525.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/604f68c3aa53bcc10a57a3e0e18cff11d70f3b4f3b59c8fbe910e7f7dea93ea0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2Fd4ee73ff321d1c76d12e6b1dd75ffcf3.jpg",
+      "publishedAt": "2026-11-12T14:42:31Z",
+      "content": "NHL rumours continue to knock on the door of the Montreal Canadiens, with the latest revolving around players who may be moved as regular roster players return to health. According to one pundit, the\u2026 [+5735 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -494,812 +1300,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/4073b7ead515597d26301223aac4dc9fe560b2641ecc87a6be3ea20b1e84a21f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F3898b8d6-a95b-49b9-b762-e37e73615086",
       "publishedAt": "2026-11-11T15:37:16Z",
       "content": "Nine weeks into the NFL season, we've seen enough from this rookie class to know who's for real, who's still finding their footing and who could make some noise down the stretch. From Carnell Tate's \u2026 [+10309 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Yahoo Sports Biz",
-      "title": " Y! Sports Biz: A 90/10 issue",
-      "description": "What will stop sports decision makers if undeterred by 90% opposition?",
-      "url": "https://sports.yahoo.com/articles/y-sports-biz-90-10-152949807.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1898995449002f04ee9b898b259067a28ea4e1747e13d84f51ed6619f37b86b6/lightyear_networkapi/resizefill_w1024_h683%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fyahoo_sports_biz_newsletters_910%2F26fd55b2dd5847eb19ee6b1a51931c0f.jpg",
-      "publishedAt": "2026-11-11T15:29:49Z",
-      "content": "Thank you for your service, veterans.\r\nIn today's edition: Fans' stake in the game is non-voting, activism hasn't crossed the pond, United poaching Poch, Canada and the U.S. unite in a sweater squabb\u2026 [+9388 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Chris Allen",
-      "title": "Fantasy Football: 4 bold predictions for the second half of the season",
-      "description": "Chris Allen makes four bold fantasy predictions for the second of the season.",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-4-bold-predictions-for-the-second-half-of-the-season-152428113.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/03855872b656ef08f69768b01ff5553e1f3e09a3aa165139586885d294255ff6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F58ffd9e1-b74d-4ed4-b7f5-d2a7bb4d239b",
-      "publishedAt": "2026-11-11T15:24:28Z",
-      "content": "Quick peek behind the curtain: I've mentioned it before, but I go back and forth with the staff here at Yahoo Fantasy about which storylines to prioritize. After one drive, we knew the SNF angle woul\u2026 [+8012 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Tom Marchiano",
-      "title": "Luke Evangelista Stats are an Important Piece of the New Jersey Devils Offence",
-      "description": "Jack Hughes delivered the overtime winner Saturday night, but Luke Evangelista helped give the New Jersey Devils that opportunity. The Luke Evangelista stats from that contest included a goal and an assist as New Jersey rallied past the New York Islanders. Hi\u2026",
-      "url": "https://sports.yahoo.com/articles/luke-evangelista-stats-important-piece-151711680.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9db04d2ff2db0c80ad1d8c13bf622afeb32b8850498cf98d708ac6adc1bf979c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F385eaef86fab1f5182677b037147c62e.jpg",
-      "publishedAt": "2026-11-11T15:17:11Z",
-      "content": "Jack Hughes delivered the overtime winner Saturday night, but Luke Evangelista helped give the New Jersey Devils that opportunity. The Luke Evangelista stats from that contest included a goal and an \u2026 [+6215 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "Lawlor 'open to ideas' after all-island comments",
-      "description": "Gerard Lawlor, NIFL's chief executive, has said \"we should never close the door on exploring more opportunities\" after comments on all-island football from the Irish Taoiseach.",
-      "url": "https://www.bbc.com/sport/football/articles/c6x2wlx2k8x1o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-      "publishedAt": "2026-11-11T15:12:37Z",
-      "content": "Gerard Lawlor, chief executive of the Northern Ireland Football League, has said \"we should never close the door on exploring more opportunities\" after comments on all-island football from the Irish \u2026 [+3477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "JAMES ROBSON",
-      "title": "No Cristiano Ronaldo, Harry Kane set for another record and what to know about the Nations League",
-      "description": "MANCHESTER, England (AP) \u2014 The post-Cristiano Ronaldo and Lionel Messi era in international soccer has officially begun. Ronaldo's retirement from the Portuguese national team last week followed Messi's decision to step down from Argentina after the World Cup\u2026",
-      "url": "https://sports.yahoo.com/articles/no-cristiano-ronaldo-harry-kane-150055582.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/05bf5df42ab156c3d79fb57fae2fa84338722bfffa77b2fc5026ee19022f5231/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd3b761f5cafd757cb9e887e49ac0fa48.jpg",
-      "publishedAt": "2026-11-11T15:00:55Z",
-      "content": "MANCHESTER, England (AP) The post-Cristiano Ronaldo and Lionel Messi era in international soccer has officially begun.\r\nRonaldo's retirement from the Portuguese national team last week followed Messi\u2026 [+4747 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "The Associated Press",
-      "title": "Big hit by Capitals' Jakob Chychrun on Senators' Nick Cousins deemed to be clean after review",
-      "description": "The thunderous hit by Washington Capitals defenseman Jakob Chychrun that injured Ottawa Senators forward Nick Cousins late in the teams' game Tuesday night was determined not to be a penalty after on-ice officials reviewed the play.With three minutes left in \u2026",
-      "url": "https://sports.yahoo.com/articles/big-hit-capitals-jakob-chychrun-145055900.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2c43bddc525f7d8d733738364999b1c476e2186ae4d4f59085ea60c48664cd30/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F07bf9a1f3174e4250291e0a032ed87cb.jpg",
-      "publishedAt": "2026-11-11T14:50:55Z",
-      "content": "The thunderous hit by Washington Capitals defenseman Jakob Chychrun that injured Ottawa Senators forward Nick Cousins late in the teams' game Tuesday night was determined not to be a penalty after on\u2026 [+1264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Angelo Guinhawa",
-      "title": "\u201cRobbery\u201d: Emmanuel Acho Gets Brutally Honest on Eagles Trade",
-      "description": "Emmanuel Acho described the Philadelphia Eagles\u2019 decision to trade Jordan Davis to the Jacksonville Jaguars as a robbery, questioning the value Jacksonville surrendered to acquire the defensive tackle. The former NFL linebacker praised general manager Howie R\u2026",
-      "url": "https://sports.yahoo.com/articles/robbery-emmanuel-acho-gets-brutally-145040750.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a6cdc868b50a9ce36631652be7d17f44a50cb642e583042314ab58d9cbe22a30/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fd7940e4fa6dba0e8cc111f206f4a694a.jpg",
-      "publishedAt": "2026-11-11T14:50:40Z",
-      "content": "Emmanuel Acho described the Philadelphia Eagles' decision to trade Jordan Davis to the Jacksonville Jaguars as a robbery, questioning the value Jacksonville surrendered to acquire the defensive tackl\u2026 [+2954 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Angelo Guinhawa",
-      "title": "Robert Griffin III Names His MVP Frontrunner After NFL Week 9",
-      "description": "Robert Griffin III identified Cincinnati Bengals quarterback Joe Burrow as his leading Most Valuable Player candidate following Week 9 of the NFL season. The former NFL quarterback made his selection after Burrow delivered a dominant performance in the Bengal\u2026",
-      "url": "https://sports.yahoo.com/articles/robert-griffin-iii-names-mvp-143052870.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/af3d5e3baeb6e2b0709453de717531597f240dfc043a1cd615083582246f6be5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fdcaa9f9e70d9705a5799f9fea33eea69.jpg",
-      "publishedAt": "2026-11-11T14:30:52Z",
-      "content": "Robert Griffin III identified Cincinnati Bengals quarterback Joe Burrow as his leading Most Valuable Player candidate following Week 9 of the NFL season. The former NFL quarterback made his selection\u2026 [+2794 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Olamilekan Ajayi",
-      "title": "Michigan\u2019s JJ Buchanan, who followed Jason Beck from Utah, shares honest reaction to OC\u2019s firing",
-      "description": "JJ Buchanan arrived at the Michigan Wolverines in January with a season in Jason Beck\u2019s offense already behind him. The sophomore wide receiver played for Beck and head coach Kyle Whittingham at the Utah Utes as a freshman in 2025, then followed both men to A\u2026",
-      "url": "https://sports.yahoo.com/articles/michigan-jj-buchanan-followed-jason-122829917.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/237441bd3bceda31a8c03c3e33c69f1758dda174616d5d0c7146fd13b9ec0393/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fdc0c70b2fdee967fb5b9a4d8ce83f962.jpg",
-      "publishedAt": "2026-11-11T12:28:29Z",
-      "content": "JJ Buchanan arrived at the Michigan Wolverines in January with a season in Jason Beck's offense already behind him. The sophomore wide receiver played for Beck and head coach Kyle Whittingham at the \u2026 [+3361 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Olamilekan Ajayi",
-      "title": "Emory Hunt\u2019s blunt take on Oregon Ducks\u2019 CFP standing will not sit well in Eugene",
-      "description": "The Oregon Ducks climbed seven spots to No. 16 when the College Football Playoff selection committee released its second rankings of 2026 on Tuesday night, the highest placement of any three-loss team. They still landed one spot behind the 7-2 Iowa Hawkeyes, \u2026",
-      "url": "https://sports.yahoo.com/articles/emory-hunt-blunt-oregon-ducks-122746647.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d1a8e562b260810b313948b72d627352f37d709ef1403cb592476c3b32bd62cc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fdc3fe1ca0244c29103595931bc300824.jpg",
-      "publishedAt": "2026-11-11T12:27:46Z",
-      "content": "The Oregon Ducks climbed seven spots to No. 16 when the College Football Playoff selection committee released its second rankings of 2026 on Tuesday night, the highest placement of any three-loss tea\u2026 [+3750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Peter Chawaga, Contributor",
-      "title": "Braves Castoff Slugger, Former All-Star Carlos Santana Makes Career Decision After Cut",
-      "description": "The Atlanta Braves cut ties with the former Gold Glove and Silver Slugger award winner after a very short stint.",
-      "url": "https://www.forbes.com/sites/peterchawaga/2026/11/11/braves-castoff-slugger-former-all-star-carlos-santana-makes-career-decision-after-cut/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/895c2029843a6667e291900a34d4e2549cbcc774c9ee0e930c83b5ffa93daed8/lightyear_networkapi/resizefill_w958_h539%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F00d3100a6ba0392fb2fee46fffa2d4b1.jpg",
-      "publishedAt": "2026-11-11T12:00:00Z",
-      "content": "The Atlanta Braves enter the offseason with several important decisions to make after capturing another National League East title.\r\nThe organization also has reason to celebrate individual accomplis\u2026 [+2480 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Shamoon Hafez - Manchester City reporter",
-      "title": "Psychological uncertainty and tactics - assessing the issues at Man City",
-      "description": "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
-      "url": "https://www.bbc.com/sport/football/articles/cw30e0yz0p04o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c170a4c0923e42aacc67973631bff9d0e2fea7b61326eee7aba549467c8d7333/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fea83614baab8462243d762e1cb76579f.jpg",
-      "publishedAt": "2026-11-11T11:51:54Z",
-      "content": "The ongoing international break will give Manchester City manager Enzo Maresca much-needed time to fix the growing issues in his squad.\r\nThe Italian made a dream start after taking over from Pep Guar\u2026 [+6723 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "BBC",
-      "title": "You are Scotland boss Pocognoli - what would you do?",
-      "description": "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the home game with North Macedonia.",
-      "url": "https://www.bbc.com/sport/football/articles/cwr7y79jm354o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/68e3e6a60ab65bc472e986d687d4108c6e49af173093aab5229d970f8f4fc962/lightyear_networkapi/resizefill_w1047_h589%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F468f03660f43715790129794c47c704b.jpg",
-      "publishedAt": "2026-11-11T11:01:45Z",
-      "content": "Sebastien Pocognoli's first camp in charge of Scotland ended in gloomy fashion last month as Slovenia deservedly won 2-1 at Hampden.\r\nThe Belgian head coach has the chance to bounce back when his sid\u2026 [+2661 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Matthew Cresswell - BBC Sport England",
-      "title": "McNamara or Cayless - who has hardest job in Hull?",
-      "description": "A look ahead to Hull FC and Hull KR's respective upcoming seasons under new head coaches following disappointing Super League campaigns.",
-      "url": "https://www.bbc.com/sport/rugby-league/articles/c90k0k3647r2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/66c438b1fea94fd41f6d6d3036062d4cbe03f6d84db0d0ee4ccc19acb709f14b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe7fbe02a4c2eaa2bf9be1688e7dae7f6.png",
-      "publishedAt": "2026-11-11T09:56:42Z",
-      "content": "It is all happening in Hull right now.\r\nWhile the city's football club have acclimatised well to life back in the Premier League, British adventurer Karl Bushby has returned to his home city followin\u2026 [+8427 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Mike Barner",
-      "title": "Fantasy Basketball Buy Low, Sell High: Josh Hart, Paul Reed, James Harden",
-      "description": "Fantasy basketball trade advice: buy low on Josh Hart and Payton Pritchard, sell high on Paul Reed and Wendell Carter, and hold James Harden and Kel'el Ware.",
-      "url": "https://sports.yahoo.com/articles/fantasy-basketball-buy-low-sell-095500800.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/51dcae417d4cc0df92925011999cee09330328db7fdba4ac34fcfac5881c8286/lightyear_networkapi/resizefill_w100_h100%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frotowire.com%2Fede7f7492f8a47e489ea8d51c3d761a7.png",
-      "publishedAt": "2026-11-11T09:55:00Z",
-      "content": "With most teams having played 10 games, we're starting to get a decent sample size ofproduction for fantasy basketball. There are still some abnormal stat lines, though, a few ofwhich we might be abl\u2026 [+5522 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "By Eduardo Baptista",
-      "title": "Military-linked Chinese university bought Nvidia H200 chips despite U.S. blacklist",
-      "description": "By Eduardo Baptista BEIJING, Nov 11 (Reuters) - A Chinese university with deep ties to the People's Liberation Army bought Nvidia's powerful H200 AI chips last month despite being on a US export blacklist, procurement records show, highlighting gaps in Washin\u2026",
-      "url": "https://finance.yahoo.com/news/exclusive-pla-linked-chinese-university-051308504.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8793daddb5bebd04e69ec461f1b091faf6b4b3875067fc64162abcd8023fed85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe8c70b6c27794ccd102edd28915f97a0.jpg",
-      "publishedAt": "2026-11-11T08:40:44Z",
-      "content": "By Eduardo Baptista\r\nBEIJING, Nov 11 (Reuters) - A Chinese university with deep ties to the People's Liberation Army bought Nvidia's powerful H200 AI chips last month despite being on a US export bla\u2026 [+6858 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Lincoln Zdunich",
-      "title": "Padres Sign Right-Handed Starter in First Offseason Move of 2026",
-      "description": "The San Diego Padres have made their first move of the 2026 offseason, signing right-hander Ryan Weiss to a one-year, $1.85 million deal with a $4 million club option for 2028. How might the signing affect San Diego's offseason plans moving forward? Here is a\u2026",
-      "url": "https://sports.yahoo.com/articles/padres-sign-handed-starter-first-070753872.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f3170df12a52386b7acf31037ae48b5db00cbdad2ba609eff0890e37438330af/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F0d271a07347d823d483610fb389a9cef.jpg",
-      "publishedAt": "2026-11-11T07:07:53Z",
-      "content": "The San Diego Padres have made their first move of the 2026 offseason, signing right-hander Ryan Weiss to a one-year, $1.85 million deal with a $4 million club option for 2028. How might the signing \u2026 [+3577 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Phil McNulty - Chief football writer",
-      "title": "Does Pickford finally face serious competition for his England place?",
-      "description": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
-      "url": "https://www.bbc.com/sport/football/articles/crvg9y27n45wo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/04d035bbc1fca985fcde78fe37cf52574039bac6b8cfe83d178b45f81685714d/lightyear_networkapi/resizefill_w983_h554%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F26a03c94e2e426505481bb4f25ea102a.jpg",
-      "publishedAt": "2026-11-11T06:24:32Z",
-      "content": "When England head coach Thomas Tuchel decided to pick Leeds United goalkeeper James Trafford to face World Cup holders Spain at Wembley in the last international break, it sparked the first stirrings\u2026 [+7881 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Tyson Warren",
-      "title": "Breaking Down the Kings\u2019 Decision to Move on from Nique Clifford",
-      "description": "The Sacramento Kings\u2019 decision to part ways with Nique Clifford could confuse fans, especially given what they sacrificed to land him. Clifford came into the fold with high hopes as a young building block for the franchise, but it didn\u2019t work out as planned. \u2026",
-      "url": "https://sports.yahoo.com/articles/breaking-down-kings-decision-move-044621652.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2f42e44bdd76706aac39453a98dd5e563958d0ee4d8f6572b49f2686f7f96a6e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F818955f757acdd56a777c06ea6811627.jpg",
-      "publishedAt": "2026-11-11T04:46:21Z",
-      "content": "The Sacramento Kings' decision to part ways with Nique Clifford could confuse fans, especially given what they sacrificed to land him. Clifford came into the fold with high hopes as a young building \u2026 [+4377 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "AFP",
-      "title": "Celtics beat Sixers 123-101 as Tatum outshines Brown",
-      "description": "The Boston Celtics beat Philadelphia 123-101 to replace the 76ers at the top of the NBA Eastern Conference as Jayson Tatum outshone his former teammate Jaylen Brown in a much-hyped showdown Tuesday.The battle of the top two teams in the East saw Boston move t\u2026",
-      "url": "https://sports.yahoo.com/articles/celtics-beat-sixers-123-101-042952238.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a4233cefffdd39b73ab0d0fd92caa275ea897a72aac4b46f71406c4be007d868/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F91dc54f29b000c88ab5d0d832cfb21ac.jpg",
-      "publishedAt": "2026-11-11T04:29:52Z",
-      "content": "The Boston Celtics beat Philadelphia 123-101 to replace the 76ers at the top of the NBA Eastern Conference as Jayson Tatum outshone his former teammate Jaylen Brown in a much-hyped showdown Tuesday.\r\u2026 [+2737 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "RONALD BLUM",
-      "title": "Skubal to meet with 6 teams, including Mets, Dodgers and Padres, with December lockout looming",
-      "description": "LAS VEGAS (AP) \u2014 With a lockout looming and team executives vowing to take a business-as-usual approach to the offseason, the New York Mets, Los Angeles Dodgers and San Diego Padres are among six teams set to meet with top free-agent pitcher Tarik Skubal.Skub\u2026",
-      "url": "https://sports.yahoo.com/articles/skubal-meet-6-teams-including-034353186.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5f18aabc36b8d61055061624bbde61abfa6f101ed2786ef7ecd6340c997b4cc4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd7d0baca1b69e825d0508adbffc0051e.jpg",
-      "publishedAt": "2026-11-11T03:43:53Z",
-      "content": "LAS VEGAS (AP) With a lockout looming and team executives vowing to take a business-as-usual approach to the offseason, the New York Mets, Los Angeles Dodgers and San Diego Padres are among six teams\u2026 [+4695 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Buckley, Cabana power rushing attack for Western Michigan in 42-14 win over Akron",
-      "description": "AKRON, Ohio (AP) \u2014 Jalen Buckley dashed for 121 yards and two touchdowns, Cole Cabana added 107 rushing yards and a score, and Western Michigan defeated Akron 42-14 on Tuesday night.The Broncos (7-3, 5-1 Mid-American Conference) opened their mid-week MACtion \u2026",
-      "url": "https://sports.yahoo.com/articles/buckley-cabana-power-rushing-attack-032312101.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-11T03:23:12Z",
-      "content": "AKRON, Ohio (AP) Jalen Buckley dashed for 121 yards and two touchdowns, Cole Cabana added 107 rushing yards and a score, and Western Michigan defeated Akron 42-14 on Tuesday night.\r\nThe Broncos (7-3,\u2026 [+1133 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Landeskog scores twice and the Avalanche hand the Maple Leafs their 4th straight loss, 6-3",
-      "description": "TORONTO (AP) \u2014 Gabriel Landeskog scored his second goal of the game early in the third period to put the Colorado Avalanche ahead for good in a 6-3 win over the Toronto Maple Leafs on Tuesday night.Devon Toews, with a goal and an assist, Brock Nelson, Artturi\u2026",
-      "url": "https://sports.yahoo.com/articles/landeskog-scores-twice-avalanche-hand-025857267.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/79f7871d4d2ee608bf01597008ccd01531f2dfb786a0891eeff880ca6ed427e1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe2cbd2eecd8a014f1ca297e159fc5ef1.jpg",
-      "publishedAt": "2026-11-11T02:58:57Z",
-      "content": "TORONTO (AP) Gabriel Landeskog scored his second goal of the game early in the third period to put the Colorado Avalanche ahead for good in a 6-3 win over the Toronto Maple Leafs on Tuesday night.\r\nD\u2026 [+1738 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Suns\u2019 Jordan Ott excited for defensive specialist\u2019s return, but it comes with a cost",
-      "description": "PHOENIX\u2013 Jordan Goodwin is back, and it makes head coach Jordan Ott extremely pleased. The Phoenix Suns defensive specialist missed the last six games due to a right calf injury. It was an injury to be very cautious with, and a similar injury to what he had l\u2026",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fa7e8199-da8b-4a05-92fc-df1bb4370b2f",
-      "urlToImage": null,
-      "publishedAt": "2026-11-11T02:27:48Z",
-      "content": "If you click 'Accept all', we and our partners, including 253 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Levi Pike, Editor",
-      "title": "NHL Rumours: 3 Big Decisions Fueling Ottawa Senators Choir List",
-      "description": "Welcome to an evening of NHL Rumours as Bruce Garrioch had his segment on the TSN5 broadcast with a lot to say. The point is, as you shall see, that Garrioch does have rumours, which isn't always the case in the usually quiet and calm Ottawa organizational ca\u2026",
-      "url": "https://sports.yahoo.com/articles/nhl-rumours-3-big-decisions-021056000.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/56fc6918f1f16b6cd34cd231372e73ff1afd18cd5f6bbd26802a3e4ac7b76259/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2Ff50f20e158f342962a00cbd4a01a7632.jpg",
-      "publishedAt": "2026-11-11T02:10:56Z",
-      "content": "Welcome to an evening of NHL Rumours as Bruce Garrioch had his segment on the TSN5 broadcast with a lot to say. The point is, as you shall see, that Garrioch does have rumours, which isn't always the\u2026 [+3163 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ben Fowlkes",
-      "title": "Inside TKO's Saudi Arabia crisis: UFC, WWE workers speak out as safety fears escalate \u2014 'Everyone just can't believe this'",
-      "description": "TKO employees say they're being forced to make an impossible choice: Travel to Saudi Arabia amid an escalating military conflict, or risk losing their livelihoods. As the company presses ahead, workers speak of mounting fear, frustration and anger over a perc\u2026",
-      "url": "https://sports.yahoo.com/mma/article/inside-tkos-saudi-arabia-crisis-ufc-wwe-workers-speak-out-as-safety-fears-escalate-everyone-just-cant-believe-this-020000151.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7b865b23d5b21087f016399e68f599effb7e9328c854b269a9151a042a145413/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fed-110926-tko-employees-speak-out-v3-copy-2_2550.jpg",
-      "publishedAt": "2026-11-11T02:00:00Z",
-      "content": "The parent company of the WWE and UFC continues to plow forward with events in Saudi Arabia despite the ongoing military conflict there, but not all those within the company are happy about it.\r\nSour\u2026 [+8952 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Dylan Stableford, Harriet Sinclair, Andrew Romano",
-      "title": "House Republicans block Hegseth impeachment effort as Democrats vow to try again",
-      "description": "The Republican-controlled U.S. House of Representatives on Tuesday voted to effectively kill the articles of impeachment against Defense Secretary Pete Hegseth \u2014 for now \u2014 by blocking their consideration on the House floor and sending them back to the Judicia\u2026",
-      "url": "https://www.yahoo.com/news/politics/article/house-republicans-block-effort-to-impeach-hegseth-in-near-party-line-vote-231716935.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0a7d27949400a1f8597f1905c4e72e4be9bba24f542afd301432ff3c7392e264/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F7732eed2-614f-4c40-8fef-6db34d868821",
-      "publishedAt": "2026-11-10T23:27:11Z",
-      "content": "The Republican-controlled U.S. House of Representatives voted on Tuesday to effectively kill the articles of impeachment against Defense Secretary Pete Hegseth for now by blocking their consideration\u2026 [+8756 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Olamilekan Ajayi",
-      "title": "Dabo Swinney makes his stance clear on Clemson hiring an external general manager",
-      "description": "The Clemson Tigers already have a general manager, Jordan Sorrells, who is in his third year in the role and whose job the school describes as carrying out Dabo Swinney\u2019s vision for the roster. That arrangement sat underneath the question Swinney got at his w\u2026",
-      "url": "https://sports.yahoo.com/articles/dabo-swinney-makes-stance-clear-231525429.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cb1cb85a24a30d576bb61aff0a0668bfcbc66550cf72a953d0dde72e7d45ef94/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F6d8f854ef21a7566131ff86220bd208c.jpg",
-      "publishedAt": "2026-11-10T23:15:25Z",
-      "content": "The Clemson Tigers already have a general manager, Jordan Sorrells, who is in his third year in the role and whose job the school describes as carrying out Dabo Swinney's vision for the roster. That \u2026 [+3684 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Olamilekan Ajayi",
-      "title": "CFP\u2019s Rich Clark shares telling detail about how fans shaped the 24-team playoff",
-      "description": "A day after the College Football Playoff made its 24-team format official, executive director Rich Clark went on the Andy & Ari On3 show Tuesday and turned to a part of the fan feedback that had been buried under Monday\u2019s backlash. During Monday\u2019s media telec\u2026",
-      "url": "https://sports.yahoo.com/articles/cfp-rich-clark-shares-telling-231233881.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/67722714b4f7b1e3a6b8bdf70a0376b0ec4cd7681a0ea9b78bb077f02ff72e1e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F7f5de4a52e1968e4741bbe7ab746ae91.jpg",
-      "publishedAt": "2026-11-10T23:12:33Z",
-      "content": "A day after the College Football Playoff made its 24-team format official, executive director Rich Clark went on the Andy &amp; Ari On3 show Tuesday and turned to a part of the fan feedback that had \u2026 [+3144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Eric Edholm,Frank Schwab",
-      "title": "32 grades on the 2026 NFL trade deadline: Who won, who lost and who did nothing?",
-      "description": "Once we accept the 4-5 Raiders weren\u2019t a real playoff contender this season, the Kirk Cousins trade is brilliant. As for the Colts, no Jonathan Taylor trade? What\u2019s the point in keeping him?",
-      "url": "https://sports.yahoo.com/nfl/article/32-grades-on-the-2026-nfl-trade-deadline-who-won-who-lost-and-who-did-nothing-230823659.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2b2d507d9a4c11184cb9f06cc8a172c61610eec0efb9d7b0994b0259a5182242/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2e35e2c2-6416-44b3-9fee-b86197a385d1",
-      "publishedAt": "2026-11-10T23:08:23Z",
-      "content": "The NFL trade deadline went down at 4 p.m. ET on Tuesday. Here's a breakdown of the trades and grades. Yahoo Sports' Eric Edholm assessed the NFC teams and Frank Schwab tackled the AFC. Trade activit\u2026 [+30480 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Joel Smyth",
-      "title": "2026 NFL Trade Deadline Fantasy Fallout: Colts keep Jonathan Taylor, Chiefs deal for Josh Downs, 49ers land Keenan Allen",
-      "description": "It's time to recap some key fantasy-relevant trades.",
-      "url": "https://sports.yahoo.com/fantasy/article/2026-nfl-trade-deadline-fantasy-fallout-colts-keep-jonathan-taylor-chiefs-deal-for-josh-downs-49ers-land-keenan-allen-002717696.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8217e079f7ba2605791403081f55c780d0f750724190e9f312bff82dc4b6150c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F320bb8d7-194a-43e2-b983-41ad0f1c50b3",
-      "publishedAt": "2026-11-10T22:56:58Z",
-      "content": "The NFL trade deadline is complete and fantasy football is in a whirlwind! Fantasy analyst Joel Smyth breaks down some key deals. And go here for Hayden Winks' breakdown of Kirk Cousins' return to Mi\u2026 [+3271 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Joel Smyth",
-      "title": "2026 NFL Trade Deadline Fantasy Fallout: Josh Downs gets massive QB upgrade with move to Chiefs",
-      "description": "It's time to recap some key fantasy-relevant trades.",
-      "url": "https://sports.yahoo.com/fantasy/article/2026-nfl-trade-deadline-fantasy-fallout-josh-downs-gets-massive-qb-upgrade-with-move-to-chiefs-225658324.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8217e079f7ba2605791403081f55c780d0f750724190e9f312bff82dc4b6150c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F320bb8d7-194a-43e2-b983-41ad0f1c50b3",
-      "publishedAt": "2026-11-10T22:56:58Z",
-      "content": "The NFL Trade Deadline is complete and fantasy football is in a whirlwind! Fantasy analyst Joel Smyth breaks down some key deals first up, the Colts' trade of Josh Downs to Kansas City.\r\nThis trade i\u2026 [+1601 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Hayden Winks",
-      "title": "Kirk Cousins trade gives Justin Jefferson, Vikings' offense a fantasy lifeline",
-      "description": "Hayden Winks examines the fantasy ramifications of Kirk Cousins reuniting with Justin Jefferson and the Vikings.",
-      "url": "https://sports.yahoo.com/fantasy/article/kirk-cousins-trade-gives-justin-jefferson-vikings-offense-a-fantasy-lifeline-211926465.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b1a490a21f3ef88d4dd39cc47c6186e9b897c90c59b74fce2ea2d5d8cc2af3a0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-09%2Ff99da8c0-5d75-11ee-bdff-26703b3952f3",
-      "publishedAt": "2026-11-10T21:19:26Z",
-      "content": "Hayden Winks reacts to the 2026 NFL trade deadline through the lens of fantasy football. Let's examine the Minnesota Vikings reuniting with veteran QB Kirk Cousins in a trade with the Las Vegas Raide\u2026 [+4387 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Hayden Winks",
-      "title": "Fantasy Football Film Room: C.J. Stroud joins the elite, plus a Packers backfield waiver opportunity",
-      "description": "Hayden Winks examines C.J. Stroud's spectacular play and more takeaways from Week 9.",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-film-room-cj-stroud-joins-the-elite-plus-a-packers-backfield-waiver-opportunity-202352269.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b44261409a296784f16ec0bfc95f624a5bccf08ca8fdeb977bc9ef57919c5424/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffa2b04fc-eaf5-4119-bae1-4e40f8fa9e03",
-      "publishedAt": "2026-11-10T20:23:52Z",
-      "content": "Fantasy football is inundated with stats and charts (guilty!), but the more context the film provides, the more reliable the data gets. That's why we have a 2.5-hour show called Stats vs. Film every \u2026 [+9583 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Sean Leahy",
-      "title": "Connor Hellebuyck says trade request from Jets was the result of 'more than online death threats'",
-      "description": "The goaltender requested a trade after last season and was finally dealt to the Devils last month.",
-      "url": "https://sports.yahoo.com/nhl/article/connor-hellebuyck-says-trade-request-from-jets-was-the-result-of-more-than-online-death-threats-190224806.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b66cabd3a3747aa8592967c0dee82c947c71fee42eb2659d97ac64ca36765d09/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fd6354524-17f4-462c-964a-e8f8c24ee923",
-      "publishedAt": "2026-11-10T19:02:24Z",
-      "content": "New Jersey Devils goaltender Connor Hellebuyck said that he \"felt it was his duty\" to play in his return to Winnipeg, but respects the decision made by the organization to keep him out of Tuesday's g\u2026 [+4513 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "EVERETT MERRILL",
-      "title": "Greg Schiano returning next season at Rutgers despite 2-7 record this year",
-      "description": "(AP) \u2014 Greg Schiano, the winningest coach in Rutgers' program history, is returning next year despite back-to-back losing seasons, the university announced Tuesday.Rutgers is 2-7 and will miss out on a bowl bid for the second straight season.",
-      "url": "https://sports.yahoo.com/articles/greg-schiano-returning-next-season-184419090.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6d852a631ee559b6b27538cae62924186c60bae818a58b2a7cd5286c8d618aa1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fad62acc4a949b167e6819dee9cef19a1.jpg",
-      "publishedAt": "2026-11-10T18:44:19Z",
-      "content": "PISCATAWAY, N.J. (AP) Greg Schiano, the winningest coach in Rutgers' program history, is returning next year despite back-to-back losing seasons, the university announced Tuesday.\r\nRutgers is 2-7 and\u2026 [+2530 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Daniel Griffis",
-      "title": "The analytics behind the Jaguars\u2019 trades: Jessie Bates III, Davon Godchaux, and Jordan Davis",
-      "description": "The Jaguars know they can win a Super Bowl now. So why not give themselves the best opportunity to do just that? Not many teams improve as much in a single day in the middle of the season as the Jags, locking down an All-Pro safety, a dominant run-stuffer, an\u2026",
-      "url": "https://sports.yahoo.com/articles/analytics-behind-jaguars-trades-jessie-182251161.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f2a39209ad1ca86432b3a6df983c1a35befe7c9b8e0cb4120c3995f1ae41b8e4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwjax_cox_articles_158%2F75028a9630dc3e3371535484e5885ef9.jpg",
-      "publishedAt": "2026-11-10T18:22:51Z",
-      "content": "For those waiting for James Gladstone to make his move, he did just that three times. While other GMs sit on their wealth, afraid to move their pieces around the board, Gladstone seemingly is always \u2026 [+5000 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Dan Titus",
-      "title": "30 Fantasy basketball takes on every NBA team: The rookie takeover is changing rotations",
-      "description": "Fantasy basketball analyst Dan Titus takes a look around the league at what's notable as we close out the first month of the 2026-27 season.",
-      "url": "https://sports.yahoo.com/fantasy/article/30-fantasy-basketball-takes-on-every-nba-team-the-rookie-takeover-is-changing-rotations-175527710.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c00e6a19a7e07fc2a4cbc221fb7904fde7c078957785a18ec37e992bd408b9c0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fe83a188f-9772-4449-832d-83d19e24d236",
-      "publishedAt": "2026-11-10T17:55:27Z",
-      "content": "Here are five fantasy trends grabbing my attention heading into Week 4 of the fantasy basketball season, plus some rapid-fire notes on every other team.\r\nHeat: One of the bigger surprises has been Mi\u2026 [+8844 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "The Associated Press",
-      "title": "JuJu Watkins of No. 3 USC is the AP women's basketball player of the week for Week 1 of the season",
-      "description": "national player of the week in women\u2019s basketball for Week 1 of the season: JuJu Watkins, USCThe sensational wing returned after missing 20 months while recovering from an ACL injury she suffered in the NCAA Tournament in 2025.5 steals to help the Trojans win\u2026",
-      "url": "https://sports.yahoo.com/articles/juju-watkins-no-3-usc-172307184.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fb9efc83a52faa41b78f5269cf597f7c092e6bee1ce805ba7617df538dcd8d11/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F55ebe9c2fd2dbd2f2183f2936e5fd101.jpg",
-      "publishedAt": "2026-11-10T17:23:07Z",
-      "content": "The Associated Press national player of the week in women's basketball for Week 1 of the season:\r\nThe sensational wing returned after missing 20 months while recovering from an ACL injury she suffere\u2026 [+1193 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "WPXI.com News Staff",
-      "title": "Duquesne University men\u2019s soccer team earns multiple Atlantic 10 Conference postseason awards",
-      "description": "The Duquesne University men\u2019s soccer team earned multiple Atlantic 10 Conference postseason awards Tuesday, headlined by redshirt senior goalkeeper Sam Coss being named Goalkeeper of the Year and head coach Chase Brooks being named Coach of the Year.",
-      "url": "https://sports.yahoo.com/articles/duquesne-university-men-soccer-team-165314982.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/45dffd439a89db0120fe07ef011819f3f4e03072ae7d2fb7cc7f606edb480b99/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwpxi_cox_articles_540%2F4d682bf4e606acd72c0fe22eb731285e.jpg",
-      "publishedAt": "2026-11-10T16:53:14Z",
-      "content": "The Duquesne University men's soccer team earned multiple Atlantic 10 Conference postseason awards Tuesday, headlined by redshirt senior goalkeeper Sam Coss being named Goalkeeper of the Year and hea\u2026 [+3950 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Victor Okechukwu",
-      "title": "Why One Top-Tier Starter Won\u2019t Solve the White Sox Rotation Next Season",
-      "description": "With the dust having settled on the Chicago White Sox's 2026 season, the structural cracks in the team's engine room have been the focus this offseason. The South Siders still haven't acquired a top-of-the-rotation ace, which fans expected after general manag\u2026",
-      "url": "https://sports.yahoo.com/articles/why-one-top-tier-starter-164758438.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/44764572728a29cca8d763d6a8a8ff409f2c27fca44921216980d7728425939f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F8c6982ec93c7f234db828c58a79befa2.jpg",
-      "publishedAt": "2026-11-10T16:47:58Z",
-      "content": "With the dust having settled on the Chicago White Sox's 2026 season, the structural cracks in the team's engine room have been the focus this offseason. The South Siders still haven't acquired a top-\u2026 [+5140 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Olamilekan Ajayi",
-      "title": "Why ESPN\u2019s nearly $1.7 billion CFP deal costs the network less than it seems",
-      "description": "ESPN will remain the sole rights holder of the College Football Playoff when the bracket doubles to 24 teams in 2027, under a five-year deal worth nearly $1.7 billion, sources told ESPN\u2019s Heather Dinich. The CFP made the expansion official Monday, and the new\u2026",
-      "url": "https://sports.yahoo.com/articles/why-espn-nearly-1-7-164559273.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/67722714b4f7b1e3a6b8bdf70a0376b0ec4cd7681a0ea9b78bb077f02ff72e1e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F7f5de4a52e1968e4741bbe7ab746ae91.jpg",
-      "publishedAt": "2026-11-10T16:45:59Z",
-      "content": "ESPN will remain the sole rights holder of the College Football Playoff when the bracket doubles to 24 teams in 2027, under a five-year deal worth nearly $1.7 billion, sources told ESPN's Heather Din\u2026 [+3029 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Olamilekan Ajayi",
-      "title": "CFP executive director Rich Clark makes candid admission about fans who opposed 24-team expansion",
-      "description": "Hours after the College Football Playoff made its expansion to 24 teams official on Monday, executive director Rich Clark took a question on a media teleconference about the fans who never wanted it. The new format, built on a five-year deal with ESPN, starts\u2026",
-      "url": "https://sports.yahoo.com/articles/cfp-executive-director-rich-clark-163024138.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/82122c98d56eb84793c80a89aa2f33b4ec83055f42ac9292241ba5a6767a168e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F82f0e57c3b26b8030dffbc63bf85bf8f.jpg",
-      "publishedAt": "2026-11-10T16:30:24Z",
-      "content": "Hours after the College Football Playoff made its expansion to 24 teams official on Monday, executive director Rich Clark took a question on a media teleconference about the fans who never wanted it.\u2026 [+4159 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Scott Pianowski",
-      "title": "Falling in love with the Chargers over the summer among Scott Pianowski's biggest fantasy football regrets at midseason",
-      "description": "We all make mistakes. It's important to learn from them. Scott Pianowski goes over his biggest fantasy football regrets.",
-      "url": "https://sports.yahoo.com/fantasy/article/falling-in-love-with-the-chargers-over-the-summer-among-scott-pianowskis-biggest-fantasy-football-regrets-at-midseason-155539092.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/de0f0d4995c3d0abfc75738d965ca676ace709d8706a9261dc61460108b322c8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fe4c6b145-be9f-49b7-ac27-57df6703f78b",
-      "publishedAt": "2026-11-10T15:55:39Z",
-      "content": "We're already into the second half of the fantasy football season, so it's a good time to do some reflecting on what we've missed on. And there will never be any shortage of ideas for a column like t\u2026 [+4534 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jay Busbee",
-      "title": "Conference championships were maddening, and I\u2019ll miss them anyway",
-      "description": "Conference championship games were flawed, frustrating and sometimes downright unfair, but college football won't be quite the same without them.",
-      "url": "https://sports.yahoo.com/college-football/article/conference-championships-were-maddening-and-ill-miss-them-anyway-155003118.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5a1def61503b36c2e1b602494b7f0856d9fa89d04bdfff772fe0b84c23512136/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fded8ca3c-ce77-4bcd-b026-720c344d8e4e",
-      "publishedAt": "2026-11-10T15:50:03Z",
-      "content": "Farewell, conference championships. You were inspiring and infuriating, often irrelevant and occasionally actively harmful. You were born out of sheer profit motive, and you died the same way.\u00a0\r\nAnd \u2026 [+5113 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ray Garvin",
-      "title": "Fantasy Football Panic Meter: Matthew Stafford heads to Coping Corner after Puka Nacua injury",
-      "description": "Ray Garvin highlights the concern level for 6 players for fantasy football going into Week 10.",
-      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-panic-meter-matthew-stafford-heads-to-coping-corner-after-puka-nacua-injury-153321689.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c6c7736e6a0e5953cc53d60ef6b59ceaa747b317ab140aea5b168f9955b46dd6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F6f2ea5a6-ffd4-48fe-896e-67eb87caf96b",
-      "publishedAt": "2026-11-10T15:33:21Z",
-      "content": "At this point in the season, we have to adjust our expectations. Some of these players still belong in your fantasy football lineup, but that doesn't mean you should feel good about them. The categor\u2026 [+6792 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Andy Staples,Steven Godfrey,Ross Dellenger",
-      "title": "The 24-team CFP is official + Mayhem in the Midwest: OSU & Michigan + Philip Rivers to NC State",
-      "description": "On this episode of CFE Andy Staples, Steven Godfrey, and Ross Dellenger react to the College Football Playoff officially expanding to 24 teams and what it means for conference title games and the Group of Six. Plus, the guys break down coaching turmoil at Mic\u2026",
-      "url": "https://sports.yahoo.com/college-football/article/the-24-team-cfp-is-official--mayhem-in-the-midwest-osu--michigan--philip-rivers-to-nc-state-151618365.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1bc9cb2ffdc120e605684fb2cb77fb2fe4d5563c882fadd86d5f84a5ffac6e25/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F24-team-college-football-playoff_8820.png",
-      "publishedAt": "2026-11-10T15:16:18Z",
-      "content": "On this episode of CFE Andy Staples, Steven Godfrey, and Ross Dellenger break down the College Football Playoff officially adopting a 24-team format. The crew analyzes why conference commissioners fo\u2026 [+1255 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Angelo Guinhawa",
-      "title": "Caleb Williams Issues Strong Personal Take After Bears-Bucs Game",
-      "description": "Chicago Bears quarterback Caleb Williams remained confident in his aggressive passing approach despite throwing four interceptions during a 27-24 victory over the Tampa Bay Buccaneers on Sunday night. The performance marked a career high in interceptions for \u2026",
-      "url": "https://sports.yahoo.com/articles/caleb-williams-issues-strong-personal-150515403.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2f44511fe1a135dcc4f44e0815404fc2d8d12c1bd0022664bac682d152ab2da3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Ff266eb9aa90059955905a88cb7693c0a.jpg",
-      "publishedAt": "2026-11-10T15:05:15Z",
-      "content": "Chicago Bears quarterback Caleb Williams remained confident in his aggressive passing approach despite throwing four interceptions during a 27-24 victory over the Tampa Bay Buccaneers on Sunday night\u2026 [+2922 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Angelo Guinhawa",
-      "title": "Mike Tomlin Is Not Hiding Having a \u2018Man Crush\u2019 on Bears\u2019 Jeffery Simmons",
-      "description": "NBC Sports NFL analyst Mike Tomlin has made no secret of his admiration for Chicago Bears defensive tackle Jeffery Simmons, praising the veteran\u2019s strength, athleticism and leadership. Tomlin shared his assessment after Simmons helped the Bears secure a 27-24\u2026",
-      "url": "https://sports.yahoo.com/articles/mike-tomlin-not-hiding-having-145522887.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c82df6063643c23216fe37418a0fbc09a126c8a6decdc64abe0001e40e70c795/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Fa1e8b2c18425fa53c815167839d1f5d5.jpg",
-      "publishedAt": "2026-11-10T14:55:22Z",
-      "content": "NBC Sports NFL analyst Mike Tomlin has made no secret of his admiration for Chicago Bears defensive tackle Jeffery Simmons, praising the veteran's strength, athleticism and leadership. Tomlin shared \u2026 [+3134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Angelo Guinhawa",
-      "title": "Texans QB CJ Stroud Gets 100% Real on His Flu Game",
-      "description": "Houston Texans quarterback CJ Stroud revealed that he battled significant illness throughout the week before leading the team to a dominant 44-22 victory over the Los Angeles Chargers. Despite barely practicing during Thursday\u2019s session, Stroud delivered a fi\u2026",
-      "url": "https://sports.yahoo.com/articles/texans-qb-cj-stroud-gets-144533111.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/dc48c461424889f759dd0cf72c85c71ed643de47d30bd491f3c378dddf6f793d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Faee2dedd9d42957ec6deebc4b5b3d65c.jpg",
-      "publishedAt": "2026-11-10T14:45:33Z",
-      "content": "Houston Texans quarterback CJ Stroud revealed that he battled significant illness throughout the week before leading the team to a dominant 44-22 victory over the Los Angeles Chargers. Despite barely\u2026 [+3412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Angelo Guinhawa",
-      "title": "Saints Veteran Named as Potential \u2018Bargain Target\u2019 for San Francisco 49ers",
-      "description": "The San Francisco 49ers could explore a cost-effective defensive addition before the NFL trade deadline, with Cameron Jordan emerging as a potential bargain target. The New Orleans Saints veteran could offer valuable experience to a team looking to strengthen\u2026",
-      "url": "https://sports.yahoo.com/articles/saints-veteran-named-potential-bargain-143548268.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/75e1c96118f5796f19f79e54870282baffddf6f696386b345fd9831d2a5d97fd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2Ff87b02d6da48ba30223c94c9796ebe31.jpg",
-      "publishedAt": "2026-11-10T14:35:48Z",
-      "content": "The San Francisco 49ers could explore a cost-effective defensive addition before the NFL trade deadline, with Cameron Jordan emerging as a potential bargain target. The New Orleans Saints veteran cou\u2026 [+3359 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Angelo Guinhawa",
-      "title": "ESPN Names Eagles TE as Potential \u2018Luxury Target\u2019 for Seattle Seahawks",
-      "description": "The Seattle Seahawks could explore adding another tight end before the NFL trade deadline, with Dallas Goedert emerging as a potential luxury target, according to ESPN. The Philadelphia Eagles veteran could provide an additional receiving option as Seattle lo\u2026",
-      "url": "https://sports.yahoo.com/articles/espn-names-eagles-te-potential-141501042.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c7ca4187957f54575f8c44782da391ae15448910bbcea0225a80957bf085ea60/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F1732ca9a49e02e5db15c167dc6ed45be.jpg",
-      "publishedAt": "2026-11-10T14:15:01Z",
-      "content": "The Seattle Seahawks could explore adding another tight end before the NFL trade deadline, with Dallas Goedert emerging as a potential luxury target, according to ESPN. The Philadelphia Eagles vetera\u2026 [+3367 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ross Dellenger",
-      "title": "College sports may be headed for a CBA. Tennessee just offered a glimpse of what that could look like",
-      "description": "The university negotiated a proposed term sheet with its men\u2019s basketball team \u2014 a move intended to pave the way for the concept in the future.",
-      "url": "https://sports.yahoo.com/mens-college-basketball/breaking-news/article/college-sports-may-be-headed-for-a-cba-tennessee-just-offered-a-glimpse-of-what-that-could-look-like-135701904.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/88adcac1e253ed6a924d3267b84a9e3034e1486c8c65b4f051b24c9a3d286336/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fba286393-1ade-4b60-951c-f400df33d3f7",
-      "publishedAt": "2026-11-10T13:57:01Z",
-      "content": "The movement toward collective bargaining with major college athletes grew a bit louder this week.\r\nThe University of Tennessee, in conjunction with the college sports players association Athletes.or\u2026 [+8578 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Kendall Baker and Jeff Tracy and Neil Paine and Dylan Dittrich,Kendall Baker,Jeff Tracy",
-      "title": "\u00a0Y! Sports AM: Does anybody want this?",
-      "description": "The CFP\u2019s expansion to 24 teams is officially official.",
-      "url": "https://sports.yahoo.com/articles/y-sports-am-does-anybody-133512607.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/892dd5124616d6c56d57e1766c9e94e8345104dd0f16154727de3d0cc10b95cf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fyahoo_sports_am_newsletters_819%2Fc360f0b75b5adcebf7c7caebb1c7c3d4.jpg",
-      "publishedAt": "2026-11-10T13:35:12Z",
-      "content": "Yahoo Sports AM is our daily newsletter that keeps you up to date on all things sports. Sign up here to get it every weekday morning.\r\nJags go all in: The Jaguars acquired DT Jordan Davis from the Ea\u2026 [+10909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Abdulqudus Babatunde",
-      "title": "Kalkbrenner vs Diabat\u00e9: Hornets\u2019 Center Rotation Dilemma",
-      "description": "The Charlotte Hornets center rotation has sparked internal debate as Moussa Diabat\u00e9 works his way back from a quad injury. When Diabat\u00e9 first wrested the starting center job away from Ryan Kalkbrenner back in December 2025, it looked like a straightforward de\u2026",
-      "url": "https://sports.yahoo.com/articles/kalkbrenner-vs-diabat-hornets-center-133353490.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6d84d81cc4974f9d0d6a74a01209c7417fc29c1fb3fd2e175dca132393912b83/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F21c5b98b4553c93a1ed297ad80e7d529.jpg",
-      "publishedAt": "2026-11-10T13:33:53Z",
-      "content": "The Charlotte Hornets center rotation has sparked internal debate as Moussa Diabat\u00e9 works his way back from a quad injury. When Diabat\u00e9 first wrested the starting center job away from Ryan Kalkbrenne\u2026 [+4611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Dylan Stableford",
-      "title": "Hegseth calls impeachment push 'sabotage' in rare Pentagon press briefing",
-      "description": "Defense Secretary Pete Hegseth struck a defiant tone in a Pentagon news briefing Tuesday, after articles of impeachment were filed against him.Rep. Thomas Massie, a Republican from Kentucky, reintroduced the articles of impeachment\r\n Monday, alleging that the\u2026",
-      "url": "https://www.yahoo.com/news/politics/article/pete-hegseth-calls-thomas-massies-impeachment-effort-sabotage-as-gop-criticism-over-the-iran-war-mounts-after-midterm-rout-132855680.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0a7d27949400a1f8597f1905c4e72e4be9bba24f542afd301432ff3c7392e264/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F7732eed2-614f-4c40-8fef-6db34d868821",
-      "publishedAt": "2026-11-10T13:28:55Z",
-      "content": "Defense Secretary Pete Hegseth struck a defiant tone in a Pentagon news briefing Tuesday, after articles of impeachment were filed against him.\r\nRep. Thomas Massie, a Republican from Kentucky,reintro\u2026 [+7652 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Levi Pike, Editor",
-      "title": "NHL Predictions: Ottawa Senators vs Washington Capitals \u2013 November 10",
-      "description": "Welcome to the battle of the two nations' iconic capital cities, the Ottawa Senators hosting the team that over the past decade or so, has been involved in many important games, the Washington Capitals, with NHL Predictions alongside us here at Last Word On H\u2026",
-      "url": "https://sports.yahoo.com/articles/nhl-predictions-ottawa-senators-vs-130337566.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/92ed562da82f3b5273dad6559b372aa3bb99a9ab3e2d88a79cb848f14576f03b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F013de292606aaa0244f02fd0e74d728e.jpg",
-      "publishedAt": "2026-11-10T13:03:37Z",
-      "content": "Welcome to the battle of the two nations' iconic capital cities, the Ottawa Senators hosting the team that over the past decade or so, has been involved in many important games, the Washington Capita\u2026 [+4889 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Steen Kirby",
-      "title": "Doubles Revolt: Over 150 Players Sign Open Letter Against ATP\u2019s Proposed 2028 Cuts",
-      "description": "The ATP's 2028 blueprint promises more money for everybody. After reading the fine print, the ATP's doubles players are pushing against the proposed changes. On October 26, an open letter signed by 137 active players, 33 former players and 20 national federat\u2026",
-      "url": "https://sports.yahoo.com/articles/doubles-revolt-over-150-players-121029623.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3410ecbadd017b01969cbefce83e9a3905a16045528280c606725dbc6696586f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2Fbaba8fac28531b6143f284cae592536a.jpg",
-      "publishedAt": "2026-11-10T12:10:29Z",
-      "content": "The ATP's 2028 blueprint promises more money for everybody. After reading the fine print, the ATP's doubles players are pushing against the proposed changes.\r\nOn October 26, an open letter signed by \u2026 [+6359 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Matt Gault - BBC Sport NI senior journalist",
-      "title": "DeChambeau running out of options - McIlroy",
-      "description": "Rory McIlroy says the addition of Bryson DeChambeau to the DP World Tour next season would bring more \"eyeballs\" to the tour but feels the American is running out of options.",
-      "url": "https://www.bbc.com/sport/golf/articles/cwz0v0jmxpl0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/322c58d625ceb1200eb520ca31581dded10a3ea92d76b82aa90ea76fe8a198d8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F00542f8c0b3cdfd742d7e4872d3adc91.jpg",
-      "publishedAt": "2026-11-10T11:28:16Z",
-      "content": "Rory McIlroy says the addition of Bryson DeChambeau to the DP World Tour next season would bring more \"eyeballs\" to the tour but feels the American is running out of options.\r\nDeChambeau's competitiv\u2026 [+3140 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Dylan Stableford",
-      "title": "Trump backs Hegseth and slams Massie for introducing articles of impeachment",
-      "description": "Rep. Thomas Massie, a Republican from Kentucky, reintroduced articles of impeachment against Defense Secretary Pete Hegseth\r\n on Monday, alleging that the embattled Pentagon chief had committed \"high crimes and misdemeanors\" and abused the power of his office\u2026",
-      "url": "https://www.yahoo.com/news/politics/article/thomas-massie-introduces-articles-of-impeachment-against-pete-hegseth-as-gop-criticism-over-the-iran-war-mounts-after-midterm-rout-111928519.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5a36d393c749611aacd939f71ce88cca80250a39633b3f710da056222604794c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-trump-hegseth_9989.jpg",
-      "publishedAt": "2026-11-10T11:19:28Z",
-      "content": "Rep. Thomas Massie, a Republican from Kentucky, reintroduced articles of impeachment against Defense Secretary Pete Hegseth\r\n on Monday, alleging that the embattled Pentagon chief had committed \"high\u2026 [+7020 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Will Kubzansky",
-      "title": "Gas prices drop below $4 a gallon after months of pain at the pump",
-      "description": "(Bloomberg) -- US gasoline dropped below $4 a gallon for the first time since July, offering consumers some relief at the pump, although prices remain significantly elevated on a seasonal basis.Most Read from Bloomberg<ul><li>Nvidia Scandal Creates Risk for E\u2026",
-      "url": "https://finance.yahoo.com/energy/articles/us-gasoline-prices-drop-below-083950459.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0075fbad34ccee409b2412f2be6cc931a052fb8fb7222079e83402d8c5a39123/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fc8b186cb82659c0d6f70d61c16185cca.jpg",
-      "publishedAt": "2026-11-10T08:39:50Z",
-      "content": "(Bloomberg) -- US gasoline dropped below $4 a gallon for the first time since July, offering consumers some relief at the pump, although prices remain significantly elevated on a seasonal basis.\r\nMos\u2026 [+1591 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "S Saadeq Ahmed",
-      "title": "Alycia Baumgardner dominates Elif Nur Turhan to become lightweight world champion",
-      "description": "Alycia Baumgardner (19-1, 7 KOs, 1 NC) proved that Elif Nur Turhan (14-1, 8 KOs) was no match for her, defeating the Turk by unanimous decision. Scores were 100-90 across the board. Baumgardner is now the IBF lightweight world champion with the victory. She i\u2026",
-      "url": "https://sports.yahoo.com/articles/alycia-baumgardner-dominates-elif-nur-071145316.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/600374c73d7d3aa9c87c07d30faad6f70d992bda4acb514825a268bcca5c9c98/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbig_fight_weekend_995%2F5e6ac5bbb3354d8e664b6f4787355c0f",
-      "publishedAt": "2026-11-10T07:11:45Z",
-      "content": "Alycia Baumgardner (19-1, 7 KOs, 1 NC) proved that Elif Nur Turhan (14-1, 8 KOs) was no match for her, defeating the Turk by unanimous decision.\r\nScores were 100-90 across the board. Baumgardner is n\u2026 [+4919 chars]"
     }
   ]
 }
