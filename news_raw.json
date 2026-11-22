@@ -1,6 +1,487 @@
 {
-  "timestamp": "2026-11-21T14:30:59.721224",
+  "timestamp": "2026-11-22T14:27:15.963350",
   "data": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Shamoon Hafez",
+      "title": "Anderson steps up, Berge impresses - player ratings for Man City v Fulham",
+      "description": "How Manchester City and Fulham players rated in their Premier League match.",
+      "url": "https://www.bbc.com/sport/football/articles/cqwy06p44g3no",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3c653798a391b1f015134b7bec8b2aa7bbd257d0d082e14eddc429e55f25de92/lightyear_networkapi/resizefill_w1124_h632%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7bb74f8c11dd80db65661d9b3ba04cc6.jpg_up.jpg",
+      "publishedAt": "2026-11-21T14:21:35Z",
+      "content": "Elliot Anderson's stunning second-half volley rescued a point against Fulham, but Manchester City extend their winless run to four games in the Premier League.\r\nHere's how I rated the players, and ho\u2026 [+2710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "MEGAN JANETSKY, FABIOLA S\u00c1NCHEZ, MART\u00cdN URISTA",
+      "title": "At least 11 people killed in Mexico's Sinaloa after capture of cartel boss, officials say",
+      "description": "GUASAVE, Mexico (AP) \u2014 A burst of violence in Mexico\u2019s Sinaloa state after authorities captured cartel boss Fausto Isidro Meza Flores, known as \u201cEl Chapo Isidro,\u201d left at least 11 people dead, authorities said Saturday.\n Meza Flores, one of the FBI\u2019s 10 most \u2026",
+      "url": "https://www.yahoo.com/news/world/articles/mexico-detains-top-cartel-boss-132336521.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ca58adceed599bc8cddd90909e2c71c38f95702d41f416050091679507ecaffb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff7e9c732de0b433e628bd6a200c1a551.jpg",
+      "publishedAt": "2026-11-21T13:23:36Z",
+      "content": "GUASAVE, Mexico (AP) A burst of violence in Mexico's Sinaloa state after authorities captured cartel boss Fausto Isidro Meza Flores, known as \"El Chapo Isidro,\" left at least 11 people dead, authorit\u2026 [+6747 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "JESSE BEDAYN",
+      "title": "Jan. 6 leader who once backed Trump now says he's 'absolutely done'",
+      "description": "IRVING, Texas (AP) \u2014 Stewart Rhodes didn\u2019t just go to prison for Donald Trump. While serving time for his role in the Jan. 6 attack on the U.S. Capitol, the founder of the right-wing militia known as the Oath Keepers got a tattoo of Trump\u2019s defiant face after\u2026",
+      "url": "https://www.yahoo.com/news/politics/articles/oath-keepers-founder-jan-6-130043975.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/91e5b359af0afcde898479ce1fb57c8a374a7b4e2bbe6ff2dfbe27ea82b59d85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ffc86a8166adb645c79c3530048b54e68.jpg",
+      "publishedAt": "2026-11-21T13:00:43Z",
+      "content": "IRVING, Texas (AP) Stewart Rhodes didn't just go to prison for Donald Trump. While serving time for his role in the Jan. 6 attack on the U.S. Capitol, the founder of the right-wing militia known as t\u2026 [+5412 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Alice Speri",
+      "title": "Contenders to lead Senate Democrats reflect the party's split over Israel",
+      "description": "Chris Van Hollen, left, and Chuck Schumer. Although the underdog, Van Hollen insists he has a path to win.Composite: Jim Lo Scalzo/EPA\n\r\n\n\nThe race to lead the Democratic Party\u2019s incoming Senate majority has become the latest battlefield between two conflicti\u2026",
+      "url": "https://www.yahoo.com/news/politics/articles/race-lead-senate-democrats-latest-120057001.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6eb7ffe3be4c18cb394474c77f1c7b2021cffef524414f38186ca26f9c6220c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F824cfb55021f2457483c145293e2a307.jpg",
+      "publishedAt": "2026-11-21T12:00:57Z",
+      "content": "The race to lead the Democratic Party's incoming Senate majority has become the latest battlefield between two conflicting visions for how the US should relate to Israel a once unquestioned ally whos\u2026 [+9040 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Thuc Nhi Nguyen",
+      "title": "Walker Kessler's first three-pointer as a Laker sparks resurgent second half",
+      "description": "The 7-foot-2 center sinks a corner three after Collin Sexton told him to stay there instead of slashing to the basket during a win over the Jazz.",
+      "url": "https://sports.yahoo.com/articles/walker-kesslers-first-three-pointer-120000298.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c6927aed28ff29d1b71cda192d547b98143b8000f82576c910ca4ef796c27727/lightyear_networkapi/resizefill_w840_h560%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2Fa28ddf19983e3c428e1210d9f3c9b8fb.jpg_up.jpg",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "content": "Lakers coaches didn't know why Walker Kessler was standing in the corner. But when Collin Sexton flung the ball to the center standing behind the three-point arc on the Lakers' first possession of th\u2026 [+6093 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "\u6c34\u5eab\u6de4\u6ce5\u8b8a\u690d\u683d\u6587\u5275 \u9f8d\u83ef\u79d1\u5927\u596a\u570b\u969b\u8a2d\u8a08\u5927\u734e",
+      "description": "\u4e8c\u25cb\u4e8c\u516d\u5e74\u5ea6\u5168\u7403\u9752\u5e74\u8a2d\u8a08\u7af6\u8cfd\u300cISARCHAward\u300d\u65e5\u524d\u63ed\u66c9\uff0c\u9f8d\u83ef\u79d1\u6280\u5927\u5b78\u6587\u5316\u5275\u610f\u8207\u6578\u4f4d\u5a92\u9ad4\u8a2d\u8a08\u7cfb\u5b78\u751f\u5ed6\u6dd1\u96f2\u3001\u66fe\u601d\u6db5\uff0c\u5f9e\u5168\u7403\u7d04\u516d\u5341\u4e94\u570b\u3001\u903e\u842c\u4ef6\u53c3\u8cfd\u4f5c\u54c1\u4e2d\u812b\u7a4e\u800c\u51fa\uff0c\u4e00\u8209\u56ca\u62ec\u96d9\u9805\u5165\u570d\u3002\u5176\u4e2d\u4ee5\u5faa\u74b0\u6c38\u7e8c\u70ba\u6838\u5fc3\u7684\u300c\u6ce5\u7e8c\u7403\u300d\uff0c\u66f4\u52c7\u596a\u5168\u7403\u50c5\u9078\u51fa\u516d\u4ef6\u7684\u300cESG\u7522\u54c1\u985e\u300d\u6700\u9ad8\u5927\u734e\u80af\u5b9a\uff0c\u5411\u570b\u969b\u5c55\u73fe\u53f0\u7063\u5b78\u5b50\u7d50\u5408\u6578\u4f4d\u5de5\u85dd\u8207\u74b0\u4fdd\u5275\u65b0\u7684\u8a2d\u8a08\u5be6\u529b\u3002\u5275\u7acb\u65bc\u4e8c\u25cb\u25cb\u4e00\u5e74\u7684\u300cISARCHAward\u300d\u70ba\u6559\u80b2\u90e8\u8a8d\u53ef\u7684\u85dd\u8853\u8207\u8a2d\u8a08\u985e\u7b2c\u4e8c\u7b49\u570b\u969b\u91cd\u8981\u8cfd\u4e8b\u3002\u6b64\u6b21\u596a\u734e\u7684\u300c\u6ce5\u7e8c\u7403\u300d\u8207\u53e6\u4e00\u5165\u570d\u4f5c\u54c1\u300c\u6ce5\u8f49\u672a\u4f86\u6c38\u7e8c\u81ea\u9020\u6240\u300d\uff0c\u7686\u8207\u7d93\u6fdf\u90e8\u6c34\u5229\u7f72\u5317\u5340\u6c34\u8cc7\u6e90\u5206\u7f72\u5408\u4f5c\uff0c\u76f4\u63a5\u53d6\u6750\u81ea\u77f3\u9580\u2026",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e6506a26-8e21-49f0-b65b-a2df8770ea7b",
+      "urlToImage": null,
+      "publishedAt": "2026-11-21T11:25:25Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "\u5168\u7403\u9996\u5275\u6a5f\u5834WCA\u76f2\u89e3\u8207\u6700\u5c11\u6b65\u6578\u8cfd\u3000245\u540d\u8de8\u570b\u597d\u624b\u9f4a\u805a\u570b\u9580\u5c55\u73fe\u9802\u5c16\u5c0d\u6c7a",
+      "description": "\u7d50\u5408\u570b\u969b\u76ca\u667a\u7af6\u6280\u8207\u570b\u9580\u6587\u5316\u9b45\u529b\u7684\u5e74\u5ea6\u76db\u4e8b\u2014\u7b2c\u56db\u5c46\u6843\u5712\u570b\u969b\u6a5f\u5834\u300c\u98db\u6a5f\u76c3\u570b\u969b\u9b54\u8853\u65b9\u584a\u5927\u8cfd\u300d\uff0c\u65bc115\u5e7411\u670820\u65e5\u81f322\u65e5\u76db\u5927\u767b\u5834\u3002\u6843\u5712\u5e02\u653f\u5e9c\u526f\u5e02\u9577\u738b\u660e\u924521\u65e5\u89aa\u81ea\u51fa\u5e2d\u958b\u5e55\u5f0f\uff0c\u80af\u5b9a\u8cfd\u4e8b\u898f\u6a21\u9010\u5e74\u5275\u65b0\u9ad8\uff0c\u4e26\u8b9a\u8a31\u4eca\u5e74\u5275\u4e0b\u5168\u7403\u9996\u4f8b\uff0c\u5728\u6a5f\u5834\u822a\u5ec8\u5167\u8209\u8fa6\u4e16\u754c\u9b54\u8853\u65b9\u584a\u5354\u6703\uff08WCA\uff09\u8a8d\u8b49\u7684\u5b89\u975c\u8cfd\uff0c\u5c55\u73fe\u53f0\u7063\u8207\u6843\u5712\u7684\u7368\u7279\u570b\u969b\u9b45\u529b\u3002\u672c\u5c46\u8cfd\u4e8b\u7531\u5168\u570b\u9b54\u8853\u65b9\u584a\u6559\u80b2\u5354\u6703\uff08NCEA\uff09\u8207\u7fa9\u7f8e\u5409\u76db\u80a1\u4efd\u6709\u9650\u516c\u53f8\u5171\u540c\u4e3b\u8fa6\uff0c\u4e26\u651c\u624b\u6843\u5712\u6a5f\u5834\u516c\u53f8\u53ca\u6843\u5712\u5728\u5730\u4f01\u696d\u8207\u516c\u76ca\u5718\u9ad4\uff0c\u5171\u540c\u5be6\u8e10\u300c\u6843\u6a5f\u5927\u806f\u76df\u300dESG\u653f\u7b56\u3002\u4eca\u5e74\u8cfd\u4e8b\u9996\u5ea6\u64f4\u5927\u70ba\u4e09\u5929\uff0c\u5438\u5f15\u7834\u7d00\u9304\u7684245\u540d\u4f86\u81ea\u53f0\u7063\u3001\u7f8e\u570b\u3001\u2026",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d462f172-6666-43d9-941c-7499fab25468",
+      "urlToImage": null,
+      "publishedAt": "2026-11-21T09:38:08Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "'CSKA Sofia interested in Rangers' Cortes' - gossip",
+      "description": "Bulgarian club CSKA Sofia are reportedly interested in Rangers' Oscar Cortes, while Celtic goalkeeper Sam Johnstone says he's keen to stay beyond his loan deal.",
+      "url": "https://www.bbc.com/sport/football/articles/ckregwp3glwwo",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/bcc6e83171003e9851d5c69ce3eaceee038359d69252700e7316e61d0dc12c53/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png_up.jpg",
+      "publishedAt": "2026-11-21T09:13:25Z",
+      "content": "Bulgarian club CSKA Sofia are reportedly interested in Rangers' Oscar Cortes, while Celtic goalkeeper Sam Johnstone says he's keen to stay beyond his loan deal.\r\nRangers winger Oscar Cortes, who has \u2026 [+1947 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "\u5feb\u8a0a\uff0f\u8b77\u76e4\u518d\u51fa\u91cd\u62f3\uff01\u91d1\u7ba1\u6703\u796d\u51fa\u300c\u5168\u9762\u7981\u7a7a\u4ee4\u300d\u30005\u5927\u7a69\u5e02\u63aa\u65bd\u4f86\u4e86",
+      "description": "\u70ba\u56e0\u61c9\u53f0\u80a1\u5287\u70c8\u9707\u76ea\uff0c\u91d1\u7ba1\u6703\u5ba3\u5e03\u81ea115\u5e7411\u670823\u65e5\u8d77\u5be6\u65bd5\u5927\u7a69\u5e02\u63aa\u65bd\uff0c\u5305\u542b\u5168\u9762\u7981\u6b62\u5e73\u76e4\u4ee5\u4e0b\u653e\u7a7a\u3001\u878d\u5238\u4fdd\u8b49\u91d1\u8abf\u5347\u81f3150%\u3001\u66ab\u505c\u767c\u884c\u8a8d\u552e\u6b0a\u8b49\u3001\u5be6\u65bd\u5eab\u85cf\u80a1\u7d0d\u5165ESG\u8a55\u9451\u52a0\u5206\uff0c\u4ee5\u53ca\u9650\u7e2e\u501f\u5238\u4f9b\u7d66\u7b49\u3002\u91d1\u7ba1\u6703\u96d9\u7ba1\u9f4a\u4e0b\u6291\u5236\u7a7a\u65b9\u4e26\u7a69\u5b9a\u7c4c\u78bc\uff0c\u547c\u7c72\u6295\u8cc7\u4eba\u7406\u6027\u56e0\u61c9\u570b\u969b\u91d1\u878d\u60c5\u52e2\u3002",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_acce0230-5bfb-4318-8c1c-ce463e887562",
+      "urlToImage": null,
+      "publishedAt": "2026-11-21T07:53:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Chris Kirwan BBC Sport Wales",
+      "title": "Wales hungry to show they are not one-hit wonders",
+      "description": "Wales must kick on when they host Australia in the Nations Championship on Saturday, fresh from making history against New Zealand.",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/c6n83rj3v9zmo",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2b41e758402e3011cdac623e5971fd7cacd695fc6a17392e448dcd65e7c95ab7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F80e72d2b7f900f4a7be00c79a282158d.jpg",
+      "publishedAt": "2026-11-21T07:37:28Z",
+      "content": "The Australia fixture was meant to be Wales' big shot.\r\nIt was the chance to finally claim the scalp of a southern hemisphere big gun. The opportunity to make a statement ahead of the 2027 World Cup \u2026 [+8964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "Athlete who lost hand saving friends in attack 'would do it again'",
+      "description": "Ismael Ox was 11 years old when he lost his hand trying to protect his friends from a grenade - and now competes in Para-taekwondo for the USA.",
+      "url": "https://www.bbc.com/sport/taekwondo/articles/crpdwljj0v89o",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/bcc6e83171003e9851d5c69ce3eaceee038359d69252700e7316e61d0dc12c53/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png_up.jpg",
+      "publishedAt": "2026-11-21T06:35:11Z",
+      "content": "\"It's just a hand. In the end, I'm still alive.\"\r\nWhen an Islamist militant group threw a grenade at 11-year-old Ismael 'Ox' Oumarou and his friends in Niger, he didn't run away from it, he ran towar\u2026 [+7521 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Gayle Falkenthal",
+      "title": "Amari Jones and Gabriela Fundora Give Fans the Goods Friday",
+      "description": "Friday night delivered all the action fans in the desert could have hoped for, led by Amari Jones and Gabriela Fundora.",
+      "url": "https://sports.yahoo.com/articles/amari-jones-gabriela-fundora-fans-054312044.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e483bbeaca1e83f02267a677e3d398035caf18292aa719725e8a814f16f8f36b/lightyear_networkapi/resizefill_w1024_h683%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_fights_228%2F213a5a3fa58f31e08ed8c89bf7cef1a7.jpg_up.jpg",
+      "publishedAt": "2026-11-21T05:43:12Z",
+      "content": "<ul><li>Undefeated middleweight Amari Jones says he brought out the dog Friday night in the Golden Boy Boxing main event Friday in Indio, California.\r\n</li><li>Undisputed women's flyweight champion G\u2026 [+8706 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "\u4e9e\u6615\u4f01\u696d\u9023\u5169\u5e74\u633a\u99ac\u5055 \u6df1\u5316ESG\u516c\u76ca\u6cbb\u7406\u5b88\u8b77\u793e\u5340\u5171\u597d",
+      "description": "\u5716\u8aaa\uff1a\u4e9e\u6615\u4f01\u696d\u9023\u5169\u5e74\u633a\u99ac\u5055 \u6df1\u5316ESG\u516c\u76ca\u6cbb\u7406\u5b88\u8b77\u793e\u5340\u5171\u597d\u3002 \u3010\u8a18\u8005\u8521\u5bcc\u4e1e/\u53f0\u5317\u5831\u5c0e\u3011\u4e9e\u6615\u79d1\u6280\uff0819\uff09\u65e5\u518d\u5ea6\u6350 [...]",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1c29985e-99c2-43a5-a1e7-84f32bdf91a6",
+      "urlToImage": null,
+      "publishedAt": "2026-11-21T04:19:33Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Former Tigers Ace Tarik Skubal\u2019s Offer Smashes MLB History",
+      "description": "The Detroit Tigers decided to trade ace pitcher Tarik Skubal in early August to the Los Angeles Dodgers after the Cy Young Award winner wouldn\u2019t commit to signing a long-term extension with the club. While with the Dodgers, he helped them bring home another d\u2026",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4c63f0a8-09a2-4efb-8497-3cad7fd388c1",
+      "urlToImage": null,
+      "publishedAt": "2026-11-21T00:52:18Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "MARK ANDERSON",
+      "title": "A unanimous deal sets F1 on a path back to V8 power in 2030",
+      "description": "LAS VEGAS (AP) \u2014 V8 engines are making a likely return to Formula 1 in 2030 after a unanimous agreement was reached Friday that will bring back a roar to the sport that has been missing for more than a decade.F1 used V8s from 2006-13 before opting to go to th\u2026",
+      "url": "https://sports.yahoo.com/articles/unanimous-deal-sets-f1-path-000331888.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c52f7f735ae81edc435ce9fba5722755aed21c5c14b20014662ab1a40a0ec18a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff07c447eccc7a9d151f69be6d88c9098.jpg",
+      "publishedAt": "2026-11-21T00:03:31Z",
+      "content": "LAS VEGAS (AP) V8 engines are making a likely return to Formula 1 in 2030 after a unanimous agreement was reached Friday that will bring back a roar to the sport that has been missing for more than a\u2026 [+2227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Chris Wathan BBC Sport Wales Utilita Arena Cardiff",
+      "title": "Price beats Kotaskova to become undisputed champion",
+      "description": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.",
+      "url": "https://www.bbc.com/sport/boxing/articles/cw808y2lrkzxo",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1133c2dfbe72cabbc50071d9ff7804034dd72fd68fd6123e0c2a8f80455ae4a6/lightyear_networkapi/resizefill_w951_h535%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F897748065d94050e9671c5062279b3a2.jpg_up.jpg",
+      "publishedAt": "2026-11-20T23:38:07Z",
+      "content": "Lauren Price dominated Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.\r\nPrice, 32, took an unanimous, shut-out decision and the acclaim of the crow\u2026 [+4970 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Russell Dorsey",
+      "title": "MLB trade candidates to watch: Could Ketel Marte, Jarren Duran, Corey Seager be in play?",
+      "description": "With a potential transaction freeze coming in a few weeks amid a labor dispute, teams may try to beat the clock with some blockbuster deals.",
+      "url": "https://sports.yahoo.com/mlb/article/mlb-trade-candidates-to-watch-could-ketel-marte-jarren-duran-corey-seager-be-in-play-223458483.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/af6ee9ed90e1eff508b547bb5d68330c5b7258a8e1d48ea6e092037cf54e8359/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F79112d7e-fecb-4b87-9647-243d22092044",
+      "publishedAt": "2026-11-20T22:34:58Z",
+      "content": "The dam on this offseason's trade market seems to have broken with the Seattle Mariners acquiring third baseman Maikel Garcia from the Kansas City Royals earlier in the week. But as the free-agent ma\u2026 [+6043 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sabine Siebold",
+      "title": "German minister sorry for calling Pentagon official 'stupid'...",
+      "description": "German minister sorry for calling Pentagon official 'stupid'...\r\n\n \n \n \n (Second column, 18th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:UK begins to undo Brexit with landmark EU deal...",
+      "url": "https://www.yahoo.com/news/politics/articles/german-minister-sorry-calling-pentagon-150856018.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/92885be273ca12af93917cf75473e359f72d6ed4018fbe3e309c771595a4dd26/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6dcb6f4864ab5908ecb7af312230c92a.jpg_up.jpg",
+      "publishedAt": "2026-11-20T22:19:36Z",
+      "content": "By Sabine Siebold\r\nBERLIN, Nov 20 (Reuters) - German Defence Minister Boris Pistorius said on Friday he had apologised for calling Pentagon policy chief Elbridge Colby's opposition to Ukrainian deep \u2026 [+2164 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "DAVID A. LIEB",
+      "title": "Bayer agrees to pay up to $7.25 billion over Roundup cancer claims spanning decades",
+      "description": "JEFFERSON CITY, Mo. (AP) \u2014 Agrochemical maker Bayer will pay up to $7.25 billion over two decades to resolve thousands of claims from U.S. cancer patients asserting the company should have warned people that its popular weed killer Roundup could cause lymphom\u2026",
+      "url": "https://finance.yahoo.com/healthcare/articles/bayer-pay-7-25-billion-214217018.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8cbab00964bea0a5183ef01ad4caedcc4756bf0f82e082335df895bc220c3cae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9e0d89024c135d8c2be296a61100cf18.jpg",
+      "publishedAt": "2026-11-20T21:42:17Z",
+      "content": "JEFFERSON CITY, Mo. (AP) Agrochemical maker Bayer will pay up to $7.25 billion over two decades to resolve thousands of claims from U.S. cancer patients asserting the company should have warned peopl\u2026 [+5647 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jared Blikre",
+      "title": "Chip stocks are crashing like it's 2008 as the Nasdaq finishes just shy of bear market",
+      "description": "Wall Street is wrapping up a kind of week it has seen only five other times since World War II. Two of them came in 2008 and 2001.The S&P 500 (^GSPC) fell every day this week, with four drops of 1% or more. That had happened only in 1962, 1974, 1978, the week\u2026",
+      "url": "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/18b22069dee52a232866ce45b5c26338a9156ffa433ce3b0a0ad066e50e19bf4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fd32601ce-94f7-48c3-8883-22b2dc11feb2",
+      "publishedAt": "2026-11-20T21:23:54Z",
+      "content": "Wall Street is wrapping up a kind of week it has seen only five other times since World War II. Two of them came in 2008 and 2001.\r\nThe S&amp;P 500 (^GSPC) fell every day this week, with four drops o\u2026 [+3769 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Giants have clean injury report vs. Jaguars in Week 11",
+      "description": "The New York Giants have no injury designations for their Week 11 game against the Jacksonville Jaguars.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f0fccb1b-d2a5-46a5-8fa3-88c8a5493b8e",
+      "urlToImage": null,
+      "publishedAt": "2026-11-20T21:10:25Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Players reject MLB\u2019s international draft proposal; ask for higher bonus pools, aid to small markets",
+      "description": "Management has tried unsuccessfully for more than two decades to get an international draft and in June proposed it start with 12 rounds in 2027.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a0a301c0-74de-497c-a1ba-9eec3c90417f",
+      "urlToImage": null,
+      "publishedAt": "2026-11-20T20:49:41Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jake Mintz",
+      "title": "What Rob Manfred\u2019s comments about salary cap mean for MLB talks, and what's he got against Thanksgiving?",
+      "description": "The MLB commissioner reaffirmed the league's strong stance in favor of a salary cap and floor while hinting at a potential drastic negotiating strategy with the players union in the months ahead.",
+      "url": "https://sports.yahoo.com/mlb/article/what-rob-manfreds-comments-about-salary-cap-mean-for-mlb-talks-and-whats-he-got-against-thanksgiving-204653916.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/53a3bc3c2f5fd326ef2ba15a30b62b0f058a3067c88570edb44151030d77e545/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fb9ca91e2-d02a-4589-8e4f-2508e0fb6a30",
+      "publishedAt": "2026-11-20T20:46:53Z",
+      "content": "MLB commissioner Rob Manfred and the owners he represents want a salary cap.\r\nThat, for ballfans not living in a cave, is no surprise.\r\nBut Manfred's vehement and unambiguous appeal for a cap during \u2026 [+6372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mike Bebernes",
+      "title": "Trump threatens 'tremendous tax' on tech companies that build AI centers overseas",
+      "description": "President Trump on Friday threatened to impose a \"tremendous tax\" on U.S. tech companies if they build data centers in other countries.\u00a0\"We're gonna fight very hard for the data centers,\" he said at a press conference Friday morning. \"We're not gonna allow ou\u2026",
+      "url": "https://tech.yahoo.com/general/article/trump-threatens-us-companies-that-build-data-centers-in-other-countries-as-americans-increasingly-oppose-the-facilities-in-their-communities-202048230.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/39a3f4ab4e0205850a2bc00c8f4fb5cdda474ae303713d479868c964df5c4f82/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-anti-data-center_4403.jpg",
+      "publishedAt": "2026-11-20T20:27:38Z",
+      "content": "President Trump on Friday threatened to impose a \"tremendous tax\" on U.S. tech companies if they build data centers in other countries.\u00a0\r\n\"We're gonna fight very hard for the data centers,\" he said a\u2026 [+15169 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jared Blikre",
+      "title": "Nvidia accounting under SEC investigation, sources say",
+      "description": "Nvidia's record sell-off deepened as Reuters reported that SEC investigators are examining its accounting.",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cef3d0cb072492443a64255ea4f07aa8daad11f175c74e7cdd347255f44a5e89/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F659a6a35-5338-4ebd-8785-e731cf831f2d",
+      "publishedAt": "2026-11-20T20:22:41Z",
+      "content": "Nvidia's worst week on record keeps getting worse. Now the government is asking questions about its books.\r\nNvidia (NVDA) stock is down about 10% Friday, on track for its worst day since the DeepSeek\u2026 [+2604 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "\u96c6\u4fdd\u767c\u5e03\u300cESG\u8a55\u7d1a\u8207\u6578\u64da\u7522\u54c1\u63d0\u4f9b\u8005\u884c\u70ba\u6e96\u5247\u300d",
+      "description": "\u3010\u8a18\u8005\u67ef\u5b89\u8070\u53f0\u5317\u5831\u5c0e\u3011\u70ba\u5f37\u5316\u6211\u570b\u6c38\u7e8c\u8a55\u7d1a\u5e02\u5834\u4e4b\u900f\u660e\u5ea6\u8207\u516c\u4fe1\u529b\u4e26\u8207\u570b\u969b\u63a5\u8ecc\uff0c\u81fa\u7063\u96c6\u4e2d\u4fdd\u7ba1\u7d50\u7b97\u6240\u5df2\u65bc11\u67086\u65e5\u300c\u81fa\u7063\u9031\u2014\u6c38\u7e8c\u91d1\u878d\u65b0\u7bc7\u7ae0\u570b\u969b\u8ad6\u58c7\u300d\u4e2d\uff0c\u6b63\u5f0f\u767c\u5e03\u300c\u81fa\u7063\u96c6\u4e2d\u4fdd\u7ba1\u7d50\u7b97\u6240\u80a1\u4efd\u6709\u9650\u516c\u53f8ESG\u8a55\u7d1a\u8207\u6578\u64da...",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c15d4d56-0263-4bcd-aded-cc0c8b9d5443",
+      "urlToImage": null,
+      "publishedAt": "2026-11-20T18:14:02Z",
+      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Eric Froton, Nick Bromberg",
+      "title": "Bold college fantasy football predictions for Week 12",
+      "description": "It's time to get bold for Week 12 of the college fantasy football season.",
+      "url": "https://sports.yahoo.com/fantasy/article/bold-college-fantasy-football-predictions-for-week-12-180820489.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7ae4d21e4e1bf17090f6a54c91c493c0cf4838f11824202a44e5bf64d6dc52c0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F286af064-2660-4b7b-9746-b59ea6d09a42",
+      "publishedAt": "2026-11-20T18:08:20Z",
+      "content": "Yahoo Sports College Football analysts Nick Bromberg and Eric Froton deliver their predictions for Week 12 the first week of the default fantasy playoffs.\r\nWith Carson Hansen questionable for Saturda\u2026 [+2338 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Marc Jones, Alun John",
+      "title": "Snowballing stock selloff in global markets... Developing...",
+      "description": "By Marc Jones and Alun John LONDON, Nov 20 (Reuters) - A global financial market rout has taken a major turn for the worse this week as a noxious combination...",
+      "url": "https://finance.yahoo.com/markets/articles/snowballing-selloff-global-markets-151205233.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fcc88ce8e7007b14bb210c545fbd443bdf3e97b6a0b6b1d5c6e19f8d8809c952/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F71802bb4fe9fb509e81c4d198d38831a.jpg_up.jpg",
+      "publishedAt": "2026-11-20T18:00:15Z",
+      "content": "By Marc Jones and Alun John\r\nLONDON, Nov 20 (Reuters) - A global financial market rout has taken a major turn for the worse this week as a noxious combination of worries over AI and US interest rates\u2026 [+3913 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Yahoo Sports Fantasy Staff",
+      "title": "Fantasy Football: Jaylen Waddle finally shows up, Bears' backfield goes off and more bold predictions for Week 11",
+      "description": "Our Yahoo analysts share their one bold call for fantasy football in Week 11.",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-jaylen-waddle-finally-shows-up-bears-backfield-goes-off-and-more-bold-predictions-for-week-11-171149139.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1542158f5689db8d00dff97538039e3f24e6f42f39a980d3bcf2ae8a4b56d94b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4469a00d-99e3-49ab-969c-e72580390a79",
+      "publishedAt": "2026-11-20T17:11:49Z",
+      "content": "There aren't many weeks left in the fantasy football regular season; you can't hold anything back. That means you need to be bold to come out on top. Our Yahoo analysts share their one bold predictio\u2026 [+4042 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hayden Winks",
+      "title": "Fantasy Football Rankings: 5 most polarizing players for Week 11",
+      "description": "Hayden Winks goes over the five most polarizing players for fantasy football among the Yahoo Fantasy rankings for Week 11.",
+      "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-5-most-polarizing-players-for-week-11-170051295.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/767b49c6f8398acd5dcf959ff96f513b9846b20ffd9279e7fa68521c8d9cd791/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fc326be7b-9d7e-4f20-927d-7df8f0605e3a",
+      "publishedAt": "2026-11-20T17:00:51Z",
+      "content": "We have five Yahoo rankers every week, and this column will look at four of the buzziest names of the week. I'm looking for players where there is real disagreement, and I'm using a little something \u2026 [+5471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Paolo Songco",
+      "title": "Jason Kelce Has Strong Words for Kansas City Chiefs Rookie",
+      "description": "Emmett Johnson has been impressive for the Kansas City Chiefs, especially in the last two weeks. Jason Kelce had strong words for the rookie running back on Wednesday. The No. 161 overall pick in the fifth round this year once again delivered a head-turning p\u2026",
+      "url": "https://sports.yahoo.com/articles/jason-kelce-strong-words-kansas-163008673.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c70866f3449e945cbfb204f121c2393c2fae59d155910749d67611342bde1b11/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F8eee368cc041b37414263e9d4bb609bb.jpg",
+      "publishedAt": "2026-11-20T16:30:08Z",
+      "content": "Emmett Johnson has been impressive for the Kansas City Chiefs, especially in the last two weeks. Jason Kelce had strong words for the rookie running back on Wednesday.\r\nThe No. 161 overall pick in th\u2026 [+2340 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "PAT GRAHAM",
+      "title": "Rockies All-Star catcher Hunter Goodman underwent left shoulder surgery, expected back for spring",
+      "description": "DENVER (AP) \u2014 Colorado Rockies All-Star catcher Hunter Goodman underwent offseason surgery to clean up his left shoulder and is expected to be ready for the spring.Goodman spent time on the injured list in August with a strained left shoulder in the midst of \u2026",
+      "url": "https://sports.yahoo.com/articles/rockies-star-catcher-hunter-goodman-162101818.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cf221d998b96f315f5ed4e7af50e3f53f214c3f650361d7bece304a69a99f130/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9a7d280d13c06bc731e9249d721ad00a.jpg",
+      "publishedAt": "2026-11-20T16:21:01Z",
+      "content": "DENVER (AP) Colorado Rockies All-Star catcher Hunter Goodman underwent offseason surgery to clean up his left shoulder and is expected to be ready for the spring.\r\nGoodman spent time on the injured l\u2026 [+1213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Dan Devine, Nekias Duncan, Kelly Iko, Steve Jones",
+      "title": "NBA one-month awards! MVP, best rookie, breakout stars and surprise teams so far",
+      "description": "With the NBA season hitting the one-month mark, let's hand out some early awards.",
+      "url": "https://sports.yahoo.com/nba/article/nba-one-month-awards-mvp-best-rookie-breakout-stars-and-surprise-teams-so-far-152431936.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0ae83178f75736cfc471fb2764fbd94fb3098c95a3ed4720d29693da5d7eed75/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fc474fda7-ca8d-4106-ba4e-1a20249509bc",
+      "publishedAt": "2026-11-20T15:24:31Z",
+      "content": "With the NBA season hitting the one-month mark, let's hand out some early awards! Who has been the most valuable player so far? The best rookie? The league's breakout star? Our writers weigh in with \u2026 [+12576 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Peter Chawaga",
+      "title": "Dodgers' Shohei Ohtani Signs Career Deal Immediately After Disappointing Season",
+      "description": "The Los Angeles Dodgers\u2019 two-way superstar agreed to a historic endorsement extension shortly after an injury plagued down year.",
+      "url": "https://www.forbes.com/sites/peterchawaga/2026/11/20/dodgers-shohei-ohtani-signs-career-deal-immediately-after-disappointing-season/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8696b6378a856fb6ab55b3d0d8288a7cc2d71959fe65424761ec5bc1e5e58dc1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F18638da2fe254e9fbf74bea30525a8d8.jpg_up.jpg",
+      "publishedAt": "2026-11-20T15:15:20Z",
+      "content": "Shohei Ohtani has accomplished just about everything a professional baseball player can hope to achieve.\r\nThe Los Angeles Dodgers superstar has collected four MVP awards, two World Series championshi\u2026 [+2999 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Matt Okada",
+      "title": "Week 11 Fantasy Football Fades and Busts: Sorry, but Jalen Coker SZN looks like it's over",
+      "description": "Matt Okada takes you through 6 players he's avoiding in fantasy football for Week 11.",
+      "url": "https://sports.yahoo.com/fantasy/article/week-11-fantasy-football-fades-and-busts-sorry-but-jalen-coker-szn-looks-like-its-over-150613665.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/01f2d7d4e595438491b20ff7e87a6456d1c4a63c371cc8f3f38da910c5ed8dd1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F3f7e4537-cedf-4ff3-bbb6-13e75ca7008a",
+      "publishedAt": "2026-11-20T15:06:13Z",
+      "content": "Welcome to the 11th of 17 weekly articles spotlighting the fantasy football fades of the week! I am your host, Matt Okada, and I'll be bringing you half a dozen potential busts each and every Friday,\u2026 [+9361 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jeff Eisenberg",
+      "title": "49ers and Vikings are preparing for Mexico City's thin air in very different ways. Science favors one",
+      "description": "The Niners are practicing at elevation, while the Vikings brought elevation to Minnesota in preparation for Sunday's game at the 7,356-foot Estadio Azteca.",
+      "url": "https://sports.yahoo.com/nfl/article/49ers-and-vikings-are-preparing-for-mexico-citys-thin-air-in-very-different-ways-science-favors-one-150102578.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7a22d6ce7082600297afc0945bf3d4cb5f821925c708f8e2d63aa76e6ccbc62d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F78ba1196-70e9-45f8-be60-67677f3fb03f",
+      "publishedAt": "2026-11-20T15:01:02Z",
+      "content": "San Francisco 49ers coach Kyle Shanahan remembers how he felt during college when he returned to visit his parents in Denver after spending a few months at sea level.\r\n\"You'd run up the stairs and be\u2026 [+8698 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Alex Richards",
+      "title": "FPL Gameweek 11 Must Have & Must Drop Tips",
+      "description": "FPL Gameweek 11 comes on the back of an international break. Around the league there are fresh legs, new managers, and an expected change to the status quo as some coaches bounce back while others try to reintegrate tired legs who travelled the globe for inte\u2026",
+      "url": "https://sports.yahoo.com/articles/fpl-gameweek-11-must-must-150004099.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e04470d30990ba91908cf15e5cb8b742679eeec1f463d78d82524d3dd1796cab/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2Ff692e17c4853067ee2c2a734143df88e.jpg",
+      "publishedAt": "2026-11-20T15:00:04Z",
+      "content": "FPL Gameweek 11 comes on the back of an international break. Around the league there are fresh legs, new managers, and an expected change to the status quo as some coaches bounce back while others tr\u2026 [+2636 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -819,487 +1300,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/7336f4279b9e03716fb487f299dc9cac563c17db522784cd32283076657c27b9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
       "publishedAt": "2026-11-19T04:04:39Z",
       "content": "CLEVELAND (AP) Cam Spencer scored 26 points, Taylor Hendricks added 20, including a key pair of free throws with 2.3 seconds remaining, and the Memphis Grizzlies set a franchise record with their eig\u2026 [+7510 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Alexander Rosquez",
-      "title": "Cubs Show Pitching Depth Plan With Jaxon Wiggins Move",
-      "description": "Jaxon Wiggins is now on the Chicago Cubs\u2019 40-man roster, and what Chicago does with him may say as much about its pitching plan as any free-agent signing. The Cubs selected the contracts of Wiggins and Brody McCullough to protect them from the Rule 5 Draft, t\u2026",
-      "url": "https://sports.yahoo.com/articles/cubs-show-pitching-depth-plan-033604338.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7b69fb9209c496531de722c0f0f536a2cec9d1ea9ca8f595e250cf8c1c04ca19/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F42f82cde5f1303d41694a67bb13b24b9.jpg",
-      "publishedAt": "2026-11-19T03:36:04Z",
-      "content": "Jaxon Wiggins is now on the Chicago Cubs' 40-man roster, and what Chicago does with him may say as much about its pitching plan as any free-agent signing. The Cubs selected the contracts of Wiggins a\u2026 [+3975 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Davis and Dybantsa lead the Wizards past the Raptors 103-99 in a matchup of struggling teams",
-      "description": "TORONTO (AP) \u2014 Anthony Davis had 25 points and 14 rebounds, rookie AJ Dybantsa added 23 points and 12 boards, and the Washington Wizards beat the undermanned Toronto Raptors 103-99 on Wednesday night to snap an eight-game losing streak. Canadian Kyshawn Georg\u2026",
-      "url": "https://sports.yahoo.com/articles/davis-dybantsa-lead-wizards-past-033306902.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/52b63a57286e955dcf2921ad45453dd7bb9dfc0deb2aa8955ea793f27b86eae2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4ada9e736b10fe1cbb03de0b28ea190c.jpg",
-      "publishedAt": "2026-11-19T03:33:06Z",
-      "content": "TORONTO (AP) Anthony Davis had 25 points and 14 rebounds, rookie AJ Dybantsa added 23 points and 12 boards, and the Washington Wizards beat the undermanned Toronto Raptors 103-99 on Wednesday night t\u2026 [+1295 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Rebounding improves, other areas regress for Gonzaga in Montana State win | Rewind",
-      "description": "Nov. 18\u2014Mark Few was only halfway satisfied with Gonzaga's defensive execution on Tuesday night against Montana State in a game where nothing looked entirely clean for 40 minutes, but everything worked well enough to send the Bulldogs home with a 74-62 victor\u2026",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4e2b8206-597e-4bed-af02-7c816457721a",
-      "urlToImage": null,
-      "publishedAt": "2026-11-19T03:08:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "ANNE M. PETERSON",
-      "title": "Ashley Sanchez wins NWSL MVP after 20-goal season with the Courage",
-      "description": "North Carolina Courage forward Ashley Sanchez was named the National Women's Soccer League Most Valuable Player for this season on Wednesday. Sanchez was also the Golden Boot winner after scoring 20 goals this season, matching the league record set by Temwa C\u2026",
-      "url": "https://sports.yahoo.com/articles/ashley-sanchez-wins-nwsl-mvp-024249322.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0014bedde82d3135b5d2d03defc33a30e467bafbfbbf709f7caea19e7ab03d93/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F962dc64df3a163c02bb64eda2579aef0.jpg",
-      "publishedAt": "2026-11-19T02:42:49Z",
-      "content": "North Carolina Courage forward Ashley Sanchez was named the National Women's Soccer League Most Valuable Player for this season on Wednesday.\r\nSanchez was also the Golden Boot winner after scoring 20\u2026 [+2332 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "\u7f8e\u570b\u5bcc\u8c6a\u4e0d\u5fcd\u4e86\uff01\u3000\u767c\u6587\u72c2\u8f5f\u8f1d\u9054\u8463\u4e8b\u6703\uff1a\u903c\u9000\u9ec3\u4ec1\u52f3\u662f\u300c\u770b\u5a92\u9ad4\u6a19\u984c\u5009\u4fc3\u4e0b\u6c7a\u5b9a\u300d",
-      "description": "\u524d\u8f1d\u9054\uff08Nvidia\uff09\u57f7\u884c\u9577\u9ec3\u4ec1\u52f3\u56e0\u7dcb\u805e\u98a8\u6ce2\u8fad\u8077\u4e0b\u53f0\u5f8c\uff0c\u83ef\u723e\u8857\u5104\u842c\u5bcc\u8c6a\u3001\u6f58\u8208\u5ee3\u5834\u8cc7\u672c\u7ba1\u7406\u516c\u53f8\uff08Pershing Square Capital Management\uff09\u5275\u8fa6\u4eba\u827e\u514b\u66fc\uff08Bill Ackman\uff09\u9031\u4e09\u5728\u793e\u7fa4\u5e73\u53f0 X \u4e0a\u767c\u6587\uff0c\u706b\u529b\u5168\u958b\u731b\u6279\u8f1d\u9054\u8463\u4e8b\u6703\u903c\u9000\u9ec3\u4ec1\u52f3\u7684\u6c7a\u5b9a\u3002\u827e\u514b\u66fc\u76f4\u8a00\uff0c\u8463\u4e8b\u6703\u6210\u54e1\u986f\u7136\u662f\u300c\u56e0\u70ba\u5a92\u9ad4\u982d\u689d\u800c\u9677\u5165\u6050\u614c\u300d\uff0c\u7531\u65bc\u5bb3\u6015\u5728\u5a92\u9ad4\u4e0a\u986f\u5f97\u96e3\u770b\u624d\u8feb\u65bc\u58d3\u529b\u63a1\u53d6\u884c\u52d5\uff0c\u800c\u975e\u70ba\u4e86\u516c\u53f8\u3001\u5ba2\u6236\u8207\u80a1\u6771\u7684\u6700\u4f73\u5229\u76ca\u8457\u60f3\uff0c\u75db\u65a5\u9019\u662f\u4e00\u9023\u4e32\u91cd\u5927\u7684\u516c\u53f8\u6cbb\u7406\u5931\u8aa4\uff0c\u672a\u80fd\u5c65\u884c\u5176\u53d7\u8a17\u8cac\u4efb\u3002",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_51f6ff3a-1668-40d3-8734-da0d080628a5",
-      "urlToImage": null,
-      "publishedAt": "2026-11-19T02:35:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Tarah Welsh",
-      "title": "Leasehold system set to be scrapped in England and Wales",
-      "description": "The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at \u00a3250.",
-      "url": "https://www.bbc.com/news/articles/cw987ynpd0n1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e983/live/c8f15bb0-e36c-11f1-9f51-4bfc31543510.jpg",
-      "publishedAt": "2026-11-19T02:02:23Z",
-      "content": "Systems based on shared ownership and collective management - such as commonhold - are already standard in many parts of the world, including Australia, New Zealand, the US, Canada and much of contin\u2026 [+100 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "\u904b\u52d5\u90e8\u9080\u903e50\u5bb6\u4f01\u696d\u5ea7\u8ac7\u3000\u63a8\u52d5\u904b\u52d5\u5e73\u6b0a\u63a5\u8eccESG",
-      "description": "\u70ba\u6df1\u5316\u904b\u52d5\u5e73\u6b0a\u8207\u4f01\u696d\u6c38\u7e8c\u767c\u5c55\uff08ESG\uff09\u7684\u9023\u7d50\uff0c\u904b\u52d5\u90e8\u8209\u8fa6\u300c\u4f01\u696d\u53c3\u8207\u904b\u52d5\u5e73\u6b0a ESG\uff0d\u4f01\u696d\u8207\u5c08\u5bb6\u5b78\u8005\u5ea7\u8ac7\u6703\u300d\uff0c\u9080\u96c6\u8d85\u904e50\u5bb6\u4f01\u696d\u53ca\u5c08\u5bb6\u5b78\u8005\u4ea4\u6d41\uff0c\u4e26\u7531\u904b\u52d5\u90e8\u9577\u674e\u6d0b\u51fa\u5e2d\u3002\u6703\u4e2d\u9080\u8acb\u53f0\u7063\u5927\u54e5\u5927\u3001\u5bcc\u90a6\u91d1\u63a7\u3001\u4e09\u5546\u96c6\u5718\u53ca\u9e97\u5bf6\u96c6\u5718\u540d\u8ed2\u958b\u767c\u7b494\u5bb6\u4f01\u696d\u4ee3\u8868\u9032\u884c\u7126\u9ede\u5ea7\u8ac7\uff0c\u5206\u4eab\u5be6\u52d9\u7d93\u9a57\uff0c\u5171\u540c\u63a2\u8a0e\u4f01\u696d\u53c3\u8207\u904b\u52d5\u5e73\u6b0a\u7684\u53ef\u884c\u6a21\u5f0f\u53ca\u653f\u7b56\u652f\u6301\u6a5f\u5236\uff0c\u4fc3\u9032\u4f01\u696d\u8cc7\u6e90\u8207\u904b\u52d5\u653f\u7b56\u63a5\u8ecc\u3002\u674e\u6d0b\u90e8\u9577\u8868\u793a\uff0c\u904b\u52d5\u662f\u6bcf\u500b\u4eba\u90fd\u61c9\u4eab\u6709\u7684\u57fa\u672c\u6b0a\u5229\uff0c\u8b93\u6709\u7279\u6b8a\u9700\u6c42\u7684\u6c11\u773e\u4e5f\u80fd\u5728\u53cb\u5584\u3001\u5b89\u5168\u53ca\u7121\u969c\u7919\u7684\u74b0\u5883\u4e2d\u53c3\u8207\u904b\u52d5\uff0c\u662f\u904b\u52d5\u90e8\u6301\u7e8c\u52aa\u529b\u7684\u65b9\u5411\u3002\u4eca\u5e74\u904b\u52d5\u90e8\u7a4d\u6975\u63a8\u52d5\u4f01\u696d\u53c3\u8207\u904b\u52d5\u767c\u5c55\uff0c\u4e26\u8207ESG\u5236\u2026",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_69a215c9-904e-477d-9707-96b94bd844e0",
-      "urlToImage": null,
-      "publishedAt": "2026-11-19T01:22:53Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jordan Shusterman",
-      "title": "Maikel Garcia trade: This blockbuster deal looks like a win-win for Mariners and Royals",
-      "description": "For two AL clubs coming off dismally disappointing seasons, this is a fairly stunning shake-up, a bold trade underscoring each front office's priorities in regards to improving their respective rosters this winter.",
-      "url": "https://sports.yahoo.com/mlb/article/maikel-garcia-trade-this-blockbuster-deal-looks-like-a-win-win-for-mariners-and-royals-012156086.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/57d3d1ae96231b93f8d4c25c75eb97a27ad5dfd3671eb305ac096c1a154ca9d8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F6092c2b9-cf9a-420c-ba13-45a52e8800c4",
-      "publishedAt": "2026-11-19T01:19:19Z",
-      "content": "To the surprise of absolutely no one, the first blockbuster trade of the MLB offseason went down Wednesday courtesy of the swap-happy Seattle Mariners.\r\nIt was no secret that the Mariners were willin\u2026 [+12502 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Saints\u2019 Tyler Shough gives brutally honest review of disappointing sophomore slump",
-      "description": "Tyler Shough has shown flashes of being a quality starting quarterback for the New Orleans Saints, but his recent struggles have made it clear that there is still plenty of room for improvement. After getting off to a strong start this season, Shough has expe\u2026",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_675d8a51-8731-4f5e-91a8-3cc003d0ae94",
-      "urlToImage": null,
-      "publishedAt": "2026-11-19T01:01:44Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Dylan Stableford",
-      "title": "'GTA 6' reviews are in after a 13-year wait, and critics are going bananas",
-      "description": "The much-anticipated release of Grand Theft Auto VI is finally here, and critics who have spent weeks playing it before the public say it's worth the hype. The open-world format allows gamers to explore Vice City, the sun-drenched fictional Miami-like metropo\u2026",
-      "url": "https://tech.yahoo.com/gaming/breaking-news/article/unprecedented-unbelievable-unmissable-the-gta-6-reviews-are-in--heres-what-theyre-saying-211844543.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8e7a7314e8bc4cf165f575a42c864a6528ed760a8b85a5a66aadaf6762f9685c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-gta-6-reviews-2_3628.jpg",
-      "publishedAt": "2026-11-18T23:26:44Z",
-      "content": "The much-anticipated release of Grand Theft Auto VI is finally here, and critics who have spent weeks playing it before the public say it's worth the hype.\r\nThe open-world format allows gamers to exp\u2026 [+5731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "STEPHEN WHYNO",
-      "title": "Abdul Carter says he'll show what he can do when he and the Giants face the Jaguars",
-      "description": "(AP) \u2014 If there's noise around Abdul Carter and his lack of sack production this season, he hears it.\u201cI hear everything,\u201d Carter said.",
-      "url": "https://sports.yahoo.com/articles/abdul-carter-says-hell-show-230758861.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3def8765bf96954fd0171de1194bf3c000f59578d8869a42ffab93a11c8d2f4b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F00075a54edf6789cf171af498e5e3016.jpg",
-      "publishedAt": "2026-11-18T23:07:58Z",
-      "content": "EAST RUTHERFORD, N.J. (AP) If there's noise around Abdul Carter and his lack of sack production this season, he hears it.\r\n\"I hear everything,\" Carter said. And he has some thoughts about it, too.\r\nC\u2026 [+3443 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "49ers praise \u2018off the chain\u2019 Mexican fans for unbelievable support",
-      "description": "The 49ers played in the first-ever NFL regular season game played outside the U.S. in 2005. San Francisco lost to the Cardinals 31-14 in a historic matchup at Estadio Azteca...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b95901b0-a795-43db-806b-714bc7363d6e",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T22:33:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "49ers praise \u2018off the chain\u2019 Mexican fans for unbelievable support",
-      "description": "The 49ers played in the first-ever NFL regular season game played outside the U.S. in 2005. San Francisco lost to the Cardinals 31-14 in a historic matchup at Estadio Azteca...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3c95fdbf-8b2d-4e64-9eb9-9d79aeb59e6a",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T22:33:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Alec Cunningham",
-      "title": "Georgia Online Sports Betting (November 2026): Latest legal updates and DFS picks options",
-      "description": "Traditional Georgia online sports betting remains illegal as we roll through November 2026. Daily fantasy sports (DFS) pick'em platforms operate freely across Georgia.",
-      "url": "https://sports.yahoo.com/betting/usa/article/georgia-online-sports-betting-214538968.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/51809c2dff3c0239abbe8d0844e90373bd4f878d1abae4da031893fec8ce67c3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdesign-georgia-online-sports-betting-v1_5408.png",
-      "publishedAt": "2026-11-18T21:45:38Z",
-      "content": "Traditional Georgia online sports betting remains illegal as we roll through November 2026. Lawmakers have repeatedly failed to pass legislation. You cannot open a standard sportsbook app to bet the \u2026 [+17397 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "RONALD BLUM",
-      "title": "Rob Manfred says MLB owners won't compromise on a salary cap, leaving sport headed to a lockout",
-      "description": "NEW YORK (AP) \u2014 Major League Baseball Commissioner Rob Manfred said owners will not compromise in their demand for a salary cap, leaving the sport on track for a lockout starting Dec. 2 that could threaten the 2027 season.",
-      "url": "https://sports.yahoo.com/articles/rob-manfred-says-mlb-owners-203547056.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f778ced38ffbcaeb12889097f512f52452d4ec8ead827edffef6bc2c5aa001be/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2bddff78aac5cc1fbcbd79b1e7c1cbef.jpg",
-      "publishedAt": "2026-11-18T20:35:47Z",
-      "content": "NEW YORK (AP) Major League Baseball Commissioner Rob Manfred said owners will not compromise in their demand for a salary cap, leaving the sport on track for a lockout starting Dec. 2 that could thre\u2026 [+1081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Scotty Cameron Unveils New Blade Line At RSM Classic",
-      "description": "Scotty Cameron launches 2027 Newport and mid-mallet putters at The RSM Classic, ditching chain-link milling for solid steel heads.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c6c6b216-b0f2-4dc7-899c-a68a9809910a",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T18:48:25Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Oxfordshire Dan George BBC Sport, Jerome Sale BBC Radio Oxford",
-      "title": "Ramsey hopes Oxford embargo is close to being lifted",
-      "description": "Oxford United head coach Aaron Ramsey hopes the transfer embargo the club is under could soon be coming to an end.",
-      "url": "https://www.bbc.com/sport/football/articles/cr15ez0qewy9o",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c11cd484096200dea8492dc1f576110f97d0f878bdaee6f54aabc2ca97d34e8c/lightyear_networkapi/resizefill_w625_h351%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F017aec9b9d92708e84f8abb60d38bbb8.jpg",
-      "publishedAt": "2026-11-18T18:09:10Z",
-      "content": "Oxford United head coach Aaron Ramsey is hopeful the transfer embargo the club is under could soon be coming to an end.\r\nIn July, the U's had restrictions placed on them that prevented them from regi\u2026 [+2076 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "\u4e2d\u83ef\u96fb\u4fe1\u7372\u6587\u7b56\u9662\u300cESG for Culture\u5f71\u97ff\u529b\u734e\u300d\u4e09\u5927\u734e",
-      "description": "(\u8a18\u8005\u8b1d\u653f\u5112\u7d9c\u5408\u5831\u5c0e)\u7531\u6587\u5316\u5167\u5bb9\u7b56\u9032\u9662\u4e3b\u8fa6\u7684\u7b2c\u4e8c\u5c46\u300cESG for Culture\u5f71\u97ff\u529b\u734e\u300d\uff0c\u4eca(18\u65e5)\u65bc\u677e\u5c71\u6587\u5275\u5712\u5340\u76db\u5927\u8209\u884c\u9812\u734e\u5178\u79ae\u3002\u4e2d\u83ef\u96fb\u4fe1\u4ee5\u7b2c20\u5c46KKBOX\u98a8\u96f2\u699c\u66a85G AI\u5e73\u884c\u6642\u7a7a\u5171\u6f14\u30012...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dd95dd75-5b5d-4da0-a0c5-a6e0b83b1811",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T18:06:26Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "\u9060\u50b3\u6295\u8cc7\u672c\u571f\u97f3\u6a02\u5287 \u7372\u6587\u7b56\u9662ESG\u5546\u696d\u62d3\u5c55\u734e\u80af\u5b9a",
-      "description": "(\u8a18\u8005\u8b1d\u653f\u5112\u65b0\u5317\u5831\u5c0e)\u6587\u5316\u5167\u5bb9\u7b56\u9032\u9662\uff08\u6587\u7b56\u9662\uff09\u4e3b\u8fa6\u7684\u7b2c2\u5c46\u300cESG for Culture\u5f71\u97ff\u529b\u734e\u300d\uff0c\u4eca\uff0818\uff09\u65e5\u65bc\u677e\u5c71\u6587\u5275\u5712\u53405\u865f\u5009\u5eab\u8209\u884c\u9812\u734e\u5178\u79ae\u3002\u9060\u50b3\u96fb\u4fe1\u6295\u8cc7\u53c3\u8207\u672c\u571f\u97f3\u6a02\u5287\u300a\u4e5d\u6708\u554a\u4e5d\u6708\u300b\uff0c\u4ee5\u8de8\u754c\u8cc7...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4f55a75f-b197-43c8-9b7f-585197ba54b2",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T18:03:01Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Luke Hemmings BBC Sport Wales",
-      "title": "A year on from Hughes: Where are Newport County now?",
-      "description": "On 15 November 2025, David Hughes was sacked with Newport bottom of League Two, now Hayden Mullins has the Exiles within touching distance of the play-offs.",
-      "url": "https://www.bbc.com/sport/football/articles/cme3d2ygdp7zo",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/09648bd234f2b82e399b88469002488258aa9852605c52441126ab7c0df511d5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5f588e949fd0f5ee7199d7d9e3c4ac37.jpg",
-      "publishedAt": "2026-11-18T17:48:22Z",
-      "content": "Last Sunday marked a year since David Hughes' dismissal as Newport County head coach.\r\nHis replacement Christian Fuchs was appointed just five days later and oversaw a recovery that ensured League Tw\u2026 [+5563 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Andy Marso",
-      "title": "5 Takeaways As Wolves Beat Portland Twice To Bounce Back From Awful Loss To Bulls",
-      "description": "With Tuesday night's Minnesota Timberwolves vs. Portland Trail Blazers, the Wolves beat Portland on consecutive nights to bounce back emphatically from their worst loss of the season against the Chicago Bulls. The Wolves had every advantage in that game: they\u2026",
-      "url": "https://sports.yahoo.com/articles/5-takeaways-wolves-beat-portland-174726741.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/02a542be83ac5eff5e757e84ceb90120fc8c3ed2aeaf3fb8400716ffae3deef9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F40ec8ca41660ef92ed32f263b71748b8.jpg",
-      "publishedAt": "2026-11-18T17:47:26Z",
-      "content": "With Tuesday night's Minnesota Timberwolves vs. Portland Trail Blazers, the Wolves beat Portland on consecutive nights to bounce back emphatically from their worst loss of the season against the Chic\u2026 [+4992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Concacaf Power Rankings: Mexico drops, surprise team makes top 10 as wild 2026 ends",
-      "description": "El Tri advanced to the Concacaf Final Four but not in convincing fashion, while teams in the Caribbean and Central America impressed.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5bade922-d82d-40cc-a1ef-a98fc4da1752",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T17:23:58Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fashionunited.com"
-      },
-      "author": "Zo\u00eb Neeft",
-      "title": "Only 18 percent of digital product passports support circularity, research finds",
-      "description": "Fewer than one in five digital product passports in the apparel sector support circularity such as resale, repair or recycling.",
-      "url": "https://fashionunited.com/news/business/only-18-percent-of-digital-product-passports-support-circularity-research-finds/2026111875839",
-      "urlToImage": "https://r.fashionunited.com/5Jchy6qHt3CMmCk03996nL9uKDeyfogB0qmuJs_dfaE/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjQvMDYvMDQvZHBwLWFydGljbGUtOWlpMDY2bnctMjAyNC0wNi0wNC5qeGw.jpeg",
-      "publishedAt": "2026-11-18T17:17:00Z",
-      "content": "Fewer than one in five digital product passports (DPPs) in the apparel sector support resale, repair or recycling. This is according to an analysis of 93 launches and pilots, conducted for a report b\u2026 [+2431 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fashionunited.com"
-      },
-      "author": "Alicia Reyes Sarmiento",
-      "title": "Black Friday discounts: how fashion brands can protect profit margins",
-      "description": "An analysis of how fashion brands can protect profit margins during Black Friday, focusing on margin calculations, operational costs, and cash flow.",
-      "url": "https://fashionunited.com/news/business/black-friday-discounts-how-fashion-brands-can-protect-profit-margins/2026111875788",
-      "urlToImage": "https://r.fashionunited.com/igLvhdqukXax87B1v6LvknQ8L_Ggssmpu4Bd23NU2ss/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMTEvMTYvZ2VtaW5pLWdlbmVyYXRlZC1pbWFnZS15eW5nc3l5bmdzeXluZ3N5LXh6ajk4eWJoLTIwMjYtMTEtMTYuanhs.jpeg",
-      "publishedAt": "2026-11-18T17:11:09Z",
-      "content": "By mid-November, Black Friday campaigns have already spent weeks dominating inboxes and retail calendars. What began as a single day of discounts first became Cyber Week and is increasingly turning i\u2026 [+8061 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Brian McLauchlin BBC Sport Scotland",
-      "title": "From Dunfermline to Dubai - McPake on new life in Middle East",
-      "description": "James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai.",
-      "url": "https://www.bbc.com/sport/football/articles/c6j9m1ygw427o",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cb61d880bf7eff2be2416e6d3f39dcdd41a664d017ad56cc46f08153c34a802d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F44b2235624b5fbbe47d2c1885d4ff1bc.jpg",
-      "publishedAt": "2026-11-18T17:10:23Z",
-      "content": "James McPake may not have given up on football management but the former Dundee and Dunfermline Athletic boss is discovering there is life beyond the dugout.\r\nFour months after moving to Dubai with h\u2026 [+4805 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Bishop Lister",
-      "title": "Kevin Holland Confesses to Intentionally Fouling One of His Former Opponents",
-      "description": "Kevin Holland is coming off a controversial majority draw against Uros Medic at UFC 334, with confusing scorecards that included a point deduction against Medic for a low blow in the second round. Despite having a point taken, all three judges had the round 1\u2026",
-      "url": "https://sports.yahoo.com/articles/kevin-holland-confesses-intentionally-fouling-170839852.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ea7c1f051e8e5e83468ebe209a35a942e655871a9a716572fa20e5ddafa080c3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F782c93bb45a82ea50ef3501b90ad0006.jpg",
-      "publishedAt": "2026-11-18T17:08:39Z",
-      "content": "Kevin Holland is coming off a controversial majority draw against Uros Medic at UFC 334, with confusing scorecards that included a point deduction against Medic for a low blow in the second round. De\u2026 [+3908 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "\u671f\u4ea4\u6240\u7372\u300c\u7b2c2\u5c46ESG for Culture\u5f71\u97ff\u529b\u734e\u300d",
-      "description": "\u3010\u8a18\u8005\u67ef\u5b89\u8070\u53f0\u5317\u5831\u5c0e\u3011\u81fa\u7063\u8ca8\u4ea4\u624011\u670818\u65e5\u69ae\u7372\u6587\u5316\u5167\u5bb9\u7b56\u9032\u9662\u300c\u7b2c2\u5c46ESG for Culture\u5f71\u97ff\u529b\u734e\u300d\u4e4b\u300c\u6587\u5316\u767c\u5c55\u652f\u6301\u734e\u300d\uff0c\u7de0\u9020\u9023\u7e8c2\u5e74\u7372\u734e\u7684\u5353\u8d8a\u7d00\u9304\u3002\u671f\u4ea4\u6240\u9577\u671f\u6df1\u8015\u6587\u5316\u50b3\u627f\u3001\u5275\u65b0\u80b2\u6210\u8207\u8de8\u754c\u5408...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f67f104a-08a1-4078-b6fc-1a55e8d1529f",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T16:36:20Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Dylan Dittrich",
-      "title": "Nike signals slow stride ahead",
-      "description": "Nike has charted its Swoosh-shaped recovery, but it will take time.",
-      "url": "https://sports.yahoo.com/sports-business/article/nike-signals-slow-stride-ahead-163516336.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1c6e5a40d7bec6bf2949fb2bd09a818a7ac3e6be920b1756b3b7b8de01c7bba2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fap4383445878207817_9571.jpg",
-      "publishedAt": "2026-11-18T16:35:16Z",
-      "content": "Nike last held an investor day nine years ago. Since then, shares are down 36%, including a 79% drop from its October 2021 peak. On Tuesday, Nike returned before investors and outlined its plans to r\u2026 [+2400 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Liz Lee, Laurie Chen, Jarrett Renshaw",
-      "title": "Xi and Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-      "description": "By Liz Lee, Laurie Chen and Jarrett Renshaw SHENZHEN, China, Nov 18 (Reuters) - China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, but also gave a warm welcome to US President Donald Trump as he arrived ahead of a high-\u2026",
-      "url": "https://finance.yahoo.com/news/chinas-xi-calls-free-open-032339112.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a5e1b53494758ddd4546624ed0c2465aa299d06afc9cd9cda4446bb00f555f96/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff9dfba1bb45761d54dfa32daffa64904.jpg",
-      "publishedAt": "2026-11-18T15:28:07Z",
-      "content": "By Liz Lee, Laurie Chen and Jarrett Renshaw\r\nSHENZHEN, China, Nov 18 (Reuters) - China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, but also gave a warm welcom\u2026 [+5898 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Cosmos Health Inc",
-      "title": "Cosmos Health Reports Record Nine-Month Revenue of $53.6 Million, Up 18%; Q3 Gross Margin Up 465 Basis Points Sequentially; Total Debt Down 34% and Stockholders' Equity Up 21% Since Year-End",
-      "description": "Cosmos Health Reports Record Nine-Month Revenue of $53.6 Million, Up 18%; Q3 Gross Margin Up 465 Basis Points Sequentially; Total Debt Down 34% and Stockholders' Equity Up 21% Since Year-Endyahoo.com",
-      "url": "https://finance.yahoo.com/healthcare/articles/cosmos-health-reports-record-nine-142500833.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/769fae3518ca996333b62d0eac9d45e0150a45340c72c22f3e7db6b3433142c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faccesswire.ca%2Fdc2ff1403d630a7ef4814c3bbeacc3bb.png",
-      "publishedAt": "2026-11-18T15:22:15Z",
-      "content": "Lower Interest Expense\r\n<ul><li>Third-quarter interest expense fell 56.9% to $0.29 million, from $0.67 million in Q3 2025, as the Company reduced its debt during 2026.\r\n</li></ul>Net Loss Driven by N\u2026 [+32646 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "\u9060\u50b3\u6295\u8cc7\u672c\u571f\u97f3\u6a02\u5287\u300a\u4e5d\u6708\u554a\u4e5d\u6708\u300b\u3000\u7372\u6587\u7b56\u9662ESG for Culture\u5f71\u97ff\u529b\u734e\u80af\u5b9a",
-      "description": "CNEWS\u532f\u6d41\u65b0\u805e\u7db2\u8a18\u8005\u8b1d\u6771\u660e\u3001\u674e\u8863\u7db8\uff0f\u53f0\u5317\u5831\u5c0e \u6587\u5316\u5167\u5bb9\u7b56\u9032\u9662\u4e3b\u8fa6\u7684\u7b2c2\u5c46\u300cESG for Culture\u5f71\u97ff\u529b\u734e\u300d\uff0c\u4eca\uff0818\uff09\u65e5\u5728\u677e\u5c71\u6587\u5275\u5712\u53405\u865f\u5009\u5eab\uff0c\u8209\u884c\u9812\u734e\u5178\u79ae\u3002\u9060\u50b3\u96fb\u4fe1\u6295\u8cc7\u53c3\u8207\u672c\u571f\u97f3\u6a02\u5287\u300a\u4e5d\u6708\u554a\u4e5d\u6708\u300b\uff0c\u4ee5\u8de8\u754c\u8cc7\u6e90\u6253\u9020\u5275\u65b0\u5408\u4f5c\u6a21\u5f0f\uff0c\u7372\u5f97\u672c\u5c46\u300cESG\u5546\u696d\u62d3\u5c55\u734e\u300d\u6b8a\u69ae\uff0c\u7531\u9060\u50b3\u5a1b\u6a02\u4e8b\u696d\u71df\u904b\u9577\u8521\u4fca\u69ae\u4ee3\u8868\u51fa\u5e2d\u9818\u734e\u3002 \u9060\u50b3\u5a1b\u6a02\u4e8b\u696d\u71df\u904b\u9577\u8521\u4fca\u69ae\u8868\u793a\uff0c\u5f88\u9ad8\u8208\u80fd\u651c\u624b\u570b...",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b17ea499-f13b-4ac3-9455-b4d3d6c73e7b",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T14:48:50Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Nekias Duncan",
-      "title": "Are the Heat suddenly a threat in the East? How Giannis Antetokounmpo is making an impact in Miami",
-      "description": "The Heat are riding a five-game winning streak and operating like a top-10 unit on both ends of the floor during this run.",
-      "url": "https://sports.yahoo.com/nba/article/are-the-heat-suddenly-a-threat-in-the-east-how-giannis-antetokounmpo-is-making-an-impact-in-miami-143939001.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fa6aef52fa258be9c469d924569c9894e277ecfa2f49e2a997b10b012e86c54d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F38629500-39ac-42ad-a7d3-adfb19438e8f",
-      "publishedAt": "2026-11-18T14:31:48Z",
-      "content": "MIAMI It's go-time for Giannis Antetokounmpo.\r\nThere's nothing fancy about the start of this possession. Giannis inbounds the ball to Davion Mitchell, who trots up the left sideline while Giannis fil\u2026 [+14993 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Los Angeles Times (Yahoo",
-      "title": "Los Angeles Olympics Arts Programming: Lots Of Arts, Little Organized Programming",
-      "description": "\u201cThere are many plans in the works for LA28\u2019s Cultural Olympiad. Just don\u2019t expect to find a coordinated effort behind them from an official Olympics-related organization. With (about) 18 months (left), those responsible for planning the arts and culture prog\u2026",
-      "url": "https://www.yahoo.com/news/us/articles/pay-l-olympics-arts-programming-110000267.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/70228f5929c4c0fd3874253dd81a5942f28b9c9bee696c3e5974eb39550e2078/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2F5522cd694e0e23dba0fac0b1e5556f31.jpg",
-      "publishedAt": "2026-11-18T14:05:22Z",
-      "content": "There are many plans in the works for LA28's Cultural Olympiad. Just don't expect to find a coordinated effort behind them from an official Olympics-related organization.\r\nWith a little more than 18 \u2026 [+12176 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "REBECCA SANTANA",
-      "title": "DHS chief defends football trip as Congress presses him over nationwide ground stop",
-      "description": "WASHINGTON (AP) \u2014 Homeland Security Secretary Markwayne Mullin defended before a House committee Wednesday his flight to a weekend LSU-Texas football game as travelers across the U.S. were still stuck at airports after the nationwide grounding of flights, say\u2026",
-      "url": "https://www.yahoo.com/news/us/articles/mullin-heads-congress-questions-swirl-120158124.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3a89290b06b02c107c76639192c6b16623d177b6120d066842c37df3039e49b0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F687115bdbb37d1cd2ff2d4f35619227a.jpg",
-      "publishedAt": "2026-11-18T12:01:58Z",
-      "content": "WASHINGTON (AP) Homeland Security Secretary Markwayne Mullin defended before a House committee Wednesday his flight to a weekend LSU-Texas football game as travelers across the U.S. were still stuck \u2026 [+5909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "ERIC TUCKER, MIKE CATALINI",
-      "title": "DHS chief defends football trip as Congress presses him over nationwide ground stop",
-      "description": "WASHINGTON (AP) \u2014 Homeland Security Secretary Markwayne Mullin, in testimony Wednesday to Congress, defended his flight to a weekend college football game, tried to tamp down speculation about a series of recent cyber outages and found himself pressed repeate\u2026",
-      "url": "https://www.yahoo.com/news/articles/mullin-heads-congress-questions-swirl-120158124.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/aa92c5807c119f0dc9c1dc02629e46bd0393a36c07a4769954fea0cff0531a74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fae18e0152de30b3483c54a67d72b8b23.jpg",
-      "publishedAt": "2026-11-18T12:01:58Z",
-      "content": "WASHINGTON (AP) Homeland Security Secretary Markwayne Mullin, in testimony Wednesday to Congress, defended his flight to a weekend college football game, tried to tamp down speculation about a series\u2026 [+6662 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "\u904b\u52d5\u90e8\u9080\u8acb50\u5bb6\u4ee5\u4e0a\u4f01\u696d \u5171\u8b70\u904b\u52d5\u5e73\u6b0a\u8207ESG",
-      "description": "\u8a18\u8005\u9673\u5efa\u8208\uff0f\u53f0\u5317\u5831\u5c0e \u70ba\u6301\u7e8c\u6df1\u5316\u904b\u52d5\u5e73\u6b0a\u8207\u4f01\u696d\u6c38\u7e8c\u767c\u5c55\uff08ESG\uff09\u7684\u9023\u7d50\uff0c\u904b\u52d5\u90e8\u674e\u6d0b\u90e8\u2026",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0f5fc192-a5b5-4482-8a88-f382e1896194",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T11:29:31Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "\u9060\u50b3\u6295\u8cc7\u672c\u571f\u97f3\u6a02\u5287\u300a\u4e5d\u6708\u554a\u4e5d\u6708\u300b\u7372\u300cESG for Culture\u5f71\u97ff\u529b\u734e\u300d\u80af\u5b9a",
-      "description": "\u7531\u6587\u5316\u5167\u5bb9\u7b56\u9032\u9662\uff08\u6587\u7b56\u9662\uff09\u4e3b\u8fa6\u7684\u7b2c2\u5c46\u300cESGforCulture\u5f71\u97ff\u529b\u734e\u300d\uff0c\u4eca\uff0818\uff09\u65e5\u8209\u884c\u9812\u734e\u5178\u79ae\u3002\u9060\u50b3\uff084904\uff09\u6295\u8cc7\u53c3\u8207\u672c\u571f\u97f3\u6a02\u5287\u300a\u4e5d\u6708\u554a\u4e5d\u6708\u300b\uff0c\u4ee5\u8de8\u754c\u8cc7\u6e90\u6253\u9020\u5275\u65b0\u5408\u4f5c\u6a21\u5f0f\uff0c\u7372\u5f97\u672c\u5c46\u300cESG\u5546\u696d\u62d3\u5c55\u734e\u300d\u6b8a\u69ae\u3002\u9060\u50b3\u5a1b\u6a02\u4e8b\u696d\u71df\u904b\u9577\u8521\u4fca\u69ae\u8868\u793a\uff0c\u5f88\u69ae\u5e78\u80fd\u651c\u624b\u570b\u5167\u91cd\u91cf\u7d1a\u7684\u5925\u4f34\u5927\u6155\u53ef\u53ef\uff0c\u4e00\u8d77\u6295\u8cc7\u53c3\u8207\u300a\u4e5d\u6708\u554a\u4e5d\u6708\u300b\u97f3\u6a02\u5287\uff0c\u4e26\u7372\u5f97\u6587\u7b56\u9662ESG\u5546\u696d\u62d3\u5c55\u734e\u80af\u5b9a\u3002\u9060\u50b3\u7d50\u5408\u96fb\u4fe1\u672c\u696d\u512a\u52e2\uff0c\u6295\u5165\u901a\u8def\u53ca\u6703\u54e1\u7b49\u591a\u5143\u8cc7\u6e90\uff0c\u5efa\u7acb\u5f9e\u5167\u5bb9\u6295\u8cc7\u3001\u51fa\u54c1\u3001\u884c\u92b7\u5230\u7528\u6236\u7d93\u71df\u7684\u8de8\u57df\u5408\u4f5c\u6a21\u5f0f\uff0c\u8b93\u66f4\u591a\u89c0\u773e\u8a8d\u8b58\u672c\u571f\u97f3\u6a02\u5287\u3002\u672a\u4f86\u9060\u50b3\u4e5f\u5c07\u6301\u7e8c\u900f\u904e\u5167\u5bb9\u6295\u8cc7\u8207\u8de8\u754c\u5408\u4f5c\uff0c\u2026",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_690d1557-1978-49cb-b1df-843e2634caee",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T10:58:20Z",
-      "content": "If you click 'Accept all', we and our partners, including 251 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+1045 chars]"
     }
   ]
 }
